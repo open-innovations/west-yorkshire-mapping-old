@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 193519866, "centroid": { "latitude": 53.820472, "longitude": -1.595639 }, "area": 1822, "name": "Queenswood Social Club", "building": "yes", "type": "club", "other_tags": "\"club\"=>\"social\",\"source:shape\"=>\"bing\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5953683, 53.8205042 ], [ -1.5952761, 53.820458 ], [ -1.5954976, 53.8203039 ], [ -1.5955898, 53.8203501 ], [ -1.5956595, 53.8203015 ], [ -1.5956601, 53.8203018 ], [ -1.5956962, 53.8202767 ], [ -1.5957644, 53.8203109 ], [ -1.5957283, 53.820336 ], [ -1.5959963, 53.8204702 ], [ -1.5956985, 53.8206773 ], [ -1.5953618, 53.8205087 ], [ -1.5953683, 53.8205042 ] ] ] ] } }
+]
+}

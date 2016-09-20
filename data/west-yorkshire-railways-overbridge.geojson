@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "4616883", "highway": "unclassified", "type": "overbridge", "other_tags": "\"lit\"=>\"yes\",\"layer\"=>\"1\",\"bridge\"=>\"yes\",\"surface\"=>\"asphalt\",\"bridge_ref\"=>\"127\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0157026, 53.7398123 ], [ -2.0158284, 53.7396016 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "4872289", "name": "Oakenshaw Lane", "highway": "tertiary", "type": "overbridge", "other_tags": "\"bridge\"=>\"yes\",\"bridge_ref\"=>\"10\",\"layer\"=>\"1\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4648999, 53.6655254 ], [ -1.4650513, 53.6652492 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "4926862", "highway": "footway", "type": "overbridge", "other_tags": "\"layer\"=>\"1\",\"access\"=>\"yes\",\"bridge\"=>\"yes\",\"bridge_ref\"=>\"136\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9878403, 53.7305979 ], [ -1.9879872, 53.7304322 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "27611188", "name": "Usher Street", "highway": "residential", "type": "overbridge", "other_tags": "\"layer\"=>\"1\",\"bridge\"=>\"yes\",\"surface\"=>\"paved\",\"bridge_ref\"=>\"LBE4-3\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7431173, 53.785401 ], [ -1.7425568, 53.7854604 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "231019852", "name": "Oakenshaw Lane", "highway": "tertiary", "type": "overbridge", "other_tags": "\"layer\"=>\"2\",\"bridge\"=>\"yes\",\"bridge_ref\"=>\"54\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4669372, 53.6577292 ], [ -1.4669626, 53.6576857 ], [ -1.4669983, 53.6576245 ] ] } }
+]
+}

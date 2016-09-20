@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 88175899, "centroid": { "latitude": 53.890180, "longitude": -1.679618 }, "area": 528, "type": "pitch", "sport": "tennis" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6796547, 53.890072 ], [ -1.6797974, 53.8902231 ], [ -1.6795816, 53.8902939 ], [ -1.6794389, 53.8901428 ], [ -1.6796547, 53.890072 ] ] ] ] } }
+]
+}

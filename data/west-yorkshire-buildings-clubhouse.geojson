@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4485661, "centroid": { "latitude": 53.717566, "longitude": -1.478974 }, "area": 562, "type": "clubhouse" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4788971, 53.7174534 ], [ -1.4788328, 53.7176034 ], [ -1.4789177, 53.7176162 ], [ -1.4788875, 53.7176865 ], [ -1.4790235, 53.7177069 ], [ -1.4791181, 53.7174867 ], [ -1.4788971, 53.7174534 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 5203587, "centroid": { "latitude": 53.719960, "longitude": -1.476878 }, "area": 634, "type": "clubhouse" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4768417, 53.7198247 ], [ -1.4767152, 53.7200578 ], [ -1.4769146, 53.7200957 ], [ -1.4770411, 53.7198626 ], [ -1.4768417, 53.7198247 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 73358316, "centroid": { "latitude": 53.723682, "longitude": -1.497792 }, "area": 795, "name": "Lofthouse Hill Golf Club", "type": "clubhouse" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4980765, 53.7236688 ], [ -1.4980107, 53.7237545 ], [ -1.4978386, 53.7237082 ], [ -1.4977655, 53.7238033 ], [ -1.4975524, 53.723746 ], [ -1.4976913, 53.7235652 ], [ -1.4980765, 53.7236688 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 207779282, "centroid": { "latitude": 53.907864, "longitude": -1.415261 }, "area": 755, "name": "Collingham & Linton Sports Association", "type": "clubhouse" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4153593, 53.9077425 ], [ -1.4150363, 53.9078359 ], [ -1.4151634, 53.9079883 ], [ -1.4154864, 53.9078949 ], [ -1.4153593, 53.9077425 ] ] ] ] } }
+]
+}

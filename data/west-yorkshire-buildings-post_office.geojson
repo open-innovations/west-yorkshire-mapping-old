@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 71194085, "centroid": { "latitude": 53.904793, "longitude": -1.691829 }, "area": 503, "name": "Otley General Post Office", "amenity": "post_office", "type": "post_office", "other_tags": "\"alt_name\"=>\"Otley Post Office\",\"addr:city\"=>\"Otley\",\"addr:street\"=>\"Nelson Street\",\"addr:postcode\"=>\"LS21 1ST\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.692073, 53.9047129 ], [ -1.6917829, 53.904861 ], [ -1.6916702, 53.9049185 ], [ -1.6915855, 53.9048608 ], [ -1.6919882, 53.9046553 ], [ -1.692073, 53.9047129 ] ] ] ] } }
+]
+}

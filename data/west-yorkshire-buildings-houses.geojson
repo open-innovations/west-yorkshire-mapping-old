@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 100440403, "centroid": { "latitude": 53.730411, "longitude": -1.665548 }, "area": 890, "type": "houses" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.665916, 53.7301068 ], [ -1.6659899, 53.7301434 ], [ -1.6651806, 53.7307152 ], [ -1.6651066, 53.7306785 ], [ -1.665916, 53.7301068 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 405145747, "centroid": { "latitude": 53.627877, "longitude": -1.867723 }, "area": 356, "type": "houses" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8679305, 53.62784 ], [ -1.8675746, 53.627966 ], [ -1.8675145, 53.6279064 ], [ -1.8678704, 53.6277803 ], [ -1.8679305, 53.62784 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 405145844, "centroid": { "latitude": 53.627740, "longitude": -1.868109 }, "area": 367, "type": "houses" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8679622, 53.6278301 ], [ -1.868318, 53.6277022 ], [ -1.8682556, 53.6276411 ], [ -1.8678998, 53.627769 ], [ -1.8679622, 53.6278301 ] ] ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 95070727, "centroid": { "latitude": 53.905926, "longitude": -1.511614 }, "area": 798, "name": "Harewood Castle", "type": "ruin", "historic": "castle", "other_tags": "\"wikipedia\"=>\"en:Harewood Castle\",\"description\"=>\"C14th castle build by by Sir William De Aldeburgh and occupied until about 1600.\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5118738, 53.9059719 ], [ -1.5117306, 53.9060571 ], [ -1.5115805, 53.9059696 ], [ -1.5115267, 53.9060015 ], [ -1.5113577, 53.905903 ], [ -1.5115546, 53.9057858 ], [ -1.5118738, 53.9059719 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 243756166, "centroid": { "latitude": 53.951226, "longitude": -1.894259 }, "area": 190, "name": "High Lathe", "type": "ruin", "other_tags": "\"source:name\"=>\"OS 1854\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8942052, 53.9512873 ], [ -1.8941186, 53.9512128 ], [ -1.8941647, 53.9511943 ], [ -1.8941926, 53.9512183 ], [ -1.8943038, 53.9511736 ], [ -1.8943241, 53.9511911 ], [ -1.8943674, 53.9511736 ], [ -1.8944057, 53.9512066 ], [ -1.8942052, 53.9512873 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 339248584, "centroid": { "latitude": 53.839312, "longitude": -2.026626 }, "area": 280, "type": "ruin" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.0267425, 53.8393998 ], [ -2.0264474, 53.8392689 ], [ -2.0265098, 53.8392199 ], [ -2.0268049, 53.8393508 ], [ -2.0267425, 53.8393998 ] ] ] ] } }
+]
+}

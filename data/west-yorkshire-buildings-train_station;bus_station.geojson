@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 38732902, "centroid": { "latitude": 53.791227, "longitude": -1.749669 }, "area": 3008, "name": "Bradford Interchange", "type": "train_station;bus_station" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7497995, 53.7909546 ], [ -1.7494558, 53.7909679 ], [ -1.7494845, 53.7912601 ], [ -1.7491382, 53.7910751 ], [ -1.7491389, 53.7911574 ], [ -1.7496978, 53.7914539 ], [ -1.7498783, 53.7915464 ], [ -1.7500126, 53.7914572 ], [ -1.7497995, 53.7909546 ] ] ] ] } }
+]
+}

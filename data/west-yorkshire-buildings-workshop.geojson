@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 140689586, "centroid": { "latitude": 53.900122, "longitude": -1.702530 }, "area": 92, "type": "workshop", "other_tags": "\"building:levels\"=>\"1\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7025907, 53.9001436 ], [ -1.7024857, 53.9001528 ], [ -1.7024683, 53.9000831 ], [ -1.7025732, 53.900074 ], [ -1.7025907, 53.9001436 ] ] ] ] } }
+]
+}

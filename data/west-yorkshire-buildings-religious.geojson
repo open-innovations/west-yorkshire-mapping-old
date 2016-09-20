@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 89308410, "centroid": { "latitude": 53.904659, "longitude": -1.693327 }, "area": 291, "type": "religious", "other_tags": "\"building:levels\"=>\"3\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6934186, 53.9045944 ], [ -1.6934656, 53.9046884 ], [ -1.6932357, 53.9047283 ], [ -1.6931887, 53.9046342 ], [ -1.693378, 53.9046014 ], [ -1.6934186, 53.9045944 ] ] ] ] } }
+]
+}

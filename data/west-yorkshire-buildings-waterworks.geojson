@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 226310970, "centroid": { "latitude": 53.886843, "longitude": -1.709524 }, "area": 56, "type": "waterworks", "other_tags": "\"building:levels\"=>\"2\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7094972, 53.8868493 ], [ -1.7094641, 53.8868051 ], [ -1.7095499, 53.8867828 ], [ -1.709583, 53.8868269 ], [ -1.7094972, 53.8868493 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 226310971, "centroid": { "latitude": 53.886821, "longitude": -1.709553 }, "area": 46, "type": "waterworks", "other_tags": "\"building:levels\"=>\"1\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7096099, 53.8868645 ], [ -1.7095252, 53.8868857 ], [ -1.7094972, 53.8868493 ], [ -1.709583, 53.8868269 ], [ -1.7096099, 53.8868645 ] ] ] ] } }
+]
+}

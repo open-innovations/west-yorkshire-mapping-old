@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 155347180, "centroid": { "latitude": 53.784294, "longitude": -1.459583 }, "area": 2295, "name": "Temple Newsam House", "type": "country_house", "tourism": "museum" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4597342, 53.7845869 ], [ -1.4599954, 53.7841011 ], [ -1.4592337, 53.7839581 ], [ -1.4591949, 53.7840302 ], [ -1.4597931, 53.7841425 ], [ -1.4596138, 53.7844761 ], [ -1.4590391, 53.7843682 ], [ -1.458996, 53.7844484 ], [ -1.4597342, 53.7845869 ] ] ] ] } }
+]
+}

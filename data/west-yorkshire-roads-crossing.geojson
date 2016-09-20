@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "409336085", "type": "crossing" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.314412, 53.6893805 ], [ -1.3142732, 53.6894051 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "409336087", "type": "crossing" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3136534, 53.6891254 ], [ -1.3136369, 53.6891018 ], [ -1.3137093, 53.6890851 ], [ -1.3136999, 53.6890566 ] ] } }
+]
+}

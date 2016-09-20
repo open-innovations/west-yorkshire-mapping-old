@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 23157790, "centroid": { "latitude": 53.802705, "longitude": -1.542910 }, "area": 2245, "name": "Grosvenor Casino", "amenity": "casino", "building": "yes", "type": "casino" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5433938, 53.802693 ], [ -1.543272, 53.8028876 ], [ -1.5424234, 53.8027097 ], [ -1.5425333, 53.8025261 ], [ -1.5433938, 53.802693 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 78507498, "centroid": { "latitude": 53.798269, "longitude": -1.562586 }, "area": 1716, "name": "Gala Casino", "amenity": "casino", "building": "yes", "type": "casino" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5626306, 53.7984851 ], [ -1.5622551, 53.7981682 ], [ -1.5625126, 53.7980352 ], [ -1.5627272, 53.7982443 ], [ -1.5628023, 53.7982189 ], [ -1.5628452, 53.7982696 ], [ -1.5628667, 53.7983203 ], [ -1.5628667, 53.7984027 ], [ -1.5627808, 53.7984471 ], [ -1.5626306, 53.7984851 ] ] ] ] } }
+]
+}

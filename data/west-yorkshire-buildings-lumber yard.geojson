@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 158694306, "centroid": { "latitude": 53.540380, "longitude": -1.793861 }, "area": 1751, "name": "T. Kirks Forestry", "type": "lumber yard" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7940363, 53.5405725 ], [ -1.7941651, 53.5404132 ], [ -1.7940095, 53.5403653 ], [ -1.7941007, 53.5402665 ], [ -1.793811, 53.5401804 ], [ -1.7937145, 53.5402825 ], [ -1.7936447, 53.5402601 ], [ -1.7935267, 53.5404068 ], [ -1.7938314, 53.5405284 ], [ -1.7940363, 53.5405725 ] ] ] ] } }
+]
+}

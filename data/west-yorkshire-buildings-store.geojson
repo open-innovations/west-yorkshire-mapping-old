@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 85979333, "centroid": { "latitude": 53.703214, "longitude": -1.503565 }, "area": 149, "name": "Newton Hill Stores", "type": "store", "shop": "convenience" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5036163, 53.7031716 ], [ -1.5036529, 53.7032532 ], [ -1.5035148, 53.7032748 ], [ -1.5034783, 53.7031933 ], [ -1.5036163, 53.7031716 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 384181813, "centroid": { "latitude": 53.697981, "longitude": -1.533897 }, "area": 85, "name": "Sunnyhill Stores", "type": "store", "other_tags": "\"addr:housenumber\"=>\"76a\",\"addr:street\"=>\"Wrenthorpe Lane\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5338548, 53.6979177 ], [ -1.533936, 53.6979175 ], [ -1.5339367, 53.6980045 ], [ -1.5338588, 53.6980047 ], [ -1.5338587, 53.6979916 ], [ -1.5338548, 53.6979177 ] ] ] ] } }
+]
+}
