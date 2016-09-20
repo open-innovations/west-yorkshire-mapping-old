@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 203243804, "centroid": { "latitude": 53.822112, "longitude": -1.579016 }, "area": 88, "name": "Morgans", "type": "estate_agent", "building": "commercial", "office": "estate_agent", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Otley Road\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"75\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5789983, 53.822137 ], [ -1.5789391, 53.8220834 ], [ -1.5790327, 53.8220474 ], [ -1.5790919, 53.822101 ], [ -1.5789983, 53.822137 ] ] ] ] } }
+]
+}

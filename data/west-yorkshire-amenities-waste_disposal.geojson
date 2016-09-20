@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 95831918, "centroid": { "latitude": 53.740296, "longitude": -2.012897 }, "area": 103, "type": "waste_disposal" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.0129777, 53.7403141 ], [ -2.0129798, 53.7402638 ], [ -2.0128148, 53.7402614 ], [ -2.0128128, 53.7403118 ], [ -2.0129777, 53.7403141 ] ] ] ] } }
+]
+}

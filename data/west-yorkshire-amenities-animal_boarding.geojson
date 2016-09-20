@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 194655516, "centroid": { "latitude": 53.710534, "longitude": -1.617543 }, "area": 342, "name": "The Gables Cattery", "type": "animal_boarding", "building": "yes", "other_tags": "\"addr:street\"=>\"France Street\",\"addr:postcode\"=>\"WF17 6LQ\",\"animal_boarding\"=>\"cat;small_animal\",\"contact:website\"=>\"http:\/\/www.thegablescattery.co.uk\/\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6175333, 53.7105627 ], [ -1.6176871, 53.7105673 ], [ -1.617683, 53.710615 ], [ -1.6175292, 53.7106103 ], [ -1.6175289, 53.7106137 ], [ -1.6174443, 53.7106112 ], [ -1.6174543, 53.7104948 ], [ -1.6174594, 53.710436 ], [ -1.6176366, 53.7104414 ], [ -1.6176316, 53.7105002 ], [ -1.6175389, 53.7104974 ], [ -1.6175333, 53.7105627 ] ] ] ] } }
+]
+}

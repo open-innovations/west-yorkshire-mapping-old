@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 190347543, "centroid": { "latitude": 53.809627, "longitude": -1.592957 }, "area": 2478, "name": "Ready Steady Store", "type": "self_storage", "building": "yes", "other_tags": "\"addr:street\"=>\"Kirkstall Road\",\"addr:postcode\"=>\"LS4 2QD\",\"opening_hours\"=>\"Mo-Sa 09:00-17:30\",\"contact:website\"=>\"http:\/\/www.readysteadystore.com\/self-storage\/leeds-headingley\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5932102, 53.8098608 ], [ -1.5924933, 53.8096052 ], [ -1.5926368, 53.8094649 ], [ -1.5927109, 53.8094913 ], [ -1.5928008, 53.8094034 ], [ -1.5932659, 53.8095692 ], [ -1.593176, 53.8096571 ], [ -1.5932709, 53.8096909 ], [ -1.5933376, 53.8096256 ], [ -1.5934204, 53.8096551 ], [ -1.5932102, 53.8098608 ] ] ] ] } }
+]
+}
