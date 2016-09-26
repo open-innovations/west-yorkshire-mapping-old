@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 197920821, "centroid": { "latitude": 53.819336, "longitude": -1.534688 }, "area": 459, "type": "Cornerstone housing cooperative" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5347713, 53.8194297 ], [ -1.5348014, 53.8192516 ], [ -1.5346104, 53.8192279 ], [ -1.5345802, 53.8194356 ], [ -1.5347713, 53.8194297 ] ] ] ] } }
-]
-}
