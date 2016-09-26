@@ -1178,6 +1178,10 @@
 { "type": "Feature", "properties": { "osm_id": "437746959", "type": "steps", "other_tags": "\"handrail\"=>\"no\",\"incline\"=>\"up\",\"step_count\"=>\"8\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5014411, 53.6832555 ], [ -1.5015125, 53.6832102 ], [ -1.5015715, 53.683242 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "439871034", "type": "steps" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.887248, 53.626116 ], [ -1.8871231, 53.6261348 ], [ -1.8870629, 53.6261717 ], [ -1.8870362, 53.6262528 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "440657982", "type": "steps" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.016126, 53.7416 ], [ -2.0162836, 53.7416332 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "443219679", "type": "steps" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4912925, 53.6588344 ], [ -1.4912489, 53.6588594 ] ] } }
+{ "type": "Feature", "properties": { "osm_id": "443219679", "type": "steps" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4912925, 53.6588344 ], [ -1.4912489, 53.6588594 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "443265146", "type": "steps", "other_tags": "\"foot\"=>\"designated\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8275938, 53.9212645 ], [ -1.8275949, 53.9211868 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "443265148", "type": "steps", "other_tags": "\"foot\"=>\"designated\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8273223, 53.9222663 ], [ -1.8273376, 53.9221446 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "443265152", "type": "steps", "other_tags": "\"foot\"=>\"designated\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8277586, 53.9208957 ], [ -1.8277563, 53.9208435 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "444242291", "type": "steps", "other_tags": "\"incline\"=>\"up\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4958356, 53.6802351 ], [ -1.4960589, 53.6802148 ] ] } }
 ]
 }

@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": 87266806, "centroid": { "latitude": 53.684942, "longitude": -1.500387 }, "area": 492, "name": "Wakefield Register Office", "type": "register_office", "building": "yes" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5005804, 53.6849624 ], [ -1.5002689, 53.6850341 ], [ -1.5001938, 53.6849236 ], [ -1.5005053, 53.6848519 ], [ -1.5005804, 53.6849624 ] ] ] ] } }
+{ "type": "Feature", "properties": { "osm_id": 87266806, "centroid": { "latitude": 53.684979, "longitude": -1.500397 }, "area": 610, "name": "Wakefield Register Office", "type": "register_office", "building": "yes" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5006005, 53.6849775 ], [ -1.5004945, 53.6850331 ], [ -1.5002796, 53.6850825 ], [ -1.5001884, 53.6849506 ], [ -1.5004068, 53.6849004 ], [ -1.5005469, 53.6848861 ], [ -1.5006005, 53.6849775 ] ] ] ] } }
 ]
 }
