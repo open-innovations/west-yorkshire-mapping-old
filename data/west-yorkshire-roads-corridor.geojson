@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "444472906", "name": "Crossgates Shopping Centre", "type": "corridor" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4519793, 53.8061533 ], [ -1.4506528, 53.8061561 ], [ -1.4503554, 53.8062025 ], [ -1.4502568, 53.8063744 ], [ -1.4502584, 53.8066828 ], [ -1.4502584, 53.8068502 ], [ -1.4502584, 53.8068884 ], [ -1.4502214, 53.8072532 ] ] } }
+]
+}

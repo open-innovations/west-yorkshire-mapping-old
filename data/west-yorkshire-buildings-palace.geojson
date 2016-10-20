@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": 61215723, "centroid": { "latitude": 53.896925, "longitude": -1.527312 }, "area": 3502, "name": "Harewood House", "type": "palace", "historic": "palace", "other_tags": "\"access\"=>\"customer\",\"description\"=>\"Family seat of the Lascelles family.\",\"is_in:attraction\"=>\"Harewood House & Gardens\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5279438, 53.8969493 ], [ -1.5274792, 53.8970213 ], [ -1.5271507, 53.8970722 ], [ -1.5267853, 53.8971288 ], [ -1.5266853, 53.896896 ], [ -1.5278441, 53.8967233 ], [ -1.5278569, 53.8967557 ], [ -1.5279438, 53.8969493 ] ] ] ] } }
+{ "type": "Feature", "properties": { "osm_id": 61215723, "centroid": { "latitude": 53.896925, "longitude": -1.527312 }, "area": 3502, "name": "Harewood House", "type": "palace", "historic": "palace", "other_tags": "\"access\"=>\"customers\",\"description\"=>\"Family seat of the Lascelles family.\",\"is_in:attraction\"=>\"Harewood House & Gardens\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5279438, 53.8969493 ], [ -1.5274792, 53.8970213 ], [ -1.5271507, 53.8970722 ], [ -1.5267853, 53.8971288 ], [ -1.5266853, 53.896896 ], [ -1.5278441, 53.8967233 ], [ -1.5278569, 53.8967557 ], [ -1.5279438, 53.8969493 ] ] ] ] } }
 ]
 }
