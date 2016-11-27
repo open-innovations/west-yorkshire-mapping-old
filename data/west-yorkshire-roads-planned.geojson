@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "217482118", "type": "planned", "other_tags": "\"junction\"=>\"approach\",\"oneway\"=>\"yes\",\"proposed\"=>\"unclassified\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4248294, 53.7993251 ], [ -1.4247607, 53.7994615 ], [ -1.4246662, 53.7993407 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "332308532", "type": "planned", "other_tags": "\"proposed\"=>\"unclassified\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4243118, 53.8000239 ], [ -1.4246455, 53.7996903 ], [ -1.4247607, 53.7994615 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "448577967", "type": "planned" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4243118, 53.8000239 ], [ -1.4236052, 53.8002981 ], [ -1.4230795, 53.8004248 ], [ -1.4225645, 53.8006149 ], [ -1.4220066, 53.8009381 ], [ -1.4216807, 53.801124 ] ] } }
+]
+}

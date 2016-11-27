@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 453307783, "centroid": { "latitude": 53.666529, "longitude": -1.414938 }, "area": 135, "name": "Old Sharlston CC", "type": "pavillion", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:postcode\"=>\"WF4 1DB\",\"addr:street\"=>\"Weeland Road\",\"fhrs:id\"=>\"313703\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4148874, 53.6665771 ], [ -1.4148874, 53.6664679 ], [ -1.4149873, 53.6664679 ], [ -1.4149873, 53.6665771 ], [ -1.4148874, 53.6665771 ] ] ] ] } }
+]
+}

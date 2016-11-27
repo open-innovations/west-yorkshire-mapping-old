@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 454081593, "centroid": { "latitude": 53.846437, "longitude": -1.832083 }, "area": 98, "type": "shop", "building": "retail", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:postcode\"=>\"BD16 2PS\",\"addr:street\"=>\"Leonard Street\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8320951, 53.846478 ], [ -1.8319995, 53.8464237 ], [ -1.8320685, 53.8463806 ], [ -1.8321655, 53.8464345 ], [ -1.8320951, 53.846478 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 454081594, "centroid": { "latitude": 53.846376, "longitude": -1.832153 }, "area": 103, "type": "shop", "building": "retail", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:postcode\"=>\"BD16 2PS\",\"addr:street\"=>\"Leonard Street\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8320685, 53.8463806 ], [ -1.8321402, 53.8463353 ], [ -1.8322379, 53.8463888 ], [ -1.8321655, 53.8464345 ], [ -1.8320685, 53.8463806 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 454081596, "centroid": { "latitude": 53.846352, "longitude": -1.832227 }, "area": 107, "type": "shop", "building": "retail", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:postcode\"=>\"BD16 2PS\",\"addr:street\"=>\"Leonard Street\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8323128, 53.8463411 ], [ -1.8322379, 53.8463888 ], [ -1.8321402, 53.8463353 ], [ -1.8322147, 53.8462877 ], [ -1.8323128, 53.8463411 ] ] ] ] } }
+]
+}
