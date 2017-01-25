@@ -6,7 +6,7 @@
 { "type": "Feature", "properties": { "osm_id": "450204517", "type": "corridor" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4504224, 53.806769 ], [ -1.4502584, 53.8067666 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "450204519", "type": "corridor" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4497827, 53.8064181 ], [ -1.450257, 53.8064221 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "450204521", "type": "corridor" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4506195, 53.8059458 ], [ -1.4506204, 53.8061571 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "450504218", "type": "corridor" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4516996, 53.8056853 ], [ -1.4519899, 53.8056869 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "450504218", "type": "corridor", "other_tags": "\"tunnel\"=>\"yes\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4516996, 53.8056853 ], [ -1.4519899, 53.8056869 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "451714761", "type": "corridor" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5221771, 53.8061089 ], [ -1.5225572, 53.8061341 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "456449939", "type": "corridor", "other_tags": "\"bridge\"=>\"yes\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5566865, 53.8055769 ], [ -1.5562726, 53.8055759 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "456449941", "type": "corridor", "other_tags": "\"bridge\"=>\"yes\",\"layer\"=>\"2\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5546662, 53.8050808 ], [ -1.5546764, 53.8054303 ], [ -1.5546825, 53.8054569 ] ] } },
