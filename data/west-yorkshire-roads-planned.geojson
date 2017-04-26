@@ -3,6 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "osm_id": "448577968", "type": "planned", "other_tags": "\"proposed\"=>\"residential\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4207404, 53.8008701 ], [ -1.4206333, 53.8006783 ], [ -1.4207192, 53.8004248 ], [ -1.4209767, 53.8002094 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "453325576", "type": "planned", "other_tags": "\"planned\"=>\"yes\",\"tunnel\"=>\"yes\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3760575, 53.9400024 ], [ -1.3751674, 53.9402057 ] ] } }
+{ "type": "Feature", "properties": { "osm_id": "453325576", "type": "planned", "other_tags": "\"tunnel\"=>\"yes\",\"planned\"=>\"yes\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3760575, 53.9400024 ], [ -1.3751674, 53.9402057 ] ] } }
 ]
 }
