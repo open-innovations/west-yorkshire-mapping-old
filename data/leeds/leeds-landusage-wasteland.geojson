@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.813452, "longitude": -1.443176 }, "osm_way_id": "80591628", "landuse": "wasteland" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4442158, 53.8130302 ], [ -1.4440612, 53.8139165 ], [ -1.4440082, 53.813915 ], [ -1.4421368, 53.8138634 ], [ -1.44294, 53.8129883 ], [ -1.4442158, 53.8130302 ] ] ] } }
+]
+}

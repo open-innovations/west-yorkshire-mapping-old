@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "338716325", "name": "Cocklake Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7925683, 53.8837752 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "534250158", "name": "Langley Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5504518, 53.883745 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "664038801", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6632146, 53.8996207 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "664143527", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6900624, 53.8967874 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "746777924", "name": "well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7137171, 53.8932519 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747717502", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7124973, 53.8898368 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747717508", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7170571, 53.8896914 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747717512", "name": "well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7121862, 53.8913733 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747717515", "name": "well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7164026, 53.8936178 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747742262", "name": "Skirtful Spring", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7910491, 53.8946662 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "759484654", "name": "Birkin Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7462397, 53.868644 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2009546468", "other_tags": "\"natural\"=>\"spring\",\"drinking_water\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4298931, 53.8754147 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2294471712", "barrier": "gate", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7152514, 53.8909266 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4142953997", "name": "Slabbering Baby", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5693136, 53.8538795 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4570094684", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6932972, 53.8896637 ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5103611341", "name": "Scuba Leeds", "amenity": "dive_centre", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Carlton Mills\/Carlton Trading Estate\",\"addr:street\"=>\"Pickering Street\",\"addr:unit\"=>\"2\",\"contact:email\"=>\"info@scubaleeds.co.uk\",\"contact:facebook\"=>\"facebook.com\/scubaleeds\",\"contact:phone\"=>\"+44 113 263 8977\",\"contact:website\"=>\"scubaleeds.co.uk\",\"opening_hours\"=>\"Tu 10:00-16:00; We 10:00-17:00; Th 10:00-18:30; Fr 10:00-17:00; Sa 10:00-16:00\"" }, "geometry": { "type": "Point", "coordinates": [ -1.582088, 53.8001521 ] } }
+]
+}

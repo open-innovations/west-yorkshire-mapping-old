@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.764977, "longitude": -1.435884 }, "osm_way_id": "332242667", "name": "Leventhorpe Vineyard", "landuse": "vineyard", "other_tags": "\"website\"=>\"http:\/\/www.leventhorpevineyard.co.uk\/\",\"addr:street\"=>\"Newsam Green Road\",\"addr:postcode\"=>\"LS26 8AF\",\"addr:housename\"=>\"Leventhorpe Vineyard\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4364123, 53.7641075 ], [ -1.4369085, 53.7657532 ], [ -1.4368549, 53.7658134 ], [ -1.4348593, 53.765991 ], [ -1.4349022, 53.7657976 ], [ -1.4351758, 53.7650112 ], [ -1.4357417, 53.7639632 ], [ -1.4361226, 53.7640012 ], [ -1.4361038, 53.7640884 ], [ -1.4364123, 53.7641075 ] ] ] } }
+]
+}

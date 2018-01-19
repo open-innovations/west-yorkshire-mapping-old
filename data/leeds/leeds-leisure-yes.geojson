@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.815061, "longitude": -1.488586 }, "osm_way_id": "312128712", "name": "Fearnville Leisure Centre", "building": "yes", "leisure": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4891465, 53.8150383 ], [ -1.4888836, 53.8152759 ], [ -1.4883687, 53.8153455 ], [ -1.4880253, 53.8151998 ], [ -1.4884384, 53.8147755 ], [ -1.4891465, 53.8150383 ] ] ] } }
+]
+}

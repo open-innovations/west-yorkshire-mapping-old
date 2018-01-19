@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "2881824670", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.6227042, 53.7969089 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3786773390", "amenity": "compressed_air", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6382026, 53.8040644 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3801400073", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.6033751, 53.8147527 ] } }
+]
+}

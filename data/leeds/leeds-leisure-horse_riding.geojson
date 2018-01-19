@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.791829, "longitude": -1.646304 }, "osm_way_id": "460924945", "name": "Acres Hall Stables", "building": "stable", "leisure": "horse_riding" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6463955, 53.7919041 ], [ -1.6462585, 53.7919178 ], [ -1.6462116, 53.7917546 ], [ -1.6463485, 53.7917409 ], [ -1.6463955, 53.7919041 ] ] ] } }
+]
+}

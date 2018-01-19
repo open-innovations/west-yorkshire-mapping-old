@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.813431, "longitude": -1.624988 }, "osm_way_id": "509385000", "name": "Bramley Delivery Office", "amenity": "delivery_office", "building": "yes", "office": "delivery" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.625089, 53.813403 ], [ -1.6251981, 53.8134672 ], [ -1.6250407, 53.8135605 ], [ -1.6247772, 53.8134055 ], [ -1.6249524, 53.8133016 ], [ -1.6251068, 53.8133924 ], [ -1.625089, 53.813403 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.804106, "longitude": -1.584771 }, "osm_way_id": "204902829", "name": "Virgin ACTIVE Gym", "amenity": "gym", "building": "yes", "leisure": "sports_centre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5848986, 53.8044132 ], [ -1.5843493, 53.8042622 ], [ -1.584299, 53.8041606 ], [ -1.5845883, 53.8037991 ], [ -1.5852425, 53.8039898 ], [ -1.5848986, 53.8044132 ] ] ] } }
+]
+}

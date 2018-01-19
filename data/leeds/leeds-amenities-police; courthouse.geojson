@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.924522, "longitude": -1.384975 }, "osm_way_id": "80180433", "name": "Wetherby Police Station", "amenity": "police; courthouse", "building": "public" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.3847433, 53.92478 ], [ -1.384736, 53.9242658 ], [ -1.3847949, 53.9242655 ], [ -1.385008, 53.9242645 ], [ -1.385011, 53.924478 ], [ -1.3850119, 53.924538 ], [ -1.3850125, 53.9245822 ], [ -1.3852117, 53.9245812 ], [ -1.3852132, 53.9246867 ], [ -1.3850288, 53.9246876 ], [ -1.3850301, 53.9247785 ], [ -1.3847433, 53.92478 ] ] ] } }
+]
+}

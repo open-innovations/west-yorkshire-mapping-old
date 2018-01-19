@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.795851, "longitude": -1.453977 }, "osm_way_id": "307009372", "name": "The Whitkirk Club", "building": "yes", "leisure": "social_club", "other_tags": "\"website\"=>\"http:\/\/www.whitkirkclub.co.uk\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Selby Road\",\"addr:postcode\"=>\"LS15 0AA\",\"addr:housename\"=>\"The Whitkirk Club\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4539216, 53.795658 ], [ -1.4539957, 53.7956633 ], [ -1.4539993, 53.7956454 ], [ -1.4540583, 53.7956496 ], [ -1.4540504, 53.7956881 ], [ -1.454078, 53.7956901 ], [ -1.4540661, 53.7957483 ], [ -1.4541335, 53.7957531 ], [ -1.4540917, 53.7959567 ], [ -1.4539969, 53.7959499 ], [ -1.4539752, 53.7960556 ], [ -1.4538211, 53.7960446 ], [ -1.4538727, 53.795793 ], [ -1.4538936, 53.7957945 ], [ -1.4539216, 53.795658 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.787775, "longitude": -1.603938 }, "osm_way_id": "532664732", "name": "West Leeds Sports & Social Club", "building": "yes", "leisure": "social_club", "other_tags": "\"club\"=>\"sport\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.603888, 53.7877257 ], [ -1.6038595, 53.7876555 ], [ -1.6040156, 53.7876334 ], [ -1.6041076, 53.7878603 ], [ -1.6040125, 53.7878737 ], [ -1.6040244, 53.7878829 ], [ -1.6039502, 53.7879163 ], [ -1.603769, 53.7877757 ], [ -1.603794, 53.7877645 ], [ -1.6037842, 53.7877404 ], [ -1.603888, 53.7877257 ] ] ] } }
+]
+}
