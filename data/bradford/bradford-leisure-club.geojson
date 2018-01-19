@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "2958546144", "name": "Baildon Hall Club", "other_tags": "\"addr:postcode\"=>\"BD17 6NH\",\"addr:street\"=>\"Hallfield Drive\",\"leisure\"=>\"club\",\"phone\"=>\"+44 1274 598728\",\"website\"=>\"http:\/\/baildon-hall.com\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7654596, 53.8501629 ] } }
+]
+}

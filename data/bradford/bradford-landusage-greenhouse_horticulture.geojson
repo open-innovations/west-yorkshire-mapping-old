@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.837299, "longitude": -1.788238 }, "osm_way_id": "157059075", "name": "Shipley College", "landuse": "greenhouse_horticulture" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7885486, 53.8374318 ], [ -1.7878761, 53.837382 ], [ -1.7879317, 53.8371654 ], [ -1.7885997, 53.8372205 ], [ -1.7885486, 53.8374318 ] ] ] } }
+]
+}

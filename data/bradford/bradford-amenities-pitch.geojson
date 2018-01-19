@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.776277, "longitude": -1.777840 }, "osm_way_id": "147216036", "amenity": "pitch", "leisure": "pitch", "sport": "tennis" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7778274, 53.7759203 ], [ -1.778355, 53.7760914 ], [ -1.7778524, 53.7766327 ], [ -1.7773248, 53.7764616 ], [ -1.7778274, 53.7759203 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.840687, "longitude": -1.871488 }, "osm_way_id": "147218112", "amenity": "pitch", "leisure": "pitch" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.871445, 53.8403889 ], [ -1.8714785, 53.8404205 ], [ -1.8716398, 53.8406087 ], [ -1.8716148, 53.8406161 ], [ -1.8716951, 53.8407098 ], [ -1.8717251, 53.8407411 ], [ -1.8716927, 53.8407508 ], [ -1.8718287, 53.8409094 ], [ -1.8718094, 53.8409152 ], [ -1.8715766, 53.8409851 ], [ -1.8713643, 53.8407488 ], [ -1.8713752, 53.8407454 ], [ -1.871148, 53.8404926 ], [ -1.871445, 53.8403889 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.780925, "longitude": -1.782476 }, "osm_way_id": "401583035", "amenity": "pitch" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7825522, 53.7807852 ], [ -1.7826992, 53.7808607 ], [ -1.7823992, 53.7810647 ], [ -1.7822522, 53.7809892 ], [ -1.7825522, 53.7807852 ] ] ] } }
+]
+}

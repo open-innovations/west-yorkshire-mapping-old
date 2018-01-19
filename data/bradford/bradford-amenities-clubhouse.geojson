@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "1277067178", "amenity": "clubhouse", "other_tags": "\"sport\"=>\"cricket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.911922, 53.8500681 ] } }
+]
+}

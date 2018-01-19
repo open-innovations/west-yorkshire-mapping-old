@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.817262, "longitude": -1.858689 }, "osm_way_id": "190024492", "name": "Laurel Bank Care Home", "amenity": "nursing_home", "building": "residential", "other_tags": "\"addr:city\"=>\"Wilsden, Bingley\",\"addr:housenumber\"=>\"260\",\"addr:postcode\"=>\"BD15 0JR\",\"addr:street\"=>\"Main Street\",\"fhrs:id\"=>\"327660\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8581136, 53.8172684 ], [ -1.8583005, 53.8172132 ], [ -1.8583479, 53.8172691 ], [ -1.8589026, 53.8171054 ], [ -1.858874, 53.8170716 ], [ -1.8590438, 53.8170215 ], [ -1.8592643, 53.8172818 ], [ -1.8590963, 53.8173314 ], [ -1.8589949, 53.8172116 ], [ -1.8588172, 53.8172641 ], [ -1.858839, 53.8172898 ], [ -1.8586643, 53.8173414 ], [ -1.8586419, 53.8173149 ], [ -1.8584297, 53.8173775 ], [ -1.8584912, 53.8174501 ], [ -1.8583122, 53.817503 ], [ -1.8581136, 53.8172684 ] ] ] } }
+]
+}

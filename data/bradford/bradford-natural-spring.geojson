@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "280718272", "name": "Redmond's Spa", "other_tags": "\"natural\"=>\"spring\",\"description\"=>\"Chalybeate spring, cit. OS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8252965, 53.8869386 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "280719166", "name": "Hog Hill Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8149101, 53.8831077 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "411732049", "name": "Sweet Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8422686, 53.8939834 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "411739917", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.902363, 53.9219424 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "699024158", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8864525, 53.9217085 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "708660091", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8792777, 53.9226166 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "708660094", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8788915, 53.9232231 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "708685665", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8834694, 53.8998338 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "708688768", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9050529, 53.9030684 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "746786929", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7246713, 53.8919194 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747706198", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.752194, 53.8893753 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747707956", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7594682, 53.895173 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747708145", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7602836, 53.8906778 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747708146", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7578696, 53.8912658 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747749398", "name": "Rushy Beck Spring", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7886191, 53.9054758 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747749711", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.781758, 53.9071318 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "895381420", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8413638, 53.788821 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1107869370", "name": "Crawshaw Spring", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.861163, 53.9100769 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1885313669", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8583524, 53.9137549 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2677407078", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.800432, 53.8860492 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2778974506", "name": "Lady Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7458114, 53.8852515 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2779101821", "name": "Craven Hall Spring", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.777966, 53.8922875 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2807890132", "name": "Silver Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8422595, 53.9163829 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2807962318", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8769514, 53.8895759 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2807962369", "name": "Rivock Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8761456, 53.8893629 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4988444845", "name": "Silver Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8520758, 53.9130479 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4988488393", "name": "Fanny Shaw Low Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8349505, 53.8765593 ] } }
+]
+}
