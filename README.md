@@ -12,3 +12,7 @@ The data are downloaded in the form of [a PBF file for West Yorkshire](http://do
   * railways
   * roads
   * waterways
+
+## Cities
+
+We've also created a subset of these GeoJSON files for Leeds.
