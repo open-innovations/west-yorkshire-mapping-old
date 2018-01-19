@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "1301896037", "name": "The Spire", "amenity": "office", "other_tags": "\"operator\"=>\"Benson Payne Ltd\"" }, "geometry": { "type": "Point", "coordinates": [ -1.802451, 53.7279374 ] } }
+]
+}

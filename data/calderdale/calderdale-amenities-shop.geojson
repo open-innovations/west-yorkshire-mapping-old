@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.722546, "longitude": -1.876178 }, "osm_way_id": "475088463", "name": "W J Motors", "amenity": "shop", "building": "industrial", "shop": "car_repair", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:postcode\"=>\"HX1 5JJ\",\"addr:street\"=>\"Allerton Place\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8763216, 53.7226554 ], [ -1.8760332, 53.7226551 ], [ -1.8760339, 53.7224361 ], [ -1.8763222, 53.7224364 ], [ -1.8763216, 53.7226554 ] ] ] } }
+]
+}

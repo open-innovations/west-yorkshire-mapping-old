@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.712633, "longitude": -1.857764 }, "osm_way_id": "81288682", "name": "Halifax Harriers", "leisure": "track", "sport": "athletics" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8564532, 53.7119649 ], [ -1.8567501, 53.7118779 ], [ -1.8590793, 53.71178 ], [ -1.8590402, 53.7125298 ], [ -1.8587835, 53.713078 ], [ -1.8584262, 53.713486 ], [ -1.8564492, 53.7134281 ], [ -1.8564532, 53.7119649 ] ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "30732816", "name": "Halifax Swimming Pool", "amenity": "swimming_pool", "other_tags": "\"sport\"=>\"swimming\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8598971, 53.7188219 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1409422166", "name": "Todmorden Sports Centre", "amenity": "swimming_pool" }, "geometry": { "type": "Point", "coordinates": [ -2.1096942, 53.7198887 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.707140, "longitude": -1.911959 }, "osm_way_id": "171030559", "name": "Sowerby Bridge Pool & Fitness Centre", "amenity": "swimming_pool", "building": "yes", "sport": "swimming" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9116317, 53.7072688 ], [ -1.9116693, 53.7069592 ], [ -1.9119375, 53.7069655 ], [ -1.9119375, 53.7069528 ], [ -1.9121682, 53.7069608 ], [ -1.9121682, 53.7069512 ], [ -1.9122379, 53.7069496 ], [ -1.9122674, 53.7069719 ], [ -1.9122854, 53.7070046 ], [ -1.9122854, 53.7070332 ], [ -1.9122862, 53.7070703 ], [ -1.9122862, 53.7071132 ], [ -1.9122773, 53.7071522 ], [ -1.912262, 53.7071878 ], [ -1.9122371, 53.7072173 ], [ -1.9122076, 53.7072538 ], [ -1.9121628, 53.7072815 ], [ -1.912136, 53.7072846 ], [ -1.9120743, 53.707283 ], [ -1.9120762, 53.70733 ], [ -1.9118785, 53.7073307 ], [ -1.9118812, 53.7073196 ], [ -1.9116317, 53.7072688 ] ] ] } }
+]
+}

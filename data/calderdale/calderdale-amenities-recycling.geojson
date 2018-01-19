@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "368341664", "amenity": "recycling", "other_tags": "\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7766045, 53.7046151 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "376985734", "amenity": "recycling", "other_tags": "\"recycling:glass\"=>\"yes\",\"recycling:shoes\"=>\"yes\",\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7775757, 53.7008032 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "573340915", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -1.8873451, 53.7243019 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "951535316", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -1.8782918, 53.7152028 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "951535319", "name": "Halifax Household Waste Recycling Site", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -1.8702022, 53.7318506 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1214526433", "name": "British Waterways Sanitary Station", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -2.0129071, 53.740289 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1291453567", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -1.8955459, 53.7092672 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1729326916", "amenity": "recycling", "other_tags": "\"recycling_type\"=>\"container\",\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.901177, 53.7476164 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2255618042", "amenity": "recycling", "other_tags": "\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8128212, 53.7258217 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4593011955", "amenity": "recycling", "other_tags": "\"recycling_type\"=>\"container\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8820711, 53.6726006 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.700835, "longitude": -1.786582 }, "osm_way_id": "421860199", "name": "Atlas Mill Household Waste Recycling Site", "amenity": "recycling", "other_tags": "\"operator\"=>\"Calderdale Council\",\"addr:city\"=>\"Brighouse\",\"addr:street\"=>\"Atlas Mill Road\",\"addr:postcode\"=>\"HD6 1ES\",\"recycling:wood\"=>\"yes\",\"recycling:glass\"=>\"yes\",\"recycling:metal\"=>\"yes\",\"recycling:paper\"=>\"yes\",\"recycling:garden_waste\"=>\"yes\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7863887, 53.7005052 ], [ -1.7872041, 53.7007592 ], [ -1.7870164, 53.7010228 ], [ -1.7868367, 53.7011419 ], [ -1.786657, 53.7010816 ], [ -1.7864424, 53.7011641 ], [ -1.7859596, 53.700926 ], [ -1.7863887, 53.7005052 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.749238, "longitude": -2.019686 }, "osm_way_id": "83994683", "landuse": "garages" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.0195736, 53.7494324 ], [ -2.0194928, 53.7494088 ], [ -2.0197975, 53.7490441 ], [ -2.0198783, 53.7490677 ], [ -2.0195736, 53.7494324 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.740340, "longitude": -2.011947 }, "osm_way_id": "29977635", "name": "Hebden Bridge Marina", "landuse": "basin", "natural": "water" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.0118716, 53.7401529 ], [ -2.0121298, 53.7401643 ], [ -2.0120736, 53.7402154 ], [ -2.0119143, 53.7404761 ], [ -2.0118787, 53.7405277 ], [ -2.0118058, 53.7405112 ], [ -2.01193, 53.7403246 ], [ -2.0118932, 53.7403154 ], [ -2.0117889, 53.7403453 ], [ -2.0117652, 53.7403084 ], [ -2.0118741, 53.7402827 ], [ -2.0118908, 53.7402032 ], [ -2.0118716, 53.7401529 ] ] ] } }
+]
+}

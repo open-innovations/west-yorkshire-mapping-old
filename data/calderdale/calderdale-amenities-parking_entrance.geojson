@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "2780510094", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.8561896, 53.7227694 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2780510245", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.8565671, 53.7239736 ] } }
+]
+}

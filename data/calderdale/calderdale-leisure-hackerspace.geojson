@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "3725878730", "name": "Bridge Rectifier", "other_tags": "\"leisure\"=>\"hackerspace\",\"website\"=>\"www.bridgerectifier.org.uk\",\"building\"=>\"yes\",\"addr:city\"=>\"Hebden Bridge\",\"addr:street\"=>\"Hebble End\",\"addr:postcode\"=>\"HX7 6HJ\",\"addr:housename\"=>\"Bridge Rectifier\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0169008, 53.7406177 ] } }
+]
+}

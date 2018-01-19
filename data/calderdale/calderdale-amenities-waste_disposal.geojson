@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "2279140122", "name": "Todmorden Service Station", "amenity": "waste_disposal" }, "geometry": { "type": "Point", "coordinates": [ -2.0976416, 53.712412 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.740288, "longitude": -2.012896 }, "osm_way_id": "95831918", "amenity": "waste_disposal" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.0129777, 53.7403141 ], [ -2.0128128, 53.7403118 ], [ -2.0128148, 53.7402614 ], [ -2.0129798, 53.7402638 ], [ -2.0129777, 53.7403141 ] ] ] } }
+]
+}

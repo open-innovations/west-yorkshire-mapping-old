@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "330029828", "name": "Valley Private Hire", "amenity": "taxi", "other_tags": "\"layer\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0123735, 53.7407153 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1235896482", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.8603177, 53.7207435 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1235927396", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.8618795, 53.7224262 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1414456930", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -2.099317, 53.713846 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.721106, "longitude": -1.854247 }, "osm_way_id": "118687135", "amenity": "taxi", "other_tags": "\"capacity\"=>\"5\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8545104, 53.7211585 ], [ -1.8544797, 53.7211959 ], [ -1.8539843, 53.7210536 ], [ -1.854015, 53.7210162 ], [ -1.8545104, 53.7211585 ] ] ] } }
+]
+}

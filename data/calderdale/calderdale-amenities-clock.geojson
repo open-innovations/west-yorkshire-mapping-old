@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "3025622677", "name": "Millenium Clock", "amenity": "clock", "other_tags": "\"support\"=>\"wall_mounted\",\"start_date\"=>\"2000\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0127416, 53.7425784 ] } }
+]
+}

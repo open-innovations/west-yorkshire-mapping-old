@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.701239, "longitude": -1.781905 }, "osm_way_id": "27922309", "landuse": "village_green" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7817641, 53.7012095 ], [ -1.7818544, 53.70119 ], [ -1.781977, 53.7011823 ], [ -1.7820377, 53.7012102 ], [ -1.782046, 53.7012535 ], [ -1.7820014, 53.7012954 ], [ -1.7819064, 53.7012928 ], [ -1.7817763, 53.7012358 ], [ -1.7817641, 53.7012095 ] ] ] } }
+]
+}

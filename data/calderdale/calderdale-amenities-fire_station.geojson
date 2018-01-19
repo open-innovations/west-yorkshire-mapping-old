@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "734189306", "name": "Todmorden", "amenity": "fire_station", "other_tags": "\"operator\"=>\"WYFRS\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0952964, 53.7162483 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1200587184", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.9844406, 53.7317951 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.713606, "longitude": -1.881890 }, "osm_way_id": "183948426", "name": "Halifax Fire Station", "amenity": "fire_station", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8823129, 53.7136621 ], [ -1.8820547, 53.7137501 ], [ -1.8819562, 53.7136488 ], [ -1.8819264, 53.7136589 ], [ -1.8819809, 53.713715 ], [ -1.8816053, 53.7138429 ], [ -1.8814664, 53.7137 ], [ -1.881892, 53.7135551 ], [ -1.8817909, 53.7134512 ], [ -1.882029, 53.7133701 ], [ -1.8823129, 53.7136621 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.681836, "longitude": -1.798213 }, "osm_way_id": "363814299", "name": "Rastrick Fire Station", "amenity": "fire_station", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7982831, 53.6819707 ], [ -1.7979773, 53.6818087 ], [ -1.7981543, 53.6817007 ], [ -1.7984494, 53.6818627 ], [ -1.7982831, 53.6819707 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.754999, "longitude": -1.894153 }, "osm_way_id": "447908686", "name": "Illingworth Fire Station", "amenity": "fire_station", "building": "yes", "other_tags": "\"operator\"=>\"WYFRS\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8939088, 53.7548574 ], [ -1.8941958, 53.7548574 ], [ -1.8941958, 53.7548431 ], [ -1.8943835, 53.7548431 ], [ -1.8943835, 53.7548827 ], [ -1.8943996, 53.7549192 ], [ -1.8942789, 53.7549224 ], [ -1.8942736, 53.7549081 ], [ -1.8942467, 53.7549097 ], [ -1.8942521, 53.7549541 ], [ -1.894126, 53.7549541 ], [ -1.8941448, 53.7551555 ], [ -1.8939356, 53.7551555 ], [ -1.8939329, 53.7549541 ], [ -1.8939061, 53.7549541 ], [ -1.8939088, 53.7548574 ] ] ] } }
+]
+}
