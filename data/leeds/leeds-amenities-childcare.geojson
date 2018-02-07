@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "349173634", "name": "Banana Moon", "amenity": "childcare" }, "geometry": { "type": "Point", "coordinates": [ -1.4700027, 53.755136 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "349173634", "name": "Banana Moon", "amenity": "childcare", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS26 0EX\",\"addr:street\"=>\"Springhead Road\",\"fhrs:id\"=>\"865165\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4700027, 53.755136 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "430953153", "name": "Kiddi-Club", "amenity": "childcare", "other_tags": "\"level\"=>\"0\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6022848, 53.7836337 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4843749048", "name": "Busy Bees Nursery", "amenity": "childcare" }, "geometry": { "type": "Point", "coordinates": [ -1.4319512, 53.7915078 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.814989, "longitude": -1.450479 }, "osm_way_id": "263362184", "amenity": "childcare", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4506511, 53.8151118 ], [ -1.4503026, 53.8151093 ], [ -1.450304, 53.8150383 ], [ -1.4504452, 53.8150393 ], [ -1.4504474, 53.8149289 ], [ -1.4503149, 53.8149279 ], [ -1.4503162, 53.8148665 ], [ -1.4506561, 53.8148689 ], [ -1.4506532, 53.8150081 ], [ -1.4506511, 53.8151118 ] ] ] } },
