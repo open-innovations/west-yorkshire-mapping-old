@@ -78,7 +78,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "314451598", "name": "The Fountain", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.721289, 53.8200396 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314451610", "name": "Prince of Wales", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7270847, 53.812371 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314451613", "name": "Wellington Hotel", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.727337, 53.8118236 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "314451621", "name": "Hare & Hounds", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7328592, 53.809878 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314451622", "name": "The Malt Kiln", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.733503, 53.8105405 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314451633", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.73376, 53.8164697 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314675171", "name": "Escape", "amenity": "pub", "other_tags": "\"level\"=>\"-1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7680268, 53.7917744 ] } },
