@@ -880,6 +880,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5217196229", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3419496, 53.9090056 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5217196255", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3269322, 53.9239782 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5242004041", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4888727, 53.8736491 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5242004082", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4476592, 53.889903 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5242004082", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4476592, 53.889903 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5437906647", "amenity": "post_box" }, "geometry": { "type": "Point", "coordinates": [ -1.5296222, 53.7657599 ] } }
 ]
 }
