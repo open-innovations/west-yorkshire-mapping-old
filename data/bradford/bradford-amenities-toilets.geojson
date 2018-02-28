@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "310741399", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.7771358, 53.833554 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "317592549", "amenity": "toilets", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7529064, 53.7928521 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333123005", "amenity": "toilets", "other_tags": "\"building\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7678558, 53.8099177 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "413990424", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.9080944, 53.8650398 ] } },

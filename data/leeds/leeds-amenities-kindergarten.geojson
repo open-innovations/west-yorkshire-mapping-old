@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "263924008", "amenity": "kindergarten" }, "geometry": { "type": "Point", "coordinates": [ -1.5855187, 53.8296209 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "297118285", "name": "Kindercare Day Nurseries", "amenity": "kindergarten", "other_tags": "\"building\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6560897, 53.7976159 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "297118285", "name": "Kindercare Day Nurseries", "amenity": "kindergarten", "other_tags": "\"addr:housename\"=>\"The Old School Hall\",\"addr:housenumber\"=>\"85a\",\"addr:postcode\"=>\"LS28 9AZ\",\"addr:street\"=>\"Lowtown\",\"addr:town\"=>\"Pudsey\",\"building\"=>\"yes\",\"fhrs:id\"=>\"906222\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6560897, 53.7976159 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301016246", "name": "Tadpoles Day Nursery", "amenity": "kindergarten" }, "geometry": { "type": "Point", "coordinates": [ -1.5813342, 53.8061212 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "410948001", "name": "Jelly Tots Private Day Nursery", "amenity": "kindergarten", "other_tags": "\"phone\"=>\"+44 113 285 3085\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6540494, 53.7538295 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "455593953", "name": "St Joseph's Nursery", "amenity": "kindergarten" }, "geometry": { "type": "Point", "coordinates": [ -1.6582352, 53.7998374 ] } },
