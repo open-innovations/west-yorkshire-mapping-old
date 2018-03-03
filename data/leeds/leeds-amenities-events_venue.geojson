@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.791862, "longitude": -1.580259 }, "osm_way_id": "395697249", "name": "White Rose Banqueting Suite", "amenity": "events_venue", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5801659, 53.7917239 ], [ -1.5804849, 53.791787 ], [ -1.5803665, 53.7919958 ], [ -1.5802635, 53.7919755 ], [ -1.5802496, 53.792 ], [ -1.5800336, 53.7919573 ], [ -1.5801659, 53.7917239 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.791862, "longitude": -1.580259 }, "osm_way_id": "395697249", "name": "White Rose Banqueting Suite", "amenity": "events_venue", "building": "yes", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"67\",\"addr:postcode\"=>\"LS12 1HQ\",\"addr:street\"=>\"Tong Road\",\"fhrs:id\"=>\"537080\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5801659, 53.7917239 ], [ -1.5804849, 53.791787 ], [ -1.5803665, 53.7919958 ], [ -1.5802635, 53.7919755 ], [ -1.5802496, 53.792 ], [ -1.5800336, 53.7919573 ], [ -1.5801659, 53.7917239 ] ] ] } }
 ]
 }
