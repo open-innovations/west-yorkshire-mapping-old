@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 539999427, "centroid": { "latitude": 53.838823, "longitude": -1.823739 }, "area": 1305, "name": "Bradford & Bingley Sports Club", "type": "club_house", "building": "yes", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:postcode\"=>\"BD16 1LT\",\"addr:street\"=>\"Wagon Lane\",\"defibrillator\"=>\"yes\",\"fhrs:id\"=>\"327874\",\"phone\"=>\"+44 1274 564479\",\"website\"=>\"http:\/\/bradfordandbingleysportsclub.com\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8238352, 53.8390066 ], [ -1.823952, 53.8387429 ], [ -1.8239145, 53.8386828 ], [ -1.8238084, 53.8386552 ], [ -1.8236555, 53.8387011 ], [ -1.8235482, 53.8386869 ], [ -1.823508, 53.838766 ], [ -1.8236141, 53.8387841 ], [ -1.8235375, 53.8389623 ], [ -1.8238352, 53.8390066 ] ] ] ] } }
+]
+}

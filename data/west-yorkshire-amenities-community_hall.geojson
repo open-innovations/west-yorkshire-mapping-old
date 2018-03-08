@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": 27550371, "centroid": { "latitude": 53.770307, "longitude": -1.753377 }, "area": 282, "name": "St. Matthew's Community Room", "type": "community_hall" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7532574, 53.7703782 ], [ -1.7533712, 53.7704079 ], [ -1.7534963, 53.7702402 ], [ -1.7533826, 53.7702106 ], [ -1.7532574, 53.7703782 ] ] ] ] } }
+{ "type": "Feature", "properties": { "osm_id": 27550371, "centroid": { "latitude": 53.770280, "longitude": -1.753390 }, "area": 219, "name": "St. Matthew's Community Room", "type": "community_hall" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7532828, 53.7703342 ], [ -1.753399, 53.7703659 ], [ -1.7534973, 53.77024 ], [ -1.7533812, 53.7702083 ], [ -1.7532828, 53.7703342 ] ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 80506986, "centroid": { "latitude": 53.811504, "longitude": -1.445884 }, "area": 823, "type": "community_hall", "building": "church" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4459715, 53.8116675 ], [ -1.4459999, 53.8113336 ], [ -1.4458114, 53.811328 ], [ -1.4458072, 53.8115301 ], [ -1.4457698, 53.8115296 ], [ -1.4457518, 53.8115448 ], [ -1.4457507, 53.8116609 ], [ -1.4459715, 53.8116675 ] ] ] ] } }
 ]
 }

@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": 400871407, "centroid": { "latitude": 53.797483, "longitude": -1.799804 }, "area": 11277, "name": "Crossley Hall Primary School", "amenity": "school", "type": "school", "other_tags": "\"addr:city\"=>\"Fairweather Green, Bradford\",\"addr:postcode\"=>\"BD8 0HJ\",\"addr:street\"=>\"Thornton Road\",\"phone\"=>\"01274 488703\",\"ref:edubase\"=>\"107203\",\"website\"=>\"http:\/\/crossleyhall.com\/\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7998719, 53.7969131 ], [ -1.7990333, 53.7971438 ], [ -1.7997386, 53.7980376 ], [ -1.8005716, 53.7978514 ], [ -1.7998719, 53.7969131 ] ] ] ] } }
+{ "type": "Feature", "properties": { "osm_id": 400871407, "centroid": { "latitude": 53.797483, "longitude": -1.799804 }, "area": 11277, "name": "Crossley Hall Primary School", "amenity": "school", "type": "school", "other_tags": "\"addr:city\"=>\"Fairweather Green, Bradford\",\"addr:postcode\"=>\"BD8 0HJ\",\"addr:street\"=>\"Thornton Road\",\"fhrs:id\"=>\"324718\",\"phone\"=>\"+44 1274 488703\",\"ref:edubase\"=>\"107203\",\"website\"=>\"http:\/\/crossleyhall.com\/\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7998719, 53.7969131 ], [ -1.7990333, 53.7971438 ], [ -1.7997386, 53.7980376 ], [ -1.8005716, 53.7978514 ], [ -1.7998719, 53.7969131 ] ] ] ] } }
 ]
 }

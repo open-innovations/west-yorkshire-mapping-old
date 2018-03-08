@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 121810943, "centroid": { "latitude": 53.708304, "longitude": -2.067182 }, "area": 1187, "name": "The Top Brink", "type": "public house" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.0673181, 53.7084881 ], [ -2.067141, 53.7083992 ], [ -2.0668725, 53.7082158 ], [ -2.0670713, 53.7081261 ], [ -2.0674736, 53.7083547 ], [ -2.0673181, 53.7084881 ] ] ] ] } }
+]
+}

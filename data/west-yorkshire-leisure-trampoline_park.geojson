@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": 204902827, "centroid": { "latitude": 53.804664, "longitude": -1.584697 }, "area": 4175, "name": "Oxygen Freejumping", "building": "yes", "type": "trampoline_park", "other_tags": "\"name:-2013\"=>\"Evolution\",\"short_name\"=>\"Oxygen\",\"name:2013-2016\"=>\"Control\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5851851, 53.8045281 ], [ -1.5848311, 53.8049733 ], [ -1.5842096, 53.804801 ], [ -1.5845636, 53.8043558 ], [ -1.5851851, 53.8045281 ] ] ] ] } }
+{ "type": "Feature", "properties": { "osm_id": 204902827, "centroid": { "latitude": 53.804664, "longitude": -1.584697 }, "area": 4175, "name": "Oxygen Freejumping", "building": "yes", "type": "trampoline_park", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"9\",\"addr:postcode\"=>\"LS4 2DG\",\"addr:street\"=>\"Cardigan Fields Road\",\"fhrs:id\"=>\"957581\",\"name:-2013\"=>\"Evolution\",\"name:2013-2016\"=>\"Control\",\"short_name\"=>\"Oxygen\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5851851, 53.8045281 ], [ -1.5848311, 53.8049733 ], [ -1.5842096, 53.804801 ], [ -1.5845636, 53.8043558 ], [ -1.5851851, 53.8045281 ] ] ] ] } }
 ]
 }

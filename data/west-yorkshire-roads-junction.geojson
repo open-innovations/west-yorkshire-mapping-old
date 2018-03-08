@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": "379954841", "name": "The Cross", "type": "junction", "other_tags": "\"surface\"=>\"brick\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6234063, 53.8852481 ], [ -1.623304, 53.8851415 ], [ -1.6234325, 53.8851345 ], [ -1.6234634, 53.8851401 ], [ -1.6234872, 53.8851527 ], [ -1.6234896, 53.8851681 ], [ -1.6234063, 53.8852481 ] ] } }
+{ "type": "Feature", "properties": { "osm_id": "379954841", "name": "The Cross", "type": "junction", "z_order": 0, "other_tags": "\"surface\"=>\"brick\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6234063, 53.8852481 ], [ -1.623304, 53.8851415 ], [ -1.6234325, 53.8851345 ], [ -1.6234634, 53.8851401 ], [ -1.6234872, 53.8851527 ], [ -1.6234896, 53.8851681 ], [ -1.6234063, 53.8852481 ] ] } }
 ]
 }

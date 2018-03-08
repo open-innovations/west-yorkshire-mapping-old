@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 547925454, "centroid": { "latitude": 53.817199, "longitude": -1.315529 }, "area": 14945, "type": "parking_space" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.315788, 53.8177228 ], [ -1.3164822, 53.8170876 ], [ -1.31655, 53.8168838 ], [ -1.3161556, 53.8169057 ], [ -1.3157058, 53.8166983 ], [ -1.3147199, 53.8170585 ], [ -1.3143501, 53.8173167 ], [ -1.315788, 53.8177228 ] ] ] ] } }
+]
+}

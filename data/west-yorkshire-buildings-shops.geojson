@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": 28090828, "centroid": { "latitude": 53.788764, "longitude": -1.540544 }, "area": 908, "name": "Frankie and Benny's", "amenity": "restaurant", "type": "shops" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.540721, 53.788659 ], [ -1.5407191, 53.7888684 ], [ -1.5403671, 53.7888675 ], [ -1.5403671, 53.7886606 ], [ -1.540721, 53.788659 ] ] ] ] } }
+{ "type": "Feature", "properties": { "osm_id": 28090828, "centroid": { "latitude": 53.788764, "longitude": -1.540544 }, "area": 908, "name": "Frankie and Benny's", "amenity": "restaurant", "type": "shops", "other_tags": "\"addr:postcode\"=>\"LS10 1ET\",\"addr:street\"=>\"Crown Point Retail Park\",\"addr:unit\"=>\"13\",\"fhrs:id\"=>\"454496\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.540721, 53.788659 ], [ -1.5407191, 53.7888684 ], [ -1.5403671, 53.7888675 ], [ -1.5403671, 53.7886606 ], [ -1.540721, 53.788659 ] ] ] ] } }
 ]
 }

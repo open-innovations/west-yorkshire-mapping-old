@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": "295357074", "type": "sluice" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3581972, 53.7311275 ], [ -1.3582247, 53.7310767 ] ] } }
+{ "type": "Feature", "properties": { "osm_id": "295357074", "type": "sluice", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3581972, 53.7311275 ], [ -1.3582247, 53.7310767 ] ] } }
 ]
 }
