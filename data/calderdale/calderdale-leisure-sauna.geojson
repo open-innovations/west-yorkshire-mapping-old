@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5463222466", "name": "Pound Tan", "other_tags": "\"leisure\"=>\"sauna\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8596131, 53.7233499 ] } }
+]
+}
