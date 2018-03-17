@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "570263046", "type": "footpath", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -2.1411653, 53.7329999 ], [ -2.1418552, 53.7329582 ], [ -2.1421402, 53.7329309 ], [ -2.1421963, 53.7329479 ] ] } }
+]
+}
