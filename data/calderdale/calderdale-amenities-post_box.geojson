@@ -65,7 +65,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "992099553", "amenity": "post_box", "ref": "HX5 136", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8362706, 53.6920115 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1026886671", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\",\"royal_cypher\"=>\"EIIR\",\"post_box:type\"=>\"pillar\",\"post_box:design\"=>\"type_c\",\"post_box:apertures\"=>\"2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.781486, 53.7018579 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1028772153", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7986841, 53.6821497 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1079640246", "amenity": "post_box", "ref": "HX4 123", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8846755, 53.688664 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1079640246", "amenity": "post_box", "ref": "HX4 123", "other_tags": "\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8847273, 53.6886916 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1079640419", "amenity": "post_box", "ref": "HX4 216", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8876954, 53.6843818 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1109985389", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8955414, 53.710624 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1109985392", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9062563, 53.7098535 ] } },
@@ -148,6 +148,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5275328581", "amenity": "post_box", "other_tags": "\"drive_through\"=>\"no\",\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9067261, 53.7114288 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5322530424", "amenity": "post_box", "other_tags": "\"addr:city\"=>\"Rastrick, Brighouse\",\"addr:postcode\"=>\"HD6 3NF\",\"addr:street\"=>\"Church Street\",\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7912029, 53.6910747 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5322530428", "amenity": "post_box", "other_tags": "\"addr:city\"=>\"Rastrick\",\"addr:postcode\"=>\"HD6 3NE\",\"addr:street\"=>\"Chapel Croft\",\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7939828, 53.6885585 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5322531846", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7814767, 53.701835 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5322531846", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7814767, 53.701835 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5485090672", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9729844, 53.6685316 ] } }
 ]
 }

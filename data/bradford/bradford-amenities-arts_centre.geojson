@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "317592558", "name": "Impressions Gallery", "amenity": "arts_centre", "other_tags": "\"url\"=>\"http:\/\/www.impressions-gallery.com\/\",\"tourism\"=>\"attraction\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7555827, 53.7927902 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "317592558", "name": "Impressions Gallery", "amenity": "arts_centre", "other_tags": "\"tourism\"=>\"attraction\",\"url\"=>\"http:\/\/www.impressions-gallery.com\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7555261, 53.7927944 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "331482402", "name": "Khidmat Centre", "amenity": "arts_centre", "other_tags": "\"building\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7817974, 53.7873778 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "332445920", "name": "1853 Gallery", "amenity": "arts_centre", "other_tags": "\"leisure\"=>\"art_centre\",\"opening_hours\"=>\"Mo-Fr 10:00-17:30; Sa, Su 10:00-18:00\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7883178, 53.8383545 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "337646422", "amenity": "arts_centre", "other_tags": "\"building\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7724962, 53.8119824 ] } }
