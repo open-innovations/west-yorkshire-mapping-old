@@ -6358,6 +6358,6 @@
 { "type": "Feature", "properties": { "osm_id": "568596117", "name": "Greenside", "type": "unclassified", "z_order": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7122177, 53.7216884 ], [ -1.7124925, 53.7219038 ], [ -1.7125601, 53.7219653 ], [ -1.7126555, 53.7220788 ], [ -1.7127339, 53.7221847 ], [ -1.7129236, 53.7224639 ], [ -1.7131644, 53.7228173 ], [ -1.7134415, 53.7231921 ], [ -1.7134886, 53.7232558 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "568596128", "name": "Prospect Road", "type": "unclassified", "z_order": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7173725, 53.7250547 ], [ -1.7174532, 53.7254404 ], [ -1.7174957, 53.7256439 ], [ -1.7175748, 53.7261957 ], [ -1.7175984, 53.7265233 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "569121952", "name": "Cumberworth Lane", "type": "unclassified", "z_order": 3, "other_tags": "\"lit\"=>\"yes\",\"maxspeed\"=>\"30 mph\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7024251, 53.573347 ], [ -1.6989438, 53.5738821 ], [ -1.6974247, 53.5741126 ], [ -1.6972191, 53.5741438 ], [ -1.6949502, 53.574488 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "570253576", "type": "unclassified", "z_order": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6261344, 53.8263 ], [ -1.6258448, 53.8261927 ] ] } }
+{ "type": "Feature", "properties": { "osm_id": "570253576", "type": "unclassified", "z_order": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6261159, 53.8262796 ], [ -1.6260128, 53.8262384 ] ] } }
 ]
 }
