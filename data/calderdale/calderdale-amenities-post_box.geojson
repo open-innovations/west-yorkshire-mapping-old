@@ -149,6 +149,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5322530424", "amenity": "post_box", "other_tags": "\"addr:city\"=>\"Rastrick, Brighouse\",\"addr:postcode\"=>\"HD6 3NF\",\"addr:street\"=>\"Church Street\",\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7912029, 53.6910747 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5322530428", "amenity": "post_box", "other_tags": "\"addr:city\"=>\"Rastrick\",\"addr:postcode\"=>\"HD6 3NE\",\"addr:street\"=>\"Chapel Croft\",\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7939828, 53.6885585 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5322531846", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7814767, 53.701835 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5485090672", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9729844, 53.6685316 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5485090672", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9729844, 53.6685316 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5513335828", "amenity": "post_box" }, "geometry": { "type": "Point", "coordinates": [ -1.7764009, 53.7234559 ] } }
 ]
 }
