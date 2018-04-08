@@ -21,6 +21,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "895381420", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8413638, 53.788821 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1107869370", "name": "Crawshaw Spring", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.861163, 53.9100769 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1885313669", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8583524, 53.9137549 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2078442230", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9312925, 53.8022919 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2078442232", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.932437, 53.8034691 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2078442267", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9314212, 53.802878 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2677407078", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.800432, 53.8860492 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2778974506", "name": "Lady Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7458114, 53.8852515 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2779101821", "name": "Craven Hall Spring", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.777966, 53.8922875 ] } },
@@ -28,6 +31,10 @@
 	{ "type": "Feature", "properties": { "osm_id": "2807962318", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8769514, 53.8895759 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2807962369", "name": "Rivock Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8761456, 53.8893629 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4988444845", "name": "Silver Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8520758, 53.9130479 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4988488393", "name": "Fanny Shaw Low Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8349505, 53.8765593 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "4988488393", "name": "Fanny Shaw Low Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8349505, 53.8765593 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5536001469", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.919205, 53.804774 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5536471180", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9320971, 53.7974065 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5536471437", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9271122, 53.7998508 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5536471750", "other_tags": "\"natural\"=>\"spring\",\"water\"=>\"Stone Trough\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9275091, 53.8019077 ] } }
 ]
 }
