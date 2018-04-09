@@ -156,6 +156,12 @@
 	{ "type": "Feature", "properties": { "osm_id": "5535874187", "other_tags": "\"leaf_cycle\"=>\"deciduous\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9042236, 53.8072243 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5535874188", "other_tags": "\"leaf_cycle\"=>\"deciduous\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9042397, 53.8072845 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5535874189", "other_tags": "\"leaf_cycle\"=>\"deciduous\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9041807, 53.8073954 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5535874366", "other_tags": "\"leaf_cycle\"=>\"deciduous\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9106099, 53.8068616 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5535874366", "other_tags": "\"leaf_cycle\"=>\"deciduous\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9106099, 53.8068616 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5537426298", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7813835, 53.9047001 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5537426299", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7809624, 53.9043414 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5537426300", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7809892, 53.9044583 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5537428546", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7813583, 53.9043695 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5537428547", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7813127, 53.9043141 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5537428548", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7812537, 53.904262 ] } }
 ]
 }
