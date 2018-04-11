@@ -38,7 +38,6 @@
 { "type": "Feature", "properties": { "osm_id": "448580670", "type": "disused", "z_order": 5, "other_tags": "\"service\"=>\"yard\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5266148, 53.7971979 ], [ -1.5264538, 53.7970489 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "521943665", "type": "disused", "z_order": 5 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.438277, 53.8052938 ], [ -1.4349006, 53.805018 ], [ -1.4346294, 53.8049959 ], [ -1.4337458, 53.8049237 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "521943666", "type": "disused", "z_order": 5 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4346294, 53.8049959 ], [ -1.4345024, 53.8049714 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "521943667", "type": "disused", "z_order": 5 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4349006, 53.805018 ], [ -1.4353005, 53.8050815 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "577552528", "name": "Air Vent", "type": "disused", "z_order": 5, "other_tags": "\"tower:type\"=>\"air_vent\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9272195, 53.7992758 ], [ -1.9272242, 53.7992856 ], [ -1.9272186, 53.7992952 ], [ -1.9272047, 53.7993011 ], [ -1.9271882, 53.7993014 ], [ -1.9271742, 53.7992963 ], [ -1.9271673, 53.7992874 ], [ -1.9271699, 53.7992778 ], [ -1.927184, 53.7992697 ], [ -1.9272036, 53.7992689 ], [ -1.9272195, 53.7992758 ] ] } }
+{ "type": "Feature", "properties": { "osm_id": "521943667", "type": "disused", "z_order": 5 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4349006, 53.805018 ], [ -1.4353005, 53.8050815 ] ] } }
 ]
 }
