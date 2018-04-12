@@ -4,7 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "28168221", "name": "Ilkley Post Office", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.8221412, 53.9246492 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "269032264", "name": "Idle Post Office", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.7307321, 53.8349516 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "300581088", "name": "Killinghall Road Post Office", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.7256258, 53.8052939 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301153372", "amenity": "post_office", "other_tags": "\"odbl\"=>\"clean\"" }, "geometry": { "type": "Point", "coordinates": [ -1.734402, 53.7824391 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301269196", "name": "Southfield Lane Post Office", "amenity": "post_office", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:housenumber\"=>\"6\",\"addr:postcode\"=>\"BD5 9HS\",\"addr:street\"=>\"Southfield Lane\",\"fhrs:id\"=>\"324607\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7729299, 53.7760534 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "303039739", "name": "Hall Lane", "amenity": "post_office", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:housenumber\"=>\"23-25\",\"addr:postcode\"=>\"BD4 7AB\",\"addr:street\"=>\"Hall Lane\",\"fhrs:id\"=>\"324846\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.744851, 53.7882836 ] } },
@@ -43,7 +42,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "1038799950", "name": "Shipley Post Office", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.778915, 53.8322147 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1633040689", "name": "Thornbury Post Office", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.7122476, 53.7972294 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1633040695", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.7182563, 53.7875328 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1633040704", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.7291353, 53.8091538 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1651495242", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.7656038, 53.8029727 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1654165549", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.7427349, 53.804876 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2196359306", "name": "Haword Road Post Office", "amenity": "post_office", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8154908, 53.8160979 ] } },
