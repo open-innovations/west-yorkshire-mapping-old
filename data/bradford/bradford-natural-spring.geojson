@@ -35,6 +35,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "5536001469", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.919205, 53.804774 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5536471180", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9320971, 53.7974065 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5536471437", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9271122, 53.7998508 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5536471750", "other_tags": "\"natural\"=>\"spring\",\"water\"=>\"Stone Trough\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9275091, 53.8019077 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5536471750", "other_tags": "\"natural\"=>\"spring\",\"water\"=>\"Stone Trough\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9275091, 53.8019077 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5557487457", "name": "stone trough", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.906598, 53.8064182 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5557487503", "name": "stone trough", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9035664, 53.8065369 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5557540523", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9080291, 53.8056912 ] } }
 ]
 }

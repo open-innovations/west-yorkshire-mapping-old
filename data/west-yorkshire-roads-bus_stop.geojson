@@ -4,6 +4,7 @@
 "features": [
 { "type": "Feature", "properties": { "osm_id": "441496388", "type": "bus_stop", "z_order": 0, "other_tags": "\"bus\"=>\"yes\",\"public_transport\"=>\"platform\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4547164, 53.8146615 ], [ -1.4545174, 53.8147426 ], [ -1.4544038, 53.8147889 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "568691300", "type": "bus_stop", "z_order": 0, "other_tags": "\"bus\"=>\"yes\",\"public_transport\"=>\"platform\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.43885, 53.807813 ], [ -1.4389791, 53.8077665 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "579621355", "type": "bus_stop", "z_order": 0, "other_tags": "\"bus\"=>\"yes\",\"public_transport\"=>\"platform\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4830337, 53.8031197 ], [ -1.4830826, 53.8031221 ], [ -1.483328, 53.8030435 ] ] } }
+{ "type": "Feature", "properties": { "osm_id": "579621355", "type": "bus_stop", "z_order": 0, "other_tags": "\"bus\"=>\"yes\",\"public_transport\"=>\"platform\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4830337, 53.8031197 ], [ -1.4830826, 53.8031221 ], [ -1.483328, 53.8030435 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "580563233", "type": "bus_stop", "z_order": 0, "other_tags": "\"bus\"=>\"yes\",\"public_transport\"=>\"platform\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4547642, 53.8196997 ], [ -1.4547122, 53.8196008 ] ] } }
 ]
 }
