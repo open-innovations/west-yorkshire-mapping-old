@@ -6370,6 +6370,7 @@
 { "type": "Feature", "properties": { "osm_id": "580258038", "name": "Hangram Street", "type": "unclassified", "z_order": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7791731, 53.702928 ], [ -1.7787888, 53.7030007 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "580258039", "name": "Canal Street", "type": "unclassified", "z_order": 3, "other_tags": "\"lanes\"=>\"1\",\"lit\"=>\"yes\",\"oneway\"=>\"yes\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7811272, 53.7009233 ], [ -1.7811214, 53.7011808 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "580258043", "name": "Bethel Street", "type": "unclassified", "z_order": 3, "other_tags": "\"lit\"=>\"yes\",\"oneway\"=>\"yes\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7811214, 53.7011808 ], [ -1.7814194, 53.7011945 ], [ -1.7815696, 53.7012014 ], [ -1.7816853, 53.7012241 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "580258044", "name": "Canal Street", "type": "unclassified", "z_order": 3, "other_tags": "\"lanes\"=>\"1\",\"lit\"=>\"yes\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7811292, 53.7008211 ], [ -1.7811272, 53.7009233 ] ] } }
+{ "type": "Feature", "properties": { "osm_id": "580258044", "name": "Canal Street", "type": "unclassified", "z_order": 3, "other_tags": "\"lanes\"=>\"1\",\"lit\"=>\"yes\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7811292, 53.7008211 ], [ -1.7811272, 53.7009233 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "581010712", "type": "unclassified", "z_order": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7828185, 53.7576152 ], [ -1.7824241, 53.757625 ], [ -1.7821015, 53.7576641 ], [ -1.7817523, 53.7577537 ] ] } }
 ]
 }
