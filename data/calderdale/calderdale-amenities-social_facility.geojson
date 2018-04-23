@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "5569969824", "name": "Better Lives at 42", "amenity": "social_facility", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"42\",\"addr:street\"=>\"Market Street\",\"social_facility\"=>\"outreach\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8587735, 53.7221374 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.688829, "longitude": -1.858479 }, "osm_way_id": "461618689", "name": "Calderdale Retreat", "amenity": "social_facility", "building": "apartments", "other_tags": "\"addr:city\"=>\"Greetland, Halifax\",\"addr:housename\"=>\"Calderdale Retreat\",\"addr:postcode\"=>\"HX4 8HE\",\"addr:street\"=>\"Rochdale Road\",\"fhrs:id\"=>\"938926\",\"phone\"=>\"+44 1422 311177\",\"social_facility\"=>\"nursing_home\",\"social_facility:for\"=>\"senior\",\"website\"=>\"http:\/\/calderdaleretreat.com\/\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8591444, 53.6888863 ], [ -1.8578147, 53.6888804 ], [ -1.8578072, 53.688772 ], [ -1.8591511, 53.6887811 ], [ -1.8591444, 53.6888863 ] ] ] } }
 ]
 }

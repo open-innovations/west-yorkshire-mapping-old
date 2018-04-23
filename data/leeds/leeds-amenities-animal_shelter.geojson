@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.882686, "longitude": -1.578394 }, "osm_way_id": "582565954", "name": "Donkey Sanctuary Assisted Therapy Centre", "amenity": "animal_shelter", "other_tags": "\"animal_shelter\"=>\"donkey\",\"description\"=>\"Caring for abandoned, sick & elderly donkeys\",\"url\"=>\"http:\/\/www.thedonkeysanctuary.org.uk\/contact\/leeds\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5802737, 53.8824584 ], [ -1.5806665, 53.8827959 ], [ -1.580422, 53.8833004 ], [ -1.5786205, 53.8828218 ], [ -1.5783401, 53.8830284 ], [ -1.5777611, 53.8828009 ], [ -1.5764155, 53.882719 ], [ -1.5761661, 53.8826536 ], [ -1.5761223, 53.8825212 ], [ -1.5762484, 53.8821417 ], [ -1.5766346, 53.8820722 ], [ -1.5788823, 53.8822018 ], [ -1.5802737, 53.8824584 ] ] ] } }
+]
+}
