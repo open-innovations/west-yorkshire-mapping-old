@@ -1443,6 +1443,7 @@
 { "type": "Feature", "properties": { "osm_id": "574209975", "type": "steps", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5586122, 53.7995118 ], [ -1.558615, 53.799485 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "574345697", "type": "steps", "z_order": 20, "other_tags": "\"bridge\"=>\"yes\",\"layer\"=>\"1\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8777573, 53.7028146 ], [ -1.8778545, 53.7028446 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "575235234", "type": "steps", "z_order": 0, "other_tags": "\"ramp\"=>\"no\",\"step_count\"=>\"10\",\"surface\"=>\"stone\",\"wheelchair\"=>\"no\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6941671, 53.9040727 ], [ -1.6941364, 53.9040729 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "577457996", "type": "steps", "z_order": 0, "other_tags": "\"surface\"=>\"concrete\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7670522, 53.7860041 ], [ -1.7672839, 53.7860132 ] ] } }
+{ "type": "Feature", "properties": { "osm_id": "577457996", "type": "steps", "z_order": 0, "other_tags": "\"surface\"=>\"concrete\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7670522, 53.7860041 ], [ -1.7672839, 53.7860132 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "582970076", "type": "steps", "z_order": 0, "other_tags": "\"incline\"=>\"up\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7703171, 53.8135434 ], [ -1.7703604, 53.8135118 ] ] } }
 ]
 }
