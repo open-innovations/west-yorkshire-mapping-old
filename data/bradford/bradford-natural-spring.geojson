@@ -39,6 +39,11 @@
 	{ "type": "Feature", "properties": { "osm_id": "5557487457", "name": "stone trough", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.906598, 53.8064182 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5557487503", "name": "stone trough", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9035664, 53.8065369 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5557540523", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9080291, 53.8056912 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5571342460", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9055526, 53.7875625 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5571342460", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9055526, 53.7875625 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5577039460", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9168729, 53.7897444 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5577162088", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9124016, 53.7928389 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5577164983", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9089711, 53.7919104 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5577164988", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.910803, 53.7922321 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5577165984", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9154996, 53.7898966 ] } }
 ]
 }
