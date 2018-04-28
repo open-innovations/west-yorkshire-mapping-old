@@ -27,6 +27,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "580961798", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8910895, 53.7923877 ], [ -1.8912336, 53.791855 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "582365414", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8957236, 53.790011 ], [ -1.8957263, 53.7899813 ], [ -1.8957907, 53.7897397 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "582365415", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.895611, 53.7899988 ], [ -1.8952797, 53.7899576 ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": "583308292", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9088584, 53.7827435 ], [ -1.9089255, 53.7824527 ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "583308292", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9088584, 53.7827435 ], [ -1.9089255, 53.7824527 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "583981160", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9231787, 53.799561 ], [ -1.9233021, 53.8014761 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "583981161", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9233397, 53.7997811 ], [ -1.9233182, 53.7994485 ] ] } }
 ]
 }
