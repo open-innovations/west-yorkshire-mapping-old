@@ -3,7 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "443730337", "name": "Stone Chair Variety Club", "amenity": "nightclub" }, "geometry": { "type": "Point", "coordinates": [ -1.8210267, 53.7460612 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3662361233", "name": "Deja Vu", "amenity": "nightclub" }, "geometry": { "type": "Point", "coordinates": [ -1.8615843, 53.7234284 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3662361234", "name": "Fusion", "amenity": "nightclub" }, "geometry": { "type": "Point", "coordinates": [ -1.8625774, 53.723058 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3662361235", "name": "Maggie's", "amenity": "nightclub", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housename\"=>\"The Groove\",\"addr:postcode\"=>\"HX1 1BX\",\"addr:street\"=>\"Commercial Street\",\"fhrs:id\"=>\"347894\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8625499, 53.7214831 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3662361236", "name": "Panacea", "amenity": "nightclub" }, "geometry": { "type": "Point", "coordinates": [ -1.8626182, 53.7230905 ] } },

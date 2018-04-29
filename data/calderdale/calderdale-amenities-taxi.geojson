@@ -6,6 +6,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1235896482", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.8603177, 53.7207435 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1235927396", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.8618795, 53.7224262 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1414456930", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -2.099317, 53.713846 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.721106, "longitude": -1.854247 }, "osm_way_id": "118687135", "amenity": "taxi", "other_tags": "\"capacity\"=>\"5\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8545104, 53.7211585 ], [ -1.8544797, 53.7211959 ], [ -1.8539843, 53.7210536 ], [ -1.854015, 53.7210162 ], [ -1.8545104, 53.7211585 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.721106, "longitude": -1.854247 }, "osm_way_id": "118687135", "amenity": "taxi", "other_tags": "\"capacity\"=>\"5\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8545104, 53.7211585 ], [ -1.8544797, 53.7211959 ], [ -1.8539843, 53.7210536 ], [ -1.854015, 53.7210162 ], [ -1.8545104, 53.7211585 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.723471, "longitude": -1.862469 }, "osm_way_id": "566220176", "name": "Crossley's Cars", "amenity": "taxi", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8625259, 53.7235213 ], [ -1.862416, 53.7235229 ], [ -1.8624133, 53.7234308 ], [ -1.862413, 53.7234208 ], [ -1.8625233, 53.7234197 ], [ -1.8625259, 53.7235213 ] ] ] } }
 ]
 }
