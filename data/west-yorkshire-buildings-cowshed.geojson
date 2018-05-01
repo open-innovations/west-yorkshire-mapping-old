@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 584743787, "centroid": { "latitude": 53.798112, "longitude": -1.895474 }, "area": 178, "type": "cowshed", "other_tags": "\"disused\"=>\"yes\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8955895, 53.7981162 ], [ -1.8953991, 53.7981574 ], [ -1.8953562, 53.7980924 ], [ -1.895552, 53.7980496 ], [ -1.8955895, 53.7981162 ] ] ] ] } }
+]
+}
