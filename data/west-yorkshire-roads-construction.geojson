@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": "27291953", "type": "construction", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5215797, 53.7357925 ], [ -1.5223896, 53.7356666 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "27291953", "type": "construction", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5214402, 53.7357988 ], [ -1.5222106, 53.7356915 ], [ -1.5223896, 53.7356666 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "217482114", "name": "Manston Lane Link Road", "type": "construction", "z_order": 0, "other_tags": "\"oneway\"=>\"yes\",\"proposed\"=>\"primary\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.419305, 53.803868 ], [ -1.4192149, 53.8042656 ], [ -1.4191765, 53.8045566 ], [ -1.4192782, 53.80467 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "217482117", "name": "Manston Lane Link Road", "type": "construction", "z_order": 20, "other_tags": "\"bridge\"=>\"yes\",\"layer\"=>\"1\",\"oneway\"=>\"yes\",\"proposed\"=>\"primary\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4194461, 53.8035431 ], [ -1.419305, 53.803868 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "332308526", "name": "Manston Lane Link Road", "type": "construction", "z_order": 0, "other_tags": "\"oneway\"=>\"yes\",\"proposed\"=>\"primary\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4192945, 53.8035115 ], [ -1.4198951, 53.8026078 ], [ -1.4201709, 53.8020644 ], [ -1.4202581, 53.8018897 ], [ -1.420349, 53.8016685 ], [ -1.4203118, 53.8014576 ] ] } },
