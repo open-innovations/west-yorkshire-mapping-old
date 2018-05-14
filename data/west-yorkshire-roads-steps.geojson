@@ -1452,6 +1452,10 @@
 { "type": "Feature", "properties": { "osm_id": "587029555", "type": "steps", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8963224, 53.7783051 ], [ -1.8963245, 53.7782781 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "587316897", "type": "steps", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8943933, 53.7870816 ], [ -1.894003, 53.7870071 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "587316920", "type": "steps", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8928081, 53.7898981 ], [ -1.8927462, 53.7898917 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "587526508", "type": "steps", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8928855, 53.7882722 ], [ -1.8929368, 53.7882867 ] ] } }
+{ "type": "Feature", "properties": { "osm_id": "587526508", "type": "steps", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8928855, 53.7882722 ], [ -1.8929368, 53.7882867 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "587560719", "type": "steps", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8863419, 53.7873375 ], [ -1.8863849, 53.7873708 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "587641650", "type": "steps", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8922602, 53.7915016 ], [ -1.8920879, 53.7914747 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "587882362", "type": "steps", "z_order": 0 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8912048, 53.7916719 ], [ -1.8911298, 53.7916613 ], [ -1.8910868, 53.7916597 ], [ -1.8910338, 53.7916553 ], [ -1.8909802, 53.7916565 ], [ -1.8909144, 53.7916724 ], [ -1.8908729, 53.7917033 ], [ -1.8908487, 53.7917223 ], [ -1.8908004, 53.7917413 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "587905518", "type": "steps", "z_order": 0, "other_tags": "\"foot\"=>\"yes\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8822976, 53.7989097 ], [ -1.8822334, 53.7988848 ] ] } }
 ]
 }
