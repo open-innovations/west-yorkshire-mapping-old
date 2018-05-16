@@ -4,7 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "268096667", "amenity": "bench", "other_tags": "\"tourism\"=>\"viewpoint\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7617121, 53.8588696 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "302429274", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7576215, 53.7726678 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "344785258", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8403133, 53.850729 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "366919958", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8419555, 53.8595966 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "367520503", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8301655, 53.8522926 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747706098", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7443727, 53.890368 ] } },
