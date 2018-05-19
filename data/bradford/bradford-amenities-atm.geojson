@@ -43,6 +43,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5229255383", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7311409, 53.8081494 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5229255387", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7305963, 53.8084933 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5231639152", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7356412, 53.7968725 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5248165218", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7855153, 53.7996617 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5248165218", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7855153, 53.7996617 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5627340256", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7955217, 53.8352698 ] } }
 ]
 }
