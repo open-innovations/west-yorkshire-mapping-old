@@ -7,7 +7,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "357708693", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.5451807, 53.7956958 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "864535400", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.5524059, 53.8075452 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "876491923", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.5050044, 53.8390118 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2146804712", "name": "MetroCars", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.5405022, 53.8005821 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2146804712", "name": "Street Cars", "amenity": "taxi", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"66a\",\"addr:postcode\"=>\"LS1 6NU\",\"addr:street\"=>\"New Briggate\",\"level\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5405022, 53.8005821 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2226280666", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.6596045, 53.8699516 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3671058958", "name": "Royal Cars", "amenity": "taxi", "other_tags": "\"taxi\"=>\"office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5710187, 53.8108417 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4319509780", "name": "White Rose Cars", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.5350789, 53.8073136 ] } },

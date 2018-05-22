@@ -159,6 +159,6 @@
 { "type": "Feature", "properties": { "osm_id": "577891679", "type": "road", "z_order": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4426398, 53.8226202 ], [ -1.442783, 53.8227063 ], [ -1.4428365, 53.8227384 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "585787119", "name": "Manston Lane", "type": "road", "z_order": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4188442, 53.8050557 ], [ -1.4185274, 53.8050613 ], [ -1.4182131, 53.805034 ], [ -1.4179084, 53.8049946 ], [ -1.4177026, 53.804926 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "585787120", "name": "Manston Lane", "type": "road", "z_order": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4194185, 53.805 ], [ -1.4197044, 53.8049994 ], [ -1.4201111, 53.8049776 ], [ -1.4208567, 53.8048542 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "588206892", "name": "Jori Road", "type": "road", "z_order": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3822393, 53.7627051 ], [ -1.3823099, 53.7627955 ], [ -1.382314, 53.7629397 ], [ -1.382379, 53.7630503 ], [ -1.382623, 53.7633122 ], [ -1.3830864, 53.7637568 ] ] } }
+{ "type": "Feature", "properties": { "osm_id": "588206892", "type": "road", "z_order": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3822393, 53.7627051 ], [ -1.3823099, 53.7627955 ], [ -1.382314, 53.7629397 ], [ -1.382379, 53.7630503 ], [ -1.382623, 53.7633122 ], [ -1.3830864, 53.7637568 ] ] } }
 ]
 }
