@@ -1470,6 +1470,6 @@
 { "type": "Feature", "properties": { "osm_id": "589094541", "type": "steps", "z_order": 0, "other_tags": "\"incline\"=>\"down\",\"material\"=>\"stone\",\"step_count\"=>\"2\",\"surface\"=>\"stone\",\"width\"=>\"0.6\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7592099, 53.666218 ], [ -1.7591768, 53.6662316 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "589094542", "type": "steps", "z_order": 0, "other_tags": "\"incline\"=>\"down\",\"material\"=>\"wood\",\"step_count\"=>\"3\",\"surface\"=>\"ground\",\"width\"=>\"0.6\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7624152, 53.6643682 ], [ -1.762383, 53.6643952 ] ] } },
 { "type": "Feature", "properties": { "osm_id": "589290080", "type": "steps", "z_order": 0, "other_tags": "\"incline\"=>\"down\",\"material\"=>\"stone\",\"step_count\"=>\"5\",\"width\"=>\"1\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8920594, 53.6233393 ], [ -1.8920871, 53.623349 ] ] } },
-{ "type": "Feature", "properties": { "osm_id": "589450563", "type": "steps", "z_order": 0, "other_tags": "\"access\"=>\"no\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9440097, 53.806033 ], [ -1.9439768, 53.8060257 ], [ -1.943817, 53.8059897 ] ] } }
+{ "type": "Feature", "properties": { "osm_id": "589450563", "type": "steps", "z_order": 0, "other_tags": "\"access\"=>\"no\",\"handrail:right\"=>\"yes\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9440097, 53.806033 ], [ -1.9439768, 53.8060257 ], [ -1.943817, 53.8059897 ] ] } }
 ]
 }
