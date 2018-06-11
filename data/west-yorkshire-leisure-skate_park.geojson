@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": 34003085, "centroid": { "latitude": 53.784201, "longitude": -1.549911 }, "area": 946, "type": "skate_park", "sport": "skateboard", "other_tags": "\"start_date\"=>\"2005-02-11\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5501382, 53.7841278 ], [ -1.5499273, 53.784364 ], [ -1.5497558, 53.7843059 ], [ -1.5497132, 53.7842325 ], [ -1.5498792, 53.7840396 ], [ -1.5501382, 53.7841278 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.784202, "longitude": -1.549926 }, "osm_way_id": "34003085", "leisure": "skate_park", "sport": "skateboard", "other_tags": "\"start_date\"=>\"2005-02-11\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5501382, 53.7841278 ], [ -1.5499273, 53.784364 ], [ -1.5497558, 53.7843059 ], [ -1.5497132, 53.7842325 ], [ -1.5498792, 53.7840396 ], [ -1.5501382, 53.7841278 ] ] ] ] } }
 ]
 }

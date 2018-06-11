@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": 148714551, "centroid": { "latitude": 53.707594, "longitude": -1.675183 }, "area": 198, "name": "Micariders", "type": "hardware", "building": "yes", "other_tags": "\"phone\"=>\"+44 1924 412107\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6752326, 53.7075117 ], [ -1.6753084, 53.7075492 ], [ -1.675133, 53.7076734 ], [ -1.6750572, 53.7076359 ], [ -1.6752326, 53.7075117 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.707593, "longitude": -1.675183 }, "osm_way_id": "148714551", "name": "Micariders", "amenity": "hardware", "building": "yes", "other_tags": "\"phone\"=>\"+44 1924 412107\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6752326, 53.7075117 ], [ -1.6753084, 53.7075492 ], [ -1.675133, 53.7076734 ], [ -1.6750572, 53.7076359 ], [ -1.6752326, 53.7075117 ] ] ] ] } }
 ]
 }

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "4994790478", "name": "Wakefield Dog Training Centre", "amenity": "animal_training", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:housename\"=>\"Goldwing Farm\",\"addr:postcode\"=>\"WF2 6PR\",\"addr:street\"=>\"Shay Lane\",\"animal\"=>\"dog\",\"phone\"=>\"+44 1924 566054\",\"website\"=>\"http:\/\/www.wakefielddogtrainingcentre.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.449795, 53.6535768 ] } }
+]
+}

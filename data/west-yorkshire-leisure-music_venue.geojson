@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "1015090542", "name": "Warehouse 23", "amenity": "music_venue", "other_tags": "\"leisure\"=>\"music_venue\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5020639, 53.6803989 ] } }
+]
+}
