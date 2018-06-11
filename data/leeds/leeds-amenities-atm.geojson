@@ -11,7 +11,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "244325312", "amenity": "atm", "other_tags": "\"operator\"=>\"HSBC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.547125, 53.7980265 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "244334286", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.544598, 53.7973224 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "244334812", "amenity": "atm", "other_tags": "\"operator\"=>\"Santander\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5469522, 53.7983298 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "244334951", "amenity": "atm", "other_tags": "\"drive_through\"=>\"no\",\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5464704, 53.7997122 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "244334951", "amenity": "atm", "other_tags": "\"drive_through\"=>\"no\",\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.546512, 53.7997162 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "244335543", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5447392, 53.7995421 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "244336226", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5445705, 53.8002989 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "247432049", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5763181, 53.8201132 ] } },
@@ -181,6 +181,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "5340856637", "amenity": "atm", "other_tags": "\"operator\"=>\"Lloyds Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5423788, 53.7979424 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5475771248", "amenity": "atm", "other_tags": "\"operator\"=>\"Post Office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7128211, 53.87419 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5475771249", "amenity": "atm", "other_tags": "\"operator\"=>\"Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7128077, 53.8742612 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5570965013", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.493018, 53.8091566 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5570965013", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.493018, 53.8091566 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5642157014", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6409055, 53.8375549 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5642157015", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6407344, 53.8376399 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5642157016", "amenity": "atm", "other_tags": "\"operator\"=>\"Santander\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6404544, 53.8378008 ] } }
 ]
 }
