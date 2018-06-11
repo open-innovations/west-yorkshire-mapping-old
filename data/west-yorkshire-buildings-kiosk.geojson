@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 164960346, "centroid": { "latitude": 53.736076, "longitude": -1.608851 }, "area": 258, "name": "ASDA Morley (Fuel Shop)", "amenity": "fuel", "type": "kiosk", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS27 0BP\",\"addr:street\"=>\"Howley Park Road\",\"drive_through\"=>\"yes\",\"operator\"=>\"ASDA\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6088957, 53.7361486 ], [ -1.6087526, 53.7361307 ], [ -1.6088033, 53.7359928 ], [ -1.6089519, 53.7360148 ], [ -1.6088957, 53.7361486 ] ] ] ] } }
-]
-}

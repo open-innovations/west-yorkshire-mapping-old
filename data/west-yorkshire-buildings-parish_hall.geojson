@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 98483597, "centroid": { "latitude": 53.710423, "longitude": -1.244067 }, "area": 488, "name": "St Botolph's Parish Hall", "amenity": "community_centre", "type": "parish_hall", "other_tags": "\"community_centre\"=>\"parish_hall\",\"community_centre:for\"=>\"religious\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.243952, 53.7104888 ], [ -1.2442429, 53.710473 ], [ -1.2442244, 53.710354 ], [ -1.2439335, 53.7103698 ], [ -1.2439385, 53.7104019 ], [ -1.2438612, 53.7104061 ], [ -1.2438703, 53.7104648 ], [ -1.2439476, 53.7104605 ], [ -1.243952, 53.7104888 ] ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 441977131, "centroid": { "latitude": 53.634500, "longitude": -1.433909 }, "area": 38, "type": "bird_hide", "man_made": "wildlife_hide" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4339642, 53.6344562 ], [ -1.4339566, 53.6344277 ], [ -1.4338517, 53.6344376 ], [ -1.4338593, 53.634466 ], [ -1.4339642, 53.6344562 ] ] ] ] } }
-]
-}

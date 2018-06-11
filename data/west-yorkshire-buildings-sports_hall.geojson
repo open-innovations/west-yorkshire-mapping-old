@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 106846319, "centroid": { "latitude": 53.694105, "longitude": -1.644749 }, "area": 469, "type": "sports_hall" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6447396, 53.6939906 ], [ -1.6449217, 53.6940659 ], [ -1.6447556, 53.6942067 ], [ -1.6446967, 53.6941824 ], [ -1.6446512, 53.6941636 ], [ -1.6445771, 53.6941329 ], [ -1.6446825, 53.694039 ], [ -1.6447396, 53.6939906 ] ] ] ] } },
-{ "type": "Feature", "properties": { "osm_id": 106846321, "centroid": { "latitude": 53.693719, "longitude": -1.644945 }, "area": 1126, "type": "sports_hall" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6448146, 53.6935596 ], [ -1.6452436, 53.693737 ], [ -1.6450753, 53.6938796 ], [ -1.6449376, 53.6938227 ], [ -1.6448322, 53.6937791 ], [ -1.6446463, 53.6937022 ], [ -1.6448146, 53.6935596 ] ] ] ] } }
-]
-}

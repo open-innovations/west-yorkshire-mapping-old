@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 230190029, "centroid": { "latitude": 53.816432, "longitude": -1.732443 }, "area": 1715, "type": "gym" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7325147, 53.8162256 ], [ -1.7327937, 53.8164061 ], [ -1.7323645, 53.8166342 ], [ -1.7320963, 53.8164568 ], [ -1.7325147, 53.8162256 ] ] ] ] } }
-]
-}

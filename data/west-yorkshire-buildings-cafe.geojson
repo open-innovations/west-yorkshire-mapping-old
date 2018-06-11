@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 543082316, "centroid": { "latitude": 53.848395, "longitude": -1.838843 }, "area": 109, "name": "The Coffee Lounge", "amenity": "cafe", "type": "cafe", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:postcode\"=>\"BD16 2JS\",\"addr:street\"=>\"Queen Street\",\"fhrs:id\"=>\"325694\",\"website\"=>\"https:\/\/www.facebook.com\/thecoffeeloungebingley\/\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.838772, 53.8483652 ], [ -1.838813, 53.8484442 ], [ -1.8389148, 53.8484265 ], [ -1.8388737, 53.8483468 ], [ -1.838772, 53.8483652 ] ] ] ] } },
-{ "type": "Feature", "properties": { "osm_id": 587930898, "centroid": { "latitude": 53.795513, "longitude": -1.892955 }, "area": 171, "type": "cafe" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8929534, 53.7954351 ], [ -1.8930414, 53.7955795 ], [ -1.8929569, 53.7955976 ], [ -1.8928685, 53.7954531 ], [ -1.8929534, 53.7954351 ] ] ] ] } }
-]
-}

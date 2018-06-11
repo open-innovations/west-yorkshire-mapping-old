@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 60667652, "centroid": { "latitude": 53.886305, "longitude": -1.728875 }, "area": 1227, "type": "emergency_services", "other_tags": "\"emergency\"=>\"ambulance_station\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7291752, 53.886437 ], [ -1.7289182, 53.8865139 ], [ -1.7286027, 53.8861475 ], [ -1.7288073, 53.8860862 ], [ -1.729058, 53.8863774 ], [ -1.7291104, 53.8863617 ], [ -1.7291752, 53.886437 ] ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 373305960, "centroid": { "latitude": 53.864418, "longitude": -1.694332 }, "area": 706, "name": "Epilepsy Action", "type": "charity", "other_tags": "\"addr:city\"=>\"Yeadon, Leeds\",\"addr:housename\"=>\"New Anstey House\",\"addr:postcode\"=>\"LS19 7XY\",\"addr:street\"=>\"Gateway Drive\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6944911, 53.8645194 ], [ -1.6945638, 53.8643873 ], [ -1.6941729, 53.8643124 ], [ -1.6941207, 53.8644071 ], [ -1.6941001, 53.8644446 ], [ -1.6944911, 53.8645194 ] ] ] ] } }
-]
-}

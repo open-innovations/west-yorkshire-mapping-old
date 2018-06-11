@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 146978813, "centroid": { "latitude": 53.818158, "longitude": -1.861666 }, "area": 1063, "name": "Wilsden Medical Centre", "amenity": "doctors", "type": "doctors" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8619571, 53.8182286 ], [ -1.861915, 53.8181576 ], [ -1.8618563, 53.8181698 ], [ -1.8617759, 53.8180341 ], [ -1.8615633, 53.8180781 ], [ -1.8615437, 53.818045 ], [ -1.8613933, 53.8180761 ], [ -1.8614869, 53.8182339 ], [ -1.8615404, 53.8182228 ], [ -1.8615633, 53.8182524 ], [ -1.8616009, 53.8182599 ], [ -1.8616452, 53.8182545 ], [ -1.8616659, 53.8182888 ], [ -1.8619571, 53.8182286 ] ] ] ] } },
-{ "type": "Feature", "properties": { "osm_id": 461758563, "centroid": { "latitude": 53.802856, "longitude": -1.895266 }, "area": 175, "type": "doctors" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8953416, 53.8029046 ], [ -1.8953437, 53.8028119 ], [ -1.8951907, 53.8028107 ], [ -1.8951887, 53.8029034 ], [ -1.8953416, 53.8029046 ] ] ] ] } }
-]
-}

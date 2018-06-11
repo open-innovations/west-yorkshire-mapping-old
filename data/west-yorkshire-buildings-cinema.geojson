@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 516684625, "centroid": { "latitude": 53.645359, "longitude": -1.737232 }, "area": 1189, "type": "cinema", "other_tags": "\"building:use\"=>\"retail\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7374068, 53.6455345 ], [ -1.7373071, 53.6451582 ], [ -1.7370577, 53.6451814 ], [ -1.7371573, 53.6455577 ], [ -1.7374068, 53.6455345 ] ] ] ] } }
-]
-}

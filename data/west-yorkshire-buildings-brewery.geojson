@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 203450495, "centroid": { "latitude": 53.790713, "longitude": -1.554189 }, "area": 463, "name": "The Old Flax Store", "type": "brewery", "other_tags": "\"levels\"=>\"3\",\"website\"=>\"http:\/\/www.northernmonkbrewco.com\/old-flax-store\/the-refectory\",\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS11 9YJ\",\"addr:housename\"=>\"The Old Flax Store, Marshalls Mill\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.554207, 53.7908258 ], [ -1.554032, 53.7907776 ], [ -1.5541708, 53.7906019 ], [ -1.5543457, 53.7906501 ], [ -1.554207, 53.7908258 ] ] ] ] } },
-{ "type": "Feature", "properties": { "osm_id": 226077181, "centroid": { "latitude": 53.838489, "longitude": -1.766763 }, "area": 543, "name": "Saltaire Brewery", "type": "brewery", "craft": "brewery", "other_tags": "\"website\"=>\"http:\/\/saltairebrewery.co.uk\",\"addr:street\"=>\"Dockfield Road\",\"addr:postcode\"=>\"BD17 7AR\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7667359, 53.8383606 ], [ -1.7665775, 53.8384196 ], [ -1.7667895, 53.838618 ], [ -1.766948, 53.838559 ], [ -1.7667359, 53.8383606 ] ] ] ] } }
-]
-}

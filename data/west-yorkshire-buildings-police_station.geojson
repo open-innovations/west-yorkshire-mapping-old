@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 36991885, "centroid": { "latitude": 53.907421, "longitude": -1.694836 }, "area": 870, "name": "Otley Police Station", "amenity": "police", "type": "police_station", "other_tags": "\"addr:city\"=>\"Otley\",\"addr:postcode\"=>\"LS21 3BA\",\"addr:street\"=>\"Bridge Street\",\"description\"=>\"No public desk at this location.\",\"wheelchair\"=>\"no\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6950851, 53.9074687 ], [ -1.6947726, 53.9075049 ], [ -1.6946384, 53.9075205 ], [ -1.6945877, 53.9073688 ], [ -1.6950343, 53.9073169 ], [ -1.6950851, 53.9074687 ] ] ] ] } }
-]
-}

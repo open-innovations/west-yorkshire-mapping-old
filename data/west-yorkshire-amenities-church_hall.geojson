@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 470007764, "centroid": { "latitude": 53.818310, "longitude": -1.600702 }, "area": 635, "name": "St Stephen's Church Hall", "type": "church_hall", "building": "yes", "other_tags": "\"alt_name\"=>\"St Stephens Parish Hall\",\"addr:street\"=>\"Norman Street\",\"addr:postcode\"=>\"LS5 3JN\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6007223, 53.8183922 ], [ -1.6006769, 53.8184119 ], [ -1.6004971, 53.818267 ], [ -1.6006998, 53.8181794 ], [ -1.6008796, 53.8183243 ], [ -1.6008429, 53.8183401 ], [ -1.6008847, 53.8183739 ], [ -1.6007642, 53.818426 ], [ -1.6007223, 53.8183922 ] ] ] ] } }
-]
-}

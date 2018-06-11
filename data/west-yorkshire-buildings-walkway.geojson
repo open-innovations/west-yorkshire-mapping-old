@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 546379049, "centroid": { "latitude": 53.622906, "longitude": -1.877990 }, "area": 11, "type": "walkway", "other_tags": "\"covered\"=>\"yes\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8780293, 53.6226754 ], [ -1.8779403, 53.6226985 ], [ -1.877936, 53.6226895 ], [ -1.8780243, 53.6226668 ], [ -1.8780293, 53.6226754 ] ] ] ] } },
-{ "type": "Feature", "properties": { "osm_id": 549375470, "centroid": { "latitude": 53.625087, "longitude": -1.879914 }, "area": 10, "type": "walkway", "other_tags": "\"covered\"=>\"yes\",\"level\"=>\"1\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8799649, 53.6249564 ], [ -1.8798602, 53.6249875 ], [ -1.879855, 53.6249815 ], [ -1.8799598, 53.6249504 ], [ -1.8799649, 53.6249564 ] ] ] ] } }
-]
-}

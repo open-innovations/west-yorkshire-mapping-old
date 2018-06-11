@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 150784415, "centroid": { "latitude": 53.909072, "longitude": -1.689286 }, "area": 562, "name": "North Avenue sub-station", "type": "sub_station", "other_tags": "\"ref\"=>\"5189\",\"power\"=>\"sub_station\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6894548, 53.909153 ], [ -1.689259, 53.9091972 ], [ -1.6891598, 53.9090677 ], [ -1.6891946, 53.9090582 ], [ -1.6891303, 53.9089855 ], [ -1.689318, 53.9089365 ], [ -1.6893529, 53.9089697 ], [ -1.6893153, 53.9089792 ], [ -1.6894548, 53.909153 ] ] ] ] } }
-]
-}

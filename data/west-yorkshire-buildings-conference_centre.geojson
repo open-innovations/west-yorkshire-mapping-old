@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "osm_id": 154560121, "centroid": { "latitude": 53.703183, "longitude": -1.776704 }, "area": 467, "type": "conference_centre" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7768699, 53.7032574 ], [ -1.7767228, 53.7033062 ], [ -1.7765376, 53.7031106 ], [ -1.7766846, 53.7030618 ], [ -1.7768699, 53.7032574 ] ] ] ] } }
-]
-}
