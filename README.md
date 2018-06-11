@@ -5,13 +5,9 @@
 The data are downloaded in the form of [a PBF file for West Yorkshire](http://download.geofabrik.de/europe/great-britain/england/west-yorkshire-latest.osm.pbf) [prepared by GeoFabrik](http://download.geofabrik.de/europe/great-britain/england/west-yorkshire.html). This master file is then processed using the command line tool `ogr2ogr` to create separate geojson files for different types (the sub-types are defined by the data in OSM itself) under the following main categories:
 
   * amenities
-  * buildings
   * landusage
   * leisure
   * natural
-  * railways
-  * roads
-  * waterways
 
 ## Cities
 
