@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1235353099", "name": "Enterprise", "amenity": "car_rental" }, "geometry": { "type": "Point", "coordinates": [ -1.8817384, 53.7127698 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.726459, "longitude": -1.859162 }, "osm_way_id": "117908137", "name": "Dews", "amenity": "car_rental", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8592735, 53.7263803 ], [ -1.8593282, 53.7264873 ], [ -1.8590498, 53.7265371 ], [ -1.8589952, 53.72643 ], [ -1.8592735, 53.7263803 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "300982254", "amenity": "car_rental", "other_tags": "\"operator\"=>\"Eurocar\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7505672, 53.7860135 ] } }
 ]
 }

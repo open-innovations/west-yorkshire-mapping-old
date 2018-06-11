@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.939627, "longitude": -1.862046 }, "osm_way_id": "196264711", "natural": "beach" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8619843, 53.9394952 ], [ -1.8621291, 53.9395521 ], [ -1.8620985, 53.9397578 ], [ -1.8619896, 53.9397573 ], [ -1.8619628, 53.9396973 ], [ -1.8619843, 53.9394952 ] ] ] } }
+]
+}

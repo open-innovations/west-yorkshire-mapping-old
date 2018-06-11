@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "29457183", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8270048, 53.9030693 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "29457183", "name": "Rombald's Moor", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8270048, 53.9030693 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "29458933", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8872107, 53.8972255 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "280719165", "name": "Spy Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8138573, 53.8784616 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "411747167", "name": "Windgate Nick", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8938689, 53.919963 ] } },
@@ -15,7 +15,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "541437354", "name": "Round Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9998846, 53.8649763 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "541438935", "name": "Wet Head Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9992837, 53.8567508 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "648465435", "name": "Baildon Moor", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7867531, 53.8567017 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "691058944", "name": "Bucking Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8714302, 53.9048471 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "699012293", "name": "Black Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.893136, 53.9185499 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "699092544", "name": "Hog Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8152447, 53.8837643 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "699119530", "name": "Shepherd's Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8678374, 53.9115104 ] } },

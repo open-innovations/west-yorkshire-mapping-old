@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.780914, "longitude": -1.785451 }, "osm_way_id": "75516771", "name": "Great Horton Conservative Clubt", "building": "yes", "leisure": "social_club" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7852473, 53.7808349 ], [ -1.7853332, 53.7807715 ], [ -1.7854466, 53.7808029 ], [ -1.7855156, 53.7808729 ], [ -1.7855477, 53.7809046 ], [ -1.785655, 53.7809743 ], [ -1.7856121, 53.7810124 ], [ -1.785537, 53.7810567 ], [ -1.7854941, 53.781025 ], [ -1.7853975, 53.7809553 ], [ -1.7853117, 53.7808983 ], [ -1.7852473, 53.7808349 ] ] ] } }
+]
+}

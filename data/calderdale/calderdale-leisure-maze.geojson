@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "337691566", "other_tags": "\"leisure\"=>\"maze\",\"tourism\"=>\"attraction\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7721554, 53.8125391 ] } }
+]
+}

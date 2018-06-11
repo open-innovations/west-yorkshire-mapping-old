@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "411728780", "name": "Heber Moss", "other_tags": "\"natural\"=>\"marsh\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8533864, 53.9096015 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "411729181", "name": "Yellow Bog", "other_tags": "\"natural\"=>\"marsh\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8221919, 53.890579 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.892075, "longitude": -1.796648 }, "osm_way_id": "35098035", "name": "Skirtful Spring", "natural": "marsh" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7967863, 53.8922599 ], [ -1.796423877770465, 53.892270074525527 ], [ -1.796659521103123, 53.891889770070058 ], [ -1.7968721, 53.8918806 ], [ -1.7967863, 53.8922599 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.951917, "longitude": -1.958040 }, "osm_way_id": "36958348", "natural": "marsh" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9558854, 53.9518274 ], [ -1.9598765, 53.9514486 ], [ -1.960193764042511, 53.952077447370009 ], [ -1.9566147230191, 53.952386338174612 ], [ -1.9558854, 53.9518274 ] ] ] } }
+]
+}

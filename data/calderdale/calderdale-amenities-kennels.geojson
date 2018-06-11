@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.790681, "longitude": -1.884602 }, "osm_way_id": "587856137", "amenity": "kennels", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8845743, 53.7907305 ], [ -1.88451, 53.790679 ], [ -1.8845544, 53.7906597 ], [ -1.8845346, 53.7906439 ], [ -1.8845648, 53.7906308 ], [ -1.8845911, 53.7906519 ], [ -1.8846369, 53.790632 ], [ -1.8846945, 53.7906782 ], [ -1.8845743, 53.7907305 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.790789, "longitude": -1.884751 }, "osm_way_id": "587856138", "amenity": "kennels", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8849264, 53.790768 ], [ -1.8847306, 53.7908766 ], [ -1.8846837, 53.790848 ], [ -1.884575, 53.7907451 ], [ -1.8846931, 53.7907007 ], [ -1.8847252, 53.7907332 ], [ -1.8846689, 53.7907554 ], [ -1.8847387, 53.7908179 ], [ -1.8848822, 53.7907379 ], [ -1.8849264, 53.790768 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.790611, "longitude": -1.884830 }, "osm_way_id": "587856139", "amenity": "kennels", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8846146, 53.7905787 ], [ -1.8848241, 53.7904798 ], [ -1.8850451, 53.7906433 ], [ -1.8848356, 53.7907421 ], [ -1.8846146, 53.7905787 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.790470, "longitude": -1.884603 }, "osm_way_id": "587856140", "amenity": "kennels", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8845062, 53.7905989 ], [ -1.8843688, 53.7904968 ], [ -1.8846996, 53.7903414 ], [ -1.8848369, 53.7904435 ], [ -1.8845062, 53.7905989 ] ] ] } }
+]
+}
