@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "249263546", "name": "St James's A&E", "amenity": "hospital", "other_tags": "\"emergency\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5213303, 53.806396 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "249263546", "name": "St James's Hospital A&E", "amenity": "hospital", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS9 7TF\",\"addr:street\"=>\"Beckett Street\",\"emergency\"=>\"yes\",\"phone\"=>\"+44 113 243 3144\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5213303, 53.806396 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "304990795", "name": "Leeds Dental Institute", "amenity": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -1.5562922, 53.803263 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1716277876", "name": "Copper Hill Nursing Home", "amenity": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -1.5330245, 53.7788859 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2334128868", "name": "Spire Leeds Hospital", "amenity": "hospital", "other_tags": "\"addr:postcode\"=>\"LS8 1NT\",\"addr:street\"=>\"Jackson Avenue\",\"emergency\"=>\"no\",\"fhrs:id\"=>\"322000\",\"website\"=>\"http:\/\/www.spirehealthcare.com\/leeds\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.514019, 53.8323304 ] } },

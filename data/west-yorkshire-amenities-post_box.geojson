@@ -2163,6 +2163,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5629884926", "amenity": "post_box" }, "geometry": { "type": "Point", "coordinates": [ -1.7595774, 53.7933169 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5659255513", "amenity": "post_box" }, "geometry": { "type": "Point", "coordinates": [ -1.7986671, 53.8375958 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5659255752", "amenity": "post_box" }, "geometry": { "type": "Point", "coordinates": [ -1.7877141, 53.8336249 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5693129005", "amenity": "post_box" }, "geometry": { "type": "Point", "coordinates": [ -1.71577, 53.8698455 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5693129005", "amenity": "post_box" }, "geometry": { "type": "Point", "coordinates": [ -1.71577, 53.8698455 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5696939757", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"post\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9281556, 53.8043749 ] } }
 ]
 }
