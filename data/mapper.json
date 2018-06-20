@@ -393,6 +393,18 @@
 		"size": 168339,
 		"colour":"#EF3AAB"
 	},
+	"osm-leeds-charging-station": {
+		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-charging_station.geojson",
+		"name":"Leeds charging stations",
+		"desc":"Open Street Map charging stations",
+		"url":"https://openstreetmap.org/",
+		"owner":"osm",
+		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+		"date":"2018-05-06",
+		"odbl":true,
+		"size": 2051,
+		"colour":"#ffff00"
+	},
 	"osm-leeds-community-centres": {
 		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-community_centre.geojson",
 		"name":"Leeds community centres",
