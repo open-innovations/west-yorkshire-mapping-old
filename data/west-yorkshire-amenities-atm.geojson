@@ -138,7 +138,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "1347992538", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"currency\"=>\"GBP\",\"operator\"=>\"The Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.784424, 53.5724115 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1414371806", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax\",\"description\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0969961, 53.7136066 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1414372181", "amenity": "atm", "other_tags": "\"operator\"=>\"TSB\",\"description\"=>\"TSB\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0972267, 53.7135892 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1414373929", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire\",\"description\"=>\"Yorkshire\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0975272, 53.7135288 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1414423006", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -2.101069, 53.710754 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1414424652", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -2.097202, 53.714039 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1423146249", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"network\"=>\"Link\",\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5082044, 53.8442838 ] } },
