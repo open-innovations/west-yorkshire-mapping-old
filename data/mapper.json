@@ -403,7 +403,7 @@
 		"date":"2018-05-06",
 		"odbl":true,
 		"size": 2051,
-		"colour":"#ffff00"
+		"colour":"#ffff66"
 	},
 	"osm-leeds-community-centres": {
 		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-community_centre.geojson",
