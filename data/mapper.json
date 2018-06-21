@@ -372,7 +372,7 @@
 	"osm-leeds-bicycle-parking": {
 		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-bicycle_parking.geojson",
 		"name":"Leeds bicycle parking",
-		"desc":"Open Street Map bicycle parking",
+		"desc":"Parking for bikes",
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
@@ -396,7 +396,7 @@
 	"osm-leeds-charging-station": {
 		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-charging_station.geojson",
 		"name":"Leeds charging stations",
-		"desc":"Open Street Map charging stations",
+		"desc":"Charging stations for electric vehicles",
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
@@ -511,9 +511,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-19",
+		"date":"2018-06-21",
 		"odbl":true,
-		"size": 1749779,
+		"size": 1746553,
 		"colour":"#02a24b"
 	},
 	"osm-wy-toilets": {
