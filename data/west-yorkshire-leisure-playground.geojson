@@ -121,7 +121,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "4215988068", "name": "Bramston Street Play Park", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7862534, 53.6962866 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4217052231", "name": "Woodhouse Play Park", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7730499, 53.6931183 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4363322383", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7309425, 53.8866175 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4364076649", "name": "Playlab Leeds", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"21-23\",\"addr:postcode\"=>\"LS2 7DY\",\"addr:street\"=>\"New York Street\",\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5386959, 53.7966094 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4898165207", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7399413, 53.6346467 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4909161456", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8016522, 53.6523796 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5022093297", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8105876, 53.6213189 ] } },

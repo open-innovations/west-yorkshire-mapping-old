@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "307481787", "name": "Jubilee Clock", "amenity": "clock", "other_tags": "\"description\"=>\"Free-standing clock tower, grade II-listed monument, originally built to celebrate Queen Victoria’s 50th year as monarch. Local landmark.\",\"historic\"=>\"monument\"" }, "geometry": { "type": "Point", "coordinates": [ -1.694203, 53.9054428 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2353532640", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.6942842, 53.9045389 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2353532640", "amenity": "clock", "other_tags": "\"access\"=>\"yes\",\"entrance\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6942842, 53.9045389 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3449217454", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5426753, 53.7956533 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3449217459", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5427005, 53.79572 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3618047433", "name": "Oakwood Clock", "amenity": "clock", "other_tags": "\"tourism\"=>\"yes\",\"start_date\"=>\"1912\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5054943, 53.8275356 ] } },
