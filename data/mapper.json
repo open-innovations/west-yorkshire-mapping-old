@@ -56,9 +56,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-22",
+		"date":"2018-06-23",
 		"odbl":true,
-		"size": 31727,
+		"size": 32054,
 		"colour":"#EF3AAB"
 	},
 	"osm-bradford-community-centres": {
@@ -216,9 +216,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-22",
+		"date":"2018-06-23",
 		"odbl":true,
-		"size": 31727,
+		"size": 32054,
 		"colour":"#EF3AAB"
 	},
 	"osm-calderdale-community-centres": {
@@ -437,9 +437,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-15",
+		"date":"2018-06-23",
 		"odbl":true,
-		"size": 308676,
+		"size": 308541,
 		"colour":"#4af74c"
 	},
 	"osm-leeds-postbox": {
@@ -473,9 +473,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-22",
+		"date":"2018-06-23",
 		"odbl":true,
-		"size": 255451,
+		"size": 255700,
 		"colour":"#f05948",
 		"popup":"function(f){ return '<h3>'+(f.properties.name ? f.properties.name:'Unknown school')+'</h3><p>'+(f.properties['ref:edubase'] ? '<a href=\"https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/'+f.properties['ref:edubase']+'\">See school details on gov.uk</a>':'')+(f.properties.website ? (f.properties['ref:edubase'] ? '<br />':'')+'<a href=\"'+f.properties.website+'\">Website</a>':'')+'</p>'; }"
 	},
@@ -511,9 +511,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-22",
+		"date":"2018-06-23",
 		"odbl":true,
-		"size": 1750295,
+		"size": 1752528,
 		"colour":"#02a24b"
 	},
 	"osm-wy-toilets": {
