@@ -112,7 +112,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "2603488184", "name": "Lloyds", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.4518272, 53.806597 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2603488188", "name": "Halifax", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.4518374, 53.8064669 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2611488256", "name": "Yorkshire Building Society", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.8164656, 53.6530026 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2846960412", "name": "Yorkshire Building Society", "amenity": "bank", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:postcode\"=>\"BD16 1AJ\",\"addr:street\"=>\"Main Street\",\"operator\"=>\"Yorkshire Building Society\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8364772, 53.846764 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3120470554", "name": "Yorkshire Bank", "amenity": "bank", "other_tags": "\"atm\"=>\"yes\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8380202, 53.685828 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3557381796", "name": "Leeds Building Society", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.3458176, 53.9046339 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3558882670", "name": "Skipton Building Society", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.3870434, 53.9283946 ] } },
