@@ -56,9 +56,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-23",
+		"date":"2018-06-24",
 		"odbl":true,
-		"size": 32054,
+		"size": 32079,
 		"colour":"#EF3AAB"
 	},
 	"osm-bradford-community-centres": {
@@ -93,9 +93,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-15",
+		"date":"2018-06-24",
 		"odbl":true,
-		"size": 120429,
+		"size": 121462,
 		"colour":"#4af74c"
 	},
 	"osm-bradford-postbox": {
@@ -167,9 +167,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-18",
+		"date":"2018-06-24",
 		"odbl":true,
-		"size": 584440,
+		"size": 584439,
 		"colour":"#02a24b"
 	},
 	"osm-calderdale-allotments": {
@@ -216,9 +216,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-23",
+		"date":"2018-06-24",
 		"odbl":true,
-		"size": 32054,
+		"size": 32079,
 		"colour":"#EF3AAB"
 	},
 	"osm-calderdale-community-centres": {
@@ -253,9 +253,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-15",
+		"date":"2018-06-24",
 		"odbl":true,
-		"size": 120429,
+		"size": 121462,
 		"colour":"#4af74c"
 	},
 	"osm-calderdale-postbox": {
@@ -327,9 +327,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-18",
+		"date":"2018-06-24",
 		"odbl":true,
-		"size": 584440,
+		"size": 584439,
 		"colour":"#02a24b"
 	},
 	"osm-leeds-allotments": {
@@ -511,9 +511,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-23",
+		"date":"2018-06-24",
 		"odbl":true,
-		"size": 1752528,
+		"size": 1753255,
 		"colour":"#02a24b"
 	},
 	"osm-wy-toilets": {
@@ -523,9 +523,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-11",
+		"date":"2018-06-24",
 		"odbl":true,
-		"size": 24623,
+		"size": 25093,
 		"colour":"#000000"
 	},
 	"wy-foodbanks": {
