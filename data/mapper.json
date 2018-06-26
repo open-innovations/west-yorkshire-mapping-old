@@ -437,9 +437,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-25",
+		"date":"2018-06-26",
 		"odbl":true,
-		"size": 309017,
+		"size": 309434,
 		"colour":"#4af74c"
 	},
 	"osm-leeds-postbox": {
@@ -511,9 +511,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-24",
+		"date":"2018-06-26",
 		"odbl":true,
-		"size": 1753255,
+		"size": 1754674,
 		"colour":"#02a24b"
 	},
 	"osm-wy-toilets": {
