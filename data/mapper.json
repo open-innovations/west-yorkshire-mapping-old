@@ -400,10 +400,10 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"",
+		"date":"2018-06-27",
 		"odbl":true,
 		"size": 64560,
-		"colour":"#FF6755"
+		"colour":"#FF6799"
 	},
 	"osm-leeds-charging-station": {
 		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-charging_station.geojson",
