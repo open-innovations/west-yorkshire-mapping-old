@@ -418,6 +418,18 @@
 		"colour":"#48c7e9",
 		"popup":"function(f){ str = '<h3>%name%</h3><p>'; if(f.properties.website){ str += '<strong>Website:</strong> <a href=\"%website%\" target=\"_parent\">%website%</a><br />'; } if(f.properties['addr:street']){ str += '<strong>Address</strong>: %addr:street%'+(f.properties['addr:suburb'] ? ', %addr:suburb%':'')+(f.properties['addr:city'] ? ', %addr:city%':'')+(f.properties['addr:postcode'] ? ', %addr:postcode%':'')+'<br />'; } if(f.properties['fhrs:id']){ str += 'This community centre appears to have a <a href=\"http://ratings.food.gov.uk/business/en-GB/%fhrs:id%\" target=\"_parent\">food hygiene ID</a>'; } str +='</p>'; return str; }"
 	},
+	"osm-leeds-crossing": {
+		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-highway-crossings.geojson",
+		"name":"Leeds crossings",
+		"desc":"Pelican, zebra, toucan and other crossings",
+		"url":"https://openstreetmap.org/",
+		"owner":"osm",
+		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+		"date":"2018-06-27",
+		"odbl":true,
+		"size": 225738,
+		"colour":"#FF6700"
+	},
 	"osm-leeds-libraries": {
 		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-library.geojson",
 		"name":"Leeds Libraries",
