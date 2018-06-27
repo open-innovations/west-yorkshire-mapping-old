@@ -393,6 +393,18 @@
 		"size": 169094,
 		"colour":"#EF3AAB"
 	},
+	"osm-leeds-calming": {
+		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-highway-calming.geojson",
+		"name":"Leeds traffic calming",
+		"desc":"Speed bumps, humps, chicanes, tables, cushions, dips, rumble strips, chokers, and islands",
+		"url":"https://openstreetmap.org/",
+		"owner":"osm",
+		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+		"date":"",
+		"odbl":true,
+		"size": 64560,
+		"colour":"#FF6755"
+	},
 	"osm-leeds-charging-station": {
 		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-charging_station.geojson",
 		"name":"Leeds charging stations",
