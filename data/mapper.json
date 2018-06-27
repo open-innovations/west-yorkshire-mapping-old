@@ -466,6 +466,18 @@
 		"size": 309434,
 		"colour":"#4af74c"
 	},
+	"osm-leeds-playgrounds": {
+		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-leisure-playground.geojson",
+		"name":"Leeds playgrounds",
+		"desc":"Playgrounds and play areas",
+		"url":"https://openstreetmap.org/",
+		"owner":"osm",
+		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+		"date":"2018-06-22",
+		"odbl":true,
+		"size": 91224,
+		"colour":"#0DBC37"
+	},
 	"osm-leeds-postbox": {
 		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-post_box.geojson",
 		"name":"Leeds post boxes",
