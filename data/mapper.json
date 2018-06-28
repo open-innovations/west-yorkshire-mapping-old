@@ -179,9 +179,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-11",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 40201,
+		"size": 26333,
 		"colour":"#67E767"
 	},
 	"osm-calderdale-bench": {
@@ -191,9 +191,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-11",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 16897,
+		"size": 6215,
 		"colour":"#00a2d3",
 		"popup":"<h3>Bench: %name%</h3><p><strong>Inscription:</strong> %inscription%<br /><strong>Backrest:</strong> %backrest%<br /><strong>OSM ID</strong>: %osm_id%</p>"
 	},
@@ -204,9 +204,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-11",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 9613,
+		"size": 2005,
 		"colour":"#00B6FF"
 	},
 	"osm-calderdale-cafe": {
@@ -216,9 +216,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-24",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 32079,
+		"size": 17209,
 		"colour":"#EF3AAB"
 	},
 	"osm-calderdale-community-centres": {
@@ -228,9 +228,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-11",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 9777,
+		"size": 934,
 		"colour":"#48c7e9",
 		"popup":"function(f){ str = '<h3>%name%</h3><p>'; if(f.properties.website){ str += '<strong>Website:</strong> <a href=\"%website%\" target=\"_parent\">%website%</a><br />'; } if(f.properties['addr:street']){ str += '<strong>Address</strong>: %addr:street%'+(f.properties['addr:suburb'] ? ', %addr:suburb%':'')+(f.properties['addr:city'] ? ', %addr:city%':'')+(f.properties['addr:postcode'] ? ', %addr:postcode%':'')+'<br />'; } if(f.properties['fhrs:id']){ str += 'This community centre appears to have a <a href=\"http://ratings.food.gov.uk/business/en-GB/%fhrs:id%\" target=\"_parent\">food hygiene ID</a>'; } str +='</p>'; return str; }"
 	},
@@ -241,9 +241,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-11",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 7990,
+		"size": 5133,
 		"colour":"#8a84bf"
 	},
 	"osm-calderdale-parks": {
@@ -253,9 +253,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-24",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 121462,
+		"size": 38186,
 		"colour":"#4af74c"
 	},
 	"osm-calderdale-postbox": {
@@ -265,9 +265,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-18",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 70329,
+		"size": 32256,
 		"colour":"#D60303"
 	},
 	"osm-calderdale-postoffice": {
@@ -277,9 +277,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-11",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 27815,
+		"size": 12080,
 		"colour":"#d71440"
 	},
 	"osm-calderdale-schools": {
@@ -289,9 +289,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-11",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 201521,
+		"size": 98078,
 		"colour":"#f05948",
 		"popup":"function(f){ return '<h3>'+(f.properties.name ? f.properties.name:'Unknown school')+'</h3><p>'+(f.properties['ref:edubase'] ? '<a href=\"https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/'+f.properties['ref:edubase']+'\">See school details on gov.uk</a>':'')+(f.properties.website ? (f.properties['ref:edubase'] ? '<br />':'')+'<a href=\"'+f.properties.website+'\">Website</a>':'')+'</p>'; }"
 	},
@@ -302,9 +302,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-11",
+		"date":"",
 		"odbl":true,
-		"size": 760,
+		"size": 0,
 		"colour":"#cd7d94"
 	},
 	"osm-calderdale-trees": {
@@ -314,9 +314,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-17",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 38562,
+		"size": 17547,
 		"colour":"#02a24b",
 		"popup":"<h3>Tree</h3><p><strong>Genus:</strong> %genus:en%</p>"
 	},
@@ -327,9 +327,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-24",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 584439,
+		"size": 565050,
 		"colour":"#02a24b"
 	},
 	"osm-leeds-allotments": {
@@ -551,6 +551,31 @@
 		"odbl":true,
 		"size": 1754700,
 		"colour":"#02a24b"
+	},
+	"osm-wy-allotments": {
+		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/west-yorkshire-landusage-allotments.geojson",
+		"name":"West Yorkshire allotments",
+		"desc":"Open Street Map allotment shapes",
+		"url":"https://openstreetmap.org/",
+		"owner":"osm",
+		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+		"date":"2018-06-22",
+		"odbl":true,
+		"size": 276084,
+		"colour":"#67E767"
+	},
+	"osm-wy-schools": {
+		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/west-yorkshire-amenities-school.geojson",
+		"name":"West Yorkshire schools",
+		"desc":"Open Street Map schools",
+		"url":"https://openstreetmap.org/",
+		"owner":"osm",
+		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+		"date":"2018-06-27",
+		"odbl":true,
+		"size": 886900,
+		"colour":"#f05948",
+		"popup":"function(f){ return '<h3>'+(f.properties.name ? f.properties.name:'Unknown school')+'</h3><p>'+(f.properties['ref:edubase'] ? '<a href=\"https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/'+f.properties['ref:edubase']+'\">See school details on gov.uk</a>':'')+(f.properties.website ? (f.properties['ref:edubase'] ? '<br />':'')+'<a href=\"'+f.properties.website+'\">Website</a>':'')+'</p>'; }"
 	},
 	"osm-wy-toilets": {
 		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/west-yorkshire-amenities-toilets.geojson",
