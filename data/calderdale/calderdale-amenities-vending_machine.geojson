@@ -2,9 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1876568044", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9014706, 53.8676151 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3501731256", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7430183, 53.7918126 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3958194866", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7353858, 53.8922567 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4466953936", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.789678, 53.8384666 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "1627266134", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7797593, 53.7001263 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5371211988", "amenity": "vending_machine", "other_tags": "\"operator\"=>\"Amazon\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8617052, 53.683797 ] } }
 ]
 }

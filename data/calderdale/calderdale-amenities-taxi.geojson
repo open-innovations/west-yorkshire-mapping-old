@@ -2,9 +2,11 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "317593437", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.7503291, 53.7916526 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3845064813", "name": "Silsden & Steeton Taxis", "amenity": "taxi", "other_tags": "\"phone\"=>\"+44 1535 656566\",\"website\"=>\"http:\/\/www.silsdentaxis.co.uk\/\",\"operator\"=>\"Silsden Steeton Cottingley & Nab Wood Ltd\",\"addr:city\"=>\"Silsden\",\"addr:street\"=>\"Bradley Road\",\"addr:postcode\"=>\"BD20 9LS\",\"addr:housenumber\"=>\"8\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9391658, 53.91534 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5001106353", "name": "Marquis Taxis", "amenity": "taxi", "other_tags": "\"office\"=>\"yes\",\"phone\"=>\"+44 1274 880188\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8466828, 53.7687429 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5220637778", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.7558628, 53.7962627 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "330029828", "name": "Valley Private Hire", "amenity": "taxi", "other_tags": "\"layer\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0123735, 53.7407153 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1235896482", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.8603177, 53.7207435 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1235927396", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.8618795, 53.7224262 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1414456930", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -2.099317, 53.713846 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.721106, "longitude": -1.854247 }, "osm_way_id": "118687135", "amenity": "taxi", "other_tags": "\"capacity\"=>\"5\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8545104, 53.7211585 ], [ -1.8544797, 53.7211959 ], [ -1.8539843, 53.7210536 ], [ -1.854015, 53.7210162 ], [ -1.8545104, 53.7211585 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.723471, "longitude": -1.862469 }, "osm_way_id": "566220176", "name": "Crossley's Cars", "amenity": "taxi", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8625259, 53.7235213 ], [ -1.862416, 53.7235229 ], [ -1.8624133, 53.7234308 ], [ -1.862413, 53.7234208 ], [ -1.8625233, 53.7234197 ], [ -1.8625259, 53.7235213 ] ] ] } }
 ]
 }

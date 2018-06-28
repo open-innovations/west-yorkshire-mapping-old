@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4242805553", "name": "Bradford Bike Hub", "amenity": "bicycle_rental", "other_tags": "\"website\"=>\"http:\/\/www.bradfordbikehub.com\/\",\"addr:city\"=>\"Bradford\",\"wheelchair\"=>\"yes\",\"addr:street\"=>\"Great Horton Road\",\"addr:postcode\"=>\"BD7 1DP\",\"addr:housename\"=>\"Opposite J.B.Priestley Library, University of Bradford\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7668688, 53.7909371 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2528475334", "name": "Bike & Go", "amenity": "bicycle_rental", "other_tags": "\"website\"=>\"http:\/\/www.bikeandgo.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8538153, 53.721196 ] } }
 ]
 }

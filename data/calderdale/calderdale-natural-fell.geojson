@@ -2,13 +2,9 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "699122071", "name": "Whetstone Allotment", "place": "locality", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8565614, 53.9032625 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "747742268", "name": "Cornmould Heath", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8085371, 53.8840183 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "747742280", "name": "Weecher Brow", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8019496, 53.8790601 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "747743793", "name": "Fenny Shaw", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8283855, 53.8881918 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "747743955", "name": "Fenny Shaw Allotment", "place": "locality", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8333207, 53.890329 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1544143724", "name": "High Moor", "place": "locality", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8378528, 53.8988827 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4987884726", "name": "Green Hill", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8964528, 53.9212985 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.919161, "longitude": -1.808715 }, "osm_way_id": "118795027", "natural": "fell" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8093136, 53.919216 ], [ -1.80915, 53.919276 ], [ -1.8089352, 53.919267 ], [ -1.8085033, 53.9191896 ], [ -1.8081976, 53.9191817 ], [ -1.8081174, 53.9191165 ], [ -1.8081412, 53.9190458 ], [ -1.8093136, 53.919216 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "533459279", "name": "Manshead End", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0103438, 53.6726211 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "533466817", "name": "Pike End", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9618495, 53.6550247 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "533467933", "name": "Pike Law", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9330104, 53.6533969 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "533543473", "name": "Turley Holes Edge", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0169528, 53.6983667 ] } }
 ]
 }
