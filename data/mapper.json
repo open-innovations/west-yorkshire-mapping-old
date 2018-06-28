@@ -547,9 +547,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-26",
+		"date":"2018-06-28",
 		"odbl":true,
-		"size": 1754674,
+		"size": 1754700,
 		"colour":"#02a24b"
 	},
 	"osm-wy-toilets": {
@@ -571,9 +571,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-11",
+		"date":"",
 		"odbl":true,
-		"size": 1474,
+		"size": 0,
 		"colour":"#00a6a9"
 	},
 	"wy-public-bookcases": {
