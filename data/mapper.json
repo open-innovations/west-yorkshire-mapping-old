@@ -461,9 +461,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-27",
+		"date":"2018-06-29",
 		"odbl":true,
-		"size": 309434,
+		"size": 309322,
 		"colour":"#4af74c"
 	},
 	"osm-leeds-playgrounds": {
@@ -547,9 +547,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-28",
+		"date":"2018-06-29",
 		"odbl":true,
-		"size": 1754700,
+		"size": 1754726,
 		"colour":"#02a24b"
 	},
 	"osm-wy-allotments": {
@@ -596,9 +596,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"",
+		"date":"2018-06-11",
 		"odbl":true,
-		"size": 0,
+		"size": 1474,
 		"colour":"#00a6a9"
 	},
 	"wy-public-bookcases": {
