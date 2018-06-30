@@ -437,7 +437,7 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-27",
+		"date":"2018-06-30",
 		"odbl":true,
 		"size": 225738,
 		"colour":"#FF6700"
