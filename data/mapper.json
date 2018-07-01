@@ -327,9 +327,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-28",
+		"date":"2018-07-01",
 		"odbl":true,
-		"size": 565050,
+		"size": 565078,
 		"colour":"#02a24b"
 	},
 	"osm-leeds-allotments": {
@@ -400,9 +400,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-27",
+		"date":"2018-07-01",
 		"odbl":true,
-		"size": 64560,
+		"size": 66042,
 		"colour":"#FF6799"
 	},
 	"osm-leeds-charging-station": {
@@ -437,7 +437,7 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-30",
+		"date":"2018-07-01",
 		"odbl":true,
 		"size": 225738,
 		"colour":"#FF6700"
@@ -461,9 +461,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-29",
+		"date":"2018-07-01",
 		"odbl":true,
-		"size": 309322,
+		"size": 310100,
 		"colour":"#4af74c"
 	},
 	"osm-leeds-playgrounds": {
@@ -473,9 +473,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-22",
+		"date":"2018-07-01",
 		"odbl":true,
-		"size": 91224,
+		"size": 92342,
 		"colour":"#0DBC37"
 	},
 	"osm-leeds-postbox": {
@@ -509,9 +509,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-23",
+		"date":"2018-07-01",
 		"odbl":true,
-		"size": 255700,
+		"size": 255672,
 		"colour":"#f05948",
 		"popup":"function(f){ return '<h3>'+(f.properties.name ? f.properties.name:'Unknown school')+'</h3><p>'+(f.properties['ref:edubase'] ? '<a href=\"https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/'+f.properties['ref:edubase']+'\">See school details on gov.uk</a>':'')+(f.properties.website ? (f.properties['ref:edubase'] ? '<br />':'')+'<a href=\"'+f.properties.website+'\">Website</a>':'')+'</p>'; }"
 	},
@@ -571,9 +571,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-27",
+		"date":"2018-07-01",
 		"odbl":true,
-		"size": 886900,
+		"size": 886872,
 		"colour":"#f05948",
 		"popup":"function(f){ return '<h3>'+(f.properties.name ? f.properties.name:'Unknown school')+'</h3><p>'+(f.properties['ref:edubase'] ? '<a href=\"https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/'+f.properties['ref:edubase']+'\">See school details on gov.uk</a>':'')+(f.properties.website ? (f.properties['ref:edubase'] ? '<br />':'')+'<a href=\"'+f.properties.website+'\">Website</a>':'')+'</p>'; }"
 	},
