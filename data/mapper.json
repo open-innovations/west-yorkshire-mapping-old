@@ -461,9 +461,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-01",
+		"date":"2018-07-04",
 		"odbl":true,
-		"size": 310100,
+		"size": 309824,
 		"colour":"#4af74c"
 	},
 	"osm-leeds-playgrounds": {
