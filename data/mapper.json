@@ -461,9 +461,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-04",
+		"date":"2018-07-05",
 		"odbl":true,
-		"size": 309824,
+		"size": 309314,
 		"colour":"#4af74c"
 	},
 	"osm-leeds-playgrounds": {
@@ -547,9 +547,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-29",
+		"date":"2018-07-05",
 		"odbl":true,
-		"size": 1754726,
+		"size": 1754337,
 		"colour":"#02a24b"
 	},
 	"osm-wy-allotments": {
