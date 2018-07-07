@@ -93,9 +93,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-24",
+		"date":"2018-07-07",
 		"odbl":true,
-		"size": 121462,
+		"size": 121463,
 		"colour":"#4af74c"
 	},
 	"osm-bradford-postbox": {
@@ -388,9 +388,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-22",
+		"date":"2018-07-07",
 		"odbl":true,
-		"size": 169094,
+		"size": 169727,
 		"colour":"#EF3AAB"
 	},
 	"osm-leeds-calming": {
@@ -461,9 +461,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-05",
+		"date":"2018-07-07",
 		"odbl":true,
-		"size": 309314,
+		"size": 310645,
 		"colour":"#4af74c"
 	},
 	"osm-leeds-playgrounds": {
@@ -473,9 +473,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-01",
+		"date":"2018-07-07",
 		"odbl":true,
-		"size": 92342,
+		"size": 91887,
 		"colour":"#0DBC37"
 	},
 	"osm-leeds-postbox": {
@@ -547,9 +547,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-06",
+		"date":"2018-07-07",
 		"odbl":true,
-		"size": 1754337,
+		"size": 1754364,
 		"colour":"#02a24b"
 	},
 	"osm-wy-allotments": {
