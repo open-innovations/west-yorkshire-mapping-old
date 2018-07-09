@@ -56,9 +56,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-24",
+		"date":"2018-07-09",
 		"odbl":true,
-		"size": 32079,
+		"size": 32437,
 		"colour":"#EF3AAB"
 	},
 	"osm-bradford-community-centres": {
@@ -437,9 +437,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-01",
+		"date":"2018-07-09",
 		"odbl":true,
-		"size": 225738,
+		"size": 225737,
 		"colour":"#FF6700"
 	},
 	"osm-leeds-libraries": {
@@ -461,9 +461,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-08",
+		"date":"2018-07-09",
 		"odbl":true,
-		"size": 310700,
+		"size": 310906,
 		"colour":"#4af74c"
 	},
 	"osm-leeds-playgrounds": {
@@ -596,9 +596,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-11",
+		"date":"2018-07-09",
 		"odbl":true,
-		"size": 1474,
+		"size": 1887,
 		"colour":"#00a6a9"
 	},
 	"wy-public-bookcases": {
