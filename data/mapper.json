@@ -216,9 +216,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-03",
+		"date":"2018-07-10",
 		"odbl":true,
-		"size": 17523,
+		"size": 18353,
 		"colour":"#EF3AAB"
 	},
 	"osm-calderdale-community-centres": {
