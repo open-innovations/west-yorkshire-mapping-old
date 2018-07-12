@@ -56,9 +56,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-09",
+		"date":"2018-07-12",
 		"odbl":true,
-		"size": 32437,
+		"size": 32830,
 		"colour":"#EF3AAB"
 	},
 	"osm-bradford-community-centres": {
@@ -117,9 +117,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-11",
+		"date":"2018-07-12",
 		"odbl":true,
-		"size": 27815,
+		"size": 27839,
 		"colour":"#d71440"
 	},
 	"osm-bradford-schools": {
@@ -388,9 +388,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-07",
+		"date":"2018-07-12",
 		"odbl":true,
-		"size": 169727,
+		"size": 169772,
 		"colour":"#EF3AAB"
 	},
 	"osm-leeds-calming": {
@@ -509,9 +509,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-08",
+		"date":"2018-07-12",
 		"odbl":true,
-		"size": 255137,
+		"size": 255285,
 		"colour":"#f05948",
 		"popup":"function(f){ return '<h3>'+(f.properties.name ? f.properties.name:'Unknown school')+'</h3><p>'+(f.properties['ref:edubase'] ? '<a href=\"https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/'+f.properties['ref:edubase']+'\">See school details on gov.uk</a>':'')+(f.properties.website ? (f.properties['ref:edubase'] ? '<br />':'')+'<a href=\"'+f.properties.website+'\">Website</a>':'')+'</p>'; }"
 	},
@@ -571,9 +571,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-08",
+		"date":"2018-07-12",
 		"odbl":true,
-		"size": 886328,
+		"size": 886476,
 		"colour":"#f05948",
 		"popup":"function(f){ return '<h3>'+(f.properties.name ? f.properties.name:'Unknown school')+'</h3><p>'+(f.properties['ref:edubase'] ? '<a href=\"https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/'+f.properties['ref:edubase']+'\">See school details on gov.uk</a>':'')+(f.properties.website ? (f.properties['ref:edubase'] ? '<br />':'')+'<a href=\"'+f.properties.website+'\">Website</a>':'')+'</p>'; }"
 	},
