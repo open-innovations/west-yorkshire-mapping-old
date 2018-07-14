@@ -41,7 +41,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "332484031", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5412969, 53.7873942 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333442552", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Post Office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5386399, 53.796446 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333467225", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Building Society\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5423515, 53.7961087 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "333467228", "amenity": "atm", "other_tags": "\"operator\"=>\"HSBC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5426425, 53.7961313 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "333467228", "amenity": "atm", "other_tags": "\"operator\"=>\"HSBC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5426083, 53.796226 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333467278", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.542482, 53.7972381 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333467294", "amenity": "atm", "other_tags": "\"operator\"=>\"Alliance & Leicester\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5424231, 53.7976845 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333799029", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5422569, 53.7990475 ] } },
