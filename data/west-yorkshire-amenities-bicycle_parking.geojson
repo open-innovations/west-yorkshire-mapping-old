@@ -7,7 +7,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "310749673", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.7744114, 53.8356848 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "313099959", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5533169, 53.7948545 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314659362", "amenity": "bicycle_parking", "other_tags": "\"access\"=>\"private\",\"operator\"=>\"Bradford University Bike Users Group\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7647086, 53.7908321 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "315613799", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.7820498, 53.6432927 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "315613799", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.7820122, 53.6432911 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "317094983", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5336428, 53.7912453 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "320998065", "name": "The Common Place", "amenity": "bicycle_parking", "other_tags": "\"capacity\"=>\"10\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5378593, 53.7956305 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "322683453", "amenity": "bicycle_parking", "other_tags": "\"covered\"=>\"no\",\"capacity\"=>\"12\",\"bicycle_parking\"=>\"stands\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8394028, 53.8498747 ] } },
