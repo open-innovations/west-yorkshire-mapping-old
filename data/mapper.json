@@ -376,7 +376,7 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-18",
+		"date":"2018-07-19",
 		"odbl":true,
 		"size": 39466,
 		"colour":"#00B6FF"
@@ -547,9 +547,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-18",
+		"date":"2018-07-19",
 		"odbl":true,
-		"size": 1771812,
+		"size": 1771839,
 		"colour":"#02a24b"
 	},
 	"osm-wy-allotments": {
