@@ -376,9 +376,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-19",
+		"date":"2018-07-20",
 		"odbl":true,
-		"size": 39466,
+		"size": 39767,
 		"colour":"#00B6FF"
 	},
 	"osm-leeds-cafe": {
@@ -424,9 +424,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-25",
+		"date":"2018-07-20",
 		"odbl":true,
-		"size": 39138,
+		"size": 39874,
 		"colour":"#48c7e9",
 		"popup":"function(f){ str = '<h3>%name%</h3><p>'; if(f.properties.website){ str += '<strong>Website:</strong> <a href=\"%website%\" target=\"_parent\">%website%</a><br />'; } if(f.properties['addr:street']){ str += '<strong>Address</strong>: %addr:street%'+(f.properties['addr:suburb'] ? ', %addr:suburb%':'')+(f.properties['addr:city'] ? ', %addr:city%':'')+(f.properties['addr:postcode'] ? ', %addr:postcode%':'')+'<br />'; } if(f.properties['fhrs:id']){ str += 'This community centre appears to have a <a href=\"http://ratings.food.gov.uk/business/en-GB/%fhrs:id%\" target=\"_parent\">food hygiene ID</a>'; } str +='</p>'; return str; }"
 	},
@@ -485,9 +485,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-14",
+		"date":"2018-07-20",
 		"odbl":true,
-		"size": 236264,
+		"size": 236474,
 		"colour":"#D60303"
 	},
 	"osm-leeds-postoffice": {
@@ -547,9 +547,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-19",
+		"date":"2018-07-20",
 		"odbl":true,
-		"size": 1771839,
+		"size": 1772036,
 		"colour":"#02a24b"
 	},
 	"osm-wy-allotments": {
