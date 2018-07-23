@@ -154,9 +154,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-17",
+		"date":"2018-07-23",
 		"odbl":true,
-		"size": 38562,
+		"size": 39279,
 		"colour":"#02a24b",
 		"popup":"<h3>Tree</h3><p><strong>Genus:</strong> %genus:en%</p>"
 	},
@@ -339,9 +339,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-06-22",
+		"date":"2018-07-23",
 		"odbl":true,
-		"size": 76826,
+		"size": 76938,
 		"colour":"#67E767"
 	},
 	"osm-leeds-atm": {
@@ -400,7 +400,7 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-21",
+		"date":"2018-07-23",
 		"odbl":true,
 		"size": 69196,
 		"colour":"#FF6799"
@@ -449,9 +449,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-14",
+		"date":"2018-07-23",
 		"odbl":true,
-		"size": 23443,
+		"size": 23667,
 		"colour":"#8a84bf"
 	},
 	"osm-leeds-parks": {
@@ -461,9 +461,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-22",
+		"date":"2018-07-23",
 		"odbl":true,
-		"size": 314398,
+		"size": 314348,
 		"colour":"#4af74c"
 	},
 	"osm-leeds-playgrounds": {
@@ -509,9 +509,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-22",
+		"date":"2018-07-23",
 		"odbl":true,
-		"size": 257343,
+		"size": 257623,
 		"colour":"#f05948",
 		"popup":"function(f){ return '<h3>'+(f.properties.name ? f.properties.name:'Unknown school')+'</h3><p>'+(f.properties['ref:edubase'] ? '<a href=\"https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/'+f.properties['ref:edubase']+'\">See school details on gov.uk</a>':'')+(f.properties.website ? (f.properties['ref:edubase'] ? '<br />':'')+'<a href=\"'+f.properties.website+'\">Website</a>':'')+'</p>'; }"
 	},
@@ -559,9 +559,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-21",
+		"date":"2018-07-23",
 		"odbl":true,
-		"size": 276084,
+		"size": 276196,
 		"colour":"#67E767"
 	},
 	"osm-wy-schools": {
@@ -571,9 +571,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-22",
+		"date":"2018-07-23",
 		"odbl":true,
-		"size": 888719,
+		"size": 888999,
 		"colour":"#f05948",
 		"popup":"function(f){ return '<h3>'+(f.properties.name ? f.properties.name:'Unknown school')+'</h3><p>'+(f.properties['ref:edubase'] ? '<a href=\"https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/'+f.properties['ref:edubase']+'\">See school details on gov.uk</a>':'')+(f.properties.website ? (f.properties['ref:edubase'] ? '<br />':'')+'<a href=\"'+f.properties.website+'\">Website</a>':'')+'</p>'; }"
 	},
