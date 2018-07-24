@@ -154,9 +154,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-23",
+		"date":"2018-07-24",
 		"odbl":true,
-		"size": 39279,
+		"size": 39516,
 		"colour":"#02a24b",
 		"popup":"<h3>Tree</h3><p><strong>Genus:</strong> %genus:en%</p>"
 	},
@@ -216,9 +216,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-18",
+		"date":"2018-07-24",
 		"odbl":true,
-		"size": 20302,
+		"size": 21968,
 		"colour":"#EF3AAB"
 	},
 	"osm-calderdale-community-centres": {
@@ -547,9 +547,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-22",
+		"date":"2018-07-24",
 		"odbl":true,
-		"size": 1778730,
+		"size": 1779258,
 		"colour":"#02a24b"
 	},
 	"osm-wy-allotments": {
