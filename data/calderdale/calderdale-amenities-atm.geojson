@@ -5,7 +5,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "245792129", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.9108165, 53.7092206 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "245792131", "name": "Lloyds TSB Bank", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.9117788, 53.7085231 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "245798860", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.9084583, 53.7093482 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "329031805", "name": "Link", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -2.0129677, 53.7411858 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "368341666", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.776876, 53.7041164 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "425820759", "amenity": "atm", "other_tags": "\"operator\"=>\"Sainsbury's\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7779015, 53.7009145 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1224888381", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"LloydsTSB\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0118248, 53.7412901 ] } },
