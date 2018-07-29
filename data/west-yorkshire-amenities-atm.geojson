@@ -299,6 +299,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5627340256", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7955217, 53.8352698 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5642157014", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6409055, 53.8375549 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5642157015", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6407344, 53.8376399 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5642157016", "amenity": "atm", "other_tags": "\"operator\"=>\"Santander\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6404544, 53.8378008 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5642157016", "amenity": "atm", "other_tags": "\"operator\"=>\"Santander\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6404544, 53.8378008 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5792055772", "name": "Cash zone", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7965487, 53.8357238 ] } }
 ]
 }
