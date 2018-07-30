@@ -7,7 +7,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "300980451", "name": "West Yorkshire Police", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.7510976, 53.7880369 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "430980768", "name": "Shipley Police Station", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.7785478, 53.8310022 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1122562173", "name": "West Yorkshire Police, Data center", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.7257974, 53.7756589 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1208023027", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.8951202, 53.8016362 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1208023027", "amenity": "police", "other_tags": "\"entrance\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8951192, 53.8016926 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1541252391", "name": "Ilkley Police Station", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.8245537, 53.9240132 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1652847045", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.7475809, 53.7882104 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.875654, "longitude": -1.897408 }, "osm_way_id": "90916295", "name": "Keighley Police Station", "amenity": "police" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8970417, 53.8754116 ], [ -1.8978595, 53.8754691 ], [ -1.8977729, 53.8758968 ], [ -1.8969572, 53.8758394 ], [ -1.8970417, 53.8754116 ] ] ] } }
