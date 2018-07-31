@@ -19,9 +19,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-21",
+		"date":"2018-07-31",
 		"odbl":true,
-		"size": 40201,
+		"size": 40204,
 		"colour":"#67E767"
 	},
 	"osm-bradford-bench": {
@@ -93,7 +93,7 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-21",
+		"date":"2018-07-31",
 		"odbl":true,
 		"size": 121465,
 		"colour":"#4af74c"
@@ -154,9 +154,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-30",
+		"date":"2018-07-31",
 		"odbl":true,
-		"size": 41651,
+		"size": 43969,
 		"colour":"#02a24b",
 		"popup":"<h3>Tree</h3><p><strong>Genus:</strong> %genus:en%</p>"
 	},
@@ -388,9 +388,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-25",
+		"date":"2018-07-31",
 		"odbl":true,
-		"size": 170013,
+		"size": 170561,
 		"colour":"#EF3AAB"
 	},
 	"osm-leeds-calming": {
@@ -559,9 +559,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-30",
+		"date":"2018-07-31",
 		"odbl":true,
-		"size": 276136,
+		"size": 276139,
 		"colour":"#67E767"
 	},
 	"osm-wy-schools": {
