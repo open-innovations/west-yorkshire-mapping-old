@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.683340, "longitude": -1.495061 }, "osm_way_id": "444571979", "name": "Singer Sewing Centre", "building": "yes", "shop": "sewing_machines", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:housenumber\"=>\"19\",\"addr:postcode\"=>\"WF1 1QE\",\"addr:street\"=>\"The Springs\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4950266, 53.6832701 ], [ -1.4950978, 53.6832715 ], [ -1.4950916, 53.6834104 ], [ -1.4950245, 53.6834037 ], [ -1.4950266, 53.6832701 ] ] ] ] } }
+]
+}

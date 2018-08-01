@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.804480, "longitude": -1.531595 }, "osm_way_id": "426157944", "name": "Porcelanosa", "building": "yes", "shop": "tiles;bathrooms", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Cross Stamford Street\",\"addr:postcode\"=>\"LS7 1BA\",\"addr:housenumber\"=>\"24-26\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.531478, 53.8043422 ], [ -1.5318541, 53.8044663 ], [ -1.5317113, 53.8046174 ], [ -1.5313351, 53.8044933 ], [ -1.531478, 53.8043422 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.806216, "longitude": -1.528701 }, "osm_way_id": "582948988", "name": "Ceramica Tiles & Bathrooms", "building": "yes", "shop": "tiles;bathrooms" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.528941, 53.806253 ], [ -1.5288345, 53.8063409 ], [ -1.5286705, 53.8062716 ], [ -1.5284604, 53.806178 ], [ -1.5285648, 53.8060918 ], [ -1.528941, 53.806253 ] ] ] ] } }
+]
+}

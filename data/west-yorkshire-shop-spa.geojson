@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "1534826899", "name": "Crystal Spa", "other_tags": "\"addr:housenumber\"=>\"135\",\"addr:street\"=>\"Church Street\",\"phone\"=>\"+44 1484 549614\",\"shop\"=>\"spa\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8102817, 53.6430387 ] } }
+]
+}

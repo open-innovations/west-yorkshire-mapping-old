@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5443307316", "name": "Raj Off-Licence", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"135\",\"addr:postcode\"=>\"LS10 3LZ\",\"addr:street\"=>\"Town Street\",\"addr:suburb\"=>\"Middleton\",\"fhrs:id\"=>\"320262\",\"shop\"=>\"alcohol;convenience;newsagent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5376863, 53.7508852 ] } }
+]
+}

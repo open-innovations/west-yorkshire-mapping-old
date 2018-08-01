@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.686390, "longitude": -1.641600 }, "osm_way_id": "84429529", "name": "cages", "building": "yes", "shop": "compressed_air" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6417925, 53.6863862 ], [ -1.6417785, 53.6863943 ], [ -1.6414854, 53.6865633 ], [ -1.6413178, 53.6864614 ], [ -1.6417413, 53.6862171 ], [ -1.6418825, 53.6863029 ], [ -1.6417661, 53.6863701 ], [ -1.6417925, 53.6863862 ] ] ] ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "1614633110", "name": "Western Union", "other_tags": "\"shop\"=>\"money_lender\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6282778, 53.6921425 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2125610584", "name": "Cash Shop", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"26\",\"addr:street\"=>\"New Market Street\",\"shop\"=>\"money_lender\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5411131, 53.7961357 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2128107762", "name": "The Money Shop", "other_tags": "\"shop\"=>\"money_lender\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5412942, 53.7988888 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5422663133", "name": "Your Loan Shop", "other_tags": "\"shop\"=>\"money_lender\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5437655, 53.8012266 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.685525, "longitude": -1.500555 }, "osm_way_id": "87266549", "name": "Loans 2go", "building": "yes", "shop": "money_lender", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:street\"=>\"Northgate\",\"addr:postcode\"=>\"WF1 3BX\",\"addr:housenumber\"=>\"83\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5006928, 53.6855227 ], [ -1.5007049, 53.6855318 ], [ -1.5007016, 53.6855465 ], [ -1.5006794, 53.6855636 ], [ -1.5006452, 53.6855775 ], [ -1.5005701, 53.6855918 ], [ -1.5005681, 53.6855794 ], [ -1.5005413, 53.685587 ], [ -1.5005064, 53.6855886 ], [ -1.500468, 53.6855841 ], [ -1.5004736, 53.6855719 ], [ -1.5004555, 53.6855644 ], [ -1.5004447, 53.6855568 ], [ -1.5004338, 53.6855452 ], [ -1.5004055, 53.6855069 ], [ -1.5006029, 53.6854696 ], [ -1.5006504, 53.6854591 ], [ -1.5006928, 53.6855227 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.671968, "longitude": -1.483351 }, "osm_way_id": "129019415", "building": "yes", "shop": "money_lender", "other_tags": "\"website\"=>\"www.auto-money.co.uk\",\"addr:city\"=>\"Wakefield\",\"addr:street\"=>\"Doncaster Road\",\"addr:postcode\"=>\"WF1 5JF\",\"addr:housenumber\"=>\"102\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4832796, 53.6718825 ], [ -1.4835123, 53.6719618 ], [ -1.4834228, 53.6720539 ], [ -1.4831901, 53.6719746 ], [ -1.4832796, 53.6718825 ] ] ] ] } }
+]
+}

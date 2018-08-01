@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.679966, "longitude": -1.660821 }, "osm_way_id": "154324959", "name": "Jewson", "shop": "builders_merchant;doityourself" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6608562, 53.679721 ], [ -1.6604255, 53.6797954 ], [ -1.6607208, 53.6802129 ], [ -1.661101, 53.6801259 ], [ -1.6612168, 53.6800544 ], [ -1.6608758, 53.6797181 ], [ -1.6608562, 53.679721 ] ] ] ] } }
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "2128107697", "name": "Greens of Leeds", "other_tags": "\"shop\"=>\"tobacco\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5415754, 53.7989274 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4436285718", "name": "The Black Swan Shoppe", "other_tags": "\"shop\"=>\"tobacco\",\"addr:city\"=>\"Wakefield\",\"addr:street\"=>\"Silver Street\",\"addr:postcode\"=>\"WF1 1UY\",\"addr:housenumber\"=>\"7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4998077, 53.6826625 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5438626925", "name": "Vapour Hub", "other_tags": "\"shop\"=>\"tobacco\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8598518, 53.7221184 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5483736329", "name": "E Cigarette Outlet", "other_tags": "\"shop\"=>\"tobacco\"" }, "geometry": { "type": "Point", "coordinates": [ -1.860069, 53.7231372 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5569969827", "name": "SMKD", "other_tags": "\"shop\"=>\"tobacco\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8589479, 53.7225056 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.645938, "longitude": -1.782142 }, "osm_way_id": "334181469", "name": "Vapesuite", "building": "yes", "shop": "tobacco", "other_tags": "\"addr:city\"=>\"Huddersfield\",\"addr:street\"=>\"King Street\",\"old_name\"=>\"Buzz Mobile\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7821729, 53.6459728 ], [ -1.7820863, 53.6459642 ], [ -1.7821089, 53.6459032 ], [ -1.7821972, 53.6459108 ], [ -1.7821729, 53.6459728 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.722922, "longitude": -1.861508 }, "osm_way_id": "564469657", "name": "Totally Wicked", "building": "yes", "shop": "tobacco" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8614068, 53.7229641 ], [ -1.8614798, 53.7229577 ], [ -1.861622, 53.7229452 ], [ -1.861614, 53.7228865 ], [ -1.8615818, 53.7228897 ], [ -1.8615121, 53.722896 ], [ -1.8615094, 53.7228801 ], [ -1.8613947, 53.722889 ], [ -1.8614068, 53.7229641 ] ] ] ] } }
+]
+}

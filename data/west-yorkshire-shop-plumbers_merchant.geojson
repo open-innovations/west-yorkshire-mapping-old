@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.783509, "longitude": -1.568988 }, "osm_way_id": "58736187", "name": "Graham", "building": "yes", "shop": "plumbers_merchant" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5691211, 53.7835961 ], [ -1.5688482, 53.783592 ], [ -1.5688556, 53.7834224 ], [ -1.5691285, 53.7834265 ], [ -1.5691211, 53.7835961 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.785204, "longitude": -1.572241 }, "osm_way_id": "58736225", "name": "Pipe Centre", "building": "yes", "shop": "plumbers_merchant" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5720425, 53.7850869 ], [ -1.5724427, 53.7849978 ], [ -1.5726297, 53.7852906 ], [ -1.5720891, 53.785411 ], [ -1.5718519, 53.7850394 ], [ -1.5719922, 53.7850082 ], [ -1.5720425, 53.7850869 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.790489, "longitude": -1.563623 }, "osm_way_id": "201674068", "name": "Plumbase", "building": "yes", "shop": "plumbers_merchant", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Springwell Court\",\"addr:postcode\"=>\"LS12 1AL\",\"addr:housenumber\"=>\"1\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5638952, 53.7904269 ], [ -1.563628, 53.7906614 ], [ -1.5633507, 53.7905512 ], [ -1.5636179, 53.7903166 ], [ -1.5638952, 53.7904269 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.789308, "longitude": -1.570772 }, "osm_way_id": "203415276", "name": "Drain Centre", "building": "yes", "shop": "plumbers_merchant" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5710112, 53.7893679 ], [ -1.5708287, 53.7894577 ], [ -1.5705321, 53.7892474 ], [ -1.5707147, 53.7891576 ], [ -1.5710112, 53.7893679 ] ] ] ] } }
+]
+}

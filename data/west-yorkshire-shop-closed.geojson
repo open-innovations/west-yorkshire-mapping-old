@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5684881346", "name": "Opulence", "amenity": "shop", "other_tags": "\"shop\"=>\"closed\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8382701, 53.8484922 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.784900, "longitude": -1.531146 }, "osm_way_id": "201078238", "name": "HSS", "building": "yes", "shop": "closed" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5315476, 53.7850831 ], [ -1.5312823, 53.7851777 ], [ -1.5310493, 53.7849491 ], [ -1.5309819, 53.7849718 ], [ -1.5307451, 53.7847386 ], [ -1.5310744, 53.7846215 ], [ -1.5315476, 53.7850831 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.849049, "longitude": -1.838057 }, "osm_way_id": "246461590", "building": "yes", "shop": "closed", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"7\",\"addr:postcode\"=>\"BD16 4BD\",\"addr:street\"=>\"Park Road\",\"old_name\"=>\"Mayhall Financial Services\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8381369, 53.8490762 ], [ -1.8380627, 53.8489946 ], [ -1.8379781, 53.8490214 ], [ -1.8380523, 53.849103 ], [ -1.8381369, 53.8490762 ] ] ] ] } }
+]
+}

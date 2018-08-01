@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5632863874", "name": "Single Shot", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"30\",\"addr:postcode\"=>\"LS1 6DE\",\"addr:street\"=>\"Central Road\",\"fhrs:id\"=>\"937215\",\"shop\"=>\"music;coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.541082, 53.7967538 ] } }
+]
+}

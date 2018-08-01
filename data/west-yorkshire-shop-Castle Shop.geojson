@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.658074, "longitude": -1.489101 }, "osm_way_id": "23438692", "building": "yes", "shop": "Castle Shop", "tourism": "information", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:postcode\"=>\"WF2 7DP\",\"addr:street\"=>\"Manygates Lane\",\"fhrs:id\"=>\"999653\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.489111, 53.6581498 ], [ -1.4891543, 53.6581107 ], [ -1.4892225, 53.6580491 ], [ -1.4890906, 53.6579977 ], [ -1.488979, 53.6580984 ], [ -1.489111, 53.6581498 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "4353989308", "name": "Wool N Stuff", "other_tags": "\"shop\"=>\"wool\",\"addr:city\"=>\"Wakefield\",\"addr:street\"=>\"Cross Square\",\"addr:housenumber\"=>\"12\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4983723, 53.6831027 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4411803729", "name": "Habiknit", "other_tags": "\"shop\"=>\"wool\",\"addr:street\"=>\"Westmorland Street\",\"addr:postcode\"=>\"WF1 1PJ\",\"addr:housenumber\"=>\"12-14\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4969055, 53.6832946 ] } }
+]
+}

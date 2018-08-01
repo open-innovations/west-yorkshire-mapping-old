@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "3348582583", "name": "The Pie Shed", "amenity": "cafe", "other_tags": "\"shop\"=>\"cag\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6522793, 53.6984011 ] } }
+]
+}

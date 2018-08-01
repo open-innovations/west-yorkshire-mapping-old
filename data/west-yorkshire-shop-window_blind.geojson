@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5158221964", "name": "Yorkshire Blinds & Shutters", "other_tags": "\"addr:city\"=>\"Huddersfield\",\"addr:housenumber\"=>\"6\",\"addr:postcode\"=>\"HD1 2SQ\",\"addr:street\"=>\"Queen Street\",\"email\"=>\"info@yorkshire-blinds.co.uk\",\"opening_hours\"=>\"Mo-Su 08:00-21:00\",\"phone\"=>\"01484 945505\",\"shop\"=>\"window_blind\",\"start_date\"=>\"2010\",\"website\"=>\"http:\/\/www.yorkshireblindscompany.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7802857, 53.6453817 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5398691503", "name": "The Carolina Blind Company", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"44\",\"addr:postcode\"=>\"LS17 6NN\",\"addr:street\"=>\"Stainburn Road\",\"email\"=>\"michael@blindsleeds.com\",\"phone\"=>\"+44 113 393 0800\",\"shop\"=>\"window_blind\",\"website\"=>\"http:\/\/www.blindsleeds.com\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5314823, 53.8363722 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.806407, "longitude": -1.582345 }, "osm_way_id": "477888764", "name": "Window Blinds", "building": "yes", "shop": "window_blind" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5824078, 53.8063725 ], [ -1.5823474, 53.8063563 ], [ -1.582282, 53.8064412 ], [ -1.5823424, 53.8064574 ], [ -1.5824078, 53.8063725 ] ] ] ] } }
+]
+}

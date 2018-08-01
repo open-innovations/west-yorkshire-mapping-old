@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.700994, "longitude": -1.781890 }, "osm_way_id": "149772751", "name": "Rowan Tree", "building": "yes", "shop": "pottery" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7817695, 53.7010176 ], [ -1.7817785, 53.7009617 ], [ -1.7820099, 53.700969 ], [ -1.7819846, 53.7010081 ], [ -1.7819623, 53.7010271 ], [ -1.7817695, 53.7010176 ] ] ] ] } }
+]
+}

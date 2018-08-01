@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "925707835", "amenity": "fuel", "other_tags": "\"shop\"=>\"no\",\"brand\"=>\"Morrisons\",\"fuel:lpg\"=>\"yes\",\"operator\"=>\"Morrisons\",\"fuel:diesel\"=>\"yes\",\"fuel:octane_95\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7107361, 53.8016854 ] } }
+]
+}
