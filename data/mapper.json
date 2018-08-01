@@ -216,9 +216,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-24",
+		"date":"2018-08-01",
 		"odbl":true,
-		"size": 21968,
+		"size": 22223,
 		"colour":"#EF3AAB"
 	},
 	"osm-calderdale-community-centres": {
@@ -461,9 +461,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-30",
+		"date":"2018-08-01",
 		"odbl":true,
-		"size": 314329,
+		"size": 314357,
 		"colour":"#4af74c"
 	},
 	"osm-leeds-playgrounds": {
