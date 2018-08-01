@@ -295,18 +295,6 @@
 		"colour":"#f05948",
 		"popup":"function(f){ return '<h3>'+(f.properties.name ? f.properties.name:'Unknown school')+'</h3><p>'+(f.properties['ref:edubase'] ? '<a href=\"https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/'+f.properties['ref:edubase']+'\">See school details on gov.uk</a>':'')+(f.properties.website ? (f.properties['ref:edubase'] ? '<br />':'')+'<a href=\"'+f.properties.website+'\">Website</a>':'')+'</p>'; }"
 	},
-	"osm-calderdale-social-club": {
-		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/calderdale/calderdale-leisure-social_club.geojson",
-		"name":"Calderdale social clubs",
-		"desc":"Open Street Map social clubs",
-		"url":"https://openstreetmap.org/",
-		"owner":"osm",
-		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"",
-		"odbl":true,
-		"size": 0,
-		"colour":"#cd7d94"
-	},
 	"osm-calderdale-trees": {
 		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/calderdale/calderdale-natural-tree.geojson",
 		"name":"Calderdale trees",
@@ -564,6 +552,18 @@
 		"size": 276139,
 		"colour":"#67E767"
 	},
+	"osm-wy-bikeshops": {
+		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/west-yorkshire-shop-bicycle.geojson",
+		"name":"West Yorkshire bike shops",
+		"desc":"Open Street Map bike shops in West Yorkshire",
+		"url":"https://openstreetmap.org/",
+		"owner":"osm",
+		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+		"date":"2018-08-01",
+		"odbl":true,
+		"size": 13294,
+		"colour":"#2f529f"
+	},
 	"osm-wy-schools": {
 		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/west-yorkshire-amenities-school.geojson",
 		"name":"West Yorkshire schools",
@@ -588,18 +588,6 @@
 		"odbl":true,
 		"size": 25093,
 		"colour":"#000000"
-	},
-	"wy-foodbanks": {
-		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/west-yorkshire-amenities-social_facility-food_bank.geojson",
-		"name":"West Yorkshire food banks",
-		"desc":"The location of food banks, pantries and food clubs across West Yorkshire.<br /><br />Please help improve this dataset by <a href=\"https://wiki.openstreetmap.org/wiki/Tag:social_facility%3Dfood_bank\">tagging food banks on Open Street Map</a>.",
-		"url":"https://openstreetmap.org/",
-		"owner":"osm",
-		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-09",
-		"odbl":true,
-		"size": 1887,
-		"colour":"#00a6a9"
 	},
 	"wy-public-bookcases": {
 		"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-public_bookcase.geojson",
