@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.854611, "longitude": -1.766656 }, "osm_way_id": "600869833", "name": "Robinson's Northgate Sweet Store", "shop": "confectionery", "other_tags": "\"addr:city\"=>\"Baildon\",\"addr:postcode\"=>\"BD17 6JX\",\"addr:street\"=>\"Northgate\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7666878, 53.8546249 ], [ -1.7666469, 53.8546339 ], [ -1.7666235, 53.8545973 ], [ -1.7666644, 53.8545882 ], [ -1.7666878, 53.8546249 ] ] ] } }
+]
+}

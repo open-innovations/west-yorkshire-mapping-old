@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "3739391619", "name": "Sweet Design Cakes", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"391b\",\"addr:postcode\"=>\"LS17 6DJ\",\"addr:street\"=>\"Harrogate Road\",\"addr:suburb\"=>\"Moortown\",\"fhrs:id\"=>\"894765\",\"shop\"=>\"cake\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5350031, 53.8471323 ] } }
+]
+}

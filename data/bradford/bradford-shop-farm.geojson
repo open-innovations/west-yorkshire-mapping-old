@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.761884, "longitude": -1.679569 }, "osm_way_id": "338092879", "name": "Lane End Farm Shop", "building": "yes", "shop": "farm", "other_tags": "\"website\"=>\"http:\/\/www.laneendfarmshop.co.uk\/\",\"addr:city\"=>\"Bradford\",\"addr:street\"=>\"Westgate Hill Street\",\"addr:postcode\"=>\"BD4 0SF\",\"opening_hours\"=>\"We-Fr 09:00-17:30;Sa 09:00-16:00;Su 10:00-16:00\",\"addr:housenumber\"=>\"109\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6795092, 53.7617407 ], [ -1.6796253, 53.7617365 ], [ -1.6796557, 53.7620248 ], [ -1.6794942, 53.7620308 ], [ -1.6794824, 53.7619192 ], [ -1.6795278, 53.7619175 ], [ -1.6795092, 53.7617407 ] ] ] } }
+]
+}

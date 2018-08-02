@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5452280962", "name": "Thorntons", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"27\",\"addr:postcode\"=>\"HX1 1RU\",\"addr:street\"=>\"Woolshops\",\"fhrs:id\"=>\"348020\",\"shop\"=>\"confectionery\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8577167, 53.7234102 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5463222470", "name": "The Milk Bar", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"2\",\"addr:postcode\"=>\"HX1 1TJ\",\"addr:street\"=>\"The Old Arcade\",\"addr:suburb\"=>\"Old Market\",\"fhrs:id\"=>\"347360\",\"shop\"=>\"confectionery\",\"source:addr\"=>\"FHRS Open Data\",\"toilets:wheelchair\"=>\"no\",\"wheelchair\"=>\"limited\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8598491, 53.7233055 ] } }
+]
+}

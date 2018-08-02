@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.700999, "longitude": -1.783993 }, "osm_way_id": "149638317", "name": "Direct Fireplaces", "building": "yes", "shop": "fireplace" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7840813, 53.7011888 ], [ -1.783833, 53.7011705 ], [ -1.7838674, 53.7010062 ], [ -1.7839088, 53.7008097 ], [ -1.7841152, 53.7008207 ], [ -1.7841533, 53.7008452 ], [ -1.7840813, 53.7011888 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.701801, "longitude": -1.777134 }, "osm_way_id": "171821270", "name": "Artisan Fireplaces", "building": "yes", "shop": "fireplace", "other_tags": "\"website\"=>\"artisanfireplaces.co.uk\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7771539, 53.7020171 ], [ -1.7768855, 53.7019598 ], [ -1.7771134, 53.7015855 ], [ -1.7773818, 53.7016428 ], [ -1.7771539, 53.7020171 ] ] ] } }
+]
+}

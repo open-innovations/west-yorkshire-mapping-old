@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "2358555952", "name": "Elsie Russell", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7786483, 53.8345732 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3497988098", "name": "Mrs Bouquet", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7090229, 53.7674583 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5266826723", "name": "Rustic Garden", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8376985, 53.847699 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5434991092", "name": "flower couture", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8405364, 53.8505421 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5643784150", "name": "Butterfly's Florist", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7780567, 53.8340384 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5659255751", "name": "Bramles & Blooms", "other_tags": "\"opening_hours\"=>\"Mo-Sa 08:30-17:30\",\"phone\"=>\"+441274594079\",\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7915725, 53.834812 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5688842046", "name": "Bouquets", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"150a\",\"addr:postcode\"=>\"BD16 2HR\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8387884, 53.8488201 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.859296, "longitude": -1.815407 }, "osm_way_id": "456570510", "name": "Interior Inspirations", "building": "retail", "shop": "florist", "other_tags": "\"addr:city\"=>\"Eldwick, Bingley\",\"addr:street\"=>\"Otley Road\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8154782, 53.8593277 ], [ -1.8153923, 53.8593479 ], [ -1.8153438, 53.8592763 ], [ -1.8153362, 53.859265 ], [ -1.815422, 53.8592448 ], [ -1.8154782, 53.8593277 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.912252, "longitude": -1.937377 }, "osm_way_id": "569573528", "building": "yes", "shop": "florist" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9374586, 53.9122775 ], [ -1.9372937, 53.9122733 ], [ -1.9372971, 53.9122266 ], [ -1.9374605, 53.9122308 ], [ -1.9374586, 53.9122775 ] ] ] } }
+]
+}

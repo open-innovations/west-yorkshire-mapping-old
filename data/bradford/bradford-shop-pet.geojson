@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "676622221", "name": "Dogman's Pet Shop & Grooming Salon", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7088902, 53.7675453 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1655189889", "name": "Pets at Home", "amenity": "shop", "other_tags": "\"addr:city\"=>\"Keighley\",\"addr:district\"=>\"Keighley Retail Park\",\"addr:postcode\"=>\"BD21 3NJ\",\"addr:street\"=>\"Hard Ings Road\",\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.906269, 53.8746382 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1655189917", "name": "Jollyes", "other_tags": "\"addr:city\"=>\"Keighley\",\"addr:district\"=>\"Keighley Retail Park\",\"addr:postcode\"=>\"BD21 3NJ\",\"addr:street\"=>\"Hard Ings Road\",\"shop\"=>\"pet\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9047786, 53.873946 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2358548419", "name": "Predators", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7788601, 53.8348074 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2661206205", "name": "The Ilkley Pet Shop", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.821711, 53.9263685 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3497988099", "name": "Pet City", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7079172, 53.7662353 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5201824622", "name": "Barkers of Ilkley", "other_tags": "\"addr:housenumber\"=>\"38\",\"addr:postcode\"=>\"LS29 9EE\",\"addr:street\"=>\"The Grove\",\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8255507, 53.9248285 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.912990, "longitude": -1.937813 }, "osm_way_id": "568112463", "name": "Dogsbody & Friends", "building": "yes", "shop": "pet" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9378448, 53.9130389 ], [ -1.9377141, 53.9130349 ], [ -1.9377224, 53.9129404 ], [ -1.9379129, 53.9129462 ], [ -1.9379055, 53.9130303 ], [ -1.9378457, 53.9130285 ], [ -1.9378448, 53.9130389 ] ] ] } }
+]
+}

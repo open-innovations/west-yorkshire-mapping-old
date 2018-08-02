@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5480784037", "name": "A1 News And Mini Market", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"2\",\"addr:postcode\"=>\"LS15 8BQ\",\"addr:street\"=>\"Manston Approach\",\"addr:suburb\"=>\"Cross Gates\",\"fhrs:id\"=>\"322139\",\"shop\"=>\"convenience;newsagent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4476419, 53.8105646 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.748371, "longitude": -1.477615 }, "osm_way_id": "545810849", "name": "Martins", "building": "commercial", "shop": "convenience;newsagent", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"47\",\"addr:postcode\"=>\"LS26 0AP\",\"addr:street\"=>\"Commercial Street\",\"addr:suburb\"=>\"Rothwell\",\"fhrs:id\"=>\"321760\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4776719, 53.7484267 ], [ -1.4775639, 53.7484287 ], [ -1.477558, 53.7483162 ], [ -1.477666, 53.7483142 ], [ -1.4776719, 53.7484267 ] ] ] } }
+]
+}

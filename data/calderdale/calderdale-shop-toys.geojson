@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5468321869", "name": "Ninja", "other_tags": "\"shop\"=>\"toys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8613806, 53.7233848 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.722420, "longitude": -1.861350 }, "osm_way_id": "564469652", "name": "Toyland", "building": "yes", "shop": "toys" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8612304, 53.7224453 ], [ -1.8612036, 53.7223913 ], [ -1.8614155, 53.722358 ], [ -1.8614718, 53.7223739 ], [ -1.8614879, 53.7224374 ], [ -1.861496, 53.7224627 ], [ -1.8613243, 53.7224818 ], [ -1.8613109, 53.7224389 ], [ -1.8612304, 53.7224453 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.686536, "longitude": -1.855374 }, "osm_way_id": "603526976", "name": "Model Shop & Trophy Centre", "building": "yes", "shop": "toys" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8553388, 53.6865945 ], [ -1.8553282, 53.6864799 ], [ -1.8554097, 53.6864773 ], [ -1.8554203, 53.6865918 ], [ -1.8553388, 53.6865945 ] ] ] } }
+]
+}

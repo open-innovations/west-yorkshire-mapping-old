@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "4591549858", "name": "The Lounge", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8863408, 53.6700706 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5438626921", "name": "Hollywood Nails", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8599108, 53.7225119 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5438626922", "name": "Beauty Spot Works", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8599081, 53.7224485 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5483736330", "name": "KZ Nails", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8599537, 53.7232769 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5569969828", "name": "Nail Diva", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8589988, 53.7225596 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.671169, "longitude": -1.883862 }, "osm_way_id": "470839792", "name": "Creative Beauty", "building": "terrace", "shop": "beauty", "other_tags": "\"website\"=>\"http:\/\/www.creativebeauty-halifax.co.uk\/\",\"addr:city\"=>\"Stainland\",\"addr:street\"=>\"Kiln Croft\",\"addr:postcode\"=>\"HX4 9PD\",\"addr:housenumber\"=>\"1\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8838481, 53.6712038 ], [ -1.8838033, 53.6711689 ], [ -1.8838623, 53.671134 ], [ -1.8839215, 53.6711742 ], [ -1.8838481, 53.6712038 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.722782, "longitude": -1.861527 }, "osm_way_id": "564469664", "name": "Spa Beauty Nails", "building": "yes", "shop": "beauty" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8615603, 53.7227992 ], [ -1.8614995, 53.7228091 ], [ -1.8614929, 53.7227622 ], [ -1.8615523, 53.7227548 ], [ -1.8615603, 53.7227992 ] ] ] } }
+]
+}

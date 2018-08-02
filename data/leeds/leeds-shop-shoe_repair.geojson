@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "3777343355", "name": "Timpson", "other_tags": "\"shop\"=>\"shoe_repair\",\"building\"=>\"kiosk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5105705, 53.8230805 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5218896682", "name": "ShoeCare", "other_tags": "\"shop\"=>\"shoe_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6026293, 53.7453474 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.821242, "longitude": -1.577448 }, "osm_way_id": "201837059", "name": "Steve's", "building": "retail", "shop": "shoe_repair", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Otley Road\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"LS6 2AD\",\"addr:housenumber\"=>\"30\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5773324, 53.8212621 ], [ -1.5775203, 53.8211929 ], [ -1.5775636, 53.8212343 ], [ -1.5774144, 53.8212887 ], [ -1.5774033, 53.8212778 ], [ -1.5773655, 53.821292 ], [ -1.5773324, 53.8212621 ] ] ] } }
+]
+}

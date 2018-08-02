@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "2593274954", "name": "B. Whiteley Farm Shop & Nursery", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS28 9JJ\",\"addr:street\"=>\"Hough Side Road\",\"addr:suburb\"=>\"Swinnow\",\"fhrs:id\"=>\"321501\",\"shop\"=>\"farm\",\"website\"=>\"http:\/\/www.bwhiteleyfarmshop.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6445939, 53.7960968 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4266396612", "name": "Horsforth Pick Your Own", "other_tags": "\"shop\"=>\"farm\",\"website\"=>\"http:\/\/www.horsforthpickyourown.co.uk\/\",\"addr:city\"=>\"Horsforth\",\"addr:street\"=>\"Calverley Lane\",\"addr:postcode\"=>\"LS18 4EB\",\"opening_hours\"=>\"Jun-Aug: Mo-Su,PH 10:00-19:00 \\\"Typically open from early June to early August, closes if there's persistent rain\\\"; Sep-May: closed\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6572352, 53.8338599 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4901694141", "name": "Rhubarb Triangle Farm Shop", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:housename\"=>\"Green End Farm\",\"addr:postcode\"=>\"WF3 3QR\",\"addr:street\"=>\"Ouzlewell Green\",\"fhrs:id\"=>\"953900\",\"shop\"=>\"farm\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4890868, 53.7351203 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.786201, "longitude": -1.653236 }, "osm_way_id": "459956348", "name": "The Farm Shop", "building": "yes", "shop": "farm", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"89\",\"addr:postcode\"=>\"LS28 9NB\",\"addr:street\"=>\"Roker Lane\",\"addr:suburb\"=>\"Pudsey\",\"fhrs:id\"=>\"322257\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.653136, 53.7861891 ], [ -1.6531325, 53.7861485 ], [ -1.6532026, 53.7861463 ], [ -1.6533313, 53.7861424 ], [ -1.6533389, 53.7862305 ], [ -1.653227, 53.7862339 ], [ -1.6532289, 53.7862569 ], [ -1.6531421, 53.7862595 ], [ -1.653136, 53.7861891 ] ] ] } }
+]
+}

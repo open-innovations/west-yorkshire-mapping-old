@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "333467298", "name": "The Body Shop", "other_tags": "\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5424439, 53.7978903 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2134260274", "name": "CC Hair and Beauty", "other_tags": "\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5398731, 53.7967957 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4489200798", "name": "Scentiments", "other_tags": "\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4504143, 53.8064394 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5648164603", "name": "Bodycare", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"St Johns Centre\",\"addr:housenumber\"=>\"110-118\",\"addr:postcode\"=>\"LS2 8LQ\",\"addr:street\"=>\"Albion Street\",\"level\"=>\"0\",\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5437581, 53.8002445 ] } }
+]
+}

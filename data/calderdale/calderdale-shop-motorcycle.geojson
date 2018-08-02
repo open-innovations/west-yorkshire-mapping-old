@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "1420750902", "name": "Adventure-Spec", "other_tags": "\"shop\"=>\"motorcycle\",\"phone\"=>\"0044 1422 882997\",\"website\"=>\"http:\/\/www.adventure-spec.com\",\"addr:street\"=>\"Cragg Road\",\"addr:postcode\"=>\"HX7 5EY\",\"addr:housename\"=>\"Adventure-Spec\",\"addr:housenumber\"=>\"Unit 3\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9891093, 53.7255942 ] } }
+]
+}

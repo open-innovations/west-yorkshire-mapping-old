@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.728727, "longitude": -1.872224 }, "osm_way_id": "115743071", "name": "Dreams", "building": "yes", "shop": "bed" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8724507, 53.7289053 ], [ -1.8719089, 53.7288499 ], [ -1.8719971, 53.7285478 ], [ -1.8725389, 53.7286032 ], [ -1.8724507, 53.7289053 ] ] ] } }
+]
+}

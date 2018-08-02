@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "2353531358", "name": "Woollett Home Electrical", "other_tags": "\"shop\"=>\"electrical\",\"website\"=>\"www.woollett-service.com\",\"addr:city\"=>\"Otley\",\"telephone\"=>\"01943 851297\",\"is_in:town\"=>\"Otley\",\"addr:street\"=>\"Kirkgate\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"LS21 3HN\",\"addr:housenumber\"=>\"33\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6944189, 53.9051157 ] } }
+]
+}

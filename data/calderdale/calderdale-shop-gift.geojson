@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "4579780110", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0116129, 53.7417587 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5569969837", "name": "Two for Joy", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8599108, 53.7244497 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5572259403", "name": "Friendly Dragon", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8584785, 53.7208915 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5572259409", "name": "Frantasia", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8585643, 53.7214899 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.702463, "longitude": -1.780229 }, "osm_way_id": "115559373", "name": "Card King", "building": "yes", "shop": "gift" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7802997, 53.7025326 ], [ -1.7802145, 53.7025438 ], [ -1.7801576, 53.7023926 ], [ -1.7802428, 53.7023814 ], [ -1.7802997, 53.7025326 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.702283, "longitude": -1.781502 }, "osm_way_id": "148853896", "name": "Hallmark", "building": "yes", "shop": "gift" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7816106, 53.7023588 ], [ -1.7814639, 53.7023795 ], [ -1.7813941, 53.7022063 ], [ -1.7815408, 53.7021856 ], [ -1.7816044, 53.7023436 ], [ -1.7816106, 53.7023588 ] ] ] } }
+]
+}

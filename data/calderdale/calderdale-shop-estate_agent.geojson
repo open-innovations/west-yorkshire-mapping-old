@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.702217, "longitude": -1.780253 }, "osm_way_id": "154564225", "name": "Gallery", "building": "yes", "shop": "estate_agent" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7802249, 53.7022791 ], [ -1.7802212, 53.7022691 ], [ -1.7801833, 53.7021681 ], [ -1.7802809, 53.7021553 ], [ -1.7802876, 53.7021732 ], [ -1.7803224, 53.7022663 ], [ -1.7802249, 53.7022791 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "3916676778", "name": "Baby Direct", "other_tags": "\"shop\"=>\"baby_goods\",\"phone\"=>\"+44 113 2250505\",\"website\"=>\"http:\/\/www.baby-direct.com\/\",\"addr:city\"=>\"Horsforth\",\"addr:street\"=>\"New Road Side\",\"addr:postcode\"=>\"LS18 4QB\",\"opening_hours\"=>\"Mo-Sa 10:00-17:00; Su 11:00-16:00\",\"addr:housenumber\"=>\"96-98\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6413779, 53.8322332 ] } }
+]
+}

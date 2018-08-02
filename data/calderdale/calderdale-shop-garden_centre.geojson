@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.689677, "longitude": -2.100280 }, "osm_way_id": "103451308", "name": "Gordon Rigg Garden Centre", "shop": "garden_centre", "other_tags": "\"website\"=>\"www.gordenrigg-gardencentres.co.uk\",\"addr:street\"=>\"Rochdale Road\",\"addr:postcode\"=>\"OL14 7TJ\",\"addr:housename\"=>\"Gordon Rigg Garden Centre\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.1013768, 53.6894011 ], [ -2.1011032, 53.6894551 ], [ -2.1014787, 53.6900777 ], [ -2.1006687, 53.6902937 ], [ -2.1003897, 53.6901666 ], [ -2.1001966, 53.6900173 ], [ -2.1000035, 53.690084 ], [ -2.0990808, 53.6892327 ], [ -2.0994563, 53.6891056 ], [ -2.0998479, 53.689328 ], [ -2.1002073, 53.6892041 ], [ -2.1003629, 53.6892962 ], [ -2.1010978, 53.6890612 ], [ -2.1013768, 53.6894011 ] ] ] } }
+]
+}

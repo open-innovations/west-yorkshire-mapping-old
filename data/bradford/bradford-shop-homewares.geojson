@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5643784151", "name": "Wilko", "other_tags": "\"opening_hours\"=>\"Mo-Sa 08:30-17:30; Su 10:00-16:00\",\"shop\"=>\"homewares\",\"website\"=>\"wilko.com\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7777366, 53.8340581 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.809435, "longitude": -1.753934 }, "osm_way_id": "177320965", "name": "B&M Home Store", "building": "retail", "shop": "homewares" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7536911, 53.8097492 ], [ -1.7533736, 53.8093483 ], [ -1.7541861, 53.8091215 ], [ -1.7544951, 53.809532 ], [ -1.7536911, 53.8097492 ] ] ] } }
+]
+}

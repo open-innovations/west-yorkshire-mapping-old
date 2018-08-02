@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5462714219", "name": "Seagulls", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"10-12\",\"addr:postcode\"=>\"LS9 6DJ\",\"addr:street\"=>\"Hudson Road\",\"addr:suburb\"=>\"Burmantofts\",\"shop\"=>\"paint\",\"website\"=>\"http:\/\/seagullsreuse.org.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5118191, 53.8066985 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.808483, "longitude": -1.532797 }, "osm_way_id": "426123802", "name": "Dulux Decorator Centre", "building": "yes", "shop": "paint", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"24\",\"addr:postcode\"=>\"LS7 1BT\",\"addr:street\"=>\"Roundhay Road\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.533085, 53.8084346 ], [ -1.5331446, 53.8085045 ], [ -1.5326358, 53.8086558 ], [ -1.5324488, 53.8084366 ], [ -1.5328704, 53.8083112 ], [ -1.5329978, 53.8084605 ], [ -1.533085, 53.8084346 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.810057, "longitude": -1.530290 }, "osm_way_id": "563078585", "name": "Brewers Decorator Centre", "building": "yes", "shop": "paint", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"College Trade Park\",\"addr:housenumber\"=>\"5\",\"addr:postcode\"=>\"LS7 3AJ\",\"addr:street\"=>\"Roundhay Road\",\"addr:unit\"=>\"7\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5301403, 53.8100128 ], [ -1.5303217, 53.8099601 ], [ -1.5304396, 53.8101015 ], [ -1.5302582, 53.8101542 ], [ -1.5301403, 53.8100128 ] ] ] } }
+]
+}

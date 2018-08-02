@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "2492651390", "name": "George And Joseph Cheesemongers", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"140\",\"addr:postcode\"=>\"LS7 4NZ\",\"addr:street\"=>\"Harrogate Road\",\"addr:suburb\"=>\"Moortown\",\"fhrs:id\"=>\"1018392\",\"shop\"=>\"cheese\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5382306, 53.8302109 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5414308749", "name": "The Artisan Cheese Company", "other_tags": "\"addr:housenumber\"=>\"8\",\"addr:postcode\"=>\"LS22 6LP\",\"addr:street\"=>\"Church Street\",\"addr:town\"=>\"Wetherby\",\"fhrs:id\"=>\"759679\",\"shop\"=>\"cheese\",\"website\"=>\"https:\/\/www.artisancheese.co\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3865706, 53.928868 ] } }
+]
+}
