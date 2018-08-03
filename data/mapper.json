@@ -167,9 +167,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-07-21",
+		"date":"2018-08-03",
 		"odbl":true,
-		"size": 586390,
+		"size": 587085,
 		"colour":"#02a24b"
 	},
 	"osm-calderdale-allotments": {
@@ -535,9 +535,9 @@
 		"url":"https://openstreetmap.org/",
 		"owner":"osm",
 		"credit": { "text": "&copy; OpenStreetMap contributors", "src": "Open Street Map" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-		"date":"2018-08-02",
+		"date":"2018-08-03",
 		"odbl":true,
-		"size": 1784869,
+		"size": 1788333,
 		"colour":"#02a24b"
 	},
 	"osm-wy-allotments": {
