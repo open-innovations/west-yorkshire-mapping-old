@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-leisure-park.geojson",
+	"name":"Leeds parks",
+	"desc":"Open Street Map parks",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-08-09",
+	"odbl":true,
+	"size": 315345,
+	"colour":"#4af74c"
+}

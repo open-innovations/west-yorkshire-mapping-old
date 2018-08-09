@@ -1,0 +1,13 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/calderdale/calderdale-natural-tree.geojson",
+	"name":"Calderdale trees",
+	"desc":"Individual trees from Open Street Map. This dataset is far from complete. Please consider adding individual trees to Open Street Map.",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-06-28",
+	"odbl":true,
+	"size": 17547,
+	"colour":"#02a24b",
+	"popup":"<h3>Tree</h3><p><strong>Genus:</strong> %genus:en%</p>"
+}

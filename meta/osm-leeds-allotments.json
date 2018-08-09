@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-landusage-allotments.geojson",
+	"name":"Leeds allotments",
+	"desc":"Open Street Map allotment shapes",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-08-07",
+	"odbl":true,
+	"size": 76962,
+	"colour":"#67E767"
+}

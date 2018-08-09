@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/west-yorkshire-shop-charity.geojson",
+	"name":"West Yorkshire charity shops",
+	"desc":"Open Street Map charity shops in West Yorkshire",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-08-02",
+	"odbl":true,
+	"size": 44699,
+	"colour":"#000000"
+}

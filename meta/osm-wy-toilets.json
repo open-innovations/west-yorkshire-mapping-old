@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/west-yorkshire-amenities-toilets.geojson",
+	"name":"West Yorkshire toilets",
+	"desc":"Open Street Map toilets in West Yorkshire",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-06-24",
+	"odbl":true,
+	"size": 25093,
+	"colour":"#000000"
+}

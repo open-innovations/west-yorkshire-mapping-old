@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/west-yorkshire-shop-bicycle.geojson",
+	"name":"West Yorkshire bike shops",
+	"desc":"Open Street Map bicycle shops in West Yorkshire",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-08-01",
+	"odbl":true,
+	"size": 13294,
+	"colour":"#2f529f"
+}

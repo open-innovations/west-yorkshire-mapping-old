@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/calderdale/calderdale-amenities-post_office.geojson",
+	"name":"Calderdale post offices",
+	"desc":"Open Street Map post offices.",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-06-28",
+	"odbl":true,
+	"size": 12080,
+	"colour":"#d71440"
+}

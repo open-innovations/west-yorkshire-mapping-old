@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/bradford/bradford-amenities-post_office.geojson",
+	"name":"Bradford post offices",
+	"desc":"Open Street Map post offices.",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-07-30",
+	"odbl":true,
+	"size": 27838,
+	"colour":"#d71440"
+}

@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/calderdale/calderdale-natural-wood.geojson",
+	"name":"Calderdale woods",
+	"desc":"Open Street Map woods",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-07-08",
+	"odbl":true,
+	"size": 565134,
+	"colour":"#02a24b"
+}

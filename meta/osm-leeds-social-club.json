@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-leisure-social_club.geojson",
+	"name":"Leeds social clubs",
+	"desc":"Open Street Map social clubs",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-04-14",
+	"odbl":true,
+	"size": 1832,
+	"colour":"#cd7d94"
+}

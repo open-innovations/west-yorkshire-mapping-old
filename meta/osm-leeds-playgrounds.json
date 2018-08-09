@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-leisure-playground.geojson",
+	"name":"Leeds playgrounds",
+	"desc":"Playgrounds and play areas",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-08-07",
+	"odbl":true,
+	"size": 94212,
+	"colour":"#0DBC37"
+}

@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/calderdale/calderdale-amenities-post_box.geojson",
+	"name":"Calderdale post boxes",
+	"desc":"Open Street Map post boxes.",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-06-28",
+	"odbl":true,
+	"size": 32256,
+	"colour":"#D60303"
+}

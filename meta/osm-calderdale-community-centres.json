@@ -1,0 +1,13 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/calderdale/calderdale-amenities-community_centre.geojson",
+	"name":"Calderdale community centres",
+	"desc":"Open Street Map community centres",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-06-28",
+	"odbl":true,
+	"size": 934,
+	"colour":"#48c7e9",
+	"popup":"function(f){ str = '<h3>%name%</h3><p>'; if(f.properties.website){ str += '<strong>Website:</strong> <a href=\"%website%\" target=\"_parent\">%website%</a><br />'; } if(f.properties['addr:street']){ str += '<strong>Address</strong>: %addr:street%'+(f.properties['addr:suburb'] ? ', %addr:suburb%':'')+(f.properties['addr:city'] ? ', %addr:city%':'')+(f.properties['addr:postcode'] ? ', %addr:postcode%':'')+'<br />'; } if(f.properties['fhrs:id']){ str += 'This community centre appears to have a <a href=\"http://ratings.food.gov.uk/business/en-GB/%fhrs:id%\" target=\"_parent\">food hygiene ID</a>'; } str +='</p>'; return str; }"
+}

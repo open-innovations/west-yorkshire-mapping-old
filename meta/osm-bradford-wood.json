@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/bradford/bradford-natural-wood.geojson",
+	"name":"Bradford woods",
+	"desc":"Open Street Map woods",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-08-04",
+	"odbl":true,
+	"size": 587274,
+	"colour":"#02a24b"
+}

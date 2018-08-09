@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-public_bookcase.geojson",
+	"name":"Leeds public bookcases",
+	"desc":"Little libraries on OpenStreetMap.<br /><br />You can help improve this map by <a href=\"http://www.openstreetmap.org/edit?pk_campaign=odileeds-edit#map=13/53.8031599/-1.5556811\">adding public bookcases to OpenStreetMap</a>. You need an account (it is free) and then the data will be open for everyone to use.<br /><br />If you add a public bookcase to OpenStreetMap, be sure to tag it as <em>amenity=public_bookcase</em> and we'll get your update within a day or so. There are <a href=\"https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dpublic_bookcase\">other tags you can add</a> such as <em>capacity=30</em> and <em>operator=\"Little Free Library\"</em>.",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-06-11",
+	"odbl":true,
+	"size": 1379,
+	"colour":"#000000"
+}

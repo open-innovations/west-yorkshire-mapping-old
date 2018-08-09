@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-cafe.geojson",
+	"name":"Leeds cafes",
+	"desc":"Open Street Map locations of cafes",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-07-31",
+	"odbl":true,
+	"size": 170561,
+	"colour":"#EF3AAB"
+}

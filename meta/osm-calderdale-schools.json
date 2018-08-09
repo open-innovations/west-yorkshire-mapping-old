@@ -1,0 +1,13 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/calderdale/calderdale-amenities-school.geojson",
+	"name":"Calderdale schools",
+	"desc":"Open Street Map schools",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-07-13",
+	"odbl":true,
+	"size": 98214,
+	"colour":"#f05948",
+	"popup":"function(f){ return '<h3>'+(f.properties.name ? f.properties.name:'Unknown school')+'</h3><p>'+(f.properties['ref:edubase'] ? '<a href=\"https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/'+f.properties['ref:edubase']+'\">See school details on gov.uk</a>':'')+(f.properties.website ? (f.properties['ref:edubase'] ? '<br />':'')+'<a href=\"'+f.properties.website+'\">Website</a>':'')+'</p>'; }"
+}

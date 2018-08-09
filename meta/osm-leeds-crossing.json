@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-highway-crossings.geojson",
+	"name":"Leeds pedestrian crossings",
+	"desc":"Pelican, zebra, toucan and other crossings",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-08-09",
+	"odbl":true,
+	"size": 228003,
+	"colour":"#FF6700"
+}

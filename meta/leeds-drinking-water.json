@@ -1,0 +1,13 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-drinking_water.geojson",
+	"name":"Leeds drinking water",
+	"desc":"Drinking water points marked on OpenStreetMap.<br /><br />You can help improve the map by <a href=\"http://www.openstreetmap.org/edit?pk_campaign=odileeds-edit#map=13/53.8031599/-1.5556811\">adding drinking water points to OpenStreetMap</a>. You need an account (it is free) and then the data will be open for everyone to use. Just be sure to tag the points as <em>amenity=drinking_water</em> and we'll get your update within a day or so. There are <a href=\"https://wiki.openstreetmap.org/wiki/Tag:amenity%3Ddrinking_water\">other tags you can add</a> such as <em>indoor=yes</em> and <em>bottle=*</em>.",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2018-04-29",
+	"odbl":true,
+	"size": 2076,
+	"colour":"#178CFF",
+	"popup":"function(f){ return \"<h3>Drinking water</h3><p>\"+(f.properties.cold_water ? \"Cold water<br />\" : \"\")+(f.properties.hot_water ? \"Hot water<br />\":\"\")+(f.properties.bottle ? \"Bottle: \"+f.properties.bottle+\"<br />\":\"\")+\"</p>\"; }"
+}
