@@ -45,7 +45,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "302043802", "name": "The Greyhound", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.6659463, 53.7713258 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "302733137", "name": "Old Red Lion", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7639004, 53.7834892 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "302739487", "name": "The Newby Square", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7546241, 53.7808075 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "302943969", "name": "Balloon & Basket", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7377284, 53.8268857 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "302943969", "name": "Balloon & Basket", "amenity": "pub", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:postcode\"=>\"BD10 8QH\",\"addr:street\"=>\"Highfield Road\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7377284, 53.8268857 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "303151076", "name": "Albion Sports bar", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7269755, 53.7921997 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "303191592", "name": "Bowling Hotel", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7443132, 53.7853965 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "303191614", "name": "The Mill Lane", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7481209, 53.7864607 ] } },
