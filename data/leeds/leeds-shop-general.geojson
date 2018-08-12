@@ -2,9 +2,9 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "52678086", "other_tags": "\"shop\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -1.53839, 53.8045193 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330071183", "name": "Armley Trade Centre", "other_tags": "\"shop\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5909161, 53.7966778 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330071184", "name": "Jamali", "other_tags": "\"shop\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5914964, 53.7965103 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3636152214", "name": "B & M", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS9 6TN\",\"addr:street\"=>\"Torre Lane\",\"addr:suburb\"=>\"Burmantofts\",\"addr:unit\"=>\"B\",\"fhrs:id\"=>\"322073\",\"shop\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5057309, 53.8002754 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "3636152214", "name": "B & M", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS9 6TN\",\"addr:street\"=>\"Torre Lane\",\"addr:suburb\"=>\"Burmantofts\",\"addr:unit\"=>\"B\",\"fhrs:id\"=>\"322073\",\"shop\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5057309, 53.8002754 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.804504, "longitude": -1.538395 }, "osm_way_id": "616127012", "building": "retail", "shop": "general" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5383048, 53.8045643 ], [ -1.5383683, 53.8044227 ], [ -1.5384612, 53.8044372 ], [ -1.5384489, 53.8044646 ], [ -1.5384861, 53.8044704 ], [ -1.5384349, 53.8045847 ], [ -1.5383048, 53.8045643 ] ] ] } }
 ]
 }
