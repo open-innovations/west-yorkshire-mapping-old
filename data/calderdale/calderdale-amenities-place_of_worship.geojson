@@ -14,7 +14,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1301896013", "name": "Christ Church Centre", "amenity": "place_of_worship", "other_tags": "\"religion\"=>\"christian\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8018776, 53.7281548 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1371042597", "name": "St Anne-in-the-Grove", "amenity": "place_of_worship", "other_tags": "\"religion\"=>\"christian\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8193152, 53.7092237 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1416718801", "name": "Lumbutts Church", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -2.0654508, 53.7068049 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1420486306", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -2.063452, 53.7449642 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1420486306", "name": "Blackshaw Head Chapel", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -2.063452, 53.7449642 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1474265437", "name": "Pepper Hill Unitarian Chapel", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.8309907, 53.7558762 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1634144868", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.8499601, 53.7128433 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1634144918", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.8497992, 53.7133386 ] } },
