@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2295333380", "name": "St George's Medical Centre", "amenity": "clinic" }, "geometry": { "type": "Point", "coordinates": [ -1.53192, 53.747839 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3089667469", "name": "BUPA Leeds", "amenity": "clinic", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Park Place\",\"postal_code\"=>\"LS1 2SP\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"LS1 2SP\",\"addr:housename\"=>\"Trafalgar House\",\"addr:housenumber\"=>\"29\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5527609, 53.7976702 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3089667469", "name": "BUPA Leeds", "amenity": "clinic", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:country\"=>\"GB\",\"addr:housename\"=>\"Trafalgar House\",\"addr:housenumber\"=>\"29\",\"addr:postcode\"=>\"LS1 2SP\",\"addr:street\"=>\"Park Place\",\"postal_code\"=>\"LS1 2SP\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5528628, 53.7976781 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3987138371", "name": "Woodsley Road Health Centre", "amenity": "clinic" }, "geometry": { "type": "Point", "coordinates": [ -1.5679822, 53.806916 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4540404966", "name": "AshField Medical Clinic", "amenity": "clinic" }, "geometry": { "type": "Point", "coordinates": [ -1.4500922, 53.8075152 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5527199864", "name": "Maywa Clinic", "amenity": "clinic", "other_tags": "\"healthcare\"=>\"clinic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5837189, 53.806829 ] } },
