@@ -2166,6 +2166,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5696939757", "amenity": "post_box", "other_tags": "\"post_box:mounting\"=>\"wooden_post\",\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9281556, 53.8043749 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5698015546", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3568111, 53.8829636 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5771504191", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5909644, 53.8977511 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5863374708", "amenity": "post_box", "ref": "LS20 506", "other_tags": "\"collection_times\"=>\"Mo-Fr 16:00; Sa 11:00\",\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"lamp\",\"royal_cypher\"=>\"EIIR\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7596498, 53.8742185 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5863374708", "amenity": "post_box", "ref": "LS20 506", "other_tags": "\"collection_times\"=>\"Mo-Fr 16:00; Sa 11:00\",\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"lamp\",\"royal_cypher\"=>\"EIIR\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7596498, 53.8742185 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5882400577", "amenity": "post_box", "other_tags": "\"drive_through\"=>\"no\",\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5825618, 53.7658768 ] } }
 ]
 }
