@@ -4,7 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "28168204", "name": "Ilkley Town Hall", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.8209513, 53.9241586 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "300463568", "amenity": "public_building", "other_tags": "\"building\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7677893, 53.8057618 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "301729352", "name": "Park Lane Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.7596528, 53.7827199 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "304859510", "name": "Highcroft Youth Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.7621444, 53.8290722 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "312076059", "name": "Greenwood Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.7479449, 53.8209311 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "313246356", "name": "Youth & Community Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.727082, 53.8205539 ] } },
