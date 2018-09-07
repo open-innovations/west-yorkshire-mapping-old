@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "791274601", "name": "Empty shop", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"108\",\"addr:postcode\"=>\"BD16 2JH\",\"addr:street\"=>\"Main Street\",\"Not:name\"=>\"Keith Lambert Cyclesports\",\"shop\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8399358, 53.8499665 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358548420", "name": "Stitch Patren", "other_tags": "\"shop\"=>\"yes\",\"description\"=>\"Clothing alteration and repairs\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7789621, 53.8348107 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358622110", "name": "Aspect", "other_tags": "\"shop\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.774979, 53.8330443 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358622117", "name": "bathstore", "other_tags": "\"shop\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7750058, 53.8331202 ] } },
