@@ -13,7 +13,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "299515538", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.8321397, 53.7098602 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "304859392", "name": "Wrose Library", "amenity": "library", "other_tags": "\"addr:city\"=>\"Wrose\",\"addr:postcode\"=>\"BD18 1HX\",\"addr:street\"=>\"Wrose Road\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7567509, 53.8289649 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "305768543", "name": "Castleford Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.3506749, 53.7265668 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "314451593", "name": "Eccleshill Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.7308615, 53.8171025 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "314451593", "name": "Eccleshill Library", "amenity": "library", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:postcode\"=>\"BD2 4SR\",\"addr:street\"=>\"Bolton Road\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7308615, 53.8171025 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "323935961", "name": "Rothwell Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.4789382, 53.7472405 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "329007661", "name": "Hebden Bridge Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -2.0121584, 53.7412826 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "343108208", "name": "Armley Heights Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.6162095, 53.7959887 ] } },

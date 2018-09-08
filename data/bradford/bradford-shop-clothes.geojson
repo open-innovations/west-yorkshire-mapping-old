@@ -8,7 +8,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "662441243", "name": "Step 2", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7215998, 53.7714484 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "687080933", "name": "Diva Bridal", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7160135, 53.7696628 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "687081050", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7123148, 53.7683463 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1666477666", "name": "Thara", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9098855, 53.8657949 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1959492746", "name": "Jannat Boutique", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9014119, 53.8702328 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1959492752", "name": "Maria", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9017339, 53.8703047 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1959492756", "name": "Mughal Boutique", "other_tags": "\"shop\"=>\"clothes\",\"wheelchair\"=>\"limited\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9001762, 53.8699808 ] } },
