@@ -11,7 +11,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "415510969", "amenity": "atm", "other_tags": "\"operator\"=>\"Bradford & Bingley\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9090424, 53.8670781 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "415510970", "amenity": "atm", "other_tags": "\"operator\"=>\"Lloyds TSB\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9074493, 53.8679405 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "415510974", "amenity": "atm", "other_tags": "\"operator\"=>\"Lloyds\"" }, "geometry": { "type": "Point", "coordinates": [ -1.909495, 53.8670019 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "415510975", "amenity": "atm", "other_tags": "\"operator\"=>\"HSBC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9095142, 53.8667459 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "415511033", "amenity": "atm", "other_tags": "\"operator\"=>\"Nationwide\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9084126, 53.865813 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "415511036", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9079551, 53.865794 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "415511043", "amenity": "atm", "other_tags": "\"operator\"=>\"Cooperative\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9073929, 53.8658996 ] } },
