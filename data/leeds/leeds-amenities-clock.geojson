@@ -9,6 +9,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "3618047433", "name": "Oakwood Clock", "amenity": "clock", "other_tags": "\"tourism\"=>\"yes\",\"start_date\"=>\"1912\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5054943, 53.8275356 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3618068031", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.5147805, 53.8183493 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3874017926", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.6048855, 53.8163785 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4190694574", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.6903576, 53.8650569 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "4190694574", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.6903576, 53.8650569 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5897283849", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.462062, 53.8304964 ] } }
 ]
 }
