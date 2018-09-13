@@ -2,6 +2,12 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "5576449321", "name": "Tarbett's Fishmonger", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"128\",\"addr:postcode\"=>\"LS7 4NZ\",\"addr:street\"=>\"Harrogate Road\",\"addr:suburb\"=>\"Moortown\",\"fhrs:id\"=>\"818437\",\"shop\"=>\"seafood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5381745, 53.8299877 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5576449321", "name": "Tarbett's Fishmonger", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"128\",\"addr:postcode\"=>\"LS7 4NZ\",\"addr:street\"=>\"Harrogate Road\",\"addr:suburb\"=>\"Moortown\",\"fhrs:id\"=>\"818437\",\"shop\"=>\"seafood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5381745, 53.8299877 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5902098320", "name": "Ramsdens", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Kirkgate Market\",\"addr:postcode\"=>\"LS2 7HJ\",\"addr:street\"=>\"Kirkgate\",\"addr:unit\"=>\"27a\",\"fhrs:id\"=>\"320979\",\"shop\"=>\"seafood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5394713, 53.7967427 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5902098321", "name": "Arthur Welham", "other_tags": "\"shop\"=>\"seafood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5393749, 53.7967411 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5902098322", "name": "S Myers", "other_tags": "\"shop\"=>\"seafood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5392786, 53.7967395 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5902098323", "name": "T E Bethell", "other_tags": "\"shop\"=>\"seafood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5391822, 53.7967379 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5902098324", "name": "R Bethell", "other_tags": "\"shop\"=>\"seafood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5390858, 53.7967363 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5902098326", "name": "Tarbetts", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Kirkgate Market\",\"addr:postcode\"=>\"LS2 7RQ\",\"addr:street\"=>\"Kirkgate\",\"addr:unit\"=>\"326-327\",\"fhrs:id\"=>\"639139\",\"shop\"=>\"seafood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5388931, 53.7967332 ] } }
 ]
 }
