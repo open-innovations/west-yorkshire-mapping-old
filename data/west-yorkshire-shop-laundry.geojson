@@ -4,7 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "274257501", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.550829, 53.8125885 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "292238285", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5558368, 53.7671986 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "292238404", "other_tags": "\"shop\"=>\"laundry\",\"addr:housenumber\"=>\"201\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5445988, 53.7778017 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "292238404", "name": "Smart Wash Laundrette", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"201\",\"addr:postcode\"=>\"LS11 5EG\",\"addr:street\"=>\"Dewsbury Road\",\"payment:cash\"=>\"yes\",\"payment:coins\"=>\"yes\",\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5446042, 53.7777415 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "302043800", "name": "Washday Blues", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6206593, 53.7962411 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "329041405", "name": "The Launderette", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0128689, 53.7421049 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "349352556", "name": "Stitches", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6369154, 53.806571 ] } },
