@@ -27,7 +27,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "289815019", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6719582, 53.8036345 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "289818220", "amenity": "atm", "other_tags": "\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6020819, 53.8135182 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "291601296", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6284621, 53.8120334 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "292238410", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5445977, 53.7779603 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "292238410", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"drive_through\"=>\"no\",\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.544634, 53.7779398 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "292238582", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5499484, 53.7709674 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "296021089", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.627484, 53.8119386 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "297118299", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6618579, 53.7968662 ] } },

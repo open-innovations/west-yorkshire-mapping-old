@@ -10,7 +10,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "29048417", "name": "Barclays", "amenity": "bank", "other_tags": "\"operator\"=>\"Barclays Bank PLC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7127152, 53.8742652 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "291601295", "name": "Yorkshire Bank", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.628509, 53.812098 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "292298763", "name": "Halifax", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.6275996, 53.8119898 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "295684835", "name": "Barclays", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.5445601, 53.778336 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "297118298", "name": "Barclays", "amenity": "bank", "other_tags": "\"operator\"=>\"Barclays Bank PLC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.661862, 53.7968268 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "297118301", "name": "HSBC", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.6628967, 53.796476 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "297118304", "name": "NatWest", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.6630095, 53.7967866 ] } },
