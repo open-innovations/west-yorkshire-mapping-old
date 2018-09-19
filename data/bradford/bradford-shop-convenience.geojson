@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "300581127", "name": "Beech Stores", "other_tags": "\"addr:city\"=>\"Undercliffe, Bradford\",\"addr:housenumber\"=>\"20\",\"addr:postcode\"=>\"BD3 0PW\",\"addr:street\"=>\"Beech Grove\",\"fhrs:id\"=>\"326129\",\"shop\"=>\"convenience\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7327352, 53.8029342 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "300581127", "name": "Beech Stores", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:housenumber\"=>\"20\",\"addr:postcode\"=>\"BD3 0PW\",\"addr:street\"=>\"Beech Grove\",\"addr:suburb\"=>\"Undercliffe\",\"fhrs:id\"=>\"326129\",\"shop\"=>\"convenience\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7327352, 53.8029342 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301005481", "name": "Akbar General Food Store", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7586648, 53.777625 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301006025", "name": "Lazeez", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:housenumber\"=>\"296\",\"addr:postcode\"=>\"BD5 7BB\",\"addr:street\"=>\"Bowling Old Lane\",\"fhrs:id\"=>\"327989\",\"shop\"=>\"convenience\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.756018, 53.7769943 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301011741", "name": "Atique Foodstore", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7570255, 53.7741406 ] } },

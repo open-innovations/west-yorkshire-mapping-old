@@ -15,7 +15,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "455593953", "name": "St Joseph's Nursery", "amenity": "kindergarten" }, "geometry": { "type": "Point", "coordinates": [ -1.6582352, 53.7998374 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "621508949", "name": "Rainbow Nursery", "amenity": "kindergarten" }, "geometry": { "type": "Point", "coordinates": [ -1.773698, 53.8211512 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "621509019", "name": "BonBons Day Nursery", "amenity": "kindergarten" }, "geometry": { "type": "Point", "coordinates": [ -1.7716573, 53.8228359 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "685938589", "name": "Edwards Rainbow Centre: Communit Family Centre & Day Nursery", "amenity": "kindergarten" }, "geometry": { "type": "Point", "coordinates": [ -1.7084257, 53.7792376 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "685938589", "name": "Edwards Rainbow Centre: Communit Family Centre & Day Nursery", "amenity": "kindergarten", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:postcode\"=>\"BD4 0EA\",\"addr:street\"=>\"Dane Hill Drive\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7084257, 53.7792376 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747728526", "name": "Lulabells", "amenity": "kindergarten" }, "geometry": { "type": "Point", "coordinates": [ -1.7376342, 53.8886519 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1354786446", "amenity": "kindergarten" }, "geometry": { "type": "Point", "coordinates": [ -1.7843677, 53.6283834 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1354786449", "amenity": "kindergarten" }, "geometry": { "type": "Point", "coordinates": [ -1.7925214, 53.6222691 ] } },
