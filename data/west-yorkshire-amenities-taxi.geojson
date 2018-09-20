@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "244324217", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.5469426, 53.7953819 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "298127965", "name": "Beeston Line", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.5445642, 53.7791432 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "298127965", "name": "Beeston Line", "amenity": "taxi", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"157\",\"addr:postcode\"=>\"LS11 5NW\",\"addr:street\"=>\"Dewsbury Road\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5445588, 53.7791781 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314446876", "name": "GT Taxis", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.7805088, 53.6482509 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314736801", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.786215, 53.6458192 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "317593437", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.7503291, 53.7916526 ] } },

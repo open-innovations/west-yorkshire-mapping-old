@@ -18,7 +18,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "888253998", "name": "Zara", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5421695, 53.7970557 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1256728227", "name": "TM Lewin", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.548253, 53.795753 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1562986913", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5372558, 53.7974437 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1562986914", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5382483, 53.7970825 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1650942199", "name": "Abbey Wedding Warehouse", "other_tags": "\"shop\"=>\"clothes\",\"clothes\"=>\"bridal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6025998, 53.8157179 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2072972471", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5617253, 53.7637092 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2091013189", "name": "Hugo Boss", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5401437, 53.7984455 ] } },
