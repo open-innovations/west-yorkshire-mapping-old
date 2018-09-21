@@ -17,6 +17,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4582776189", "name": "Flowers by lynn", "other_tags": "\"shop\"=>\"florist\",\"name:en\"=>\"Flowers by lynn\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6938423, 53.9060124 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5413294425", "name": "Arts & Flowers Ltd", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4496133, 53.8074612 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5433183357", "name": "The Florist", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3880885, 53.7944007 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5918770660", "name": "Casablanca", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"126 a\",\"addr:postcode\"=>\"LS7 4NZ\",\"addr:street\"=>\"Harrogate Road\",\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5381658, 53.8299352 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.804654, "longitude": -1.451758 }, "osm_way_id": "571699284", "name": "Monroes", "building": "yes", "shop": "florist" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.451734, 53.8046934 ], [ -1.4517066, 53.8046245 ], [ -1.4517814, 53.8046141 ], [ -1.4518087, 53.804683 ], [ -1.451734, 53.8046934 ] ] ] } }
 ]
 }
