@@ -300,6 +300,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "5642157015", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6407344, 53.8376399 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5642157016", "amenity": "atm", "other_tags": "\"operator\"=>\"Santander\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6404544, 53.8378008 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5792055772", "name": "Cash zone", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7965487, 53.8357238 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5819186757", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5513639, 53.7918153 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5819186757", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5513639, 53.7918153 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5920382950", "amenity": "atm", "other_tags": "\"brand\"=>\"Natwest\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5058597, 53.6830471 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5920382951", "amenity": "atm", "other_tags": "\"brand\"=>\"Natwest\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5058659, 53.683055 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5920382952", "amenity": "atm", "other_tags": "\"brand\"=>\"Natwest\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5058721, 53.6830628 ] } }
 ]
 }
