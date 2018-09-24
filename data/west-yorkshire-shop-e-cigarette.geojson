@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2091013185", "name": "Herman Vapes", "other_tags": "\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5405473, 53.7971888 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2128107776", "name": "Totally Wicked", "other_tags": "\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5401067, 53.7971408 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2128107776", "name": "Totally Wicked", "other_tags": "\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5401166, 53.797135 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4411803724", "name": "E-Vape Outlet", "other_tags": "\"shop\"=>\"e-cigarette\",\"addr:street\"=>\"Kirkgate\",\"addr:postcode\"=>\"WF1 1HS\",\"addr:housenumber\"=>\"25\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4951664, 53.6828339 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4413109087", "name": "The eCig Shop", "other_tags": "\"shop\"=>\"e-cigarette\",\"addr:city\"=>\"Wakefield\",\"addr:street\"=>\"Westgate\",\"addr:postcode\"=>\"WF1 1JY\",\"addr:housenumber\"=>\"38\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4993467, 53.6825255 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4413109790", "name": "Vape", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:postcode\"=>\"WF1 1JY\",\"addr:street\"=>\"Westgate\",\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4994151, 53.6825306 ] } },

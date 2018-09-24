@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "1924347573", "name": "Skinz", "other_tags": "\"shop\"=>\"tattoo\",\"website\"=>\"http:\/\/www.skinzstudio.com\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6368149, 53.806548 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2128107670", "name": "Rude Studios", "other_tags": "\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.540095, 53.7970201 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2128107670", "name": "Rude Studios", "other_tags": "\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5401253, 53.7969966 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2134260286", "name": "Sacred Electric Tattoo", "other_tags": "\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.545806, 53.795462 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2135315799", "other_tags": "\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5379362, 53.796249 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3718505666", "name": "Adam's Tattoos", "other_tags": "\"addr:city\"=>\"Yeadon\",\"addr:housenumber\"=>\"32\",\"addr:postcode\"=>\"LS19 7EQ\",\"addr:street\"=>\"Town Street\",\"phone\"=>\"+44 113 391 0505\",\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6871774, 53.8659793 ] } },

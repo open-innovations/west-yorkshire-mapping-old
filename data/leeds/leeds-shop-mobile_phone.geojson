@@ -8,7 +8,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "333467272", "name": "Carphone Warehouse", "other_tags": "\"shop\"=>\"mobile_phone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5425636, 53.7972397 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333467319", "name": "Orange", "other_tags": "\"shop\"=>\"mobile_phone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5423596, 53.7981654 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2118549257", "name": "O2", "other_tags": "\"shop\"=>\"mobile_phone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5778371, 53.8217299 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2128107717", "name": "Phone For You", "other_tags": "\"shop\"=>\"mobile_phone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5400912, 53.7969799 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2128107717", "name": "Phone For You", "other_tags": "\"shop\"=>\"mobile_phone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5401282, 53.7969505 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3191896331", "name": "Carphone Warehouse", "other_tags": "\"shop\"=>\"mobile_phone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7092033, 53.8717552 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4471283677", "name": "Carphone Warehouse", "other_tags": "\"shop\"=>\"mobile_phone\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4512811, 53.8060767 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4475950132", "name": "Future Links UK", "other_tags": "\"shop\"=>\"mobile_phone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4501411, 53.8069543 ] } },

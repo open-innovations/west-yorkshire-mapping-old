@@ -36,6 +36,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2353598797", "other_tags": "\"addr:city\"=>\"Otley\",\"addr:housenumber\"=>\"6\",\"addr:street\"=>\"Bondgate\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6936033, 53.904204 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2353737750", "other_tags": "\"shop\"=>\"vacant\",\"addr:city\"=>\"Otley\",\"addr:street\"=>\"Westgate\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6973557, 53.90443 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3222499961", "name": "bikology", "other_tags": "\"disused:shop\"=>\"bicycle\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5618502, 53.8145297 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4833539609", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5306938, 53.8038253 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5300688731", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6007422, 53.7446093 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5311505863", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6938069, 53.9069075 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5314465747", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5207552, 53.8346059 ] } },
