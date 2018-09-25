@@ -6,7 +6,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "330089284", "name": "Floral Expression", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.591898, 53.7966243 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "340071333", "name": "Kingston Centre Florists", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6324472, 53.8140219 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "343131669", "name": "Bartle's", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5443651, 53.8019688 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1562986884", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5397342, 53.7968956 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1562986884", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.539879, 53.7969209 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2117006502", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5295682, 53.7794466 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2353442104", "name": "Tranmere Flowers", "other_tags": "\"shop\"=>\"florist\",\"addr:city\"=>\"Otley\",\"telephone\"=>\"01943 462736\",\"is_in:town\"=>\"Otley\",\"addr:street\"=>\"Boroughgate\"" }, "geometry": { "type": "Point", "coordinates": [ -1.692584, 53.9056356 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2353488093", "name": "Melt ...", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6937478, 53.9058237 ] } },
@@ -18,6 +18,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "5413294425", "name": "Arts & Flowers Ltd", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4496133, 53.8074612 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5433183357", "name": "The Florist", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3880885, 53.7944007 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5918770660", "name": "Casablanca", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"126 a\",\"addr:postcode\"=>\"LS7 4NZ\",\"addr:street\"=>\"Harrogate Road\",\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5381658, 53.8299352 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5927074106", "name": "Alan Brown Flowers", "other_tags": "\"shop\"=>\"florist\",\"website\"=>\"https:\/\/www.leedsflowers.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5400305, 53.7975142 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5927074107", "name": "Forget Me Not", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399621, 53.7975617 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5927074114", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5397368, 53.7975094 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.804654, "longitude": -1.451758 }, "osm_way_id": "571699284", "name": "Monroes", "building": "yes", "shop": "florist" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.451734, 53.8046934 ], [ -1.4517066, 53.8046245 ], [ -1.4517814, 53.8046141 ], [ -1.4518087, 53.804683 ], [ -1.451734, 53.8046934 ] ] ] } }
 ]
 }

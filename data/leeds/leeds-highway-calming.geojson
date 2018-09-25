@@ -499,6 +499,5 @@
 { "type": "Feature", "properties": { "osm_id": "5922490100" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.52473, 53.76514 ] } },
 { "type": "Feature", "properties": { "osm_id": "5922490101" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.52653, 53.76491 ] } },
 { "type": "Feature", "properties": { "osm_id": "5922490102" , "traffic_calming":"choker" }, "geometry": { "type": "Point", "coordinates": [ -1.52568, 53.76510 ] } }
-
 ]
 }
