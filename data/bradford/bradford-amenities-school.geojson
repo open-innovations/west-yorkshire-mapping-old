@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "685938868", "name": "Branches @ Carrwood Community & Family Skills Centre", "amenity": "school" }, "geometry": { "type": "Point", "coordinates": [ -1.7061208, 53.7805537 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "777472163", "name": "Lady Lane Park School", "amenity": "school", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:postcode\"=>\"BD16 4AP\",\"addr:street\"=>\"Lady Lane\",\"fhrs:id\"=>\"327585\",\"phone\"=>\"+44 1274 551168\",\"website\"=>\"http:\/\/www.ladylaneparkschool.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8314743, 53.8610282 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "777472163", "name": "Lady Lane Park School", "amenity": "school", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:postcode\"=>\"BD16 4AP\",\"addr:street\"=>\"Lady Lane\",\"fhrs:id\"=>\"327585\",\"phone\"=>\"+44 1274 551168\",\"website\"=>\"http:\/\/www.ladylaneparkschool.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8302244, 53.8606612 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1110750304", "name": "Bowling College", "amenity": "school" }, "geometry": { "type": "Point", "coordinates": [ -1.737401, 53.7789939 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1244326064", "name": "Challenge CLC", "amenity": "school" }, "geometry": { "type": "Point", "coordinates": [ -1.7654783, 53.8153668 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1324712560", "name": "Wyke Manor School", "amenity": "school" }, "geometry": { "type": "Point", "coordinates": [ -1.7618288, 53.7424404 ] } },
