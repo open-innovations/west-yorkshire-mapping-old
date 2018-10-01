@@ -4,7 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "1284605099", "name": "Pied Piper Pianos", "other_tags": "\"shop\"=>\"musical_instrument\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9504338, 53.836799 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2107337326", "other_tags": "\"shop\"=>\"musical_instrument\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7629892, 53.64415 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2128107665", "name": "Big Deal", "other_tags": "\"shop\"=>\"musical_instrument\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5392762, 53.7986877 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2128107665", "name": "Big Deal", "other_tags": "\"shop\"=>\"musical_instrument\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5392895, 53.7986878 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2138696596", "name": "Dawsons", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"113\",\"addr:postcode\"=>\"LS1 6PJ\",\"addr:street\"=>\"Vicar Lane\",\"shop\"=>\"musical_instrument\",\"website\"=>\"https:\/\/www.dawsons.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399251, 53.7998701 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2138710574", "name": "Hobgoblin Music", "other_tags": "\"shop\"=>\"musical_instrument\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5384958, 53.7989345 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2661206212", "name": "Wharf Valley Music", "other_tags": "\"shop\"=>\"musical_instrument\",\"addr:housenumber\"=>\"26\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8212237, 53.9261566 ] } },

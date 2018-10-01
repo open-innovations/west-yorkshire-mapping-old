@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2128107707", "name": "Kerala Coffee Shop", "other_tags": "\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5393365, 53.7986955 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2128107707", "name": "Kerala Coffee Shop", "other_tags": "\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5393714, 53.7986995 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4885695941", "name": "Caffe Nero", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"80\",\"addr:postcode\"=>\"LS2 8LW\",\"addr:street\"=>\"Merrion Street\",\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5439474, 53.8008812 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5422663129", "name": "Costa", "other_tags": "\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5257317, 53.7809075 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5564598456", "name": "Costa", "other_tags": "\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.535971, 53.7969304 ] } }
