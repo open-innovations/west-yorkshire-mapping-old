@@ -4,7 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2091013185", "name": "Herman Vapes", "other_tags": "\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5405473, 53.7971888 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2128107776", "name": "Totally Wicked", "other_tags": "\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5401166, 53.797135 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4471283682", "name": "wow Vape", "other_tags": "\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4507674, 53.8060799 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4471283682", "name": "wow Vape", "other_tags": "\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4507785, 53.8060583 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5218896675", "name": "SMKD", "other_tags": "\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6015846, 53.7454688 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5256089332", "name": "TABlites", "other_tags": "\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4509655, 53.806162 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5422663127", "name": "Premium Vaping", "other_tags": "\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.525792, 53.7808686 ] } },
