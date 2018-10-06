@@ -96,7 +96,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1654165560", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.7499903, 53.8073041 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1654187748", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.7656407, 53.7740953 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2106890101", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.7694529, 53.7514829 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2106890139", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.7629297, 53.7356837 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2106890139", "name": "Westfield United Reform Church", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.7629297, 53.7356837 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2387207795", "name": "Bolton Methodist Church", "amenity": "place_of_worship", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:postcode\"=>\"BD2 4HT\",\"addr:street\"=>\"Bolton Road\",\"denomination\"=>\"methodist\",\"fhrs:id\"=>\"326534\",\"religion\"=>\"christian\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7346337, 53.8161274 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2974877074", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.7327593, 53.8361881 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4846499691", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.782006, 53.7890482 ] } },
