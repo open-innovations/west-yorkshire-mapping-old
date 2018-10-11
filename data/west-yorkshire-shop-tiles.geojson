@@ -4,6 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "779175986", "name": "Al-Murad Tiles", "other_tags": "\"shop\"=>\"tiles\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6753035, 53.7031741 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1401620968", "name": "Topps Tiles", "other_tags": "\"shop\"=>\"tiles\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7317184, 53.7804656 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2098303574", "name": "Fired Earth", "other_tags": "\"shop\"=>\"tiles\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5396184, 53.7985684 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2098303574", "name": "Fired Earth", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"80\",\"addr:postcode\"=>\"LS1 7JH\",\"addr:street\"=>\"Vicar Lane\",\"shop\"=>\"tiles\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5396184, 53.7985684 ] } }
 ]
 }
