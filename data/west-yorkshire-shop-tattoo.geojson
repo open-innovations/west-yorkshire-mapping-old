@@ -5,6 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "662441231", "name": "Tattoo Studio", "other_tags": "\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7215926, 53.7712258 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1686475070", "name": "The Ink Station", "other_tags": "\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6716293, 53.7076419 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1924347573", "name": "Skinz", "other_tags": "\"shop\"=>\"tattoo\",\"website\"=>\"http:\/\/www.skinzstudio.com\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6368149, 53.806548 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2110352265", "name": "Jimmy Scribble", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"317\",\"addr:postcode\"=>\"LS10 1NJ\",\"addr:street\"=>\"Hunslet Road\",\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.529335, 53.7831153 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2128107670", "name": "Rude Studios", "other_tags": "\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5401253, 53.7969966 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2134260286", "name": "Sacred Electric Tattoo", "other_tags": "\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.545806, 53.795462 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2135315799", "other_tags": "\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5379362, 53.796249 ] } },

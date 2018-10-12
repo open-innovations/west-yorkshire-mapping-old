@@ -92,7 +92,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "774100326", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.8566787, 53.625739 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "774101070", "name": "Lepton Post Office", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.7111509, 53.6334962 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "774101103", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.6574878, 53.5725897 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "774101225", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.6530303, 53.5913585 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "774101225", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.6530276, 53.5914604 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "774101240", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.6235531, 53.5901391 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "774101587", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.6107854, 53.5942349 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "774101964", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.772845, 53.5951383 ] } },
