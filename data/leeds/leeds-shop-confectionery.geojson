@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1562986906", "other_tags": "\"shop\"=>\"confectionery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5396966, 53.7974089 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1562986906", "name": "Firth & Payne", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Kirkgate Market\",\"addr:street\"=>\"Kirkgate\",\"shop\"=>\"confectionery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5397058, 53.7974151 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2144729463", "name": "Tavassolis", "amenity": "cafe", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"14\",\"addr:street\"=>\"New Briggate\",\"shop\"=>\"confectionery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5416847, 53.7994033 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2353725350", "name": "The Traditional Sweet Shop", "other_tags": "\"addr:city\"=>\"Otley\",\"addr:postcode\"=>\"LS21 3AE\",\"addr:street\"=>\"Newmarket\",\"is_in:town\"=>\"Otley\",\"operator\"=>\"The Yorkshire Fudge Company\",\"shop\"=>\"confectionery\",\"website\"=>\"www.thetraditionalsweetshop.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6933485, 53.9049799 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3615121533", "name": "Sweetz", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"1a\",\"addr:postcode\"=>\"LS15 7SR\",\"addr:street\"=>\"Cross Green Lane\",\"fhrs:id\"=>\"687544\",\"shop\"=>\"confectionery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4645602, 53.7991348 ] } },

@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "5981573979", "name": "Appliances Ltd", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Kirkgate Market\",\"addr:street\"=>\"Kirkgate\",\"addr:unit\"=>\"Q\",\"shop\"=>\"appliance\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399238, 53.7970065 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.782716, "longitude": -1.528753 }, "osm_way_id": "201078304", "name": "Appliance Clearance Centre", "building": "yes", "shop": "appliance" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5289006, 53.7827416 ], [ -1.5288257, 53.7827746 ], [ -1.5288338, 53.782781 ], [ -1.5287647, 53.7828114 ], [ -1.5286049, 53.7826847 ], [ -1.5287489, 53.7826213 ], [ -1.5289006, 53.7827416 ] ] ] } }
 ]
 }
