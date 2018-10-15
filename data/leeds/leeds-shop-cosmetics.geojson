@@ -7,6 +7,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "4489200798", "name": "Scentiments", "other_tags": "\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4504143, 53.8064394 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5648164603", "name": "Bodycare", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"St Johns Centre\",\"addr:housenumber\"=>\"110-118\",\"addr:postcode\"=>\"LS2 8LQ\",\"addr:street\"=>\"Albion Street\",\"level\"=>\"0\",\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5437581, 53.8002445 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5941346421", "name": "Space NK", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"16-18\",\"addr:postcode\"=>\"LS1 6BA\",\"addr:street\"=>\"Queen Victoria Street\",\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5413075, 53.7982583 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5981573967", "name": "Maya's Hair & Cosmetics", "other_tags": "\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5393004, 53.7974828 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5981573967", "name": "Maya's Hair & Cosmetics", "other_tags": "\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5393339, 53.7974424 ] } }
 ]
 }

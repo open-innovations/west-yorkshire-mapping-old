@@ -18,9 +18,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "5413294425", "name": "Arts & Flowers Ltd", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4496133, 53.8074612 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5433183357", "name": "The Florist", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3880885, 53.7944007 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5918770660", "name": "Casablanca", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"126 a\",\"addr:postcode\"=>\"LS7 4NZ\",\"addr:street\"=>\"Harrogate Road\",\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5381658, 53.8299352 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5927074106", "name": "Alan Brown Flowers", "other_tags": "\"shop\"=>\"florist\",\"website\"=>\"https:\/\/www.leedsflowers.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5400503, 53.7975352 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5927074107", "name": "Forget Me Not", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399621, 53.7975617 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5927074114", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5397368, 53.7975094 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5927074106", "name": "Alan Brown Flowers", "other_tags": "\"shop\"=>\"florist\",\"website\"=>\"https:\/\/www.leedsflowers.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5400624, 53.7975209 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5927074107", "name": "Forget Me Not", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399701, 53.7975498 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5927074114", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5397127, 53.7974991 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.804654, "longitude": -1.451758 }, "osm_way_id": "571699284", "name": "Monroes", "building": "yes", "shop": "florist" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.451734, 53.8046934 ], [ -1.4517066, 53.8046245 ], [ -1.4517814, 53.8046141 ], [ -1.4518087, 53.804683 ], [ -1.451734, 53.8046934 ] ] ] } }
 ]
 }
