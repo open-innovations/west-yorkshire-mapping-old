@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "828488116", "name": "Food Court Campus Central", "amenity": "food_court", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS6 3HJ\",\"addr:street\"=>\"Church Wood Avenue\",\"addr:suburb\"=>\"West Park\",\"fhrs:id\"=>\"578288\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5910359, 53.8275144 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5619412805", "name": "The Core Food Court", "amenity": "food_court" }, "geometry": { "type": "Point", "coordinates": [ -1.5439963, 53.7988947 ] } }
 ]
 }
