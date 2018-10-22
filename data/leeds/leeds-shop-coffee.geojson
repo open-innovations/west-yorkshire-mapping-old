@@ -5,6 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2128107707", "name": "Kerala Coffee Shop", "other_tags": "\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5393714, 53.7986995 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4885695941", "name": "Caffe Nero", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"80\",\"addr:postcode\"=>\"LS2 8LW\",\"addr:street\"=>\"Merrion Street\",\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5439474, 53.8008812 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5422663129", "name": "Costa", "other_tags": "\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5257317, 53.7809075 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5564598456", "name": "Costa", "other_tags": "\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.535971, 53.7969304 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5564598456", "name": "Costa", "other_tags": "\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.535971, 53.7969304 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6001596334", "name": "Nespresso", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Victoria Gate\",\"addr:postcode\"=>\"LS2 7AR\",\"addr:street\"=>\"Harewood Street\",\"addr:unit\"=>\"10-11\",\"level\"=>\"0\",\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5387511, 53.7983871 ] } }
 ]
 }

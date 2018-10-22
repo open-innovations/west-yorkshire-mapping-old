@@ -12,7 +12,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "345024395", "amenity": "toilets", "other_tags": "\"level\"=>\"0\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5472404, 53.7948656 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "364836776", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.3198077, 53.8191094 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "459188008", "amenity": "toilets", "other_tags": "\"toilets:wheelchair\"=>\"yes\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5359705, 53.7970519 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1562986911", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.5387632, 53.7973582 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1562986911", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.5389966, 53.7972449 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1637789257", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.590855, 53.7972897 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2117006517", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.529874, 53.7794307 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2408717775", "amenity": "toilets", "other_tags": "\"fee\"=>\"£0.30\",\"wheelchair\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5360983, 53.7974754 ] } },
