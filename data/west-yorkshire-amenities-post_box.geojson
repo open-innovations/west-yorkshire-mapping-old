@@ -2171,6 +2171,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5937030557", "amenity": "post_box", "ref": "LS11 671", "other_tags": "\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5641919, 53.7690267 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5937030558", "amenity": "post_box", "ref": "LS11 659", "other_tags": "\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5682366, 53.765429 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5967127384", "amenity": "post_box", "other_tags": "\"drive_through\"=>\"no\",\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6486431, 53.5914521 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5973359456", "amenity": "post_box", "other_tags": "\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6427427, 53.5897863 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5973359456", "amenity": "post_box", "other_tags": "\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6427427, 53.5897863 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6005451832", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7494412, 53.7291923 ] } }
 ]
 }
