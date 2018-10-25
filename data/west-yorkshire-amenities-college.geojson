@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "313246927", "name": "National Martial Arts College", "amenity": "college" }, "geometry": { "type": "Point", "coordinates": [ -1.5879313, 53.7982942 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "313246927", "name": "National Martial Arts College", "amenity": "college" }, "geometry": { "type": "Point", "coordinates": [ -1.5879031, 53.7982174 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "920423336", "amenity": "college" }, "geometry": { "type": "Point", "coordinates": [ -1.5389313, 53.8002515 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1627047083", "amenity": "college" }, "geometry": { "type": "Point", "coordinates": [ -1.5308649, 53.8029133 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2129684016", "name": "Leeds Academy For Hairdressing and Barbering", "amenity": "college" }, "geometry": { "type": "Point", "coordinates": [ -1.5375311, 53.795576 ] } },
