@@ -27,7 +27,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "2358646345", "name": "Hamilton Bower", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7761833, 53.8345716 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2382807257", "name": "whitegates", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7120897, 53.7232893 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3445587282", "name": "Your Move", "other_tags": "\"shop\"=>\"estate_agent\",\"office\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7844347, 53.647114 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3813294649", "name": "Wilkinson Adams", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.566477, 53.8277686 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4475968858", "name": "manning stainton", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4488892, 53.807147 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4489200804", "name": "Your Move", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4505632, 53.8071347 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5626680073", "name": "Martin Co", "other_tags": "\"opening_hours\"=>\"Mo-Fr 09:00-17:00; Sa 09:00-12:00\",\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7924073, 53.8359716 ] } },
