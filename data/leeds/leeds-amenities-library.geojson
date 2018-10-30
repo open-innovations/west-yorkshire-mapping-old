@@ -12,7 +12,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "444410813", "name": "Halton Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.4687436, 53.796641 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "506820829", "name": "Beeston Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.5665637, 53.7724674 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "764878724", "name": "The British Library Document Supply Centre", "amenity": "library", "other_tags": "\"opening_hours\"=>\"Mo-Sa 08:00-16:30\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3219618, 53.9191274 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "920423335", "name": "The Leeds Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.5444591, 53.7974714 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "920423335", "name": "The Leeds Library", "amenity": "library", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"18\",\"addr:postcode\"=>\"LS1 6AL\",\"addr:street\"=>\"Commercial Street\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5444591, 53.7974714 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "921219255", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.5447135, 53.7808272 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1299655091", "name": "Oakwood Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.5038247, 53.8271829 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1628116323", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.6056275, 53.8459372 ] } },

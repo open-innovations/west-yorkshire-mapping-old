@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "5139490749", "name": "Additional Lengths Ltd", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"85\",\"addr:postcode\"=>\"LS1 5AP\",\"addr:street\"=>\"Albion Street\",\"opening_hours\"=>\"Mo-Fr 09:00-17:00; Sa 10:00-15:00\",\"phone\"=>\"+44 113 322 9067\",\"shop\"=>\"Hair Extensions\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5451585, 53.7986472 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5139490749", "name": "Additional Lengths Ltd", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"85\",\"addr:postcode\"=>\"LS1 5AP\",\"addr:street\"=>\"Albion Street\",\"opening_hours\"=>\"Mo-Fr 09:00-17:00; Sa 10:00-15:00\",\"phone\"=>\"+44 113 322 9067\",\"shop\"=>\"Hair Extensions\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5452403, 53.7986337 ] } }
 ]
 }
