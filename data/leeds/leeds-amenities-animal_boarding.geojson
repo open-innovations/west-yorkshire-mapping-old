@@ -2,6 +2,8 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2031794310", "name": "Beulah Farm Kennels & Cattery", "amenity": "animal_boarding", "other_tags": "\"addr:street\"=>\"Tong Road\",\"addr:postcode\"=>\"LS12 5EW\",\"opening_hours\"=>\"Mo 10:00-12:00; Tu-Su 10:00-18:00\",\"animal_boarding\"=>\"cat;dog\",\"contact:website\"=>\"http:\/\/www.beulahfarm.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6343064, 53.790542 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2031794310", "name": "Beulah Farm Kennels & Cattery", "amenity": "animal_boarding", "other_tags": "\"addr:street\"=>\"Tong Road\",\"addr:postcode\"=>\"LS12 5EW\",\"opening_hours\"=>\"Mo 10:00-12:00; Tu-Su 10:00-18:00\",\"animal_boarding\"=>\"cat;dog\",\"contact:website\"=>\"http:\/\/www.beulahfarm.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6343064, 53.790542 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6027423340", "name": "Manston Pet Hotel", "amenity": "animal_boarding" }, "geometry": { "type": "Point", "coordinates": [ -1.4236249, 53.8045044 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.804289, "longitude": -1.423164 }, "osm_way_id": "639711167", "amenity": "animal_boarding", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4229753, 53.8044147 ], [ -1.4229438, 53.8044106 ], [ -1.422966, 53.8041631 ], [ -1.4233851, 53.8042065 ], [ -1.4233547, 53.8042955 ], [ -1.4232515, 53.804328 ], [ -1.4231645, 53.8043367 ], [ -1.4230807, 53.8043612 ], [ -1.4230689, 53.8043505 ], [ -1.4231613, 53.8043232 ], [ -1.4232532, 53.8043162 ], [ -1.4233209, 53.8042906 ], [ -1.4233407, 53.8042162 ], [ -1.4229952, 53.8041831 ], [ -1.4229753, 53.8044147 ] ] ] } }
 ]
 }
