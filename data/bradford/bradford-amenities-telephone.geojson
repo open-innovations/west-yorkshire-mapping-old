@@ -83,7 +83,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1719848754", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\",\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9070741, 53.8684429 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1729642639", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.948474, 53.8313214 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1876568046", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX100\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9016427, 53.8682577 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2040637338", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.8481843, 53.7673872 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2040637338", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX100\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8481843, 53.7673872 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2196327119", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX100\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8157403, 53.8159757 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2200772841", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8761396, 53.9432192 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3135214448", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8608036, 53.8428848 ] } },

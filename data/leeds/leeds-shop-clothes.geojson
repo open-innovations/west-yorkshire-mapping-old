@@ -11,7 +11,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "352872460", "name": "Jo Brand Junior", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5667801, 53.8290653 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "506820722", "name": "Leeds United Shop", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5707413, 53.7773993 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "888253998", "name": "Zara", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"129-132\",\"addr:postcode\"=>\"LS1 6BR\",\"addr:street\"=>\"Briggate\",\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5421279, 53.7971096 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1256728227", "name": "TM Lewin", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.548253, 53.795753 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1562986913", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5372558, 53.7974437 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1650942199", "name": "Abbey Wedding Warehouse", "other_tags": "\"shop\"=>\"clothes\",\"clothes\"=>\"bridal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6025998, 53.8157179 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2072972471", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5617253, 53.7637092 ] } },
