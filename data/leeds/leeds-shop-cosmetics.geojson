@@ -10,6 +10,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "5981573967", "name": "Maya's Hair & Cosmetics", "other_tags": "\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5393339, 53.7974424 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6022850186", "name": "Sally", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"77\",\"addr:postcode\"=>\"LS1 5AA\",\"addr:street\"=>\"Albion Street\",\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5452823, 53.7983467 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6022850275", "name": "The Look", "other_tags": "\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5387518, 53.7972548 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6025306259", "name": "Savers Health And Beauty", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS27 8DW\",\"addr:street\"=>\"Queen Street\",\"addr:suburb\"=>\"Morley\",\"fhrs:id\"=>\"467315\",\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6010883, 53.7454735 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6025306259", "name": "Savers Health And Beauty", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS27 8DW\",\"addr:street\"=>\"Queen Street\",\"addr:suburb\"=>\"Morley\",\"fhrs:id\"=>\"467315\",\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6010883, 53.7454735 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6052531556", "name": "The Body Shop", "other_tags": "\"level\"=>\"0\",\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5744209, 53.7576793 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6052531573", "name": "Lush", "other_tags": "\"level\"=>\"0\",\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5739256, 53.7581405 ] } }
 ]
 }

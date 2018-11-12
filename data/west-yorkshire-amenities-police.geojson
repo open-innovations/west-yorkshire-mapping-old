@@ -10,7 +10,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "422085422", "name": "Normanton Police Station", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.387544, 53.6990764 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "430980768", "name": "Shipley Police Station", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.7785478, 53.8310022 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "498499776", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.436167, 53.6613457 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "938091781", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.7575844, 53.6455963 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "950874523", "name": "Halifax Police Station", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.8648595, 53.7263571 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1122562173", "name": "West Yorkshire Police, Data center", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.7257974, 53.7756589 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1208023027", "amenity": "police", "other_tags": "\"entrance\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8951192, 53.8016926 ] } },
