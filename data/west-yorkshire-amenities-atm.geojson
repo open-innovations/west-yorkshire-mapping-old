@@ -305,6 +305,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5920382952", "amenity": "atm", "other_tags": "\"brand\"=>\"Natwest\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5058721, 53.6830628 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5940726770", "amenity": "atm", "other_tags": "\"brand\"=>\"Natwest\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399071, 53.7980986 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5940726771", "amenity": "atm", "other_tags": "\"brand\"=>\"Natwest\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399025, 53.7981081 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5940893595", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5121414, 53.8445661 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5940893595", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5121414, 53.8445661 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6089224100", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"TSB\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5464837, 53.7994466 ] } }
 ]
 }
