@@ -5,7 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "405211385", "name": "All Nations Food Arcade", "other_tags": "\"shop\"=>\"food\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5527554, 53.7762711 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1137884548", "name": "Mochachinno's Cake & Shake", "other_tags": "\"shop\"=>\"food\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6273069, 53.692863 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1305202651", "name": "Fultons", "other_tags": "\"shop\"=>\"food\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7801244, 53.7024644 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5980089956", "name": "Marks & Spencer - Food Hall", "other_tags": "\"shop\"=>\"food\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4240899, 53.8006909 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5980089956", "name": "Marks & Spencer - Food Hall", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS15 8GG\",\"operator\"=>\"Marks and Spencer\",\"shop\"=>\"food\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4240899, 53.8006909 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.729886, "longitude": -1.750344 }, "osm_way_id": "629153397", "name": "The Village Shop", "building": "yes", "shop": "food" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7503041, 53.7298498 ], [ -1.7503859, 53.7298562 ], [ -1.750389, 53.7299232 ], [ -1.7502988, 53.7299195 ], [ -1.7503041, 53.7298498 ] ] ] ] } }
 ]
 }
