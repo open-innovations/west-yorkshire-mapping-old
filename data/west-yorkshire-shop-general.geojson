@@ -3,7 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "263713043", "name": "High Street Stores", "other_tags": "\"odbl\"=>\"clean\",\"shop\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5268577, 53.6422211 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "277299200", "name": "Sheema Food Stores", "other_tags": "\"odbl\"=>\"clean\",\"shop\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5594313, 53.6657167 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "305716027", "other_tags": "\"shop\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -1.350979, 53.7277131 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330071183", "name": "Armley Trade Centre", "other_tags": "\"shop\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5909161, 53.7966778 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330071184", "name": "Jamali", "other_tags": "\"shop\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5914964, 53.7965103 ] } },

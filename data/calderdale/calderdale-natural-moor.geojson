@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "533450288", "name": "Rishworth Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.998585, 53.6531934 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533457973", "name": "Soyland Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0253642, 53.6706889 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533460840", "name": "Blake Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0256217, 53.6875671 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533460913", "name": "Turley Holes and Higher House Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0300849, 53.691379 ] } },

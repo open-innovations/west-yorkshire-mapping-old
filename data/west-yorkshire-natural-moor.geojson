@@ -9,7 +9,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "429730929", "name": "Addingham Low Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9155449, 53.9467762 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "518893515", "name": "The New Allotment", "other_tags": "\"natural\"=>\"moor\",\"is_in:country\"=>\"UK\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0063466, 53.8689743 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "518894189", "name": "Steeton Moor", "other_tags": "\"natural\"=>\"moor\",\"is_in:country\"=>\"UK\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9588393, 53.8847865 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "533450288", "name": "Rishworth Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.998585, 53.6531934 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533457973", "name": "Soyland Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0253642, 53.6706889 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533460840", "name": "Blake Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0256217, 53.6875671 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533460913", "name": "Turley Holes and Higher House Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0300849, 53.691379 ] } },

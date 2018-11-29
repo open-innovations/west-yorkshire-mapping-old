@@ -419,7 +419,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2196327119", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX100\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8157403, 53.8159757 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2200772841", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8761396, 53.9432192 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2207521026", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX300\",\"covered\"=>\"booth\",\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6792972, 53.8704159 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2207522680", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6662199, 53.8838939 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2207522680", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\",\"emergency\"=>\"defibrillator\",\"location\"=>\"inside red phone box in East Carlton\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6662199, 53.8838939 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2210120363", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5074962, 53.6807249 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2211381765", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.7497035, 53.7296881 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2241785762", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.5611572, 53.8141549 ] } },
@@ -622,6 +622,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5512423132", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.5494505, 53.8028653 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5698015552", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX300\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.356787, 53.8829793 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5771504167", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5909295, 53.897748 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5975789249", "amenity": "telephone", "other_tags": "\"covered\"=>\"booth\",\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3773157, 53.9291152 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5975789249", "amenity": "telephone", "other_tags": "\"covered\"=>\"booth\",\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3773157, 53.9291152 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6097164989", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8585332, 53.6199998 ] } }
 ]
 }
