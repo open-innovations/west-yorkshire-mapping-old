@@ -29,6 +29,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6052531520", "name": "Kustom Stitch", "other_tags": "\"level\"=>\"0\",\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5743092, 53.7592468 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6052531559", "name": "Clintons", "other_tags": "\"level\"=>\"0\",\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5744452, 53.7573467 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6052531578", "name": "Card Factory", "other_tags": "\"level\"=>\"0\",\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5740475, 53.7575116 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6101234047", "name": "Card Factory", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4245457, 53.800347 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.787817, "longitude": -1.539653 }, "osm_way_id": "203009420", "name": "Card Factory", "building": "yes", "shop": "gift" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5393962, 53.7878683 ], [ -1.539396, 53.7877669 ], [ -1.5399104, 53.7877665 ], [ -1.5399106, 53.7878678 ], [ -1.5393962, 53.7878683 ] ] ] } }
 ]
 }
