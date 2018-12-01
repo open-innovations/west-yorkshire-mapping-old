@@ -6,7 +6,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "800488922", "amenity": "motorcycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5523154, 53.797683 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "800488924", "amenity": "motorcycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5378459, 53.796479 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "800488938", "amenity": "motorcycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5364206, 53.7991855 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "800488946", "amenity": "motorcycle_parking", "other_tags": "\"capacity\"=>\"10\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5483635, 53.7980704 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "800488946", "amenity": "motorcycle_parking", "other_tags": "\"capacity\"=>\"10\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5483662, 53.7980855 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1038731043", "amenity": "motorcycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.7119849, 53.8300645 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3383549793", "amenity": "motorcycle_parking", "other_tags": "\"spaces\"=>\"10\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5472602, 53.7998741 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5156248769", "amenity": "motorcycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5529483, 53.8018086 ] } },
