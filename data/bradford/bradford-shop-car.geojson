@@ -6,7 +6,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "382568510", "name": "AutoTech", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7704533, 53.8066533 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "456448702", "name": "Appleyard", "other_tags": "\"shop\"=>\"car\",\"operator\"=>\"Jaguar\"" }, "geometry": { "type": "Point", "coordinates": [ -1.755063, 53.8084354 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "456448705", "name": "Bradford Audi", "other_tags": "\"shop\"=>\"car\",\"operator\"=>\"Audi\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7544611, 53.8076474 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "634606859", "name": "R Hoyles", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9005933, 53.7995399 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "634606859", "name": "R Hoyles", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9005262, 53.7995209 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "676622223", "name": "Tong Motor Spares", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7087455, 53.7673516 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "685939016", "name": "Ned Lane Garage", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7059468, 53.7829366 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "687080976", "name": "Motosave", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7229135, 53.7726886 ] } },
