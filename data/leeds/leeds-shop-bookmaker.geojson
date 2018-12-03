@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "52361151", "name": "Paddy Power", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5406996, 53.798823 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "52361151", "name": "Paddy Power", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"13\",\"addr:postcode\"=>\"LS1 6PU\",\"addr:street\"=>\"The Headrow\",\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5406996, 53.798823 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301022531", "name": "William Hill", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5830101, 53.8066093 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330089303", "name": "Betfred", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5908235, 53.7969865 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330089350", "name": "Coral", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5894236, 53.7970912 ] } },
@@ -10,7 +10,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "349349900", "name": "Taylor's Bookmakers", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6502162, 53.8101507 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "683271083", "name": "Betfred", "other_tags": "\"shop\"=>\"bookmaker\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Top Moor Side\",\"addr:postcode\"=>\"LS11 9LH\",\"addr:housenumber\"=>\"61\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5596138, 53.784824 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2017048919", "name": "William Hill", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6011436, 53.8158068 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2090956349", "name": "William Hill", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5409075, 53.7988469 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2090956349", "name": "William Hill", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"19\",\"addr:postcode\"=>\"LS1 6PU\",\"addr:street\"=>\"The Headrow\",\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5409075, 53.7988469 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2091013180", "name": "BetFred", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5400885, 53.7986377 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2091013183", "name": "Betfred", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5405535, 53.7972957 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2106070853", "name": "Ladbrokes", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5782285, 53.8221722 ] } },

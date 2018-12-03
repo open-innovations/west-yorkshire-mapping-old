@@ -4,7 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "382568486", "name": "Sinchro Motor Co", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7778678, 53.8031776 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "457646654", "name": "All Alone Garage", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7455943, 53.8305878 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "530763683", "name": "Shipley Tyre Services", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.784793, 53.8367088 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "530763683", "name": "Shipley Tyre Services", "other_tags": "\"addr:city\"=>\"Shipley\",\"addr:village\"=>\"Saltaire\",\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.784793, 53.8367088 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "542674470", "name": "Queensbury MOT Testing Station", "other_tags": "\"mot\"=>\"yes\",\"phone\"=>\"+44 1274 814334\",\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8449302, 53.7688683 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1401549715", "other_tags": "\"shop\"=>\"car_repair\",\"brand\"=>\"National\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7566522, 53.8101018 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1875074596", "name": "Worth Valley Garage", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9076937, 53.8621846 ] } },
