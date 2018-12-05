@@ -107,7 +107,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1685191607", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.7510746, 53.913942 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1710484451", "name": "Prestige Physiotherapy", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.7865107, 53.5717373 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1717745693", "name": "The Co-operative pharmacy", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.6254474, 53.5891424 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1724593032", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.7669098, 53.8350232 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1724593032", "amenity": "pharmacy", "other_tags": "\"addr:city\"=>\"Shipley\",\"addr:village\"=>\"Windhill\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7669098, 53.8350232 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1787850533", "name": "Lloyds Pharmacy", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.7801952, 53.7813213 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1847515244", "name": "Boots", "amenity": "pharmacy", "other_tags": "\"addr:city\"=>\"Ilkley\",\"addr:housenumber\"=>\"37-39\",\"addr:postcode\"=>\"LS29 8AG\",\"addr:street\"=>\"Brook Street\",\"fhrs:id\"=>\"326669\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8236545, 53.9258487 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1854024573", "name": "Oakwood Lane Pharmacy", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.4916676, 53.81602 ] } },

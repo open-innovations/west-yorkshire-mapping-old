@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "28165191", "name": "Ilkley Public Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.8207429, 53.9241111 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "304859392", "name": "Wrose Library", "amenity": "library", "other_tags": "\"addr:city\"=>\"Wrose\",\"addr:postcode\"=>\"BD18 1HX\",\"addr:street\"=>\"Wrose Road\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7567509, 53.8289649 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "304859392", "name": "Wrose Library", "amenity": "library", "other_tags": "\"addr:city\"=>\"Shipley\",\"addr:postcode\"=>\"BD18 1HX\",\"addr:street\"=>\"Wrose Road\",\"addr:village\"=>\"Wrose\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7567509, 53.8289649 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314451593", "name": "Eccleshill Library", "amenity": "library", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:postcode\"=>\"BD2 4SR\",\"addr:street\"=>\"Bolton Road\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7308615, 53.8171025 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "423818290", "name": "Idle Library & Information Centre", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.7293344, 53.8346162 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "529884864", "name": "Shipley Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.7784236, 53.8326785 ] } },
