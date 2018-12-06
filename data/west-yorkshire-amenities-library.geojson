@@ -7,7 +7,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "26469052", "name": "Lofthouse Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.4969569, 53.731213 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "28165191", "name": "Ilkley Public Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.8207429, 53.9241111 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "265058367", "name": "Heckmondwike Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.6727697, 53.7047568 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "266023189", "name": "Kettlethorpe Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.5100198, 53.6438717 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "269002284", "name": "Walton Library", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.4627971, 53.6486836 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "297762417", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.8559449, 53.6393177 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "299515538", "amenity": "library" }, "geometry": { "type": "Point", "coordinates": [ -1.8321397, 53.7098602 ] } },
