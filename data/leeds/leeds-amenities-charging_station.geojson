@@ -7,6 +7,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5229164858", "amenity": "charging_station", "ref": "UKEV0081;UKEV0082", "other_tags": "\"amperage\"=>\"16\",\"capacity\"=>\"2\",\"fee\"=>\"yes\",\"operator\"=>\"Rolec\",\"parking:fee\"=>\"no\",\"socket:type2\"=>\"2\",\"socket:type2:current\"=>\"16\",\"socket:type2:output\"=>\"3600\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5776137, 53.7979388 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5468024768", "amenity": "charging_station", "ref": "Evan-Leon", "other_tags": "\"capacity\"=>\"2\",\"operator\"=>\"Pod Point\",\"parking:fee\"=>\"no\",\"socket:chademo\"=>\"1\",\"socket:chademo:output\"=>\"50000\",\"socket:type2\"=>\"1\",\"socket:type2_combo\"=>\"1\",\"socket:type2_combo:output\"=>\"50000\",\"socket:type2:output\"=>\"43000\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6614128, 53.8072246 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5597269702", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"3\",\"operator\"=>\"TESLA\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5322091, 53.7846836 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5897440017", "name": "Lidl Charging station", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4936992, 53.8137423 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5897440017", "name": "Lidl Charging station", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4936992, 53.8137423 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6124762645", "name": "The Springs", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4231405, 53.8001646 ] } }
 ]
 }
