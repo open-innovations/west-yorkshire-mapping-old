@@ -718,6 +718,7 @@
 { "type": "Feature", "properties": { "osm_id": "1606959110", "Tactile paving":"yes", "Kerb":"flush", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.57846, 53.76981 ] } },
 { "type": "Feature", "properties": { "osm_id": "1606959363", "Tactile paving":"yes", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.53370, 53.79468 ] } },
 { "type": "Feature", "properties": { "osm_id": "1606959533", "Tactile paving":"yes", "Kerb":"flush", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.53422, 53.79667 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1621260480", "Kerb":"raised" }, "geometry": { "type": "Point", "coordinates": [ -1.42738, 53.79677 ] } },
 { "type": "Feature", "properties": { "osm_id": "1625377950" }, "geometry": { "type": "Point", "coordinates": [ -1.52439, 53.78990 ] } },
 { "type": "Feature", "properties": { "osm_id": "1627024216", "Tactile paving":"yes", "Kerb":"flush", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.51714, 53.81642 ] } },
 { "type": "Feature", "properties": { "osm_id": "1627082033" }, "geometry": { "type": "Point", "coordinates": [ -1.47631, 53.80579 ] } },
@@ -1510,6 +1511,7 @@
 { "type": "Feature", "properties": { "osm_id": "6077508368" }, "geometry": { "type": "Point", "coordinates": [ -1.48254, 53.78070 ] } },
 { "type": "Feature", "properties": { "osm_id": "6086426743" }, "geometry": { "type": "Point", "coordinates": [ -1.52410, 53.81767 ] } },
 { "type": "Feature", "properties": { "osm_id": "6096880400" }, "geometry": { "type": "Point", "coordinates": [ -1.55642, 53.80178 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6125393745", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.51762, 53.84139 ] } }
+{ "type": "Feature", "properties": { "osm_id": "6125393745", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.51762, 53.84139 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6127755191" }, "geometry": { "type": "Point", "coordinates": [ -1.51712, 53.83794 ] } }
 ]
 }
