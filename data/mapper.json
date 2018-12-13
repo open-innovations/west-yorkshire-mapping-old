@@ -43,11 +43,6 @@
 	"osm-leeds-social-club": {"name":"Leeds social clubs","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-leeds-social-club.json" },
 	"osm-leeds-trees": {"name":"Leeds trees","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-leeds-trees.json" },
 	"osm-leeds-wood": {"name":"Leeds woods","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-leeds-wood.json" },
-	"osm-wy-allotments": {"name":"West Yorkshire allotments","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-wy-allotments.json" },
-	"osm-wy-bikeshops": {"name":"West Yorkshire bike shops","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-wy-bikeshops.json" },
-	"osm-wy-charityshops": {"name":"West Yorkshire charity shops","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-wy-charityshops.json" },
-	"osm-wy-schools": {"name":"West Yorkshire schools","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-wy-schools.json" },
-	"osm-wy-toilets": {"name":"West Yorkshire toilets","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-wy-toilets.json" },
 	"wy-foodbanks": {"name":"West Yorkshire food banks","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/wy-foodbanks.json" },
 	"wy-public-bookcases": {"name":"Leeds public bookcases","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/wy-public-bookcases.json" }
 }
