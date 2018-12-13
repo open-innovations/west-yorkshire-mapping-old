@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.727402, "longitude": -1.351955 }, "osm_way_id": "338062887", "name": "Allcarestairlifts.co.uk", "building": "retail", "shop": "stairlifts" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.3518505, 53.727356 ], [ -1.3518877, 53.7274552 ], [ -1.3519005, 53.7274622 ], [ -1.3520358, 53.7274564 ], [ -1.3520603, 53.7273659 ], [ -1.3520573, 53.7273514 ], [ -1.3519809, 53.7273613 ], [ -1.351973, 53.7273427 ], [ -1.3518505, 53.727356 ] ] ] ] } }
+]
+}

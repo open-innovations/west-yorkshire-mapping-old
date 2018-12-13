@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5981573979", "name": "Appliances Ltd", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Kirkgate Market\",\"addr:street\"=>\"Kirkgate\",\"addr:unit\"=>\"Q\",\"shop\"=>\"appliance\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399238, 53.7970065 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6022850284", "name": "Don Little", "other_tags": "\"shop\"=>\"appliance\"" }, "geometry": { "type": "Point", "coordinates": [ -1.537973, 53.7971771 ] } }
+]
+}

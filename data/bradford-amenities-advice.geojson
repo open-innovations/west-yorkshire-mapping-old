@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "2125610524", "name": "Leeds Citizens Advice Bureau", "amenity": "advice" }, "geometry": { "type": "Point", "coordinates": [ -1.538166, 53.7965935 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2134260287", "name": "Art Official", "amenity": "advice", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"28\",\"addr:postcode\"=>\"LS2 7DR\",\"addr:street\"=>\"Kirkgate\",\"shop\"=>\"craft\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5386028, 53.7962585 ] } }
+]
+}

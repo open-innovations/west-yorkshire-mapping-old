@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "6001482130", "name": "Ministry Of Food", "amenity": "kitchen", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Kirkgate Market\",\"addr:postcode\"=>\"LS2 7RQ\",\"addr:street\"=>\"Kirkgate\",\"addr:unit\"=>\"524\",\"fhrs:id\"=>\"687520\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5387364, 53.7973724 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6025306260", "name": "Junior Kitchen", "amenity": "kitchen", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Co Operative Buildings\",\"addr:postcode\"=>\"LS27 8DT\",\"addr:street\"=>\"Albion Street\",\"addr:suburb\"=>\"Morley\",\"addr:unit\"=>\"1D\",\"fhrs:id\"=>\"1024465\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6009234, 53.7457915 ] } }
+]
+}

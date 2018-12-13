@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "815202509", "name": "R Kenmore Caravans", "other_tags": "\"shop\"=>\"caravan\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7004796, 53.6760388 ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5713759595", "name": "Baildon Travel", "other_tags": "\"addr:city\"=>\"Baildon\",\"addr:street\"=>\"Northgate\",\"shop\"=>\"travel_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7658879, 53.8537703 ] } }
+]
+}

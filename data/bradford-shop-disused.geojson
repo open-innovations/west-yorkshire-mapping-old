@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.649634, "longitude": -1.782331 }, "osm_way_id": "333922853", "building": "yes", "shop": "disused", "other_tags": "\"building:levels\"=>\"3\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7823932, 53.64957 ], [ -1.7823686, 53.6495745 ], [ -1.7822166, 53.6496022 ], [ -1.7822635, 53.6496989 ], [ -1.7824137, 53.6496737 ], [ -1.7824449, 53.6496685 ], [ -1.7823932, 53.64957 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.569129, "longitude": -1.789678 }, "osm_way_id": "334434350", "building": "retail", "shop": "disused", "other_tags": "\"old_name\"=>\"Joe's Ye Olde Bike Shop\",\"building:colour\"=>\"white\",\"building:levels\"=>\"2\",\"building:material\"=>\"stone\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7896949, 53.5691841 ], [ -1.7897672, 53.569148 ], [ -1.7896609, 53.5690729 ], [ -1.7895886, 53.569109 ], [ -1.7896949, 53.5691841 ] ] ] ] } }
+]
+}

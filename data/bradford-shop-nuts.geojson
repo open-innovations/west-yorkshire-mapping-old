@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5981573977", "name": "The Nut Shop", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Kirkgate Market\",\"addr:postcode\"=>\"LS2 7HH\",\"addr:street\"=>\"Kirkgate\",\"addr:unit\"=>\"V\",\"fhrs:id\"=>\"319901\",\"shop\"=>\"nuts\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399093, 53.7972486 ] } }
+]
+}

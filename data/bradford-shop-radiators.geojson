@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5688842049", "name": "Feature Radiators Ltd", "amenity": "shop", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housename\"=>\"The Old Post Office\",\"addr:housenumber\"=>\"134-140\",\"addr:postcode\"=>\"BD16 2HL\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"radiators\",\"website\"=>\"http:\/\/www.featureradiators.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8392551, 53.8493136 ] } }
+]
+}

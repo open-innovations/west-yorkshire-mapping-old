@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.704222, "longitude": -1.628465 }, "osm_way_id": "190310374", "name": "Dencroft", "building": "yes", "shop": "garages" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6285876, 53.7042821 ], [ -1.628621, 53.7042298 ], [ -1.6283418, 53.704162 ], [ -1.6283083, 53.7042185 ], [ -1.6285876, 53.7042821 ] ] ] ] } }
+]
+}

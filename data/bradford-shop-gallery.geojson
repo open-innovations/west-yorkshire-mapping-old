@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "1025703041", "name": "Centenary Gallery", "amenity": "arts_centre", "other_tags": "\"shop\"=>\"gallery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5525639, 53.8080907 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1026946822", "name": "Harrison Lord", "other_tags": "\"shop\"=>\"gallery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7793523, 53.7017782 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1187324667", "name": "The Stanley & Audrey Burton Gallery", "amenity": "arts_centre", "other_tags": "\"shop\"=>\"gallery\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.552564, 53.8077104 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1668854931", "name": "Enscape", "other_tags": "\"shop\"=>\"gallery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6923122, 53.6741268 ] } }
+]
+}

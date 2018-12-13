@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "307481787", "name": "Jubilee Clock", "amenity": "clock", "other_tags": "\"description\"=>\"Free-standing clock tower, grade II-listed monument, originally built to celebrate Queen Victoria’s 50th year as monarch. Local landmark.\",\"historic\"=>\"monument\"" }, "geometry": { "type": "Point", "coordinates": [ -1.694203, 53.9054428 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1617873149", "amenity": "clock", "other_tags": "\"layer\"=>\"1\",\"display\"=>\"analog\",\"support\"=>\"tower\",\"visibility\"=>\"street\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6745964, 53.7070594 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2353532640", "amenity": "clock", "other_tags": "\"access\"=>\"yes\",\"entrance\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6942842, 53.9045389 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3025622677", "name": "Millenium Clock", "amenity": "clock", "other_tags": "\"support\"=>\"wall_mounted\",\"start_date\"=>\"2000\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0127416, 53.7425784 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3409737714", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7828289, 53.6486588 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3412636481", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\",\"support\"=>\"wall_mounted\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7826523, 53.6462888 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3413047374", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\",\"support\"=>\"wall_mounted\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7839598, 53.6462198 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3413132043", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\",\"support\"=>\"wall_mounted\"" }, "geometry": { "type": "Point", "coordinates": [ -1.785619, 53.570104 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3413152206", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\",\"support\"=>\"wall_mounted\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7875049, 53.5701208 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3413675940", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\",\"support\"=>\"wall_mounted\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7894802, 53.5694311 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3445648953", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\",\"support\"=>\"wall_mounted\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7842782, 53.6483663 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3445708517", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\"" }, "geometry": { "type": "Point", "coordinates": [ -1.926847, 53.6010083 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3449217454", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5426753, 53.7956533 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3449217459", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5427005, 53.79572 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3451956742", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3504703, 53.7265334 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3595359386", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3562784, 53.7264766 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3595361579", "amenity": "clock", "other_tags": "\"display\"=>\"analogue\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3569837, 53.7255323 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3618047433", "name": "Oakwood Clock", "amenity": "clock", "other_tags": "\"tourism\"=>\"yes\",\"start_date\"=>\"1912\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5054943, 53.8275356 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3618068031", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.5147805, 53.8183493 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3874017926", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.6048855, 53.8163785 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4190694574", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.6903576, 53.8650569 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5897283849", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.462062, 53.8304964 ] } }
+]
+}

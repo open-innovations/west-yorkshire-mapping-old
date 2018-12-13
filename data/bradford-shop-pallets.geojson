@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.788953, "longitude": -1.610735 }, "osm_way_id": "146172026", "name": "White Rose Pallets", "building": "retail", "shop": "pallets" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6108273, 53.7889574 ], [ -1.6106962, 53.7890031 ], [ -1.6106422, 53.7889491 ], [ -1.6107733, 53.7889034 ], [ -1.6108273, 53.7889574 ] ] ] ] } }
+]
+}
