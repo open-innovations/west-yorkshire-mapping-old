@@ -4,7 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "274257501", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.550829, 53.8125885 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "292238285", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5558368, 53.7671986 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "302043800", "name": "Washday Blues", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6206593, 53.7962411 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "302043800", "name": "Washday Blues", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6205359, 53.796129 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "349352556", "name": "Stitches", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6369154, 53.806571 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "390942296", "name": "Posh Wash Launderette", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5513904, 53.7739699 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2164142492", "other_tags": "\"shop\"=>\"laundry\",\"website\"=>\"http:\/\/www.192.com\/atoz\/business\/leeds-ls9\/ironing-services\/ironing-express\/9f0cf40a5ffce06836cd64aff5c58627c9444626\/ml\/\",\"addr:street\"=>\"Selby Road\",\"addr:postcode\"=>\"LS9 0EW\",\"addr:housename\"=>\"Ironing Express\",\"addr:housenumber\"=>\"47\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4823654, 53.8002082 ] } },

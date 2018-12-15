@@ -9,7 +9,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "302868964", "name": "Carl & Paul Barber's", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6269417, 53.8057507 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "302868965", "name": "Beauty Box", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.626859, 53.8057492 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "306328528", "name": "L Sixty-Five", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6088212, 53.7990734 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "306328573", "name": "Reflections", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6202902, 53.8011547 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "313246917", "name": "Grades Barber", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5876678, 53.7973771 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "313246926", "name": "Hair", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5875694, 53.7977649 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "313246945", "name": "Sloanes Hair Design", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6028478, 53.8016519 ] } },
