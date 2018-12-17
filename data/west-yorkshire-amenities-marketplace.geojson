@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "342601326", "name": "Merrion Market", "amenity": "marketplace" }, "geometry": { "type": "Point", "coordinates": [ -1.5431222, 53.8021837 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1676371384", "name": "Market Hall", "amenity": "marketplace" }, "geometry": { "type": "Point", "coordinates": [ -1.3109805, 53.6918279 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2645073469", "name": "Middleage Market", "amenity": "marketplace" }, "geometry": { "type": "Point", "coordinates": [ -1.7126239, 53.6182097 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3648423361", "name": "Sowerby Bridge Market", "amenity": "marketplace" }, "geometry": { "type": "Point", "coordinates": [ -1.9087239, 53.7093479 ] } },
