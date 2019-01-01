@@ -639,6 +639,5 @@
 { "type": "Feature", "properties": { "osm_id": "6170362653" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.52139, 53.79281 ] } },
 { "type": "Feature", "properties": { "osm_id": "6170362654" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.52052, 53.79315 ] } },
 { "type": "Feature", "properties": { "osm_id": "6170456646" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.52085, 53.79199 ] } }
-
 ]
 }

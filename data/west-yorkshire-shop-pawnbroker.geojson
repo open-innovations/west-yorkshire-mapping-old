@@ -4,7 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "330089354", "name": "Cash Converters", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5888196, 53.7974026 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1139428851", "name": "Cash 4 Gold", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6291364, 53.6905555 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2091013188", "name": "Herbert Brown", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5405257, 53.7971311 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2128107740", "name": "Herbert Brown", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"29-33\",\"addr:postcode\"=>\"LS1 6PU\",\"addr:street\"=>\"The Headrow\",\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5414082, 53.7989065 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4411803731", "name": "Herbert Brown", "other_tags": "\"shop\"=>\"pawnbroker\",\"addr:street\"=>\"Kirkgate\",\"addr:postcode\"=>\"WF1 1HS\",\"addr:housenumber\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4960041, 53.6828745 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4489200794", "name": "Cash Generator (Cheque Centre)", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4504103, 53.8067031 ] } },
