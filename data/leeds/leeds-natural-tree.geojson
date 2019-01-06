@@ -759,6 +759,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6181819842", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4552507, 53.8253017 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6181819843", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4554014, 53.8252183 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6181819865", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4550225, 53.824545 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6185930646", "name": "Christmas Tree", "other_tags": "\"denotation\"=>\"landmark\",\"leaf_cycle\"=>\"evergreen\",\"leaf_type\"=>\"needleleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4604451, 53.8191523 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "246349483", "z_order": 0, "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4289764, 53.7940192 ], [ -1.428912, 53.794043 ], [ -1.4288259, 53.7940628 ], [ -1.4287618, 53.7940985 ], [ -1.4286277, 53.794195 ], [ -1.4279384, 53.7941792 ], [ -1.4279553, 53.7930566 ] ] } }
 ]
 }

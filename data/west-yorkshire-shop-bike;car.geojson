@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.727385, "longitude": -1.872193 }, "osm_way_id": "118927133", "name": "Halfords", "building": "retail", "shop": "bike;car", "other_tags": "\"website\"=>\"www.halfords.com\",\"addr:street\"=>\"Pellon Lane\",\"addr:postcode\"=>\"HX1 5RA\",\"addr:housename\"=>\"Unit 3\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8723387, 53.7272235 ], [ -1.8720435, 53.7272248 ], [ -1.8720478, 53.7275471 ], [ -1.872343, 53.7275458 ], [ -1.8723387, 53.7272235 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.727385, "longitude": -1.872193 }, "osm_way_id": "118927133", "name": "Halfords", "building": "retail", "shop": "bike;car", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housename\"=>\"Unit 3\",\"addr:postcode\"=>\"HX1 5RA\",\"addr:street\"=>\"Pellon Lane\",\"website\"=>\"www.halfords.com\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8723387, 53.7272235 ], [ -1.8720435, 53.7272248 ], [ -1.8720478, 53.7275471 ], [ -1.872343, 53.7275458 ], [ -1.8723387, 53.7272235 ] ] ] ] } }
 ]
 }

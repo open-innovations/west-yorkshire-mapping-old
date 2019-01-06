@@ -13,6 +13,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "283395654", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5102042, 53.6574398 ], [ -1.5099498, 53.6571762 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "283395655", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5110609, 53.6570856 ], [ -1.5107338, 53.6568447 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "410379307", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7765768, 53.6442532 ], [ -1.7762994, 53.6440872 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "660752258", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0125669, 53.8289848 ], [ -2.0123282, 53.8291463 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.867479, "longitude": -1.676577 }, "osm_way_id": "278056725", "leisure": "slipway" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6755573, 53.8671051 ], [ -1.6761071, 53.8669533 ], [ -1.6769876, 53.8674489 ], [ -1.6775609, 53.8679022 ], [ -1.6776487, 53.8679992 ], [ -1.677638, 53.8680055 ], [ -1.6775496, 53.8679179 ], [ -1.6769322, 53.867432 ], [ -1.67617, 53.8670068 ], [ -1.6755802, 53.8671678 ], [ -1.6755058, 53.8671186 ], [ -1.6755573, 53.8671051 ] ] ] ] } }
 ]
 }
