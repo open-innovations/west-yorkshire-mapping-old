@@ -138,7 +138,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "3618564326", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4882722, 53.8014446 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3620225995", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5440111, 53.8333325 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3620226005", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.544333, 53.8328276 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3626078105", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6163932, 53.8284173 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3626724748", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6038251, 53.8485396 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3632290907", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6284048, 53.7572311 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3634830654", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.388458, 53.793712 ] } },
@@ -190,6 +189,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5940893595", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5121414, 53.8445661 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6089224100", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"TSB\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5464837, 53.7994466 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6111462411", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5412084, 53.787353 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6139531117", "amenity": "atm", "other_tags": "\"brand\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5433687, 53.7981867 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6139531117", "amenity": "atm", "other_tags": "\"brand\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5433687, 53.7981867 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6188082758", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6165608, 53.8281927 ] } }
 ]
 }

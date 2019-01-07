@@ -2288,6 +2288,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "6178747053", "amenity": "post_box", "ref": "LS29 834", "other_tags": "\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.788336, 53.9207436 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6178747054", "amenity": "post_box", "ref": "LS29 865", "other_tags": "\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7596592, 53.9136693 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6178747055", "amenity": "post_box", "ref": "LS29 866", "other_tags": "\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7467967, 53.9123766 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6178747056", "amenity": "post_box", "ref": "LS29 867", "other_tags": "\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.741778, 53.9121996 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6178747056", "amenity": "post_box", "ref": "LS29 867", "other_tags": "\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.741778, 53.9121996 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6187722804", "amenity": "post_box", "ref": "WF4 54", "other_tags": "\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4103994, 53.6226704 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6187722805", "amenity": "post_box", "ref": "WF4 126", "other_tags": "\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4364658, 53.6143766 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6187722806", "amenity": "post_box", "ref": "WF4 239", "other_tags": "\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5279277, 53.649557 ] } }
 ]
 }
