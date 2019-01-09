@@ -18,6 +18,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4142953997", "name": "Slabbering Baby", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5693136, 53.8538795 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4570094684", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6932972, 53.8896637 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5998770773", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4232743, 53.8019583 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5998770774", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4225528, 53.8017624 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5998770774", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4225528, 53.8017624 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6191158585", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4438037, 53.8373369 ] } }
 ]
 }
