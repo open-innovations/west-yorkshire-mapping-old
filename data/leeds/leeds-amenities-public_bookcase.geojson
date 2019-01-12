@@ -6,6 +6,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5429559990", "name": "Little Free Library", "amenity": "public_bookcase", "other_tags": "\"capacity\"=>\"30\",\"operator\"=>\"Little Free Library\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5265495, 53.8175996 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5483377718", "name": "Little Free Library #8", "amenity": "public_bookcase", "other_tags": "\"operator\"=>\"Leeds Little Free Library\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6892004, 53.8518305 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5494295550", "amenity": "public_bookcase" }, "geometry": { "type": "Point", "coordinates": [ -1.5736322, 53.8230577 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5642115187", "name": "Leeds Little Library #12", "amenity": "public_bookcase", "other_tags": "\"operator\"=>\"Leeds Little Free Library\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5833009, 53.8247082 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5642115187", "name": "Leeds Little Library #12", "amenity": "public_bookcase", "other_tags": "\"operator\"=>\"Leeds Little Free Library\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5833009, 53.8247082 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6202060393", "name": "Little Free Library", "amenity": "public_bookcase", "other_tags": "\"brand\"=>\"Little Free Library\",\"brand:wikidata\"=>\"Q6650101\",\"brand:wikipedia\"=>\"en:Little Free Library\",\"capacity\"=>\"40\",\"operator\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4529272, 53.8170696 ] } }
 ]
 }
