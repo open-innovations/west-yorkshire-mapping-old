@@ -3,7 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "336233972", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.7711396, 53.806713 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "455680161", "amenity": "car_wash", "other_tags": "\"operator\"=>\"arc\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7752338, 53.8317962 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747521373", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.7435653, 53.9071104 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "831582026", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.9116841, 53.8647787 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1379363052", "name": "Car Spa", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.7830454, 53.926251 ] } },

@@ -192,6 +192,7 @@
 { "type": "Feature", "properties": { "osm_id": "1729422894" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.52071, 53.83205 ] } },
 { "type": "Feature", "properties": { "osm_id": "1729422959" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.52026, 53.83376 ] } },
 { "type": "Feature", "properties": { "osm_id": "1738818303" , "traffic_calming":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.72785, 53.88425 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1790325013", "highway": "crossing" , "traffic_calming":"island" }, "geometry": { "type": "Point", "coordinates": [ -1.52772, 53.79908 ] } },
 { "type": "Feature", "properties": { "osm_id": "1861957368" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.59010, 53.81091 ] } },
 { "type": "Feature", "properties": { "osm_id": "1893910564" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.66505, 53.81119 ] } },
 { "type": "Feature", "properties": { "osm_id": "1932923092" , "traffic_calming":"chicane" }, "geometry": { "type": "Point", "coordinates": [ -1.55196, 53.78210 ] } },
@@ -243,6 +244,8 @@
 { "type": "Feature", "properties": { "osm_id": "3646298335" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.57422, 53.81233 ] } },
 { "type": "Feature", "properties": { "osm_id": "3646298338" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.57288, 53.81263 ] } },
 { "type": "Feature", "properties": { "osm_id": "3646298339" , "traffic_calming":"choker" }, "geometry": { "type": "Point", "coordinates": [ -1.57319, 53.81303 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3670775434", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.45988, 53.81058 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3670775441", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.45589, 53.81315 ] } },
 { "type": "Feature", "properties": { "osm_id": "3702780822" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.52042, 53.83293 ] } },
 { "type": "Feature", "properties": { "osm_id": "3714915209" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.65429, 53.87011 ] } },
 { "type": "Feature", "properties": { "osm_id": "3746051626" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.45839, 53.80637 ] } },
@@ -716,6 +719,10 @@
 { "type": "Feature", "properties": { "osm_id": "6201642230" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.44384, 53.82165 ] } },
 { "type": "Feature", "properties": { "osm_id": "6209142503" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.36828, 53.79459 ] } },
 { "type": "Feature", "properties": { "osm_id": "6209142504" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.36914, 53.79248 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6209142508" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.36909, 53.79356 ] } }
+{ "type": "Feature", "properties": { "osm_id": "6209142508" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.36909, 53.79356 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6223270981" , "traffic_calming":"island" }, "geometry": { "type": "Point", "coordinates": [ -1.51367, 53.79100 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6223374112", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.45438, 53.81441 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6223374142" , "traffic_calming":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.51866, 53.79813 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6223374143" , "traffic_calming":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.51840, 53.79808 ] } }
 ]
 }

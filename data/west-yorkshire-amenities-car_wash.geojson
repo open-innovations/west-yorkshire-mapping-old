@@ -9,7 +9,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "349349936", "name": "Hand Car Wash", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.6435729, 53.8069198 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "363870414", "amenity": "car_wash", "other_tags": "\"operator\"=>\"Sainsburys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6238135, 53.687777 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "374406326", "amenity": "car_wash", "other_tags": "\"operator\"=>\"arc\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7787717, 53.7162403 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "455680161", "amenity": "car_wash", "other_tags": "\"operator\"=>\"arc\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7752338, 53.8317962 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "639286259", "name": "arc", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.6395471, 53.7190092 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747521373", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.7435653, 53.9071104 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "831582026", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.9116841, 53.8647787 ] } },
