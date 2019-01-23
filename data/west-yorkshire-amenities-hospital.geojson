@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "33241018", "name": "Ilkley Coronation Hospital", "amenity": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -1.8137634, 53.9232518 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "249263546", "name": "St James's Hospital A&E", "amenity": "hospital", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS9 7TF\",\"addr:street\"=>\"Beckett Street\",\"emergency\"=>\"yes\",\"phone\"=>\"+44 113 243 3144\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5213303, 53.806396 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "304990795", "name": "Leeds Dental Institute", "amenity": "hospital" }, "geometry": { "type": "Point", "coordinates": [ -1.5562922, 53.803263 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "426615125", "name": "Yorkshire Clinic", "amenity": "hospital", "other_tags": "\"website\"=>\"www.theyorkshireclinic.co.uk\",\"operator\"=>\"Ramsay Health care\",\"addr:city\"=>\"Bingley\",\"emergency\"=>\"no\",\"addr:street\"=>\"Bradford Road\",\"description\"=>\"Private hospital\",\"addr:postcode\"=>\"BD16 1TW\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8178402, 53.8321225 ] } },
