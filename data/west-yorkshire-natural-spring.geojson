@@ -42,6 +42,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2677407078", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.800432, 53.8860492 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2778974506", "name": "Lady Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7458114, 53.8852515 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2779101821", "name": "Craven Hall Spring", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.777966, 53.8922875 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2786230646", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.649066, 53.5624491 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2807890132", "name": "Silver Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8422595, 53.9163829 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2807962318", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8769514, 53.8895759 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2807962369", "name": "Rivock Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8761456, 53.8893629 ] } },
