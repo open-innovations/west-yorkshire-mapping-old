@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "6236206417", "amenity": "litter_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.9545794, 53.6065626 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6236601784", "amenity": "litter_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.8768784, 53.6234793 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6236602285", "amenity": "litter_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.881803, 53.622275 ] } }
+]
+}

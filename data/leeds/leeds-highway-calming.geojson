@@ -727,6 +727,5 @@
 { "type": "Feature", "properties": { "osm_id": "6223374143" , "traffic_calming":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.51840, 53.79808 ] } },
 { "type": "Feature", "properties": { "osm_id": "6227488216", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.45438, 53.81440 ] } },
 { "type": "Feature", "properties": { "osm_id": "6227488219", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.45588, 53.81314 ] } }
-
 ]
 }
