@@ -159,6 +159,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "3094828455", "name": "Lauren Delaney", "other_tags": "\"phone\"=>\"+44 1924 411481\",\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.696302, 53.6999022 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3137244845", "name": "The Hair Studio", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6760634, 53.708158 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3188559660", "name": "Zanko", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6741802, 53.7072159 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3191671108", "name": "The Salon", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7252432, 53.87655 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3203462086", "name": "Scizzor Sisters", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6436363, 53.7183884 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3222634963", "name": "Silver", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5610983, 53.8147955 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3222635461", "name": "Hair Angels", "other_tags": "\"shop\"=>\"hairdresser\",\"opening_hours\"=>\"Mo - Fr 10:00 - 18:00, Sa 10:00 - 16:00\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5611638, 53.8145648 ] } },
