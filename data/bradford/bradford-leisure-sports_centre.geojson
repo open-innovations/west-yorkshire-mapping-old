@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "300897408", "name": "Hollywood Bowl", "other_tags": "\"leisure\"=>\"sports_centre\",\"sport\"=>\"bowling\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7466983, 53.7915102 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "302943971", "name": "Escape Zone Fitness Centre (Closed)", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:postcode\"=>\"BD10 8QH\",\"addr:street\"=>\"Highfield Road\",\"leisure\"=>\"sports_centre\",\"sport\"=>\"multi\"" }, "geometry": { "type": "Point", "coordinates": [ -1.738065, 53.8267362 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "353441832", "name": "Marley Activities and Coaching Centre", "other_tags": "\"leisure\"=>\"sports_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8856121, 53.8719133 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "471725634", "name": "5-Alive Indoor Soccer", "other_tags": "\"sport\"=>\"soccer\",\"leisure\"=>\"sports_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7998897, 53.7945605 ] } },
