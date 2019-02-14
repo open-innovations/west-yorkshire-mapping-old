@@ -10,6 +10,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "5597269702", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"3\",\"operator\"=>\"TESLA\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5322091, 53.7846836 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5897440017", "name": "Lidl Charging station", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4936992, 53.8137423 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6124762645", "name": "The Springs", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4231405, 53.8001646 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6170667563", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0906637, 53.7136118 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6170667563", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0906637, 53.7136118 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6275450624", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4943587, 53.8029087 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6275450625", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.467654, 53.8085843 ] } }
 ]
 }
