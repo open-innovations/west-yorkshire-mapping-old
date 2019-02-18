@@ -119,7 +119,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "2353548622", "name": "Yorkshire Bank", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\",\"addr:city\"=>\"Otley\",\"addr:street\"=>\"Kirkgate\",\"addr:country\"=>\"GB\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6941183, 53.905073 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2406351384", "amenity": "atm", "other_tags": "\"fee\"=>\"£1.50\",\"operator\"=>\"Link\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5805453, 53.8167101 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2548015389", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.724761, 53.8777088 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2556966308", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7117994, 53.873586 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2603532402", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.443518, 53.8219121 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2888241515", "name": "Cash Machine", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.434765, 53.794515 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3145367892", "name": "Sainsburys", "amenity": "atm", "other_tags": "\"atm\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5381877, 53.7937203 ] } },
