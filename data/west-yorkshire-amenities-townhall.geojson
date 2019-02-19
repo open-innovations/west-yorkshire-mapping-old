@@ -6,7 +6,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "322861248", "name": "Holmfirth Civic Hall", "amenity": "townhall" }, "geometry": { "type": "Point", "coordinates": [ -1.7861284, 53.5722958 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "430980774", "name": "Shipley Town Hall", "amenity": "townhall" }, "geometry": { "type": "Point", "coordinates": [ -1.7794733, 53.8336465 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "430980775", "name": "Kirkgate Community Centre", "amenity": "townhall" }, "geometry": { "type": "Point", "coordinates": [ -1.779557, 53.8338371 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1310906988", "amenity": "townhall" }, "geometry": { "type": "Point", "coordinates": [ -1.3096405, 53.6920635 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1310906988", "amenity": "townhall" }, "geometry": { "type": "Point", "coordinates": [ -1.3097096, 53.6921393 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1535922143", "name": "Paddock Village Hall", "amenity": "townhall", "other_tags": "\"operator\"=>\"Kirklees\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8076276, 53.6426709 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1620677313", "name": "Ferrybridge Community Centre", "amenity": "townhall" }, "geometry": { "type": "Point", "coordinates": [ -1.2687092, 53.7138253 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1710545348", "name": "Hade Edge Village Hall", "amenity": "townhall" }, "geometry": { "type": "Point", "coordinates": [ -1.7812132, 53.5448003 ] } },
