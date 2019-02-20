@@ -12,6 +12,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6124762645", "name": "The Springs", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4231405, 53.8001646 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6170667563", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0906637, 53.7136118 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6275450624", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4943587, 53.8029087 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6275450625", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.467654, 53.8085843 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6275450625", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.467654, 53.8085843 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6289681475", "name": "Pod Point", "amenity": "charging_station", "other_tags": "\"addr:postcode\"=>\"LS25 2JY\",\"capacity\"=>\"3\",\"fee\"=>\"no\",\"location\"=>\"Lidl Carpark\",\"operator\"=>\"Pod Point\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3799421, 53.7975832 ] } }
 ]
 }
