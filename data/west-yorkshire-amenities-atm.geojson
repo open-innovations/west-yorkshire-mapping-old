@@ -304,6 +304,11 @@
 	{ "type": "Feature", "properties": { "osm_id": "6139531117", "amenity": "atm", "other_tags": "\"brand\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5433687, 53.7981867 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6188082758", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6165608, 53.8281927 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6225963573", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7884727, 53.841114 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6225969280", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7659216, 53.8412635 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6225969280", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7659216, 53.8412635 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6294180908", "amenity": "atm", "other_tags": "\"addr:housenumber\"=>\"Heron Foods\",\"cash_in\"=>\"no\",\"currency:£\"=>\"yes\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"location\"=>\"indoor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4501345, 53.8068301 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6294180909", "amenity": "atm", "other_tags": "\"addr:housenumber\"=>\"Poundland\",\"cash_in\"=>\"no\",\"currency:£\"=>\"yes\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"location\"=>\"indoor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4501359, 53.8063732 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6294180910", "amenity": "atm", "other_tags": "\"addr:housenumber\"=>\"Wilko\",\"cash_in\"=>\"no\",\"currency:£\"=>\"yes\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"location\"=>\"indoor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.450396, 53.8060857 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6294180911", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4520487, 53.8072009 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6294180912", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4520342, 53.8073247 ] } }
 ]
 }
