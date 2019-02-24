@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "300897408", "name": "Hollywood Bowl", "other_tags": "\"leisure\"=>\"bowling_alley\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7466983, 53.7915102 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "305686966", "name": "Tenpin", "other_tags": "\"addr:housename\"=>\"Xscape\",\"addr:postcode\"=>\"WF10 4TA\",\"addr:street\"=>\"Colorado Way\",\"addr:town\"=>\"Castleford\",\"addr:unit\"=>\"8\",\"fhrs:id\"=>\"1050343\",\"leisure\"=>\"bowling_alley\",\"sport\"=>\"10pin\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3412586, 53.7105072 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "305686966", "name": "Tenpin", "other_tags": "\"addr:housename\"=>\"Xscape\",\"addr:postcode\"=>\"WF10 4TA\",\"addr:street\"=>\"Colorado Way\",\"addr:town\"=>\"Castleford\",\"addr:unit\"=>\"8\",\"fhrs:id\"=>\"1050343\",\"leisure\"=>\"bowling_alley\",\"sport\"=>\"10pin\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3412586, 53.7105072 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.832314, "longitude": -1.776194 }, "osm_way_id": "166683978", "name": "Shipley Lanes", "building": "yes", "leisure": "bowling_alley", "sport": "10pin" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7763667, 53.8324958 ], [ -1.7760213, 53.8324956 ], [ -1.7760221, 53.8321317 ], [ -1.7763675, 53.8321319 ], [ -1.7763667, 53.8324958 ] ] ] ] } }
 ]
 }
