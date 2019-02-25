@@ -1635,6 +1635,5 @@
 { "type": "Feature", "properties": { "osm_id": "6297405478", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.50875, 53.74113 ] } },
 { "type": "Feature", "properties": { "osm_id": "6297405479", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.50834, 53.74130 ] } },
 { "type": "Feature", "properties": { "osm_id": "6297405480", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.50853, 53.74135 ] } }
-
 ]
 }
