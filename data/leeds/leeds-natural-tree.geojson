@@ -1073,6 +1073,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6282298706", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.50715, 53.7966595 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6282298707", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.507325, 53.7966337 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6282298708", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5072526, 53.7965684 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6308617516", "other_tags": "\"historic\"=>\"yes\",\"name:en\"=>\"Love Tree \/ Nellie's Tree\",\"natural\"=>\"tree\",\"shape\"=>\"N\",\"tree:ref\"=>\"Beech\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3572162, 53.8193225 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "246349483", "z_order": 0, "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4289764, 53.7940192 ], [ -1.428912, 53.794043 ], [ -1.4288259, 53.7940628 ], [ -1.4287618, 53.7940985 ], [ -1.4286277, 53.794195 ], [ -1.4279384, 53.7941792 ], [ -1.4279553, 53.7930566 ] ] } }
 ]
 }
