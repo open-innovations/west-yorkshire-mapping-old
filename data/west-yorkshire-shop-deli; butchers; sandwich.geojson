@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "6310537743", "name": "Two Valleys", "other_tags": "\"shop\"=>\"deli; butchers; sandwich\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8515986, 53.5919986 ] } }
+]
+}
