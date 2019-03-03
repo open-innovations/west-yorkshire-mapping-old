@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "6311830710", "other_tags": "\"information\"=>\"guidepost\",\"shop\"=>\"list\",\"tourism\"=>\"information\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4584735, 53.8221654 ] } }
+]
+}
