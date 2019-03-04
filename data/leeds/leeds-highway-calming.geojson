@@ -827,9 +827,14 @@
 { "type": "Feature", "properties": { "osm_id": "6308247109" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.48068, 53.79446 ] } },
 { "type": "Feature", "properties": { "osm_id": "6308247110" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.48108, 53.79479 ] } },
 { "type": "Feature", "properties": { "osm_id": "6308247111" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.48146, 53.79426 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6308275391" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.48488, 53.79557 ] } },
 { "type": "Feature", "properties": { "osm_id": "6308837858" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.50573, 53.73127 ] } },
 { "type": "Feature", "properties": { "osm_id": "6308837860" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.50795, 53.73151 ] } },
 { "type": "Feature", "properties": { "osm_id": "6308864276", "highway": "traffic_signals" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.54017, 53.79776 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6308864279", "highway": "traffic_signals" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.54023, 53.79759 ] } }
+{ "type": "Feature", "properties": { "osm_id": "6308864279", "highway": "traffic_signals" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.54023, 53.79759 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6314345385" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.48039, 53.79718 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6314345400", "highway": "traffic_signals" , "traffic_calming":"island" }, "geometry": { "type": "Point", "coordinates": [ -1.47939, 53.79884 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6314345401" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.47877, 53.79678 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6314618192" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.45379, 53.81846 ] } }
 ]
 }

@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4579780115", "other_tags": "\"shop\"=>\"pie\"" }, "geometry": { "type": "Point", "coordinates": [ -2.012326, 53.7421878 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.572076, "longitude": -1.661506 }, "osm_way_id": "174643456", "name": "The Denby Dale Pie Company Ltd", "building": "yes", "shop": "pie", "other_tags": "\"addr:city\"=>\"Denby Dale\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6615537, 53.5721636 ], [ -1.6615049, 53.5720831 ], [ -1.6613716, 53.5721115 ], [ -1.6613154, 53.5720188 ], [ -1.6615699, 53.5719644 ], [ -1.661608, 53.5720273 ], [ -1.6616636, 53.5720155 ], [ -1.6616962, 53.5720693 ], [ -1.661641, 53.5720811 ], [ -1.6616754, 53.5721379 ], [ -1.6616318, 53.5721877 ], [ -1.6615537, 53.5721636 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "4579780115", "other_tags": "\"shop\"=>\"pie\"" }, "geometry": { "type": "Point", "coordinates": [ -2.012326, 53.7421878 ] } }
 ]
 }
