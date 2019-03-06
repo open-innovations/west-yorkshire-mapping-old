@@ -717,7 +717,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5661767734", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7543907, 53.730933 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5661767735", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7538228, 53.7301822 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5688883970", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6078144, 53.5887641 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5735153791", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6306426, 53.5734053 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5735153791", "name": "Vegsy's View", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6306426, 53.5734053 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5754903413", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.5791249, 53.8227901 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5793714111", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8973547, 53.6167539 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5793714113", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8538543, 53.6302635 ] } },
