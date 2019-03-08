@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "250390241", "name": "Matharu Newsagents", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"46\",\"addr:postcode\"=>\"LS6 4ER\",\"addr:street\"=>\"Monkbridge Road\",\"addr:suburb\"=>\"Meanwood\",\"fhrs:id\"=>\"467040\",\"shop\"=>\"newsagent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5694758, 53.8269885 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "288973830", "name": "Park Stores", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"46\",\"addr:postcode\"=>\"LS9 9BQ\",\"addr:street\"=>\"Richardson Road\",\"fhrs:id\"=>\"877787\",\"shop\"=>\"newsagent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5009783, 53.7949088 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330071206", "name": "MSA Newsagent", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"86-88\",\"addr:postcode\"=>\"LS12 3AA\",\"addr:street\"=>\"Town Street\",\"fhrs:id\"=>\"467128\",\"shop\"=>\"newsagent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.592918, 53.7966388 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "334884400", "other_tags": "\"shop\"=>\"newsagent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5859757, 53.8087884 ] } },
