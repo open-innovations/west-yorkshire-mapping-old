@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "6217574769", "other_tags": "\"leisure\"=>\"outdoor_seating\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4336849, 53.8380511 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.758261, "longitude": -1.575612 }, "osm_way_id": "607734210", "leisure": "outdoor_seating" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5761107, 53.7581769 ], [ -1.5761108, 53.7583459 ], [ -1.5757829, 53.7583334 ], [ -1.5751127, 53.758304 ], [ -1.5751175, 53.7582146 ], [ -1.57598, 53.7582397 ], [ -1.5761107, 53.7581769 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.758261, "longitude": -1.575612 }, "osm_way_id": "607734210", "leisure": "outdoor_seating" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5761107, 53.7581769 ], [ -1.5761108, 53.7583459 ], [ -1.5757829, 53.7583334 ], [ -1.5751127, 53.758304 ], [ -1.5751175, 53.7582146 ], [ -1.57598, 53.7582397 ], [ -1.5761107, 53.7581769 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.800899, "longitude": -1.459166 }, "osm_way_id": "675554265", "name": "Beer Garden", "leisure": "outdoor_seating", "other_tags": "\"operator\"=>\"Leodis\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4592709, 53.8009606 ], [ -1.4591403, 53.8009898 ], [ -1.4590564, 53.800852 ], [ -1.4591642, 53.8008084 ], [ -1.4591858, 53.8008408 ], [ -1.4592224, 53.8008323 ], [ -1.4592535, 53.8008791 ], [ -1.4592766, 53.8009138 ], [ -1.4592447, 53.8009212 ], [ -1.4592709, 53.8009606 ] ] ] ] } }
 ]
 }

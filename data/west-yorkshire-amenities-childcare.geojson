@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "310749597", "amenity": "childcare" }, "geometry": { "type": "Point", "coordinates": [ -1.7699413, 53.8327873 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "349173634", "name": "Banana Moon", "amenity": "childcare", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS26 0EX\",\"addr:street\"=>\"Springhead Road\",\"fhrs:id\"=>\"865165\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4700027, 53.755136 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "430953153", "name": "Kiddi-Club", "amenity": "childcare", "other_tags": "\"level\"=>\"0\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6022848, 53.7836337 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "493690819", "name": "The Railway Children", "amenity": "childcare", "other_tags": "\"addr:city\"=>\"Ilkley\",\"addr:housename\"=>\"Menston Station\",\"addr:postcode\"=>\"LS29 6JH\",\"addr:street\"=>\"Station Road\",\"addr:village\"=>\"Menston\",\"date_start\"=>\"17-01-2015\",\"fhrs:id\"=>\"746241\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.735432, 53.8922198 ] } },
