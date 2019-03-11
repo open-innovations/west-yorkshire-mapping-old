@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "301022554", "name": "Waterside Court", "other_tags": "\"landuse\"=>\"commercial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.591257, 53.8090309 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "301683143", "name": "Pinnacle", "other_tags": "\"height\"=>\"80\",\"landuse\"=>\"commercial\",\"building\"=>\"commercial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5454884, 53.7979086 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "301683143", "name": "Pinnacle", "other_tags": "\"building\"=>\"commercial\",\"height\"=>\"80\",\"landuse\"=>\"commercial\",\"wikidata\"=>\"Q7986354\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5454884, 53.7979086 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "339923507", "name": "Phoenix House", "other_tags": "\"landuse\"=>\"commercial\",\"building\"=>\"commercial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5476204, 53.7991762 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "343131673", "name": "Town Centre House", "other_tags": "\"landuse\"=>\"commercial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5447748, 53.8017134 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "382568511", "name": "Carlisle Business Centre", "other_tags": "\"landuse\"=>\"commercial\",\"building\"=>\"commercial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7712494, 53.806154 ] } },
