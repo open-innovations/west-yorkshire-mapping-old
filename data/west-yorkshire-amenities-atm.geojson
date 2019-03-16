@@ -210,7 +210,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "3455482908", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5109542, 53.8231683 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3545383576", "amenity": "atm", "other_tags": "\"fee\"=>\"free\",\"operator\"=>\"Coop\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8560858, 53.6399556 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3612929539", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4692124, 53.8271652 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3615121537", "amenity": "atm", "other_tags": "\"currency:£\"=>\"yes\",\"currency:gbp\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"Post Office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4646516, 53.799176 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3615121537", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"Post Office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4646516, 53.799176 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3616415159", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4865327, 53.8233994 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3616415171", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4862763, 53.823633 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3617871904", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.494899, 53.8208116 ] } },
