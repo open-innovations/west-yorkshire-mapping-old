@@ -13,7 +13,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2212678975", "name": "iPatch", "other_tags": "\"shop\"=>\"electronics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5461483, 53.7965336 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2400790056", "name": "Audio Republic", "other_tags": "\"shop\"=>\"electronics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5821077, 53.8269911 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2408752506", "name": "Taybell", "other_tags": "\"shop\"=>\"electronics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5662901, 53.8285969 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3222614870", "name": "Apple Corner", "other_tags": "\"shop\"=>\"electronics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5611212, 53.8145294 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3222614870", "name": "Apple Corner", "other_tags": "\"shop\"=>\"electronics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5610823, 53.8145088 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3801400064", "name": "Repair Lab", "other_tags": "\"shop\"=>\"electronics\",\"craft\"=>\"electronics_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6022609, 53.8154878 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4475968862", "name": "EHS", "other_tags": "\"shop\"=>\"electronics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4490809, 53.8071494 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4632341179", "name": "Bright Ideas", "other_tags": "\"shop\"=>\"electronics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3845435, 53.9305963 ] } },

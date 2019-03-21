@@ -5,7 +5,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "313246931", "name": "AML Computers", "other_tags": "\"shop\"=>\"computer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5898721, 53.7986937 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "320998119", "name": "The Computer Assistant", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"96\",\"addr:postcode\"=>\"LS2 7DJ\",\"addr:street\"=>\"Kirkgate\",\"shop\"=>\"computer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5390031, 53.7961917 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333799052", "name": "PC World", "other_tags": "\"shop\"=>\"computer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5447208, 53.7992369 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "342601309", "name": "Arcadia", "other_tags": "\"shop\"=>\"computer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5414795, 53.800173 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "538858900", "name": "Digital Activities", "other_tags": "\"shop\"=>\"computer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6954448, 53.9056126 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2144729417", "name": "Game", "other_tags": "\"shop\"=>\"computer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.544042, 53.7992038 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2212678970", "name": "Apple", "other_tags": "\"shop\"=>\"computer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5438952, 53.7966351 ] } },
