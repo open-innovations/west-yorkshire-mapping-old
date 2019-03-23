@@ -23,7 +23,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4794757840", "other_tags": "\"leisure\"=>\"pitch\",\"sport\"=>\"skateboard\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8820295, 53.7512773 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4898165190", "other_tags": "\"leisure\"=>\"pitch\",\"lit\"=>\"no\",\"sport\"=>\"soccer\",\"surface\"=>\"grass\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7580836, 53.6387616 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4898165200", "other_tags": "\"leisure\"=>\"pitch\",\"sport\"=>\"soccer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7502144, 53.6318708 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4898165205", "other_tags": "\"leisure\"=>\"pitch\",\"lit\"=>\"no\",\"sport\"=>\"soccer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7411231, 53.6368391 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4898165205", "other_tags": "\"leisure\"=>\"pitch\",\"lit\"=>\"no\",\"sport\"=>\"soccer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7461224, 53.6364973 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4898165206", "other_tags": "\"leisure\"=>\"pitch\",\"lit\"=>\"no\",\"sport\"=>\"soccer\",\"surface\"=>\"grass\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7403442, 53.6344148 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4898165209", "other_tags": "\"leisure\"=>\"pitch\",\"sport\"=>\"tennis\"" }, "geometry": { "type": "Point", "coordinates": [ -1.745978, 53.6378042 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4898165210", "other_tags": "\"leisure\"=>\"pitch\",\"surface\"=>\"asphalt\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7454483, 53.6377707 ] } },
