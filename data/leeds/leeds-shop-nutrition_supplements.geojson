@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4467741650", "name": "Ultimate Fitness 4 U", "other_tags": "\"shop\"=>\"nutrition_supplements\",\"website\"=>\"http:\/\/uf4u.co.uk\/\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Whitehall Road\",\"addr:postcode\"=>\"LS12 1AP\",\"addr:housename\"=>\"Kidd House\"" }, "geometry": { "type": "Point", "coordinates": [ -1.565405, 53.7912046 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4467741650", "name": "Ultimate Fitness 4 U", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Kidd House\",\"addr:postcode\"=>\"LS12 1AP\",\"addr:street\"=>\"Whitehall Road\",\"shop\"=>\"nutrition_supplements\",\"website\"=>\"https:\/\/uf4u.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.565405, 53.7912046 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5632562237", "name": "Predator Nutrition", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"The Light\",\"addr:postcode\"=>\"LS1 8TL\",\"addr:street\"=>\"The Headrow\",\"shop\"=>\"nutrition_supplements\"" }, "geometry": { "type": "Point", "coordinates": [ -1.545867, 53.7998762 ] } }
 ]
 }
