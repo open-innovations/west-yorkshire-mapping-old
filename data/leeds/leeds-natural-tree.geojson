@@ -1073,7 +1073,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6282298706", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.50715, 53.7966595 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6282298707", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.507325, 53.7966337 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6282298708", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5072526, 53.7965684 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6308617516", "other_tags": "\"historic\"=>\"yes\",\"name:en\"=>\"Love Tree \/ Nellie's Tree\",\"natural\"=>\"tree\",\"shape\"=>\"N\",\"tree:ref\"=>\"Beech\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3572162, 53.8193225 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6308617516", "other_tags": "\"historic\"=>\"yes\",\"name:en\"=>\"Love Tree \/ Nellie's Tree\",\"natural\"=>\"tree\",\"shape\"=>\"N\",\"survey:date\"=>\"2019-03-11\",\"tree:ref\"=>\"Beech\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3571907, 53.8192774 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6356703836", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4940635, 53.8093197 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6356703837", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4941764, 53.8093029 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6356703838", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4942902, 53.809281 ] } },
