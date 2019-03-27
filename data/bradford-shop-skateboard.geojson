@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": "4420366052", "name": "Division 24", "other_tags": "\"shop\"=>\"skateboard\",\"addr:city\"=>\"Wakefield\",\"addr:street\"=>\"Zetland Street\",\"addr:postcode\"=>\"WF1 1QT\",\"addr:housenumber\"=>\"24\"" }, "geometry": { "type": "Point", "coordinates": [ -1.494515, 53.6835847 ] } }
-]
-}

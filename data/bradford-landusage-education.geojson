@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.904348, "longitude": -1.691161 }, "osm_way_id": "236439827", "landuse": "education" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6910174, 53.9044867 ], [ -1.6910035, 53.9042152 ], [ -1.6911496, 53.9042138 ], [ -1.6911981, 53.9042127 ], [ -1.6912848, 53.9042095 ], [ -1.691312, 53.9044658 ], [ -1.6913178, 53.9044851 ], [ -1.6910174, 53.9044867 ] ] ] ] } }
-]
-}

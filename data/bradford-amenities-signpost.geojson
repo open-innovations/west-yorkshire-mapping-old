@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": "3832991735", "name": "The Cross", "amenity": "signpost" }, "geometry": { "type": "Point", "coordinates": [ -1.6234182, 53.8851752 ] } }
-]
-}

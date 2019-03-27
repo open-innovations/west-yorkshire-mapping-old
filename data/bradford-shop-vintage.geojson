@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": "4525231853", "name": "Saltaire Vintage Shop", "other_tags": "\"addr:city\"=>\"Shipley\",\"addr:village\"=>\"Saltaire\",\"shop\"=>\"vintage\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7901923, 53.8367415 ] } }
-]
-}

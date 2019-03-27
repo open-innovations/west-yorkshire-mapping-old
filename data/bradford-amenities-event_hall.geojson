@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.903395, "longitude": -1.696442 }, "osm_way_id": "87958769", "name": "Otley Parish Scouts", "amenity": "event_hall", "building": "yes", "other_tags": "\"building:levels\"=>\"1\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6964528, 53.9033205 ], [ -1.6965805, 53.9034434 ], [ -1.6964601, 53.9034868 ], [ -1.6963031, 53.9033357 ], [ -1.6963908, 53.9033041 ], [ -1.69642, 53.9033323 ], [ -1.6964528, 53.9033205 ] ] ] ] } }
-]
-}

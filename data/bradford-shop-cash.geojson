@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.647783, "longitude": -1.782348 }, "osm_way_id": "335356926", "name": "The Money Shop", "shop": "cash" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7825371, 53.6477834 ], [ -1.7821784, 53.6478355 ], [ -1.7821598, 53.6477807 ], [ -1.7825195, 53.6477301 ], [ -1.7825371, 53.6477834 ] ] ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.726447, "longitude": -1.351317 }, "osm_way_id": "338062891", "name": "Cheque Centre", "building": "retail", "shop": "cash", "other_tags": "\"building:levels\"=>\"2\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.3513814, 53.7265179 ], [ -1.3513216, 53.7263735 ], [ -1.3512863, 53.7263671 ], [ -1.351253, 53.7263764 ], [ -1.3513097, 53.7265132 ], [ -1.3513155, 53.7265272 ], [ -1.3513814, 53.7265179 ] ] ] ] } }
-]
-}

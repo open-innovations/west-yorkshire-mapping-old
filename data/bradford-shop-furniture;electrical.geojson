@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.724801, "longitude": -1.867953 }, "osm_way_id": "322077409", "name": "British Heart Foundation", "building": "retail", "shop": "furniture;electrical" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8676807, 53.7249367 ], [ -1.8681194, 53.7249875 ], [ -1.8682109, 53.7247105 ], [ -1.868226, 53.7246649 ], [ -1.8677873, 53.7246141 ], [ -1.8676807, 53.7249367 ] ] ] ] } }
-]
-}

@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": "3725878730", "name": "Bridge Rectifier", "other_tags": "\"leisure\"=>\"hackerspace\",\"website\"=>\"www.bridgerectifier.org.uk\",\"building\"=>\"yes\",\"addr:city\"=>\"Hebden Bridge\",\"addr:street\"=>\"Hebble End\",\"addr:postcode\"=>\"HX7 6HJ\",\"addr:housename\"=>\"Bridge Rectifier\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0169008, 53.7406177 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.806401, "longitude": -1.533580 }, "osm_way_id": "426119651", "name": "Leeds Hackspace", "type": "multipolygon", "building": "yes", "leisure": "hackerspace", "other_tags": "\"addr:housename\"=>\"Sheepscar House\",\"addr:housenumber\"=>\"15\",\"addr:postcode\"=>\"LS7 1AD\",\"addr:street\"=>\"Sheepscar Street South\",\"addr:unit\"=>\"14\",\"opening_hours\"=>\"Tu 19:00-23:30\",\"website\"=>\"http:\/\/www.leedshackspace.org.uk\",\"workshop\"=>\"fablab\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5335235, 53.8064498 ], [ -1.5334748, 53.8064499 ], [ -1.533473, 53.8062491 ], [ -1.5335747, 53.8062501 ], [ -1.5335769, 53.8063118 ], [ -1.5336871, 53.8064792 ], [ -1.5335841, 53.8065044 ], [ -1.5336159, 53.8065498 ], [ -1.5336054, 53.8065529 ], [ -1.5336035, 53.8065496 ], [ -1.533538, 53.8065506 ], [ -1.5335389, 53.806515 ], [ -1.5335228, 53.8065147 ], [ -1.5334728, 53.8065148 ], [ -1.5334726, 53.8064911 ], [ -1.5335238, 53.8064909 ], [ -1.5335387, 53.8064907 ], [ -1.5335394, 53.8064499 ], [ -1.5335235, 53.8064498 ] ] ] ] } }
-]
-}

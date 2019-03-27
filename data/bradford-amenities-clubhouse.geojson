@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": "1277067178", "amenity": "clubhouse", "other_tags": "\"sport\"=>\"cricket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.911922, 53.8500681 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.803929, "longitude": -1.895075 }, "osm_way_id": "623056131", "name": "Denholme Conservative Club", "amenity": "clubhouse", "building": "yes" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8949048, 53.8039999 ], [ -1.8949024, 53.8039265 ], [ -1.8949549, 53.8039259 ], [ -1.8949528, 53.8038612 ], [ -1.8951441, 53.803859 ], [ -1.8951444, 53.8038674 ], [ -1.8952441, 53.8038663 ], [ -1.8952484, 53.8039959 ], [ -1.8949048, 53.8039999 ] ] ] ] } }
-]
-}

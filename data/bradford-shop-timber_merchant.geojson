@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.770642, "longitude": -1.509049 }, "osm_way_id": "203858618", "name": "Arnold Laver", "landuse": "industrial", "shop": "timber_merchant" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5078525, 53.7709704 ], [ -1.5080888, 53.7711294 ], [ -1.5081808, 53.771133 ], [ -1.508305, 53.7712051 ], [ -1.5083418, 53.7711857 ], [ -1.5085395, 53.7712968 ], [ -1.5102451, 53.7703472 ], [ -1.5101208, 53.770253 ], [ -1.5101814, 53.7702153 ], [ -1.5101176, 53.7701719 ], [ -1.5100028, 53.7702247 ], [ -1.5097828, 53.770089 ], [ -1.5096041, 53.769988 ], [ -1.5078525, 53.7709704 ] ] ] ] } }
-]
-}

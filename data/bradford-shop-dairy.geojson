@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.724121, "longitude": -1.861407 }, "osm_way_id": "584193109", "name": "Mezzy Muscle", "building": "yes", "shop": "dairy" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8613227, 53.7241416 ], [ -1.8613311, 53.7240899 ], [ -1.8614906, 53.724099 ], [ -1.8614821, 53.7241516 ], [ -1.8613227, 53.7241416 ] ] ] ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": "414681215", "name": "PC World Business", "other_tags": "\"shop\"=>\"office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7548712, 53.8057794 ] } }
-]
-}

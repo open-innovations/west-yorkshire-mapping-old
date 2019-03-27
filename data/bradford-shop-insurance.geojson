@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.684840, "longitude": -1.499233 }, "osm_way_id": "87307565", "name": "Steadfast Insurance", "building": "yes", "shop": "insurance" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4993415, 53.6848351 ], [ -1.4993182, 53.6848801 ], [ -1.4991236, 53.6848448 ], [ -1.4991469, 53.6847998 ], [ -1.4993415, 53.6848351 ] ] ] ] } }
-]
-}

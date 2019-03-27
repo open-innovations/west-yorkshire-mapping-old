@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": "5220657324", "name": "Haworth Wholefoods", "other_tags": "\"shop\"=>\"wholefoods\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9559383, 53.831395 ] } }
-]
-}

@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.705063, "longitude": -1.503808 }, "osm_way_id": "64606053", "name": "Calder Catering Equipment Services Ltd", "building": "yes", "shop": "catering_equipment", "other_tags": "\"addr:street\"=>\"Grey Street\",\"building:roof\"=>\"tile\",\"addr:housename\"=>\"Newton House\",\"building:levels\"=>\"2\",\"building:cladding\"=>\"brick\",\"building:roof:shape\"=>\"pitched\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5040112, 53.705296 ], [ -1.5037812, 53.7053429 ], [ -1.5036981, 53.7052001 ], [ -1.5038195, 53.7051754 ], [ -1.5036045, 53.7048058 ], [ -1.5037132, 53.7047837 ], [ -1.5040112, 53.705296 ] ] ] ] } }
-]
-}

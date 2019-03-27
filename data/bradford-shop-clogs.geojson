@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": "700188684", "name": "Walkley Clogs", "other_tags": "\"shop\"=>\"clogs\",\"website\"=>\"www.clogs.co.uk\",\"addr:city\"=>\"Mytholmroyd\",\"addr:street\"=>\"Midgeley Road\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"HX7 5LR\",\"addr:housenumber\"=>\"Unit 10, Mount Pleasant Mills\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9791281, 53.7321222 ] } }
-]
-}

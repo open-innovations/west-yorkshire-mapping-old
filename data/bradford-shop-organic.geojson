@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": "1040177585", "name": "Bradford Wholefoods", "other_tags": "\"shop\"=>\"organic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7882865, 53.833395 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2125610528", "name": "Out Of This World", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"20\",\"addr:postcode\"=>\"LS1 6DG\",\"addr:street\"=>\"New Market Street\",\"fhrs:id\"=>\"321995\",\"shop\"=>\"organic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5410356, 53.796291 ] } }
-]
-}

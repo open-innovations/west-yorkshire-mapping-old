@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.680444, "longitude": -1.502054 }, "osm_way_id": "87266456", "name": "Warehouse 23", "amenity": "music_venue", "building": "yes", "leisure": "music_venue", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:postcode\"=>\"WF1 1ED\",\"addr:street\"=>\"Smyth Street\",\"fhrs:id\"=>\"1066717\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5019799, 53.6806211 ], [ -1.5019389, 53.6803609 ], [ -1.5019205, 53.6803619 ], [ -1.5019125, 53.680311 ], [ -1.5020039, 53.6803059 ], [ -1.5019989, 53.6802747 ], [ -1.5021406, 53.6802669 ], [ -1.5021946, 53.6806092 ], [ -1.5019799, 53.6806211 ] ] ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.802274, "longitude": -1.547315 }, "osm_way_id": "175661067", "name": "Leeds O2 Academy", "amenity": "music_venue", "building": "yes", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"55\",\"addr:postcode\"=>\"LS2 3AW\",\"addr:street\"=>\"Cookridge Street\",\"fhrs:id\"=>\"321984\",\"old_name\"=>\"Coliseum\",\"phone\"=>\"+44 113 389 1555\",\"website\"=>\"www.o2academyleeds.co.uk\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5474499, 53.8024802 ], [ -1.5472049, 53.8023942 ], [ -1.5469427, 53.8023022 ], [ -1.5471791, 53.8020672 ], [ -1.5476863, 53.8022452 ], [ -1.5474499, 53.8024802 ] ] ] ] } }
-]
-}

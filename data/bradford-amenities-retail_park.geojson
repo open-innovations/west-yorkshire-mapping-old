@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.744647, "longitude": -1.643617 }, "osm_way_id": "121949375", "name": "Spring Ram Retail Park", "amenity": "retail_park" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.643987, 53.744175 ], [ -1.6444536, 53.7444601 ], [ -1.6433673, 53.7451666 ], [ -1.6432833, 53.7451612 ], [ -1.6429772, 53.7451283 ], [ -1.6433012, 53.7448716 ], [ -1.6428234, 53.7446001 ], [ -1.6427812, 53.7445832 ], [ -1.6432947, 53.7442429 ], [ -1.6436007, 53.7441411 ], [ -1.6438225, 53.7441275 ], [ -1.643987, 53.744175 ] ] ] ] } }
-]
-}

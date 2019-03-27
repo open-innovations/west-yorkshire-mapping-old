@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": "3149866268", "name": "PJ Venner Sameday Courier Services", "amenity": "courier", "other_tags": "\"phone\"=>\"+44 7763 860028\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6295799, 53.6938649 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.774705, "longitude": -1.512587 }, "osm_way_id": "151467627", "name": "Citylink", "amenity": "courier", "building": "yes" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5129658, 53.7747126 ], [ -1.5125865, 53.7749286 ], [ -1.5122084, 53.7746967 ], [ -1.5125877, 53.7744807 ], [ -1.5129658, 53.7747126 ] ] ] ] } }
-]
-}

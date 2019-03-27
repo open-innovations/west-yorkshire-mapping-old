@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": "6022849876", "name": "amplifon", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"82\",\"addr:postcode\"=>\"LS1 6AD\",\"addr:street\"=>\"Albion Street\",\"addr:unit\"=>\"1\",\"shop\"=>\"hearing_aids\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5449089, 53.7987596 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.683794, "longitude": -1.499805 }, "osm_way_id": "428450181", "name": "amplifon", "building": "yes", "shop": "hearing_aids", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:street\"=>\"Cross Street\",\"addr:postcode\"=>\"WF1 3BW\",\"addr:housenumber\"=>\"13\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4997776, 53.6837551 ], [ -1.4998739, 53.6838075 ], [ -1.4998329, 53.6838335 ], [ -1.4997365, 53.6837811 ], [ -1.4997776, 53.6837551 ] ] ] ] } }
-]
-}

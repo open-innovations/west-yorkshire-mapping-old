@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.869149, "longitude": -1.908289 }, "osm_way_id": "144930181", "name": "Gala Bingo", "building": "yes", "leisure": "bingo_hall", "other_tags": "\"brand\"=>\"Gala\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.9086693, 53.8692376 ], [ -1.9086539, 53.869255 ], [ -1.9086355, 53.8692615 ], [ -1.9086135, 53.8692647 ], [ -1.9085887, 53.8692639 ], [ -1.9080069, 53.8692625 ], [ -1.908007, 53.8692408 ], [ -1.9079075, 53.8692406 ], [ -1.9079089, 53.8690338 ], [ -1.9080199, 53.8690341 ], [ -1.9080198, 53.8690462 ], [ -1.9086706, 53.8690477 ], [ -1.9086693, 53.8692376 ] ] ] ] } }
-]
-}

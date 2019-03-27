@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": "4353989161", "name": "Army Stall", "other_tags": "\"shop\"=>\"military_surplus\",\"addr:city\"=>\"Wakefield\",\"addr:street\"=>\"Brook Street\",\"addr:housenumber\"=>\"31\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4967207, 53.6841281 ] } }
-]
-}

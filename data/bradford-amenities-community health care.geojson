@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.923235, "longitude": -1.813658 }, "osm_way_id": "60686138", "name": "Coronation Hospital", "amenity": "community health care", "building": "medical", "other_tags": "\"addr:city\"=>\"Ilkley\",\"addr:street\"=>\"Springs Lane\",\"addr:postcode\"=>\"LS29 8TG\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8131685, 53.9231197 ], [ -1.81418, 53.9232014 ], [ -1.8141455, 53.9233496 ], [ -1.8139803, 53.9233362 ], [ -1.8139903, 53.9232933 ], [ -1.8136805, 53.9232683 ], [ -1.8136712, 53.9233082 ], [ -1.8134434, 53.9232898 ], [ -1.8134529, 53.9232491 ], [ -1.8133411, 53.9232401 ], [ -1.8133336, 53.9232722 ], [ -1.8131366, 53.9232563 ], [ -1.8131685, 53.9231197 ] ] ] ] } }
-]
-}
