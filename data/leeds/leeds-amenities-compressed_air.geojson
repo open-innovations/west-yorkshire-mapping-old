@@ -5,6 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2881824670", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.6227042, 53.7969089 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3786773390", "amenity": "compressed_air", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6382026, 53.8040644 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3801400073", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.6033751, 53.8147527 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6311830378", "amenity": "compressed_air", "other_tags": "\"fee\"=>\"yes\",\"lit\"=>\"yes\",\"operator\"=>\"Tesco\",\"payment:cash\"=>\"yes\",\"payment:coins\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4584164, 53.8216941 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6311830378", "amenity": "compressed_air", "other_tags": "\"fee\"=>\"yes\",\"lit\"=>\"yes\",\"operator\"=>\"Tesco\",\"payment:cash\"=>\"yes\",\"payment:coins\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4584164, 53.8216941 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6365115958", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.564624, 53.7682054 ] } }
 ]
 }
