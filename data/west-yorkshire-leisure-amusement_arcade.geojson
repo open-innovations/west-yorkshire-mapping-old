@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "6373149076", "other_tags": "\"leisure\"=>\"amusement_arcade\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3761125, 53.7910101 ] } }
+]
+}

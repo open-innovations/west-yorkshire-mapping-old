@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1535922123", "name": "Max Spielmann", "other_tags": "\"addr:housenumber\"=>\"77\",\"addr:postcode\"=>\"HD1 2TW\",\"addr:street\"=>\"New Street\",\"opening_hours\"=>\"Mo-Sa 09:00-17:30\",\"phone\"=>\"+44 1484 533727\",\"shop\"=>\"photo\",\"website\"=>\"http:\/\/www.maxspielmann.co.uk\/storeLocatorDetails.aspx?storeId=631\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7831699, 53.6443475 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1535922123", "name": "Max Spielmann", "other_tags": "\"addr:city\"=>\"Huddersfield\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"77\",\"addr:postcode\"=>\"HD1 2TW\",\"addr:street\"=>\"New Street\",\"opening_hours\"=>\"Mo-Sa 09:00-17:30\",\"phone\"=>\"+44 1484 533727\",\"shop\"=>\"photo\",\"website\"=>\"http:\/\/www.maxspielmann.co.uk\/storeLocatorDetails.aspx?storeId=631\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7831699, 53.6443475 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1617873080", "name": "Photoshoot Love Photography", "other_tags": "\"shop\"=>\"photo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.674251, 53.7066283 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2128107687", "name": "Dragon Photos", "other_tags": "\"shop\"=>\"photo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5401137, 53.7971811 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2756721108", "name": "The Photo Shop", "other_tags": "\"shop\"=>\"photo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5806838, 53.8202446 ] } },
