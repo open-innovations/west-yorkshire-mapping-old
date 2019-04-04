@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "333427391", "name": "Art Parade", "other_tags": "\"addr:city\"=>\"Shipley\",\"addr:village\"=>\"Saltaire\",\"shop\"=>\"art\"" }, "geometry": { "type": "Point", "coordinates": [ -1.789812, 53.8381923 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1414464722", "name": "Todmorden Fine Art", "other_tags": "\"shop\"=>\"art\",\"website\"=>\"http:\/\/www.todmordenfineart.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0980461, 53.7128965 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1668854931", "name": "Enscape", "other_tags": "\"shop\"=>\"art\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6923122, 53.6741268 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2134260281", "name": "Leeds Gallery", "other_tags": "\"shop\"=>\"art\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5338893, 53.7966885 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2138764881", "name": "Colours May Vary", "other_tags": "\"shop\"=>\"art\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Duke Street\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5339814, 53.796881 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2353725353", "name": "Studio Seven", "other_tags": "\"shop\"=>\"art\",\"website\"=>\"studiosevenart.co.uk\",\"addr:city\"=>\"Otley\",\"is_in:town\"=>\"Otley\",\"description\"=>\"Art dealer\",\"addr:postcode\"=>\"LS21 3AE\",\"addr:housenumber\"=>\"7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.693319, 53.9048661 ] } },
