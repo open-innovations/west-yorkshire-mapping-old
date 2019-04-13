@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.776239, "longitude": -1.576967 }, "osm_way_id": "672179992", "name": "Planet Ice", "leisure": "ice_rink", "other_tags": "\"construction\"=>\"yes\",\"seasonal\"=>\"no\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5773719, 53.7766282 ], [ -1.5766348, 53.7766513 ], [ -1.5765626, 53.7758498 ], [ -1.5772998, 53.7758267 ], [ -1.5773719, 53.7766282 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.776109, "longitude": -1.577077 }, "osm_way_id": "672179992", "name": "Planet Ice", "building": "yes", "leisure": "ice_rink", "other_tags": "\"construction\"=>\"yes\",\"seasonal\"=>\"no\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5775068, 53.776489 ], [ -1.5767718, 53.7765289 ], [ -1.5766471, 53.7757297 ], [ -1.5773822, 53.7756897 ], [ -1.5775068, 53.776489 ] ] ] } }
 ]
 }
