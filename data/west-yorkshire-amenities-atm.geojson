@@ -164,7 +164,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "1877270886", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax Building Society\"" }, "geometry": { "type": "Point", "coordinates": [ -1.694482, 53.9056907 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1898248320", "amenity": "atm", "other_tags": "\"operator\"=>\"Coop Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8095172, 53.6377409 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1919062502", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5869672, 53.8072356 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1925318349", "amenity": "atm", "other_tags": "\"operator\"=>\"HSBC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3462465, 53.9048527 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1938631973", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6331322, 53.846688 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1965963839", "amenity": "atm", "other_tags": "\"operator\"=>\"HSBC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5342945, 53.8126686 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1980759399", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7414933, 53.6781522 ] } },
