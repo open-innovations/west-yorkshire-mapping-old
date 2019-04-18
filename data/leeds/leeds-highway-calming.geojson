@@ -887,6 +887,7 @@
 { "type": "Feature", "properties": { "osm_id": "6373149133" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.38070, 53.79462 ] } },
 { "type": "Feature", "properties": { "osm_id": "6373149134" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.37881, 53.79398 ] } },
 { "type": "Feature", "properties": { "osm_id": "6373149136" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.37847, 53.79325 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6401063433" , "traffic_calming":"island" }, "geometry": { "type": "Point", "coordinates": [ -1.52383, 53.79007 ] } }
+{ "type": "Feature", "properties": { "osm_id": "6401063433" , "traffic_calming":"island" }, "geometry": { "type": "Point", "coordinates": [ -1.52383, 53.79007 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6411505502" , "traffic_calming":"choker" }, "geometry": { "type": "Point", "coordinates": [ -1.48716, 53.80425 ] } }
 ]
 }

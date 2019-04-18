@@ -256,6 +256,12 @@
 	{ "type": "Feature", "properties": { "osm_id": "6370055285", "other_tags": "\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8383351, 53.8579419 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6370055286", "other_tags": "\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8380025, 53.8574151 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6372180868", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8400153, 53.8572601 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6382059321", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8370361, 53.8565987 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6382059321", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8370361, 53.8565987 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6412641625", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8585674, 53.8712232 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6412641626", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8590296, 53.8714121 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6412641627", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8592145, 53.8723531 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6412641628", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8601942, 53.8719353 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6412641629", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8604099, 53.8719535 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6412641630", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8606687, 53.8719971 ] } }
 ]
 }
