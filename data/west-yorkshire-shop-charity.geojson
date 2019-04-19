@@ -32,7 +32,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2480469828", "name": "Sue Ryder", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.56349, 53.8293475 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2480469833", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5642208, 53.8286241 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2611488248", "name": "Kirkwood", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8089629, 53.6514634 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2611488252", "name": "Samaritans", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8090864, 53.6514787 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2611488252", "name": "Samaritans", "other_tags": "\"opening_hours\"=>\"Mo-Sa 10:00-16:00\",\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8090864, 53.6514787 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3168210172", "name": "Kirkwood Hospice", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6761744, 53.7082291 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3718207674", "name": "Charity Shop", "other_tags": "\"addr:city\"=>\"Yeadon\",\"addr:street\"=>\"High Street\",\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.684724, 53.8661948 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3755643976", "name": "British Heart Foundation", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.694108, 53.9053308 ] } },
