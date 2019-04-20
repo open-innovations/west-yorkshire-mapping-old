@@ -300,6 +300,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6393478352", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8382171, 53.8520338 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6393478371", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8380535, 53.8548792 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6393478373", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8382573, 53.8563497 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6393478377", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8395609, 53.8576809 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6393478377", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8395609, 53.8576809 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6415978049", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8320802, 53.8542733 ] } }
 ]
 }
