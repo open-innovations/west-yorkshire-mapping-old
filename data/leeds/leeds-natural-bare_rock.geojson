@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.894888, "longitude": -1.687403 }, "osm_way_id": "685258623", "name": "Pelstone Crag", "natural": "bare_rock" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6877021, 53.8949042 ], [ -1.687501, 53.8949548 ], [ -1.6872891, 53.8949595 ], [ -1.687104, 53.8949058 ], [ -1.6872971, 53.8948394 ], [ -1.6874661, 53.8948173 ], [ -1.6876592, 53.8948473 ], [ -1.6877021, 53.8949042 ] ] ] } }
+]
+}

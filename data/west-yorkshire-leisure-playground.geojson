@@ -5,7 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "252630540", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6432176, 53.6919006 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "252928784", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6346153, 53.6924276 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "254983196", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6345663, 53.6918562 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "300581099", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7321238, 53.8012143 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "300581099", "name": "Beech Grove Park Playarea", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.732168, 53.8012206 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "302684128", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6099102, 53.8094492 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "322861126", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7818044, 53.5767224 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "349290114", "name": "St Ives Estate playground", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8578353, 53.8469752 ] } },
