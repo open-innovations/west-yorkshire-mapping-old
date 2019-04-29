@@ -10,7 +10,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "734189306", "name": "Todmorden", "amenity": "fire_station", "other_tags": "\"operator\"=>\"WYFRS\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0952964, 53.7162483 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "815202473", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.7620242, 53.7621725 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "846021640", "name": "Ilkley Fire Station", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.8126636, 53.9257366 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1164212734", "name": "The Old Gipton Fire Station (TOFS)", "amenity": "fire_station", "other_tags": "\"operator\"=>\"WYFR, CLOSED\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4938115, 53.8025178 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1200587184", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.9844406, 53.7317951 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1217287590", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.2570182, 53.7037358 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1308042042", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.3177637, 53.6935789 ] } },

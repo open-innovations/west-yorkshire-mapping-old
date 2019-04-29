@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2353394453", "name": "Agars", "other_tags": "\"shop\"=>\"fishing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6884213, 53.9062645 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2353394453", "name": "Agars", "other_tags": "\"shop\"=>\"fishing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6884213, 53.9062645 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.781115, "longitude": -1.364484 }, "osm_way_id": "686355192", "name": "Koi and pond supplies", "building": "yes", "shop": "fishing" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.36467, 53.7811592 ], [ -1.3642883, 53.7811424 ], [ -1.3642975, 53.7810698 ], [ -1.3646792, 53.7810866 ], [ -1.36467, 53.7811592 ] ] ] } }
 ]
 }
