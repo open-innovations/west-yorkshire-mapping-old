@@ -108,7 +108,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "588154395", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2548726, 53.708496 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "588154396", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.254882, 53.708496 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "595481584", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7537208, 53.803861 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "638692231", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5478235, 53.794946 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "638692231", "amenity": "atm", "other_tags": "\"operator\"=>\"NatWest\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5478235, 53.794946 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "638692232", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5477535, 53.7949764 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "638692233", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5477908, 53.7949598 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747542388", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5468778, 53.7977974 ] } },
