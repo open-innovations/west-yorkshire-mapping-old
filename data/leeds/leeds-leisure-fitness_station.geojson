@@ -8,6 +8,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5476741316", "other_tags": "\"leisure\"=>\"fitness_station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4435966, 53.8084585 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5476741317", "other_tags": "\"leisure\"=>\"fitness_station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.443979, 53.8084975 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5476741318", "other_tags": "\"leisure\"=>\"fitness_station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4441579, 53.8085176 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5476741319", "other_tags": "\"leisure\"=>\"fitness_station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4444005, 53.8084056 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5476741319", "other_tags": "\"leisure\"=>\"fitness_station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4444005, 53.8084056 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6439739756", "other_tags": "\"fitness_station\"=>\"horizontal_ladder\",\"leisure\"=>\"fitness_station\",\"sport\"=>\"fitness\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4412872, 53.8235747 ] } }
 ]
 }
