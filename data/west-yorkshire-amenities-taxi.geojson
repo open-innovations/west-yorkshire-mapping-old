@@ -23,6 +23,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1718405478", "name": "Bridge Taxis", "amenity": "taxi", "other_tags": "\"phone\"=>\"+44 1484 532222\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7955494, 53.6418462 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1878115980", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.7661502, 53.6697042 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2146804712", "name": "Street Cars", "amenity": "taxi", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"66a\",\"addr:postcode\"=>\"LS1 6NU\",\"addr:street\"=>\"New Briggate\",\"level\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5405022, 53.8005821 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2222775016", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.6596311, 53.8693026 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2226280666", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.6596045, 53.8699516 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3175716268", "name": "Oakwell & Rex Taxis", "amenity": "taxi", "other_tags": "\"taxi\"=>\"office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6780226, 53.7073499 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3424773409", "amenity": "taxi" }, "geometry": { "type": "Point", "coordinates": [ -1.7823994, 53.6471144 ] } },
