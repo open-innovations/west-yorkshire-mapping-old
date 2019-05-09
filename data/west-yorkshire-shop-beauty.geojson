@@ -100,6 +100,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6052531607", "name": "Glamour Forever", "other_tags": "\"level\"=>\"0\",\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5735776, 53.7599475 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6052536860", "name": "White Rose Nail Studio", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5746123, 53.7603303 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6294180917", "name": "Pink Nails", "other_tags": "\"beauty\"=>\"nails\",\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4519895, 53.8069865 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6310537749", "name": "Blush Beauty", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8513867, 53.5926704 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6312378104", "name": "James Ford Nail and Beauty", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8500429, 53.5921816 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6312388289", "name": "Heavenly Essence", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8501636, 53.5919198 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6312392253", "name": "Blush Beauty", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8506531, 53.5920845 ] } },
