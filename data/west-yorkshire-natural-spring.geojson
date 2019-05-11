@@ -9,6 +9,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "411739917", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.902363, 53.9219424 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533903419", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6897769, 53.9201973 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "534250158", "name": "Langley Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5504518, 53.883745 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "664035839", "name": "Dades Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.673525, 53.8945696 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "664038801", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6632146, 53.8996207 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "664143527", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6900624, 53.8967874 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "664431461", "name": "Boots Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.71666, 53.9174695 ] } },
