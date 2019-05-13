@@ -21,6 +21,13 @@
 	{ "type": "Feature", "properties": { "osm_id": "5998770773", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4232743, 53.8019583 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5998770774", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4225528, 53.8017624 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6191158585", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4438037, 53.8373369 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6308617486", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3543969, 53.8232516 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6308617486", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3543969, 53.8232516 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467005569", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4464202, 53.8451276 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467005625", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4516142, 53.8481283 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467005631", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4342655, 53.850788 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467130638", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3974083, 53.8345077 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467167076", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.41474, 53.8426647 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467167077", "name": "Copple Syke Spring", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3994207, 53.8409543 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467167078", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3816074, 53.8579358 ] } }
 ]
 }
