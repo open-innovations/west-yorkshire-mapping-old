@@ -26,7 +26,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "747723191", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.7386113, 53.8893942 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "768678147", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.2666329, 53.6974113 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "769077461", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.2375284, 53.6264221 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "843387782", "name": "Hartshead Moor Services", "amenity": "toilets", "other_tags": "\"fee\"=>\"no\",\"tourism\"=>\"information\",\"wheelchair\"=>\"yes\",\"description\"=>\"Highway information\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7441279, 53.7135706 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "843387782", "name": "Hartshead Moor Services", "amenity": "toilets", "other_tags": "\"description\"=>\"Highway information\",\"fee\"=>\"no\",\"tourism\"=>\"information\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7440984, 53.7135436 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1127109435", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.6279616, 53.6906029 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1154173071", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -2.0084381, 53.7376585 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1235927405", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.8617688, 53.7224957 ] } },

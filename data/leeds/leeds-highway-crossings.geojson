@@ -1724,6 +1724,7 @@
 { "type": "Feature", "properties": { "osm_id": "6453414543" }, "geometry": { "type": "Point", "coordinates": [ -1.42849, 53.79935 ] } },
 { "type": "Feature", "properties": { "osm_id": "6467005746", "name": "Stanks Bridge" }, "geometry": { "type": "Point", "coordinates": [ -1.43594, 53.81727 ] } },
 { "type": "Feature", "properties": { "osm_id": "6467055314", "Tactile paving":"yes", "Kerb":"flush" }, "geometry": { "type": "Point", "coordinates": [ -1.45851, 53.81984 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6467055316", "Tactile paving":"no", "Kerb":"raised" }, "geometry": { "type": "Point", "coordinates": [ -1.45841, 53.81968 ] } }
+{ "type": "Feature", "properties": { "osm_id": "6467055316", "Tactile paving":"no", "Kerb":"raised" }, "geometry": { "type": "Point", "coordinates": [ -1.45841, 53.81968 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6473748268" }, "geometry": { "type": "Point", "coordinates": [ -1.46438, 53.81278 ] } }
 ]
 }

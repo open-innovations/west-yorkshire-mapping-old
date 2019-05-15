@@ -114,7 +114,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1414428065", "amenity": "post_box" }, "geometry": { "type": "Point", "coordinates": [ -2.0992492, 53.7135304 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1414428717", "amenity": "post_box" }, "geometry": { "type": "Point", "coordinates": [ -2.102034, 53.710826 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1478085067", "amenity": "post_box", "ref": "HX4 66" }, "geometry": { "type": "Point", "coordinates": [ -1.9179529, 53.661265 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1484086093", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\",\"collection_times\"=>\"Mo-Fr 16:45; Sa 11:15\"" }, "geometry": { "type": "Point", "coordinates": [ -1.744229, 53.713924 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1484086093", "amenity": "post_box", "ref": "HD6 285D", "other_tags": "\"collection_times\"=>\"Mo-Fr 09:00; Sa 07:00\",\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"pillar\",\"royal_cypher\"=>\"EIIR\"" }, "geometry": { "type": "Point", "coordinates": [ -1.744227, 53.7137599 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1560710032", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8763236, 53.7127404 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1571998383", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8266523, 53.6721531 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1634539825", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8797405, 53.7128963 ] } },
@@ -149,6 +149,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5322531846", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7814767, 53.701835 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5485090672", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9729844, 53.6685316 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5513335828", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7764009, 53.7234559 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6047656161", "amenity": "post_box", "other_tags": "\"post_box:design\"=>\"ludlow\",\"post_box:type\"=>\"wall\",\"royal_cypher\"=>\"EIIR\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8111319, 53.7257608 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6047656161", "amenity": "post_box", "other_tags": "\"post_box:design\"=>\"ludlow\",\"post_box:type\"=>\"wall\",\"royal_cypher\"=>\"EIIR\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8111319, 53.7257608 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6471282888", "amenity": "post_box" }, "geometry": { "type": "Point", "coordinates": [ -1.7462573, 53.7129347 ] } }
 ]
 }

@@ -1193,7 +1193,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1476507764", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8242869, 53.654065 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1478085067", "amenity": "post_box", "ref": "HX4 66" }, "geometry": { "type": "Point", "coordinates": [ -1.9179529, 53.661265 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1478085083", "amenity": "post_box", "ref": "HX4 255" }, "geometry": { "type": "Point", "coordinates": [ -1.9333488, 53.6439724 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1484086093", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\",\"collection_times\"=>\"Mo-Fr 16:45; Sa 11:15\"" }, "geometry": { "type": "Point", "coordinates": [ -1.744229, 53.713924 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1484086093", "amenity": "post_box", "ref": "HD6 285D", "other_tags": "\"collection_times\"=>\"Mo-Fr 09:00; Sa 07:00\",\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"pillar\",\"royal_cypher\"=>\"EIIR\"" }, "geometry": { "type": "Point", "coordinates": [ -1.744227, 53.7137599 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1519797919", "amenity": "post_box", "ref": "*", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7948412, 53.6462532 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1520493699", "amenity": "post_box", "ref": "LS19 526", "other_tags": "\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.691152, 53.8569499 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1534826981", "amenity": "post_box", "ref": "HD1 100", "other_tags": "\"operator\"=>\"Royal Mail\",\"last_collection\"=>\"5.30pm, Sat 12 noon\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8107955, 53.6431581 ] } },
@@ -2314,6 +2314,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "6434214643", "amenity": "post_box", "ref": "HD9 86", "other_tags": "\"collection_times\"=>\"Mo-Fr 17:00; Sa 10:00\",\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8505982, 53.6039462 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6434626837", "amenity": "post_box", "other_tags": "\"royal_cypher\"=>\"GVIR\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7726465, 53.8258821 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6467702370", "amenity": "post_box", "ref": "BD9 135", "other_tags": "\"collection_times\"=>\"Mo-Fr 16:45; Sa 11:30; Su off\",\"drive_through\"=>\"no\",\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"pillar\",\"royal_cypher\"=>\"EVIIR\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7753976, 53.8209634 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6469769509", "amenity": "post_box", "ref": "HD2 150", "other_tags": "\"description\"=>\"2 Oakfield Road\",\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7997952, 53.659607 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6469769509", "amenity": "post_box", "ref": "HD2 150", "other_tags": "\"description\"=>\"2 Oakfield Road\",\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7997952, 53.659607 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6471282888", "amenity": "post_box" }, "geometry": { "type": "Point", "coordinates": [ -1.7462573, 53.7129347 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6473765798", "amenity": "post_box", "other_tags": "\"operator\"=>\"Royal Mail\",\"royal_cypher\"=>\"EIIR\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7670589, 53.8409936 ] } }
 ]
 }

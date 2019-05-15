@@ -930,6 +930,8 @@
 { "type": "Feature", "properties": { "osm_id": "6448397840" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.48338, 53.75455 ] } },
 { "type": "Feature", "properties": { "osm_id": "6466268718" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.49054, 53.74013 ] } },
 { "type": "Feature", "properties": { "osm_id": "6466268720" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.49111, 53.73953 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6468734357" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.43837, 53.82080 ] } }
+{ "type": "Feature", "properties": { "osm_id": "6468734357" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.43837, 53.82080 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6473748270" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.46355, 53.81305 ] } }
+
 ]
 }
