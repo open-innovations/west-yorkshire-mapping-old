@@ -10,7 +10,7 @@
 { "type": "Feature", "properties": { "osm_id": "643931", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.54119, 53.79491 ] } },
 { "type": "Feature", "properties": { "osm_id": "643950", "Tactile paving":"yes", "Kerb":"lowered", "Type":"toucan" }, "geometry": { "type": "Point", "coordinates": [ -1.53441, 53.79963 ] } },
 { "type": "Feature", "properties": { "osm_id": "643951", "Tactile paving":"yes", "Kerb":"lowered", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.53461, 53.79941 ] } },
-{ "type": "Feature", "properties": { "osm_id": "3461624", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.44868, 53.75128 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3461624", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.44864, 53.75125 ] } },
 { "type": "Feature", "properties": { "osm_id": "9593181", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.53958, 53.72075 ] } },
 { "type": "Feature", "properties": { "osm_id": "9594030", "Tactile paving":"yes", "Kerb":"flush", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.57514, 53.73568 ] } },
 { "type": "Feature", "properties": { "osm_id": "9782026", "Tactile paving":"yes", "Kerb":"flush", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.57529, 53.76588 ] } },
@@ -903,6 +903,7 @@
 { "type": "Feature", "properties": { "osm_id": "2046167960", "Tactile paving":"yes", "Kerb":"flush", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.66138, 53.75669 ] } },
 { "type": "Feature", "properties": { "osm_id": "2046167969", "Tactile paving":"yes", "Kerb":"flush", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.66200, 53.75683 ] } },
 { "type": "Feature", "properties": { "osm_id": "2053377768", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.55049, 53.81266 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2056007104", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.47444, 53.81662 ] } },
 { "type": "Feature", "properties": { "osm_id": "2057933289" }, "geometry": { "type": "Point", "coordinates": [ -1.49488, 53.81376 ] } },
 { "type": "Feature", "properties": { "osm_id": "2057948179", "Type":"island" }, "geometry": { "type": "Point", "coordinates": [ -1.48812, 53.80692 ] } },
 { "type": "Feature", "properties": { "osm_id": "2066265674", "Tactile paving":"yes", "Kerb":"flush", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.62327, 53.74464 ] } },
@@ -1056,6 +1057,8 @@
 { "type": "Feature", "properties": { "osm_id": "2443291798" }, "geometry": { "type": "Point", "coordinates": [ -1.55456, 53.83710 ] } },
 { "type": "Feature", "properties": { "osm_id": "2443377462" }, "geometry": { "type": "Point", "coordinates": [ -1.58178, 53.81935 ] } },
 { "type": "Feature", "properties": { "osm_id": "2443593405", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.48502, 53.82467 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2443593409", "Tactile paving":"yes", "Kerb":"flush" }, "geometry": { "type": "Point", "coordinates": [ -1.47980, 53.82000 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2443593417", "Tactile paving":"yes", "Kerb":"flush" }, "geometry": { "type": "Point", "coordinates": [ -1.48006, 53.82060 ] } },
 { "type": "Feature", "properties": { "osm_id": "2443593452", "Tactile paving":"yes", "Kerb":"lowered" }, "geometry": { "type": "Point", "coordinates": [ -1.48138, 53.81278 ] } },
 { "type": "Feature", "properties": { "osm_id": "2443599493", "Tactile paving":"yes", "Kerb":"flush", "Type":"toucan" }, "geometry": { "type": "Point", "coordinates": [ -1.47794, 53.79851 ] } },
 { "type": "Feature", "properties": { "osm_id": "2443599499", "Tactile paving":"yes", "Kerb":"flush", "Type":"toucan" }, "geometry": { "type": "Point", "coordinates": [ -1.47812, 53.79841 ] } },
@@ -1725,6 +1728,8 @@
 { "type": "Feature", "properties": { "osm_id": "6467005746", "name": "Stanks Bridge" }, "geometry": { "type": "Point", "coordinates": [ -1.43594, 53.81727 ] } },
 { "type": "Feature", "properties": { "osm_id": "6467055314", "Tactile paving":"yes", "Kerb":"flush" }, "geometry": { "type": "Point", "coordinates": [ -1.45851, 53.81984 ] } },
 { "type": "Feature", "properties": { "osm_id": "6467055316", "Tactile paving":"no", "Kerb":"raised" }, "geometry": { "type": "Point", "coordinates": [ -1.45841, 53.81968 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6473748268" }, "geometry": { "type": "Point", "coordinates": [ -1.46438, 53.81278 ] } }
+{ "type": "Feature", "properties": { "osm_id": "6473748268" }, "geometry": { "type": "Point", "coordinates": [ -1.46438, 53.81278 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6475666230", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.44171, 53.75668 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6475727446" }, "geometry": { "type": "Point", "coordinates": [ -1.44855, 53.75115 ] } }
 ]
 }
