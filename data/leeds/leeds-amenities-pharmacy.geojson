@@ -17,7 +17,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "305415048", "name": "Well Pharmacy", "amenity": "pharmacy", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"2\",\"addr:postcode\"=>\"LS27 9BQ\",\"addr:street\"=>\"Queensway\",\"addr:suburb\"=>\"Morley\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6058111, 53.7450828 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "306328548", "name": "Lloyds Pharmacy", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.6003064, 53.8008554 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "318022979", "name": "Lloyds Pharmacy", "amenity": "pharmacy", "other_tags": "\"dispensing\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5778756, 53.8217704 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "319429910", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.5685095, 53.8126337 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "319429910", "name": "Brudenell Pharmacy", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.5685095, 53.8126337 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "327407331", "name": "Asda", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.6711378, 53.803547 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330089322", "name": "Superdrug", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.5899614, 53.7973191 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "331637217", "name": "Boots", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.5889098, 53.7971733 ] } },

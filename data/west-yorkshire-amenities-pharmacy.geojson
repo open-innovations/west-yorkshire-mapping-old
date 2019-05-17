@@ -28,7 +28,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "311529838", "name": "Rowlands Pharmacy", "amenity": "pharmacy", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:postcode\"=>\"BD10 8EW\",\"addr:street\"=>\"Five Lane Ends\",\"dispensing\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7318917, 53.8250714 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314446214", "name": "Lloyds Pharmacy", "amenity": "pharmacy", "other_tags": "\"shop\"=>\"chemist\",\"dispensing\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.784972, 53.6447709 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "318022979", "name": "Lloyds Pharmacy", "amenity": "pharmacy", "other_tags": "\"dispensing\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5778756, 53.8217704 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "319429910", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.5685095, 53.8126337 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "319429910", "name": "Brudenell Pharmacy", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.5685095, 53.8126337 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "327407331", "name": "Asda", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.6711378, 53.803547 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330089322", "name": "Superdrug", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.5899614, 53.7973191 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "331637217", "name": "Boots", "amenity": "pharmacy" }, "geometry": { "type": "Point", "coordinates": [ -1.5889098, 53.7971733 ] } },
