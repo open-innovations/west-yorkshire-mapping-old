@@ -4,7 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "411733763", "name": "Ashlar Chair", "is_in": "Romalds Moor", "other_tags": "\"natural\"=>\"rock\",\"alt_name\"=>\"Druid's Chair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.81708, 53.8991849 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1103305292", "name": "Pancake Stone", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.797421, 53.9120442 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1103305737", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.802472, 53.9171548 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1103305737", "name": "Calf", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.802472, 53.9171548 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2295207839", "name": "Orchan Rocks", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1188191, 53.7322452 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2593945452", "name": "Adel Crags", "other_tags": "\"sport\"=>\"climbing\",\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5732492, 53.8575349 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2955107448", "name": "Rankling Stone", "other_tags": "\"natural\"=>\"rock\",\"source:name\"=>\"http:\/\/maps.nls.uk\/view\/100947032\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6386727, 53.7931453 ] } },

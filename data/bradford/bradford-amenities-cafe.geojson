@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "28138852", "name": "Cow & Calf Refreshments", "amenity": "cafe", "other_tags": "\"description\"=>\"Tea, coffee, crisps etc only\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8001808, 53.9165889 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "28138852", "name": "Cow & Calf Hotel", "amenity": "cafe", "other_tags": "\"description\"=>\"Tea, coffee, crisps etc only\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8001808, 53.9165889 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "28151847", "name": "Palm Court Tea Rooms", "amenity": "cafe" }, "geometry": { "type": "Point", "coordinates": [ -1.8254167, 53.9260054 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "28164051", "name": "The James Clarke Foley Centre", "amenity": "cafe", "other_tags": "\"addr:city\"=>\"Ilkley\",\"addr:postcode\"=>\"LS29 9DZ\",\"addr:street\"=>\"Cunliffe Road\",\"description\"=>\"Centre for the Over 50s\",\"fhrs:id\"=>\"326762\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8265221, 53.9252969 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "28164099", "name": "The Wells Cafe\/Bistro", "amenity": "cafe", "other_tags": "\"addr:city\"=>\"Ilkley\",\"addr:housenumber\"=>\"7\",\"addr:postcode\"=>\"LS29 9JB\",\"addr:street\"=>\"Wells Road\",\"fhrs:id\"=>\"327282\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8225512, 53.9240938 ] } },

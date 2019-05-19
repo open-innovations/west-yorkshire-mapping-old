@@ -4,7 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "411733763", "name": "Ashlar Chair", "is_in": "Romalds Moor", "other_tags": "\"natural\"=>\"rock\",\"alt_name\"=>\"Druid's Chair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.81708, 53.8991849 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1103305292", "name": "Pancake Stone", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.797421, 53.9120442 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1103305737", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.802472, 53.9171548 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1103305737", "name": "Calf", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.802472, 53.9171548 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3940962606", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8031816, 53.9128122 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6126218950", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8954029, 53.8950493 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.824807, "longitude": -1.970050 }, "osm_way_id": "494912632", "natural": "rock" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9701563, 53.8248964 ], [ -1.9699135, 53.8248608 ], [ -1.9698465, 53.8247777 ], [ -1.9701737, 53.8247183 ], [ -1.9702542, 53.8248687 ], [ -1.9701563, 53.8248964 ] ] ] } },
