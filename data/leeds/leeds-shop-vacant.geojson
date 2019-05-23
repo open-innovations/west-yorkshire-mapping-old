@@ -17,7 +17,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "2125610511", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5378896, 53.7965849 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2125610522", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5380739, 53.7965906 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2125610579", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5447261, 53.7959029 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2128107697", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"37\",\"addr:postcode\"=>\"LS1 6PU\",\"addr:street\"=>\"The Headrow\",\"old_name\"=>\"Greens of Leeds\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5415754, 53.7989274 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2128107744", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5392075, 53.798676 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2134260269", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5397752, 53.7967641 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2134260274", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5398731, 53.7967957 ] } },
