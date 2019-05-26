@@ -15,7 +15,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5387997274", "other_tags": "\"leisure\"=>\"pitch\",\"sport\"=>\"table_tennis\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5448411, 53.7544623 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5387997275", "other_tags": "\"leisure\"=>\"pitch\",\"sport\"=>\"table_tennis\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5449115, 53.7542062 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5404311059", "other_tags": "\"leisure\"=>\"pitch\",\"leisure_1\"=>\"sports\",\"lit\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4729184, 53.8141076 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5404311060", "other_tags": "\"leisure\"=>\"pitch\",\"leisure_1\"=>\"sports\",\"lit\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4737882, 53.8139208 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5404311060", "other_tags": "\"leisure\"=>\"pitch\",\"lit\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4737882, 53.8139208 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6307064268", "other_tags": "\"boules\"=>\"petanque\",\"leisure\"=>\"pitch\",\"sport\"=>\"boules\",\"surface\"=>\"fine_gravel\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5480631, 53.7979404 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6308376361", "other_tags": "\"leisure\"=>\"pitch\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4835628, 53.7958823 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6314345266", "other_tags": "\"leisure\"=>\"pitch\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4792909, 53.7974825 ] } },
