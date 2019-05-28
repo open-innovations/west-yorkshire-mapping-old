@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "27476330", "name": "Wetherby", "amenity": "bus_station", "other_tags": "\"wikidata\"=>\"Q7990090\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3866108, 53.927223 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "244322427", "name": "Infirmary Street", "amenity": "bus_station" }, "geometry": { "type": "Point", "coordinates": [ -1.5487666, 53.7975594 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "244322427", "name": "Infirmary Street", "amenity": "bus_station", "other_tags": "\"bus\"=>\"yes\",\"public_transport\"=>\"station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5487666, 53.7975594 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "244322524", "name": "Leeds Station Interchange", "amenity": "bus_station", "other_tags": "\"addr:street\"=>\"New Station Street\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5470966, 53.7953115 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "296022252", "name": "Bramley Bus Point", "amenity": "bus_station" }, "geometry": { "type": "Point", "coordinates": [ -1.6266548, 53.8108969 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2408717773", "name": "Kirkgate Coach Stop (Megabus)", "amenity": "bus_station" }, "geometry": { "type": "Point", "coordinates": [ -1.5372036, 53.7955942 ] } },
