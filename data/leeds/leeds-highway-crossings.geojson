@@ -1748,6 +1748,5 @@
 { "type": "Feature", "properties": { "osm_id": "6504223238" }, "geometry": { "type": "Point", "coordinates": [ -1.42339, 53.79850 ] } },
 { "type": "Feature", "properties": { "osm_id": "6504223239" }, "geometry": { "type": "Point", "coordinates": [ -1.42304, 53.80143 ] } },
 { "type": "Feature", "properties": { "osm_id": "6504658096" }, "geometry": { "type": "Point", "coordinates": [ -1.46088, 53.81062 ] } }
-
 ]
 }
