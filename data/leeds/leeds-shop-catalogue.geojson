@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2098303566", "name": "Argos", "other_tags": "\"addr:housenumber\"=>\"22-26\",\"addr:street\"=>\"The Headrow\",\"shop\"=>\"catalogue\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5426623, 53.7994011 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2098303566", "name": "Argos", "other_tags": "\"addr:housenumber\"=>\"22-26\",\"addr:street\"=>\"The Headrow\",\"brand\"=>\"Argos\",\"brand:wikidata\"=>\"Q4789707\",\"brand:wikipedia\"=>\"en:Argos (retailer)\",\"shop\"=>\"catalogue\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5426623, 53.7994011 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.789543, "longitude": -1.539509 }, "osm_way_id": "151204633", "name": "Argos", "building": "yes", "shop": "catalogue" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5391034, 53.7897255 ], [ -1.5391058, 53.7893587 ], [ -1.5393118, 53.7893601 ], [ -1.5399137, 53.7893596 ], [ -1.5399016, 53.7897269 ], [ -1.5391034, 53.7897255 ] ] ] } }
 ]
 }
