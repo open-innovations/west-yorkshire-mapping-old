@@ -48,7 +48,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "505364603", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.4282358, 53.8380362 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "755792332", "name": "Red Bus Lay-By", "amenity": "parking", "other_tags": "\"fee\"=>\"no\",\"parking\"=>\"surface\"" }, "geometry": { "type": "Point", "coordinates": [ -1.408457, 53.8475663 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "939233622", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.455696, 53.8219516 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "940393853", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.4633088, 53.8336238 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "940393854", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.4632015, 53.8369572 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "941373724", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.4430687, 53.8076355 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "964779170", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.4750219, 53.7983837 ] } },
