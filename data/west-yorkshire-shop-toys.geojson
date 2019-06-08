@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "317087768", "name": "4front", "other_tags": "\"shop\"=>\"toys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5320665, 53.7909298 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "687080975", "name": "Adult Superstore", "other_tags": "\"shop\"=>\"toys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7233065, 53.7728608 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1041670548", "name": "Early Learning Centre", "other_tags": "\"shop\"=>\"toys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7827563, 53.6460933 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1332261525", "name": "Toymasters", "other_tags": "\"addr:city\"=>\"Otley\",\"addr:housenumber\"=>\"23A\",\"addr:postcode\"=>\"LS21 3AT\",\"addr:street\"=>\"Westgate\",\"shop\"=>\"toys\",\"telephone\"=>\"01943 462065\",\"website\"=>\"https:\/\/www.toymaster.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6967035, 53.9049176 ] } },
