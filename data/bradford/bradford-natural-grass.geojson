@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.765999, "longitude": -1.756415 }, "osm_way_id": "695871229", "natural": "grass" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7570882, 53.7663093 ], [ -1.7568603, 53.766276 ], [ -1.7566103, 53.7660757 ], [ -1.755742, 53.7657339 ], [ -1.7558171, 53.7656911 ], [ -1.7558815, 53.7656879 ], [ -1.7569327, 53.7661349 ], [ -1.7570507, 53.7662205 ], [ -1.7570882, 53.7663093 ] ] ] } }
+]
+}
