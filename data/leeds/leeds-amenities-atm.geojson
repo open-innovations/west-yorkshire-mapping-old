@@ -17,7 +17,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "247432049", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5763181, 53.8201132 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "247432050", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5765871, 53.8203297 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "247432051", "amenity": "atm", "other_tags": "\"operator\"=>\"TSB\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5766946, 53.8204141 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "247432057", "amenity": "atm", "other_tags": "\"operator\"=>\"Barclays Bank PLC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5774123, 53.8210896 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "249713770", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5442192, 53.7973799 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "250756716", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5548334, 53.8313101 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "289815019", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6719582, 53.8036345 ] } },
