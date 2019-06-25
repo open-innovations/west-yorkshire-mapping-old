@@ -278,7 +278,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5451345358", "amenity": "atm", "other_tags": "\"brand\"=>\"Lloyds\",\"operator\"=>\"Lloyds\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8616274, 53.7221057 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5452280989", "amenity": "atm", "other_tags": "\"brand\"=>\"Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8614012, 53.7215881 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5452280990", "amenity": "atm", "other_tags": "\"brand\"=>\"Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8614131, 53.7216263 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5452280993", "amenity": "atm", "other_tags": "\"atm\"=>\"yes\",\"brand\"=>\"Lloyds\",\"operator\"=>\"Lloyds\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8616642, 53.7220967 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5452280993", "amenity": "atm", "other_tags": "\"brand\"=>\"Lloyds\",\"operator\"=>\"Lloyds\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8616642, 53.7220967 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5475771248", "amenity": "atm", "other_tags": "\"operator\"=>\"Post Office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7128211, 53.87419 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5475771249", "amenity": "atm", "other_tags": "\"operator\"=>\"Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7128077, 53.8742612 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5523013159", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4991545, 53.6781546 ] } },

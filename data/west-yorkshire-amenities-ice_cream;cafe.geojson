@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "5467785884", "name": "Knickerbocker Shakes", "amenity": "ice_cream;cafe", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"484\",\"addr:postcode\"=>\"LS8 2HU\",\"addr:street\"=>\"Roundhay Road\",\"fhrs:id\"=>\"850321\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5053496, 53.826945 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5467785884", "name": "Knickerbocker Shakes", "amenity": "ice_cream;cafe", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"484\",\"addr:postcode\"=>\"LS8 2HU\",\"addr:street\"=>\"Roundhay Road\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5053496, 53.826945 ] } }
 ]
 }
