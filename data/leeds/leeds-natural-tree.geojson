@@ -1205,6 +1205,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "6534833225", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3690212, 53.7924715 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6549389643", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4449606, 53.8121038 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6549389656", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4449291, 53.8124222 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6577741021", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4438717, 53.8113903 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6577741025", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4437846, 53.8116638 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "246349483", "z_order": 0, "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4289764, 53.7940192 ], [ -1.428912, 53.794043 ], [ -1.4288259, 53.7940628 ], [ -1.4287618, 53.7940985 ], [ -1.4286277, 53.794195 ], [ -1.4279384, 53.7941792 ], [ -1.4279553, 53.7930566 ] ] } }
 ]
 }
