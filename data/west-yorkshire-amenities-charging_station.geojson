@@ -16,6 +16,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6289681475", "name": "Pod Point", "amenity": "charging_station", "other_tags": "\"addr:postcode\"=>\"LS25 2JY\",\"capacity\"=>\"3\",\"fee\"=>\"no\",\"location\"=>\"Lidl Carpark\",\"operator\"=>\"Pod Point\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3799421, 53.7975832 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6401269738", "name": "Chargemaster Charging Station", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"6\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5768224, 53.7767123 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6401269739", "name": "Chargemaster Charging Station", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5762932, 53.7771748 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6515469485", "name": "The Springs", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4232625, 53.7998976 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6515469485", "name": "The Springs", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4232625, 53.7998976 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6593535931", "amenity": "charging_station", "ref": "Bryn-Axel", "other_tags": "\"capacity\"=>\"2\",\"operator\"=>\"Pod Point\",\"parking:fee\"=>\"no\",\"socket:type2\"=>\"2\",\"socket:type2:output\"=>\"7000\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6037786, 53.8153883 ] } }
 ]
 }
