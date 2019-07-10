@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "6600874642", "name": "Framing & Memorabilia", "other_tags": "\"addr:housenumber\"=>\"61\",\"addr:postcode\"=>\"WF10 1HH\",\"addr:street\"=>\"Bridge Street\",\"addr:town\"=>\"Castleford\",\"shop\"=>\"picture_framing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3481862, 53.7268496 ] } }
+]
+}

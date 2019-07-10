@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.726313, "longitude": -1.350572 }, "osm_way_id": "353680429", "name": "WB Hairdressers", "natural": "Haven Nails", "shop": "beauty", "other_tags": "\"addr:housenumber\"=>\"39\",\"addr:postcode\"=>\"WF10 1AS\",\"addr:street\"=>\"Carlton Street\",\"addr:town\"=>\"Castleford\",\"old_name\"=>\"retail\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.3506421, 53.726389 ], [ -1.3505805, 53.7263981 ], [ -1.3505752, 53.7263876 ], [ -1.3505329, 53.7263029 ], [ -1.350501, 53.7262392 ], [ -1.3505592, 53.7262282 ], [ -1.3506167, 53.7263302 ], [ -1.3506373, 53.7263779 ], [ -1.3506421, 53.726389 ] ] ] ] } }
+]
+}
