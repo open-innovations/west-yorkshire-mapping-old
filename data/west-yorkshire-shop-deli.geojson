@@ -3,7 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "47131375", "name": "Pierozek", "other_tags": "\"addr:housenumber\"=>\"40-42\",\"addr:postcode\"=>\"WF1 1TQ\",\"addr:street\"=>\"Kirkgate\",\"shop\"=>\"deli\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4950636, 53.6826125 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1589002087", "name": "Continental Cuisine", "other_tags": "\"phone\"=>\"+44 1924 520800\",\"shop\"=>\"deli\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7041344, 53.6996534 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1685191610", "name": "Wharfedale Deli", "other_tags": "\"addr:city\"=>\"Ilkley\",\"addr:district\"=>\"Burley In Wharfedale\",\"addr:housenumber\"=>\"107a\",\"addr:postcode\"=>\"LS29 7JN\",\"addr:street\"=>\"Main Street\",\"fhrs:id\"=>\"327648\",\"shop\"=>\"deli\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7504445, 53.9137818 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1689398072", "other_tags": "\"shop\"=>\"deli\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4580036, 53.7849255 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1826725745", "name": "Brook's Deli", "other_tags": "\"shop\"=>\"deli\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6920137, 53.6741791 ] } },
