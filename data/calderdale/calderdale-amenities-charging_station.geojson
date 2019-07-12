@@ -2,6 +2,8 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "6170667563", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0906637, 53.7136118 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6170667563", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0906637, 53.7136118 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6606200051", "name": "Tesla Supercharger", "amenity": "charging_station", "other_tags": "\"brand\"=>\"Tesla Supercharger\",\"brand:wikidata\"=>\"Q17089620\",\"brand:wikipedia\"=>\"en:Tesla Supercharger\",\"capacity\"=>\"8\",\"operator\"=>\"Tesla Motors\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7436701, 53.7142285 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6606200075", "name": "Tesla Supercharger", "amenity": "charging_station", "other_tags": "\"brand\"=>\"Tesla Supercharger\",\"brand:wikidata\"=>\"Q17089620\",\"brand:wikipedia\"=>\"en:Tesla Supercharger\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7469763, 53.7119957 ] } }
 ]
 }
