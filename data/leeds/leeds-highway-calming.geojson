@@ -186,6 +186,7 @@
 { "type": "Feature", "properties": { "osm_id": "689432883" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47411, 53.81255 ] } },
 { "type": "Feature", "properties": { "osm_id": "689471231" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.47819, 53.81569 ] } },
 { "type": "Feature", "properties": { "osm_id": "689478512" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47359, 53.81710 ] } },
+{ "type": "Feature", "properties": { "osm_id": "689478523" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47236, 53.81868 ] } },
 { "type": "Feature", "properties": { "osm_id": "689492538" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.43897, 53.82089 ] } },
 { "type": "Feature", "properties": { "osm_id": "689492546" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.43973, 53.81653 ] } },
 { "type": "Feature", "properties": { "osm_id": "690032704" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47419, 53.82214 ] } },
@@ -281,6 +282,7 @@
 { "type": "Feature", "properties": { "osm_id": "3085446289" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.50668, 53.81250 ] } },
 { "type": "Feature", "properties": { "osm_id": "3147908373", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.54628, 53.79648 ] } },
 { "type": "Feature", "properties": { "osm_id": "3170236627", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.44947, 53.79480 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3179726118" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.47380, 53.81682 ] } },
 { "type": "Feature", "properties": { "osm_id": "3179762798" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47694, 53.81270 ] } },
 { "type": "Feature", "properties": { "osm_id": "3183134539" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.45446, 53.81021 ] } },
 { "type": "Feature", "properties": { "osm_id": "3215177616" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.55086, 53.75018 ] } },
@@ -1033,6 +1035,12 @@
 { "type": "Feature", "properties": { "osm_id": "6549389695" , "traffic_calming":"bump;choker" }, "geometry": { "type": "Point", "coordinates": [ -1.43669, 53.81286 ] } },
 { "type": "Feature", "properties": { "osm_id": "6549434289" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.44188, 53.82317 ] } },
 { "type": "Feature", "properties": { "osm_id": "6549434290" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.44262, 53.82366 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6582281238" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.47308, 53.83325 ] } }
+{ "type": "Feature", "properties": { "osm_id": "6582281238" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.47308, 53.83325 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6610655859" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.47235, 53.81704 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6610655860" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.46970, 53.81747 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6610655862" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47309, 53.81790 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6610655863" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47156, 53.81943 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6610655872" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47006, 53.81987 ] } }
+
 ]
 }

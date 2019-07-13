@@ -1224,6 +1224,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6590032314", "other_tags": "\"denotation\"=>\"urbancycleway\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5459215, 53.7941308 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6590032315", "other_tags": "\"denotation\"=>\"urbancycleway\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5458963, 53.7940788 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6590032316", "other_tags": "\"denotation\"=>\"urbancycleway\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5458691, 53.7940225 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6606575703", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.48406, 53.7859575 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "246349483", "z_order": 0, "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4289764, 53.7940192 ], [ -1.428912, 53.794043 ], [ -1.4288259, 53.7940628 ], [ -1.4287618, 53.7940985 ], [ -1.4286277, 53.794195 ], [ -1.4279384, 53.7941792 ], [ -1.4279553, 53.7930566 ] ] } }
 ]
 }

@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5927074105", "other_tags": "\"shop\"=>\"sewing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5398039, 53.7975578 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5981576292", "name": "Sewing Machine Co", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Kirkgate Market\",\"addr:street\"=>\"Kirkgate\",\"addr:unit\"=>\"17\",\"shop\"=>\"sewing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5400371, 53.7970726 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5981576298", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Kirkgate Market\",\"addr:street\"=>\"Kirkgate\",\"addr:unit\"=>\"6\",\"shop\"=>\"sewing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5400202, 53.7975075 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5981576298", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Kirkgate Market\",\"addr:street\"=>\"Kirkgate\",\"addr:unit\"=>\"6\",\"shop\"=>\"sewing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5400202, 53.7975075 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6606798476", "name": "The Button Box", "other_tags": "\"addr:housename\"=>\"Market Hall\",\"addr:postcode\"=>\"WF8 1AU\",\"addr:street\"=>\"Market Place\",\"addr:town\"=>\"Pontefract\",\"addr:unit\"=>\"19\",\"shop\"=>\"sewing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3107292, 53.6917631 ] } }
 ]
 }
