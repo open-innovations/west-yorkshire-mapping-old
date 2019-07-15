@@ -15,6 +15,8 @@
 { "type": "Feature", "properties": { "osm_id": "26294409" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.49761, 53.80046 ] } },
 { "type": "Feature", "properties": { "osm_id": "26294415" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.49890, 53.79692 ] } },
 { "type": "Feature", "properties": { "osm_id": "26298448", "highway": "traffic_signals" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.53998, 53.79819 ] } },
+{ "type": "Feature", "properties": { "osm_id": "26664552" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47204, 53.81311 ] } },
+{ "type": "Feature", "properties": { "osm_id": "26664553" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47065, 53.81349 ] } },
 { "type": "Feature", "properties": { "osm_id": "26667932" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.55119, 53.74612 ] } },
 { "type": "Feature", "properties": { "osm_id": "26668333" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.51179, 53.74276 ] } },
 { "type": "Feature", "properties": { "osm_id": "27394585" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.58033, 53.81675 ] } },
@@ -290,6 +292,7 @@
 { "type": "Feature", "properties": { "osm_id": "3407909398" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.49817, 53.79447 ] } },
 { "type": "Feature", "properties": { "osm_id": "3467903451", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.43570, 53.81482 ] } },
 { "type": "Feature", "properties": { "osm_id": "3572636558" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.56109, 53.83994 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3613180901" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.46779, 53.81426 ] } },
 { "type": "Feature", "properties": { "osm_id": "3618564333", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.48635, 53.80259 ] } },
 { "type": "Feature", "properties": { "osm_id": "3626077182" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.60962, 53.82731 ] } },
 { "type": "Feature", "properties": { "osm_id": "3626077186" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.61621, 53.82844 ] } },
@@ -1040,6 +1043,11 @@
 { "type": "Feature", "properties": { "osm_id": "6610655860" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.46970, 53.81747 ] } },
 { "type": "Feature", "properties": { "osm_id": "6610655862" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47309, 53.81790 ] } },
 { "type": "Feature", "properties": { "osm_id": "6610655863" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47156, 53.81943 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6610655872" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47006, 53.81987 ] } }
+{ "type": "Feature", "properties": { "osm_id": "6610655872" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47006, 53.81987 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6612786547" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47335, 53.81281 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6612786548" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.47328, 53.81272 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6612786549" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.46913, 53.81390 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6612786550" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.46713, 53.81457 ] } }
+
 ]
 }

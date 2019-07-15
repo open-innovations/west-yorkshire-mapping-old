@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4489200800", "name": "Wilsons Butchers", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"38\",\"addr:postcode\"=>\"LS15 8DX\",\"addr:street\"=>\"Austhorpe Road\",\"addr:suburb\"=>\"Cross Gates\",\"fhrs:id\"=>\"319532\",\"shop\"=>\"butcher;bakery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4499557, 53.8071997 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "4489200800", "name": "Wilsons Butchers", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"38\",\"addr:postcode\"=>\"LS15 8DX\",\"addr:street\"=>\"Austhorpe Road\",\"addr:suburb\"=>\"Cross Gates\",\"fhrs:id\"=>\"319532\",\"shop\"=>\"butcher;bakery\",\"website\"=>\"https:\/\/www.wilsonsbutchers.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4499557, 53.8071997 ] } }
 ]
 }
