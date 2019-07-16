@@ -173,7 +173,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1783933874", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.7541869, 53.6567583 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1833100121", "amenity": "post_office", "other_tags": "\"addr:housenumber\"=>\"25\",\"addr:postcode\"=>\"WF10 4DD\",\"addr:street\"=>\"Churchfield Lane\",\"addr:town\"=>\"Castleford\",\"fhrs:id\"=>\"542702\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3372348, 53.7206845 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1846007194", "amenity": "post_office", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5792642, 53.644228 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1857847751", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.3106623, 53.7012134 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1857847751", "name": "Post Office", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.3106623, 53.7012134 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1873561799", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.6740918, 53.7062549 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2018607456", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.660936, 53.7322547 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2059660984", "name": "Victoria Road Post Office", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.6013404, 53.7522601 ] } },
