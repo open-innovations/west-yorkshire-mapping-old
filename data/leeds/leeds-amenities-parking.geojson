@@ -37,7 +37,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "349355647", "amenity": "parking", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6570186, 53.8105653 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "357708663", "name": "Trinity Car Park", "amenity": "parking", "other_tags": "\"fee\"=>\"yes\",\"parking\"=>\"multi-storey\",\"operator\"=>\"NCP\",\"park_ride\"=>\"no\",\"supervised\"=>\"yes\",\"opening_hours\"=>\"24\/7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.544521, 53.7950994 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "359659454", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.6614968, 53.7975513 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "370083873", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.4443627, 53.7599957 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "370083873", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.4445811, 53.760008 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "402973026", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5814806, 53.7713731 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "410947738", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.6431884, 53.7501325 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "410947755", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.6492099, 53.751694 ] } },
