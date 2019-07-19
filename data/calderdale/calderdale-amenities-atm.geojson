@@ -22,6 +22,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5452280989", "amenity": "atm", "other_tags": "\"brand\"=>\"Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8614012, 53.7215881 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5452280990", "amenity": "atm", "other_tags": "\"brand\"=>\"Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8614131, 53.7216263 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5452280993", "amenity": "atm", "other_tags": "\"brand\"=>\"Lloyds\",\"operator\"=>\"Lloyds\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8616642, 53.7220967 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5569969833", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8597606, 53.7239498 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5569969833", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8597606, 53.7239498 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6625266272", "name": "Copley ATM", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8846362, 53.7073942 ] } }
 ]
 }
