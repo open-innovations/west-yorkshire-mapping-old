@@ -27,7 +27,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "1156650396", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -2.0086143, 53.7378429 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1169763859", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.7915511, 53.7083239 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1271183857", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.9099056, 53.7088362 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1382047737", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.8139482, 53.6833771 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1478085066", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.9174272, 53.6606102 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1633318004", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.7762201, 53.7228193 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2528475337", "amenity": "telephone", "other_tags": "\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8539789, 53.7210119 ] } },

@@ -89,6 +89,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6467130638", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3974083, 53.8345077 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6467167076", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.41474, 53.8426647 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6467167077", "name": "Copple Syke Spring", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3994207, 53.8409543 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6467167078", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3816074, 53.8579358 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6467167078", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3816074, 53.8579358 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6662832261", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4680819, 53.80229 ] } }
 ]
 }
