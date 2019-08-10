@@ -1933,6 +1933,5 @@
 { "type": "Feature", "properties": { "osm_id": "6695277203" }, "geometry": { "type": "Point", "coordinates": [ -1.46883, 53.81575 ] } },
 { "type": "Feature", "properties": { "osm_id": "6695277251" }, "geometry": { "type": "Point", "coordinates": [ -1.46843, 53.81580 ] } },
 { "type": "Feature", "properties": { "osm_id": "6695277282", "Tactile paving":"incorrect" }, "geometry": { "type": "Point", "coordinates": [ -1.47102, 53.81543 ] } }
-
 ]
 }

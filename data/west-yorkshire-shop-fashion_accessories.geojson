@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "6052531549", "name": "Claire's", "other_tags": "\"brand\"=>\"Claire's\",\"brand:wikidata\"=>\"Q2974996\",\"brand:wikipedia\"=>\"en:Claire's\",\"level\"=>\"0\",\"shop\"=>\"fashion_accessories\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5746337, 53.7583387 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.612869, "longitude": -1.704920 }, "osm_way_id": "710139418", "name": "Hats by Elisabeth Gales", "building": "yes", "shop": "fashion_accessories", "other_tags": "\"addr:city\"=>\"Huddersfield\",\"addr:postcode\"=>\"HD8 0RH\",\"addr:street\"=>\"North Road\",\"clothes\"=>\"hats\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7048625, 53.6128781 ], [ -1.7049483, 53.6129005 ], [ -1.7049779, 53.6128605 ], [ -1.7048921, 53.6128381 ], [ -1.7048625, 53.6128781 ] ] ] ] } }
 ]
 }
