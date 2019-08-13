@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "1137884705", "name": "Brimelows Herbalist", "other_tags": "\"shop\"=>\"herbalist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6273233, 53.6927099 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5299870167", "name": "fight co.", "other_tags": "\"shop\"=>\"herbalist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4549111, 53.8080076 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5299870167", "name": "fight co.", "other_tags": "\"shop\"=>\"herbalist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4549111, 53.8080076 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6702943714", "name": "Chinese Acupuncture & Herbs", "other_tags": "\"shop\"=>\"herbalist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4476571, 53.8107041 ] } }
 ]
 }

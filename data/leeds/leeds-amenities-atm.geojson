@@ -192,6 +192,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6294180909", "amenity": "atm", "other_tags": "\"addr:housenumber\"=>\"Poundland\",\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"location\"=>\"indoor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4501359, 53.8063732 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6294180910", "amenity": "atm", "other_tags": "\"addr:housenumber\"=>\"Wilko\",\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"location\"=>\"indoor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.450396, 53.8060857 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6294180911", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4520487, 53.8072009 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6294180912", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4520342, 53.8073247 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6294180912", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4520342, 53.8073247 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6702943716", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"fee\"=>\"£0.95\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4413169, 53.8179001 ] } }
 ]
 }

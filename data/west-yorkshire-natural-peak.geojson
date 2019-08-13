@@ -146,6 +146,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4739531268", "name": "Kiln Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9590889, 53.9325459 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4987925416", "name": "Brown Bank", "other_tags": "\"ele:ft\"=>\"850\",\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9143067, 53.9235673 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6612511130", "name": "Snow Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9580269, 53.9518099 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6612535194", "name": "Nor Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.920594, 53.9552633 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6612535194", "name": "Nor Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.920594, 53.9552633 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6703524400", "name": "Lodge Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0383934, 53.7250758 ] } }
 ]
 }
