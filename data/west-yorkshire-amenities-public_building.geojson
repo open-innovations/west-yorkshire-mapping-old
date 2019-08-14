@@ -13,7 +13,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "300463568", "amenity": "public_building", "other_tags": "\"building\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7677893, 53.8057618 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "303791241", "name": "Northfield Community Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.5017853, 53.7440358 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "304859510", "name": "Highcroft Youth Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.7621444, 53.8290722 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "304898250", "name": "Great George Street One Stop Centre", "amenity": "public_building", "other_tags": "\"operator\"=>\"Leeds City Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5455067, 53.8012956 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "312076059", "name": "Greenwood Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.7479449, 53.8209311 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "313246356", "name": "Youth & Community Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.727082, 53.8205539 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "385601549", "name": "Oulton Institute", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.450164, 53.7509657 ] } },
