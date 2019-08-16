@@ -3,7 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "998439547", "amenity": "gym" }, "geometry": { "type": "Point", "coordinates": [ -1.6563411, 53.7346109 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1041331266", "name": "energie", "amenity": "gym", "other_tags": "\"indoor\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7829818, 53.6448331 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.709495, "longitude": -1.501920 }, "osm_way_id": "61722325", "name": "Tops Fitness & Rehabilitation", "amenity": "gym", "building": "yes", "other_tags": "\"fhrs:id\"=>\"313186\",\"addr:city\"=>\"Wakefield\",\"addr:street\"=>\"Cobham Parade\",\"addr:postcode\"=>\"WF1 2DY\",\"addr:housenumber\"=>\"1\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5019476, 53.7094362 ], [ -1.50191, 53.7094742 ], [ -1.5019371, 53.7094836 ], [ -1.5021028, 53.709541 ], [ -1.5020498, 53.7095946 ], [ -1.5017367, 53.7094862 ], [ -1.5018274, 53.7093946 ], [ -1.5019476, 53.7094362 ] ] ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.612835, "longitude": -1.701411 }, "osm_way_id": "156364654", "name": "Gym", "amenity": "gym", "building": "yes" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7013043, 53.6127696 ], [ -1.7015629, 53.6128326 ], [ -1.7015142, 53.6129008 ], [ -1.7012582, 53.6128389 ], [ -1.7013043, 53.6127696 ] ] ] ] } }
 ]

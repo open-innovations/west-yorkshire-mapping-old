@@ -312,6 +312,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6600898423", "amenity": "atm", "other_tags": "\"brand\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3529366, 53.7259898 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6600898424", "amenity": "atm", "other_tags": "\"brand\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3529119, 53.7259955 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6625266272", "name": "Copley ATM", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8846362, 53.7073942 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6702943716", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"fee\"=>\"£0.95\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4413169, 53.8179001 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6702943716", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"fee\"=>\"£0.95\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4413169, 53.8179001 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6711989285", "amenity": "atm", "other_tags": "\"drive_through\"=>\"no\",\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7786502, 53.6456575 ] } }
 ]
 }
