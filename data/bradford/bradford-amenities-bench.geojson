@@ -55,7 +55,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2358605903", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7775405, 53.8332643 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2650397827", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8956479, 53.9199243 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2820311945", "name": "Stanza Stones Poetry Seat", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8121917, 53.9097205 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3362921693", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7245509, 53.8585488 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3362921693", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7245024, 53.858587 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3627169426", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7502597, 53.9136318 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3632249976", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7355183, 53.8884924 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3660954877", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.9002359, 53.8254296 ] } },
