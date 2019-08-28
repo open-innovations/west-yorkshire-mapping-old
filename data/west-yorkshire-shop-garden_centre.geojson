@@ -10,7 +10,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "798300348", "name": "Carlton Nurseries", "other_tags": "\"shop\"=>\"garden_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8302044, 53.8199162 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1247756169", "name": "The Old Bridge Nursery", "other_tags": "\"shop\"=>\"garden_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8306554, 53.9288135 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1273177159", "other_tags": "\"shop\"=>\"garden_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3905035, 53.6523405 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1710730498", "other_tags": "\"shop\"=>\"garden_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6831282, 53.5969517 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1710730498", "name": "Dobbies", "other_tags": "\"shop\"=>\"garden_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6831282, 53.5969517 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3015136534", "other_tags": "\"shop\"=>\"garden_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5970206, 53.6981465 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3551134993", "name": "Colne Valley Garden Centre", "other_tags": "\"shop\"=>\"garden_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8383916, 53.6398355 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3579045970", "other_tags": "\"shop\"=>\"garden_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.610878, 53.6486742 ] } },
