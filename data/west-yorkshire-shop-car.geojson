@@ -50,7 +50,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1609180616", "name": "Brams", "other_tags": "\"shop\"=>\"car\",\"website\"=>\"www.brams.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6594995, 53.7285058 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1635208399", "other_tags": "\"shop\"=>\"car\",\"brand\"=>\"Skoda\",\"operator\"=>\"DM Keith\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5901356, 53.6916396 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1635295697", "name": "Gledhills Used Cars", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5817615, 53.6811355 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1710509801", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7816586, 53.5806159 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1710509801", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7819697, 53.5799493 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1717745661", "name": "Daihatsu Hepworth Motor Co", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7827616, 53.578367 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1919894938", "other_tags": "\"shop\"=>\"car\",\"brand\"=>\"Peugeot\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7571043, 53.662809 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1932763076", "other_tags": "\"shop\"=>\"car\",\"brand\"=>\"BMW Mini\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7754969, 53.6540636 ] } },
