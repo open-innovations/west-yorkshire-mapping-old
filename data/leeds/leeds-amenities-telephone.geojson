@@ -282,7 +282,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5242004078", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX300\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4477021, 53.8899094 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5242004094", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX100\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4889639, 53.8737583 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5242004098", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.44182, 53.8838785 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5299852483", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.4437791, 53.8040289 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5299852483", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4437791, 53.8040289 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5476705679", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.4390083, 53.8108715 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5512423132", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.5494505, 53.8028653 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5698015552", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX300\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.356787, 53.8829793 ] } },
@@ -293,6 +293,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6435716666", "amenity": "telephone", "ref": "Stable Courtyard", "other_tags": "\"operator\"=>\"Leeds City Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4580204, 53.784869 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6435716667", "amenity": "telephone", "ref": "Home Farm", "other_tags": "\"operator\"=>\"Leeds City Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4566222, 53.7853476 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6435716668", "amenity": "telephone", "other_tags": "\"access\"=>\"agricultural\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4491859, 53.7873009 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6769498054", "amenity": "telephone", "other_tags": "\"booth\"=>\"yes\",\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4200475, 53.789908 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.806304, "longitude": -1.477629 }, "osm_way_id": "681264221", "name": "ASDA Click & Collect", "amenity": "telephone", "building": "roof", "shop": "kiosk", "other_tags": "\"building:levels\"=>\"1\",\"layer\"=>\"1\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4776298, 53.8063349 ], [ -1.4776141, 53.8063291 ], [ -1.477583, 53.8063179 ], [ -1.4776289, 53.8062739 ], [ -1.4776577, 53.8062843 ], [ -1.4776757, 53.8062909 ], [ -1.4776298, 53.8063349 ] ] ] } }
 ]
 }
