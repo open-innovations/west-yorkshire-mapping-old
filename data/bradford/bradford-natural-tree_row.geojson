@@ -58,6 +58,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "619551597", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9158751, 53.9097484 ], [ -1.9154781, 53.9093944 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "619551598", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9164491, 53.9101544 ], [ -1.9160011, 53.9098669 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "619551599", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9188416, 53.9106869 ], [ -1.9190186, 53.9108701 ], [ -1.9185144, 53.9110818 ], [ -1.9184339, 53.9111893 ], [ -1.9180799, 53.9109807 ], [ -1.9178492, 53.9108764 ], [ -1.9179457, 53.9108322 ], [ -1.9175381, 53.9107216 ], [ -1.9170123, 53.9104783 ], [ -1.9166663, 53.9103156 ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": "619551600", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9181925, 53.9107406 ], [ -1.9164705, 53.9095872 ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "619551600", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9181925, 53.9107406 ], [ -1.9164705, 53.9095872 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "722854882", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9046811, 53.8891638 ], [ -1.9059841, 53.8895326 ], [ -1.9075298, 53.889794 ], [ -1.9082303, 53.8899124 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "722854883", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9074672, 53.8889901 ], [ -1.906547, 53.888673 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "722854884", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9056409, 53.8891236 ], [ -1.9051454, 53.8889776 ] ] } }
 ]
 }

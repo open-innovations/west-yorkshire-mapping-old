@@ -86,7 +86,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2526325164", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3910469, 53.6513015 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2528672403", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.781074, 53.7170347 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2528672426", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7877984, 53.7164078 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2770706595", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7895944, 53.584329 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2770706595", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7895807, 53.5843542 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2971244416", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9471882, 53.8952969 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3036893960", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2606012, 53.7033365 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3118606955", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6200407, 53.8305337 ] } },
