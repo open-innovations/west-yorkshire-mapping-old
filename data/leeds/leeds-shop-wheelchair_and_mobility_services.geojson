@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "3904815788", "name": "Clark's Independence Centre", "other_tags": "\"addr:city\"=>\"Horsforth\",\"addr:housenumber\"=>\"71\",\"addr:postcode\"=>\"LS18 4JX\",\"addr:street\"=>\"New Road Side\",\"phone\"=>\"+44 113 258 8888\",\"shop\"=>\"wheelchair_and_mobility_services\",\"website\"=>\"https:\/\/www.clarksmobility.com\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.639745, 53.8318449 ] } }
+]
+}
