@@ -16,6 +16,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6401269739", "name": "Chargemaster Charging Station", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5762932, 53.7771748 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6515469485", "name": "The Springs", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4232625, 53.7998976 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6593535931", "amenity": "charging_station", "ref": "Bryn-Axel", "other_tags": "\"capacity\"=>\"2\",\"operator\"=>\"Pod Point\",\"parking:fee\"=>\"no\",\"socket:type2\"=>\"2\",\"socket:type2:output\"=>\"7000\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6037786, 53.8153883 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6669744709", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"14\",\"fee\"=>\"£1\",\"payment:app\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4801236, 53.777861 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6669744709", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"14\",\"fee\"=>\"£1\",\"payment:app\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4801236, 53.777861 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6793996050", "amenity": "charging_station", "ref": "ENG01021", "other_tags": "\"operator\"=>\"Engie\",\"parking:fee\"=>\"no\",\"socket:chademo\"=>\"1\",\"socket:type2\"=>\"1\",\"socket:type2_combo\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6628569, 53.7950348 ] } }
 ]
 }
