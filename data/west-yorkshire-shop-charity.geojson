@@ -28,7 +28,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2358612137", "name": "Age UK", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7770202, 53.8328243 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358612140", "name": "British Heaart Foudnation", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7765937, 53.833201 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2408752473", "name": "The Community Shop", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5668655, 53.829024 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2480469828", "name": "Sue Ryder", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.56349, 53.8293475 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2480469828", "name": "Sue Ryder", "other_tags": "\"brand\"=>\"Sue Ryder\",\"brand:wikidata\"=>\"Q7634271\",\"brand:wikipedia\"=>\"en:Sue Ryder (charity)\",\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.56349, 53.8293475 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2480469833", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5642208, 53.8286241 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2611488248", "name": "Kirkwood", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8089629, 53.6514634 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2611488252", "name": "Samaritans", "other_tags": "\"opening_hours\"=>\"Mo-Sa 10:00-16:00\",\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8090864, 53.6514787 ] } },

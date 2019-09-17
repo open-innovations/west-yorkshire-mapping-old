@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2295333541", "name": "B & M", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Middleton District Centre\",\"addr:postcode\"=>\"LS10 4AX\",\"addr:street\"=>\"Ring Road Middleton\",\"addr:suburb\"=>\"Middleton\",\"addr:unit\"=>\"3a\",\"fhrs:id\"=>\"323278\",\"shop\"=>\"household\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5329531, 53.7485944 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.831348, "longitude": -1.464090 }, "osm_way_id": "660315651", "building": "retail", "shop": "household" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4641673, 53.8313261 ], [ -1.4641622, 53.8313757 ], [ -1.4640127, 53.8313703 ], [ -1.4640179, 53.8313207 ], [ -1.4641673, 53.8313261 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2295333541", "name": "B & M", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Middleton District Centre\",\"addr:postcode\"=>\"LS10 4AX\",\"addr:street\"=>\"Ring Road Middleton\",\"addr:suburb\"=>\"Middleton\",\"addr:unit\"=>\"3a\",\"fhrs:id\"=>\"323278\",\"shop\"=>\"household\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5329531, 53.7485944 ] } }
 ]
 }
