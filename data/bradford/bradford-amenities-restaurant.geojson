@@ -21,7 +21,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "300472976", "name": "Restaurant in the Church", "amenity": "restaurant" }, "geometry": { "type": "Point", "coordinates": [ -1.775439, 53.787333 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "300897409", "name": "The Real China", "amenity": "restaurant" }, "geometry": { "type": "Point", "coordinates": [ -1.7465057, 53.7913789 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "300897414", "name": "Pizza Hut", "amenity": "restaurant" }, "geometry": { "type": "Point", "coordinates": [ -1.7467111, 53.7912011 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "300938720", "amenity": "restaurant" }, "geometry": { "type": "Point", "coordinates": [ -1.7535808, 53.8010447 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301609092", "name": "Zen Fusion", "amenity": "restaurant" }, "geometry": { "type": "Point", "coordinates": [ -1.7721621, 53.7909773 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301733978", "name": "Corniche", "amenity": "restaurant" }, "geometry": { "type": "Point", "coordinates": [ -1.7504849, 53.792161 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301736431", "name": "Nando's", "amenity": "restaurant", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:housename\"=>\"Unit 5 The Leisure Exchange\",\"addr:postcode\"=>\"BD1 5LD\",\"addr:street\"=>\"Vicar Lane\",\"fhrs:id\"=>\"325272\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7475913, 53.7909081 ] } },

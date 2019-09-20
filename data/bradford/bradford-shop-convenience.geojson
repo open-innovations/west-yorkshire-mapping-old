@@ -43,7 +43,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "676622746", "name": "M.N. & D.M. Patel", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.705365, 53.7756964 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "676623013", "name": "Ash's Ryecroft Village Store", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7023637, 53.7727578 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "685937663", "name": "Chahal Store", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7225467, 53.7785314 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "685937672", "name": "R.W. & S. Hall - Newsagents & Convenience Store", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7197101, 53.7781834 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "685937672", "name": "R.W. & S. Hall - Newsagents & Convenience Store", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7195868, 53.778043 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "685938975", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7079962, 53.7818143 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "687080950", "name": "Tong Street Convenience Store", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7152228, 53.7693572 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "687081055", "name": "ThreeSixy5", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7119045, 53.768284 ] } },
