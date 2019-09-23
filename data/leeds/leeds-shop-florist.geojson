@@ -22,6 +22,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "5927074107", "name": "Forget Me Not", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399701, 53.7975498 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5927074114", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5397127, 53.7974991 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6033885574", "name": "The Plant Point", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Corn Exchange\",\"addr:postcode\"=>\"LS1 7BR\",\"addr:street\"=>\"Call Lane\",\"level\"=>\"1\",\"shop\"=>\"florist\",\"website\"=>\"https:\/\/www.theplantpoint.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.539882, 53.795882 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6814615738", "name": "The Rainflorist", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3859979, 53.9278974 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6814640142", "name": "Nicolla", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3859388, 53.9286343 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.804654, "longitude": -1.451758 }, "osm_way_id": "571699284", "name": "Monroes", "building": "yes", "shop": "florist" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.451734, 53.8046934 ], [ -1.4517066, 53.8046245 ], [ -1.4517814, 53.8046141 ], [ -1.4518087, 53.804683 ], [ -1.451734, 53.8046934 ] ] ] } }
 ]
 }
