@@ -54,7 +54,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2235472524", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.574416, 53.760724 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2239054506", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.5644767, 53.6604964 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2242699408", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.6981325, 53.9143909 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2354930875", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.6992567, 53.915205 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2354930875", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.6991451, 53.9152367 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2357538245", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.6342697, 53.7135874 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2376594194", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.6261954, 53.665421 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2406928418", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7000653, 53.9144513 ] } },
