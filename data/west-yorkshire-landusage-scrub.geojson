@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.800326, "longitude": -1.559939 }, "osm_way_id": "447878335", "landuse": "scrub" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5604535, 53.8003864 ], [ -1.5604266, 53.8004778 ], [ -1.5601709, 53.8004523 ], [ -1.560023, 53.8004305 ], [ -1.5594252, 53.8002285 ], [ -1.5595824, 53.8001739 ], [ -1.5598258, 53.8002649 ], [ -1.5600353, 53.8003395 ], [ -1.5604535, 53.8003864 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.725728, "longitude": -1.536052 }, "osm_way_id": "618189465", "landuse": "scrub" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5355395, 53.72587 ], [ -1.5359443, 53.725658 ], [ -1.5360281, 53.7257158 ], [ -1.5363903, 53.725459 ], [ -1.536564, 53.7255899 ], [ -1.5357152, 53.7259968 ], [ -1.5355395, 53.72587 ] ] ] ] } }
 ]
 }
