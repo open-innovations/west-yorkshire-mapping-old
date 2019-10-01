@@ -15,7 +15,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "662441187", "name": "HSBC", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.7224897, 53.7718779 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "838397523", "name": "NatWest", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.7101751, 53.8309655 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "854470025", "amenity": "bank", "other_tags": "\"operator\"=>\"Sainsbury\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7628687, 53.790687 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1685213289", "name": "Lloyds Bank", "amenity": "bank", "other_tags": "\"atm\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8236599, 53.9260557 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358584613", "name": "Yorkshire Bank", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.7767985, 53.8343897 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358605897", "name": "Halifax", "amenity": "bank", "other_tags": "\"atm\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7778248, 53.8336537 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4010886338", "amenity": "bank", "other_tags": "\"atm\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7909743, 53.7942822 ] } },
