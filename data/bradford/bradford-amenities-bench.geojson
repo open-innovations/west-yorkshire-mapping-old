@@ -122,6 +122,10 @@
 	{ "type": "Feature", "properties": { "osm_id": "6747156958", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.762484, 53.8200425 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6747156959", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7622652, 53.8200306 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6747156960", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7624855, 53.8199051 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6834338180", "amenity": "bench", "other_tags": "\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7366718, 53.8238601 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6834338180", "amenity": "bench", "other_tags": "\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7366718, 53.8238601 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6840868032", "amenity": "bench", "other_tags": "\"colour\"=>\"black\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7423922, 53.8080286 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6840868033", "amenity": "bench", "other_tags": "\"colour\"=>\"black\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7424558, 53.808448 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6840868034", "amenity": "bench", "other_tags": "\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7428947, 53.8085289 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6840868035", "amenity": "bench", "other_tags": "\"colour\"=>\"black\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7438346, 53.8085084 ] } }
 ]
 }
