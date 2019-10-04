@@ -1989,6 +1989,8 @@
 { "type": "Feature", "properties": { "osm_id": "6831285986", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.45856, 53.82910 ] } },
 { "type": "Feature", "properties": { "osm_id": "6831285989", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.45805, 53.82917 ] } },
 { "type": "Feature", "properties": { "osm_id": "6844999854" }, "geometry": { "type": "Point", "coordinates": [ -1.57008, 53.77945 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6844999855" }, "geometry": { "type": "Point", "coordinates": [ -1.57026, 53.77938 ] } }
+{ "type": "Feature", "properties": { "osm_id": "6844999855" }, "geometry": { "type": "Point", "coordinates": [ -1.57026, 53.77938 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6845613542" }, "geometry": { "type": "Point", "coordinates": [ -1.41621, 53.77054 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6845613545" }, "geometry": { "type": "Point", "coordinates": [ -1.41610, 53.77069 ] } }
 ]
 }
