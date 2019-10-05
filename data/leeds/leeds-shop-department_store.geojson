@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "301280179", "name": "Dunnes Stores", "other_tags": "\"shop\"=>\"department_store\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6021257, 53.8140466 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333467247", "name": "House of Fraser", "other_tags": "\"shop\"=>\"department_store\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5419371, 53.7966302 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333467257", "name": "Marks & Spencer", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"47-49\",\"addr:postcode\"=>\"LS1 6HF\",\"addr:street\"=>\"Briggate\",\"brand\"=>\"Marks & Spencer\",\"brand:wikidata\"=>\"Q714491\",\"brand:wikipedia\"=>\"en:Marks & Spencer\",\"fhrs:id\"=>\"319580\",\"shop\"=>\"department_store\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5431203, 53.7969645 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333467296", "name": "Debenhams", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"115-125\",\"addr:postcode\"=>\"LS1 6LX\",\"addr:street\"=>\"Briggate\",\"brand\"=>\"Debenhams\",\"brand:wikidata\"=>\"Q1181484\",\"brand:wikipedia\"=>\"en:Debenhams\",\"fhrs:id\"=>\"319583\",\"shop\"=>\"department_store\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5419033, 53.797507 ] } },

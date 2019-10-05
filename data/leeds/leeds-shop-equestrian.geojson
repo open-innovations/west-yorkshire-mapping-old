@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.775631, "longitude": -1.534061 }, "osm_way_id": "159518470", "name": "Robinsons", "building": "retail", "shop": "equestrian" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5336466, 53.7755724 ], [ -1.5339926, 53.7753898 ], [ -1.5341024, 53.7754682 ], [ -1.5344761, 53.7757349 ], [ -1.5342099, 53.7758715 ], [ -1.5340917, 53.775865 ], [ -1.5336466, 53.7755724 ] ] ] } }
+]
+}

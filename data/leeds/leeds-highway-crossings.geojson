@@ -1991,6 +1991,7 @@
 { "type": "Feature", "properties": { "osm_id": "6844999854" }, "geometry": { "type": "Point", "coordinates": [ -1.57008, 53.77945 ] } },
 { "type": "Feature", "properties": { "osm_id": "6844999855" }, "geometry": { "type": "Point", "coordinates": [ -1.57026, 53.77938 ] } },
 { "type": "Feature", "properties": { "osm_id": "6845613542" }, "geometry": { "type": "Point", "coordinates": [ -1.41621, 53.77054 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6845613545" }, "geometry": { "type": "Point", "coordinates": [ -1.41610, 53.77069 ] } }
+{ "type": "Feature", "properties": { "osm_id": "6845613545" }, "geometry": { "type": "Point", "coordinates": [ -1.41610, 53.77069 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6852410568" }, "geometry": { "type": "Point", "coordinates": [ -1.53681, 53.77888 ] } }
 ]
 }

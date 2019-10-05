@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5520892750", "name": "Lucky 7", "amenity": "take_away", "other_tags": "\"addr:housenumber\"=>\"7\",\"addr:postcode\"=>\"WF8 1PE\",\"addr:street\"=>\"Horsefair\",\"addr:town\"=>\"Pontefract\",\"cuisine\"=>\"chinese\",\"fhrs:id\"=>\"284181\",\"takeaway\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3093056, 53.6926481 ] } }
+]
+}
