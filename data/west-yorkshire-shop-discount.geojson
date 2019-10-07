@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4429627132", "name": "B & M", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS14 6UF\",\"addr:street\"=>\"Killingbeck Drive\",\"addr:suburb\"=>\"Halton\",\"addr:unit\"=>\"B\",\"fhrs:id\"=>\"687550\",\"shop\"=>\"discount\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4794756, 53.8061917 ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.772976, "longitude": -1.581352 }, "osm_way_id": "24674905", "name": "B&M Bargains", "building": "yes", "shop": "discount" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5818003, 53.7731133 ], [ -1.5811125, 53.7732389 ], [ -1.5809029, 53.7728383 ], [ -1.5815907, 53.7727126 ], [ -1.5818003, 53.7731133 ] ] ] ] } }
 ]
 }
