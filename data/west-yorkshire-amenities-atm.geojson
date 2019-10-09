@@ -317,6 +317,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6780534916", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.3132878, 53.6925133 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6780534919", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.3113263, 53.6936204 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6781698735", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Cashzone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3474148, 53.6407658 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6815315851", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.3105552, 53.6925102 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6815315851", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.3105552, 53.6925102 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6859203125", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6700965, 53.6764705 ] } }
 ]
 }
