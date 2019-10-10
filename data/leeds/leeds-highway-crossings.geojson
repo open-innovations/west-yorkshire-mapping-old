@@ -1997,6 +1997,5 @@
 { "type": "Feature", "properties": { "osm_id": "6860792419" }, "geometry": { "type": "Point", "coordinates": [ -1.45254, 53.81015 ] } },
 { "type": "Feature", "properties": { "osm_id": "6861276160" }, "geometry": { "type": "Point", "coordinates": [ -1.39213, 53.78916 ] } },
 { "type": "Feature", "properties": { "osm_id": "6861339786", "Tactile paving":"yes", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.39194, 53.78783 ] } }
-
 ]
 }
