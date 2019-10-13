@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.816967, "longitude": -1.719713 }, "osm_way_id": "733915842", "landuse": "religious" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7196464, 53.8170526 ], [ -1.7195529, 53.8170646 ], [ -1.7195244, 53.816947 ], [ -1.7196342, 53.8168894 ], [ -1.7198618, 53.8168702 ], [ -1.7199025, 53.8170262 ], [ -1.7196464, 53.8170526 ] ] ] } }
+]
+}
