@@ -425,7 +425,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "463405733", "name": "The Fenay Bridge", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7252022, 53.6349568 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "471137960", "name": "The Rock Inn", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7731477, 53.5949681 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "472278482", "name": "Jacobs Well", "amenity": "pub", "other_tags": "\"brewery\"=>\"Thwaites\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7883472, 53.6033159 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "473595395", "name": "The Victoria", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7326845, 53.5450959 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "473601713", "name": "The White Horse", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7544124, 53.563115 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "473608769", "name": "The Red Lion", "amenity": "pub", "other_tags": "\"postal_code\"=>\"HD9 7HB\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7534923, 53.5637472 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "473688241", "name": "Rose and Crown", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7524582, 53.5901656 ] } },
