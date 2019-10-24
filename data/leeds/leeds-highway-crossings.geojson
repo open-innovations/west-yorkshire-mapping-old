@@ -2042,6 +2042,5 @@
 { "type": "Feature", "properties": { "osm_id": "6893488051", "Tactile paving":"yes", "Type":"toucan" }, "geometry": { "type": "Point", "coordinates": [ -1.54717, 53.79574 ] } },
 { "type": "Feature", "properties": { "osm_id": "6905278495" }, "geometry": { "type": "Point", "coordinates": [ -1.53394, 53.79655 ] } },
 { "type": "Feature", "properties": { "osm_id": "6906834164" }, "geometry": { "type": "Point", "coordinates": [ -1.45817, 53.81180 ] } }
-
 ]
 }
