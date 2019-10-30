@@ -23,7 +23,11 @@
 	{ "type": "Feature", "properties": { "osm_id": "6606834117", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4898062, 53.6747407 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6606834118", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.489837, 53.6747177 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6669744709", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"14\",\"fee\"=>\"£1\",\"payment:app\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4801236, 53.777861 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6778834715", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.333683, 53.7112537 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6793996050", "amenity": "charging_station", "ref": "ENG01021", "other_tags": "\"operator\"=>\"Engie\",\"parking:fee\"=>\"no\",\"socket:chademo\"=>\"1\",\"socket:type2\"=>\"1\",\"socket:type2_combo\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6628569, 53.7950348 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6778834715", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3335697, 53.7111196 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6793996050", "amenity": "charging_station", "ref": "ENG01021", "other_tags": "\"operator\"=>\"Engie\",\"parking:fee\"=>\"no\",\"socket:chademo\"=>\"1\",\"socket:type2\"=>\"1\",\"socket:type2_combo\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6628569, 53.7950348 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6927497206", "amenity": "charging_station", "other_tags": "\"operator\"=>\"Rolec\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3410492, 53.7118445 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6927497207", "amenity": "charging_station", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3452845, 53.710351 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6927503001", "name": "Savile Road Service Station", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.3585855, 53.7275049 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6927503002", "name": "Diggerland Yorkshire", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.3839177, 53.7171834 ] } }
 ]
 }
