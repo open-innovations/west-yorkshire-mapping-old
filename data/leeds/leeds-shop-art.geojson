@@ -2,6 +2,8 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "1025703041", "name": "Centenary Gallery", "amenity": "arts_centre", "other_tags": "\"shop\"=>\"art\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5525639, 53.8080907 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1187324667", "name": "The Stanley & Audrey Burton Gallery", "amenity": "arts_centre", "other_tags": "\"shop\"=>\"art\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.552564, 53.8077104 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2134260281", "name": "Leeds Gallery", "other_tags": "\"shop\"=>\"art\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5338893, 53.7966885 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2138764881", "name": "Colours May Vary", "other_tags": "\"shop\"=>\"art\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Duke Street\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5339814, 53.796881 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2353725353", "name": "Studio Seven", "other_tags": "\"shop\"=>\"art\",\"website\"=>\"studiosevenart.co.uk\",\"addr:city\"=>\"Otley\",\"is_in:town\"=>\"Otley\",\"description\"=>\"Art dealer\",\"addr:postcode\"=>\"LS21 3AE\",\"addr:housenumber\"=>\"7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.693319, 53.9048661 ] } },

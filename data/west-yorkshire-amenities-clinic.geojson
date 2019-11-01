@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1628451238", "name": "Tieve Tara Medical Centre", "amenity": "clinic" }, "geometry": { "type": "Point", "coordinates": [ -1.3142172, 53.7328946 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1628451238", "name": "Tieve Tara Medical Centre", "amenity": "clinic", "other_tags": "\"healthcare\"=>\"clinic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3142172, 53.7328946 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2295333380", "name": "St George's Medical Centre", "amenity": "clinic" }, "geometry": { "type": "Point", "coordinates": [ -1.53192, 53.747839 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3089667469", "name": "BUPA Leeds", "amenity": "clinic", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:country\"=>\"GB\",\"addr:housename\"=>\"Trafalgar House\",\"addr:housenumber\"=>\"29\",\"addr:postcode\"=>\"LS1 2SP\",\"addr:street\"=>\"Park Place\",\"postal_code\"=>\"LS1 2SP\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5528628, 53.7976781 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3987138371", "name": "Woodsley Road Health Centre", "amenity": "clinic" }, "geometry": { "type": "Point", "coordinates": [ -1.5679822, 53.806916 ] } },
