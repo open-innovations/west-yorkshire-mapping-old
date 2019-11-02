@@ -28,6 +28,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6927497206", "amenity": "charging_station", "other_tags": "\"operator\"=>\"Rolec\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3410492, 53.7118445 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6927497207", "amenity": "charging_station", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3452845, 53.710351 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6927503001", "name": "Savile Road Service Station", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.3585855, 53.7275049 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6927503002", "name": "Diggerland Yorkshire", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.3839177, 53.7171834 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6927503002", "name": "Diggerland Yorkshire", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.3839177, 53.7171834 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6937731915", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\",\"car\"=>\"yes\",\"fee\"=>\"free until October 2021\",\"operator\"=>\"engie\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8367365, 53.8480457 ] } }
 ]
 }
