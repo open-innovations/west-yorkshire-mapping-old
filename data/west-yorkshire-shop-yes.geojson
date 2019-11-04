@@ -31,8 +31,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "2353686078", "name": "The Ammo Box", "other_tags": "\"shop\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6928818, 53.9045833 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358548420", "name": "Stitch Patren", "other_tags": "\"shop\"=>\"yes\",\"description\"=>\"Clothing alteration and repairs\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7789621, 53.8348107 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358622110", "name": "Aspect", "other_tags": "\"shop\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.774979, 53.8330443 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2358622117", "name": "bathstore", "other_tags": "\"shop\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7750058, 53.8331202 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2358622122", "name": "Tile Giant", "other_tags": "\"shop\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7750326, 53.8332058 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2408752504", "name": "Custom Tattoo", "other_tags": "\"shop\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5659659, 53.8283647 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2408752505", "name": "Trash and Treasure", "other_tags": "\"shop\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5663534, 53.8285526 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2408752510", "name": "North Print", "other_tags": "\"shop\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5660865, 53.8287381 ] } },

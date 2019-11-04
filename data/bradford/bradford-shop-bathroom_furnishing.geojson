@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "2358622117", "name": "bathstore", "other_tags": "\"shop\"=>\"bathroom_furnishing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7750058, 53.8331202 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5433193389", "name": "JSL", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:housenumber\"=>\"17-19\",\"addr:postcode\"=>\"BD4 7AN\",\"addr:street\"=>\"Carter Street\",\"email\"=>\"jslbathrooms@hotmail.co.uk\",\"phone\"=>\"+44 1274 721937\",\"shop\"=>\"bathroom_furnishing\",\"website\"=>\"https:\/\/www.jslbathrooms.com\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7466616, 53.7891579 ] } }
 ]
 }
