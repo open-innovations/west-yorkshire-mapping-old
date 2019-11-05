@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "262471195", "name": "Todmorden Service Station", "amenity": "water_point" }, "geometry": { "type": "Point", "coordinates": [ -2.0975968, 53.7124264 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "262471195", "amenity": "water_point" }, "geometry": { "type": "Point", "coordinates": [ -2.0975968, 53.7124264 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2905662764", "amenity": "water_point" }, "geometry": { "type": "Point", "coordinates": [ -1.8757849, 53.6235985 ] } }
 ]
 }

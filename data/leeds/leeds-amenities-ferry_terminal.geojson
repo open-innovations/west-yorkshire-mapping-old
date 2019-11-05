@@ -3,6 +3,8 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5195038450", "name": "Leeds Water Taxi Dock", "amenity": "ferry_terminal", "other_tags": "\"ferry\"=>\"yes\",\"foot\"=>\"yes\",\"motor_vehicle\"=>\"no\",\"public_transport\"=>\"station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5330074, 53.7916501 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5195038482", "name": "Leeds Water Taxi Dock", "amenity": "ferry_terminal", "other_tags": "\"ferry\"=>\"yes\",\"foot\"=>\"yes\",\"motor_vehicle\"=>\"no\",\"public_transport\"=>\"station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5479873, 53.7927787 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5195038482", "name": "Leeds Water Taxi Dock", "amenity": "ferry_terminal", "other_tags": "\"ferry\"=>\"yes\",\"foot\"=>\"yes\",\"motor_vehicle\"=>\"no\",\"public_transport\"=>\"station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5479873, 53.7927787 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6945883880", "amenity": "ferry_terminal", "other_tags": "\"ferry\"=>\"yes\",\"public_transport\"=>\"station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5289866, 53.8942143 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6945883881", "amenity": "ferry_terminal", "other_tags": "\"ferry\"=>\"yes\",\"public_transport\"=>\"station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5303191, 53.8937196 ] } }
 ]
 }
