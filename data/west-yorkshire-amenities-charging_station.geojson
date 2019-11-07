@@ -30,6 +30,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "6927503001", "name": "Savile Road Service Station", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.3585855, 53.7275049 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6927503002", "name": "Diggerland Yorkshire", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.3839177, 53.7171834 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6937731915", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\",\"car\"=>\"yes\",\"fee\"=>\"free until October 2021\",\"operator\"=>\"engie\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8367365, 53.8480457 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6946529200", "amenity": "charging_station", "other_tags": "\"access\"=>\"yes\",\"capacity\"=>\"4\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3147281, 53.6933524 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6946529200", "name": "Evbox", "amenity": "charging_station", "other_tags": "\"access\"=>\"yes\",\"addr:city\"=>\"Pontefract\",\"addr:postcode\"=>\"WF8 1BJ\",\"addr:street\"=>\"Stuart Road\",\"capacity\"=>\"2\",\"opening_hours\"=>\"From 9th November  24\/7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3147281, 53.6933524 ] } }
 ]
 }
