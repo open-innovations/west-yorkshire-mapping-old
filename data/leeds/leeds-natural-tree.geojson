@@ -1356,6 +1356,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "6879708881", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5771458, 53.7530601 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6879708882", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5767859, 53.7531052 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6935272493", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5470468, 53.7996727 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6964180073", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4850475, 53.8155095 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6964296953", "name": "Chris & Sharon Bell", "other_tags": "\"historic\"=>\"memorial\",\"inscription\"=>\"THIS TREE IS DEDICATED TO THE MEMORY OF CHRIS AND SHARON BELL\",\"memorial\"=>\"stone\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4711263, 53.8086018 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "246349483", "z_order": 0, "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4289764, 53.7940192 ], [ -1.428912, 53.794043 ], [ -1.4288259, 53.7940628 ], [ -1.4287618, 53.7940985 ], [ -1.4286277, 53.794195 ], [ -1.4279384, 53.7941792 ], [ -1.4279553, 53.7930566 ] ] } }
 ]
 }
