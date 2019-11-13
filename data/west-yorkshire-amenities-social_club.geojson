@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "297118292", "name": "Pasadena Bingo and Social Club", "amenity": "social_club", "other_tags": "\"building\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6603345, 53.7973475 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "302734961", "name": "Little Horton Sociala Cycling Club", "amenity": "social_club" }, "geometry": { "type": "Point", "coordinates": [ -1.7519384, 53.7758437 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "968058291", "name": "Knowl Club", "amenity": "social_club" }, "geometry": { "type": "Point", "coordinates": [ -1.6917635, 53.6754389 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1632527349", "name": "Millbridge W.M.C", "amenity": "social_club", "other_tags": "\"alcohol\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6880903, 53.7090405 ] } },

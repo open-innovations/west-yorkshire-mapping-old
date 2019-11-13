@@ -20,7 +20,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "414268964", "name": "Rockwell Community Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.7248999, 53.8278045 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "443776004", "name": "Streethouse Community Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.4021819, 53.6776938 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "452003089", "name": "Highcroft Youth Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.7624928, 53.8289827 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "455593955", "name": "St Joseph's Parish Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.6586175, 53.7994507 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "455594436", "name": "Swinnow Community Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.6440169, 53.800747 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "524472805", "name": "Emily Street Community Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.9020407, 53.8707501 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "529090660", "name": "St Lukes Church Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.7003871, 53.7591295 ] } },

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.724649, "longitude": -1.354498 }, "osm_way_id": "573667135", "amenity": "Masonic_Lodge", "building": "yes", "other_tags": "\"addr:postcode\"=>\"WF10 1DZ\",\"addr:street\"=>\"Hope Street\",\"addr:town\"=>\"Castleford\",\"fhrs:id\"=>\"283517\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.3543728, 53.724735 ], [ -1.3543258, 53.724598 ], [ -1.3546228, 53.7245624 ], [ -1.3546697, 53.7246993 ], [ -1.3543728, 53.724735 ] ] ] ] } }
+]
+}
