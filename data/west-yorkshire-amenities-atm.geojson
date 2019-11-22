@@ -223,7 +223,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "3655905302", "amenity": "atm", "other_tags": "\"operator\"=>\"Lloyds\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5335034, 53.8440003 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3656642056", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5802456, 53.8210231 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3660168631", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5744462, 53.807991 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3660954875", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8972908, 53.8269795 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3663504264", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5293712, 53.7485413 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3663514950", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5476205, 53.7474621 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3738199852", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6646677, 53.7955493 ] } },
@@ -319,6 +318,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6815315851", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.3105552, 53.6925102 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6859203125", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6700965, 53.6764705 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6934606429", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3341621, 53.7123301 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6934632321", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3418484, 53.7104455 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6934632321", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3418484, 53.7104455 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6993858957", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8984692, 53.8268723 ] } }
 ]
 }

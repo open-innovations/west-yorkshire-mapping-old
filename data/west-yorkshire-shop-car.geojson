@@ -45,7 +45,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "1429962445", "other_tags": "\"shop\"=>\"car\",\"brand\"=>\"SEAT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7797907, 53.6628892 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1435168786", "other_tags": "\"shop\"=>\"car\",\"brand\"=>\"Volvo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7511613, 53.6653711 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1470059648", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8098573, 53.6495672 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1478080875", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8983873, 53.8267837 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1609180611", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6589755, 53.7282286 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1609180616", "name": "Brams", "other_tags": "\"shop\"=>\"car\",\"website\"=>\"www.brams.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6594995, 53.7285058 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1635208399", "other_tags": "\"shop\"=>\"car\",\"brand\"=>\"Skoda\",\"operator\"=>\"DM Keith\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5901356, 53.6916396 ] } },

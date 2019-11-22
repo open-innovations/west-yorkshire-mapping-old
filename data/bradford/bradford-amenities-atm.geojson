@@ -33,7 +33,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "2392216087", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Halifax bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8877437, 53.8593763 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3443058114", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8186298, 53.7849741 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3627169419", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7509681, 53.9126331 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3660954875", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8972908, 53.8269795 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4466428504", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7761969, 53.83414 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4466428505", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7769074, 53.8343878 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4466428506", "amenity": "atm", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7900014, 53.8375295 ] } },
@@ -46,6 +45,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5627340256", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7955217, 53.8352698 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5792055772", "name": "Cash zone", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7965487, 53.8357238 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6225963573", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7884727, 53.841114 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6225969280", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7659216, 53.8412635 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6225969280", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7659216, 53.8412635 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6993858957", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8984692, 53.8268723 ] } }
 ]
 }
