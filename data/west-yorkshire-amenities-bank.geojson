@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "27441142", "name": "Barclays", "amenity": "bank", "other_tags": "\"atm\"=>\"yes\",\"branch\"=>\"Otley\",\"operator\"=>\"Barclays Bank PLC\",\"addr:city\"=>\"Otley\",\"wheelchair\"=>\"yes\",\"addr:street\"=>\"Manor Square\",\"description\"=>\"former White Horse pub\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"LS21 3AP\",\"addr:housenumber\"=>\"2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6947415, 53.9059041 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "27475939", "name": "HSBC", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.3855047, 53.9291673 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "27475945", "name": "NatWest", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.3857663, 53.9285076 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "27475946", "name": "Lloyds", "amenity": "bank", "other_tags": "\"atm\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3862439, 53.928524 ] } },
@@ -58,7 +57,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "662441187", "name": "HSBC", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.7224897, 53.7718779 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "838397523", "name": "NatWest", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.7101751, 53.8309655 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "854470025", "amenity": "bank", "other_tags": "\"operator\"=>\"Sainsbury\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7628687, 53.790687 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "929171702", "name": "Santander", "amenity": "bank", "other_tags": "\"atm\"=>\"no\",\"branch\"=>\"Otley\",\"old_name\"=>\"Bradford & Bingley Building Society\",\"addr:city\"=>\"Otley\",\"addr:street\"=>\"Kirkgate\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"LS21 3HN\",\"addr:housenumber\"=>\"15 - 17\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6944378, 53.9053622 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "984242082", "name": "Barclays", "amenity": "bank", "other_tags": "\"operator\"=>\"Barclays Bank PLC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6306083, 53.7130604 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "986777491", "name": "ICICI Bank", "amenity": "bank" }, "geometry": { "type": "Point", "coordinates": [ -1.5159226, 53.8181036 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "989067455", "name": "HSBC", "amenity": "bank", "other_tags": "\"atm\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5377802, 53.8289983 ] } },
