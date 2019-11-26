@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.802000, "longitude": -1.752424 }, "osm_way_id": "298337642", "name": "Iceland", "building": "yes", "shop": "frozen_food", "other_tags": "\"brand\"=>\"Iceland\",\"brand:wikidata\"=>\"Q721810\",\"brand:wikipedia\"=>\"en:Iceland (supermarket)\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7526691, 53.8020248 ], [ -1.752323, 53.8021339 ], [ -1.7521798, 53.8019753 ], [ -1.7525261, 53.8018666 ], [ -1.7526691, 53.8020248 ] ] ] } }
+]
+}

@@ -3,6 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5643784332", "name": "Shipley Phones", "other_tags": "\"addr:city\"=>\"Shipley\",\"addr:postcode\"=>\"BD18 3QW\",\"opening_hours\"=>\"Mo-Sa 09:00-17:30\",\"phone\"=>\"+44 1274599055\",\"shop\"=>\"mobile_phone\",\"website\"=>\"http:\/\/www.shipleyphones.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7780213, 53.8340368 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.801653, "longitude": -1.753329 }, "osm_way_id": "298337648", "name": "Carphone Warehouse", "building": "retail", "shop": "mobile_phone" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.753272, 53.8017383 ], [ -1.753174, 53.8016595 ], [ -1.753385, 53.8015678 ], [ -1.7534831, 53.8016466 ], [ -1.753272, 53.8017383 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.801681, "longitude": -1.753298 }, "osm_way_id": "298337648", "name": "Carphone Warehouse", "building": "retail", "shop": "mobile_phone", "other_tags": "\"brand\"=>\"Carphone Warehouse\",\"brand:wikidata\"=>\"Q118046\",\"brand:wikipedia\"=>\"en:Carphone Warehouse\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7532417, 53.8017666 ], [ -1.7531437, 53.8016878 ], [ -1.7533547, 53.8015961 ], [ -1.7534528, 53.8016749 ], [ -1.7532417, 53.8017666 ] ] ] } }
 ]
 }
