@@ -60,6 +60,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6551413430", "name": "M-Card Machine", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4982913, 53.6856198 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6746166917", "amenity": "vending_machine", "other_tags": "\"operator\"=>\"InPost\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4955072, 53.6808925 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6768697630", "name": "Amazon Locker", "amenity": "vending_machine", "other_tags": "\"brand\"=>\"Amazon Locker\",\"brand:wikidata\"=>\"Q16974764\",\"brand:wikipedia\"=>\"en:Amazon Locker\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3108303, 53.6934984 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6780301273", "name": "Inpost", "amenity": "vending_machine", "other_tags": "\"brand\"=>\"Inpost\",\"operator\"=>\"Inpost\",\"vending\"=>\"parcel_pickup;parcel_mail_in\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3110426, 53.6935707 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6780301273", "name": "Inpost", "amenity": "vending_machine", "other_tags": "\"brand\"=>\"Inpost\",\"operator\"=>\"Inpost\",\"vending\"=>\"parcel_pickup;parcel_mail_in\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3110426, 53.6935707 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7011233683", "name": "Boxcar", "amenity": "vending_machine", "other_tags": "\"operator\"=>\"Amazon\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3399635, 53.7123209 ] } }
 ]
 }
