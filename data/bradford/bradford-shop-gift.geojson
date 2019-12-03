@@ -3,7 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5266801967", "name": "Card Factory", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housename\"=>\"Five Rise Shopping Centre\",\"addr:housenumber\"=>\"Unit 5\",\"addr:postcode\"=>\"BD16 1GL\",\"addr:street\"=>\"Main Street\",\"fhrs:id\"=>\"632527\",\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8362259, 53.8471293 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5688842044", "name": "Luscombe's", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"154\",\"addr:postcode\"=>\"BD16 2HR\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8387589, 53.8486871 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.847789, "longitude": -1.837227 }, "osm_way_id": "486756153", "name": "The Card Emporium", "building": "commercial", "shop": "gift", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Chapel Lane\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8372283, 53.847827 ], [ -1.837174, 53.8477664 ], [ -1.8372257, 53.8477511 ], [ -1.8372792, 53.847812 ], [ -1.8372283, 53.847827 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5688842044", "name": "Luscombe's", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"154\",\"addr:postcode\"=>\"BD16 2HR\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8387589, 53.8486871 ] } }
 ]
 }
