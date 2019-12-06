@@ -1623,7 +1623,7 @@
 { "type": "Feature", "properties": { "osm_id": "6185055722", "Kerb":"lowered", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.47194, 53.80671 ] } },
 { "type": "Feature", "properties": { "osm_id": "6188631070" }, "geometry": { "type": "Point", "coordinates": [ -1.36615, 53.74651 ] } },
 { "type": "Feature", "properties": { "osm_id": "6188631072" }, "geometry": { "type": "Point", "coordinates": [ -1.36529, 53.74630 ] } },
-{ "type": "Feature", "properties": { "osm_id": "6188631073" }, "geometry": { "type": "Point", "coordinates": [ -1.36373, 53.74589 ] } },
+{ "type": "Feature", "properties": { "osm_id": "6188631073" }, "geometry": { "type": "Point", "coordinates": [ -1.36370, 53.74589 ] } },
 { "type": "Feature", "properties": { "osm_id": "6188631079" }, "geometry": { "type": "Point", "coordinates": [ -1.36152, 53.74525 ] } },
 { "type": "Feature", "properties": { "osm_id": "6188631081" }, "geometry": { "type": "Point", "coordinates": [ -1.35988, 53.74473 ] } },
 { "type": "Feature", "properties": { "osm_id": "6188631886" }, "geometry": { "type": "Point", "coordinates": [ -1.35850, 53.74426 ] } },
