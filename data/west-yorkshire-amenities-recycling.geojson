@@ -59,7 +59,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "951535316", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -1.8782918, 53.7152028 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "951535319", "name": "Halifax Household Waste Recycling Site", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -1.8702022, 53.7318506 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "952454818", "name": "Titanic Mill", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -1.8537229, 53.6280932 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "988070298", "amenity": "recycling", "other_tags": "\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5039349, 53.8373003 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "988070298", "amenity": "recycling", "other_tags": "\"recycling:clothes\"=>\"yes\",\"recycling:glass\"=>\"yes\",\"recycling:glass_bottles\"=>\"yes\",\"recycling:glass_jars\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5039349, 53.8373003 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1015824466", "amenity": "recycling", "other_tags": "\"recycling_type\"=>\"container\",\"recycling:glass\"=>\"yes\",\"recycling:paper\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6982727, 53.9027834 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1111892813", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -1.4356312, 53.7939963 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1208082018", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -1.8942234, 53.8019757 ] } },
