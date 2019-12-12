@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "3916676777", "name": "Choice Cartridges", "other_tags": "\"addr:city\"=>\"Horsforth\",\"addr:housenumber\"=>\"100\",\"addr:postcode\"=>\"LS18 4QB\",\"addr:street\"=>\"New Road Side\",\"phone\"=>\"+44 113 2686868\",\"shop\"=>\"printer_ink\",\"website\"=>\"https:\/\/www.choicecartridges.com\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6414596, 53.8322429 ] } }
+]
+}
