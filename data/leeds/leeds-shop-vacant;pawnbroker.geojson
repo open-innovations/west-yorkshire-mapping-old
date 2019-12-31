@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.801952, "longitude": -1.495191 }, "osm_way_id": "759694829", "name": "Auto Money", "building": "yes", "shop": "vacant;pawnbroker", "other_tags": "\"brand\"=>\"Auto Money\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4950471, 53.8020599 ], [ -1.4949687, 53.801995 ], [ -1.4952174, 53.8018944 ], [ -1.4952014, 53.8018802 ], [ -1.495305, 53.8018444 ], [ -1.4954132, 53.801942 ], [ -1.4950471, 53.8020599 ] ] ] } }
+]
+}
