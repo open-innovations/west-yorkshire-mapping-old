@@ -67,7 +67,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "1277537031", "amenity": "recycling", "other_tags": "\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6412533, 53.7069085 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1291453567", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -1.8955459, 53.7092672 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1363569978", "amenity": "recycling", "other_tags": "\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7000053, 53.6707671 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1387873442", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -1.7782071, 53.6429298 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1481371703", "amenity": "recycling" }, "geometry": { "type": "Point", "coordinates": [ -1.9006992, 53.8271792 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1510655364", "amenity": "recycling", "other_tags": "\"recycling:glass\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7936698, 53.6318492 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1534826980", "amenity": "recycling", "other_tags": "\"operator\"=>\"Save The Mothers Trust\",\"recycling:paper\"=>\"yes\",\"recycling:clothes\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8115439, 53.6431684 ] } },
