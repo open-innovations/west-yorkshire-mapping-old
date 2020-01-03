@@ -8,7 +8,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5941346427", "name": "Molton Brown", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"41-43\",\"addr:postcode\"=>\"LS1 6BH\",\"addr:street\"=>\"County Arcade\",\"shop\"=>\"perfumery\",\"website\"=>\"https:\/\/www.moltonbrown.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5402626, 53.79822 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6001482125", "name": "Zest Perfumes & Cosmetics", "other_tags": "\"shop\"=>\"perfumery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5378955, 53.7973391 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6001596335", "name": "Neom", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Victoria Gate\",\"addr:postcode\"=>\"LS2 7AR\",\"addr:street\"=>\"Harewood Street\",\"addr:unit\"=>\"22\",\"level\"=>\"0\",\"shop\"=>\"perfumery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5381181, 53.7981336 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6052531570", "name": "The Perfume Shop", "other_tags": "\"level\"=>\"0\",\"shop\"=>\"perfumery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5739042, 53.7571716 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6052531570", "name": "The Perfume Shop", "other_tags": "\"brand\"=>\"The Perfume Shop\",\"brand:wikidata\"=>\"Q7756719\",\"brand:wikipedia\"=>\"en:The Perfume Shop\",\"level\"=>\"0\",\"shop\"=>\"perfumery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5739042, 53.7571716 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6052531608", "name": "The Fragrance Shop", "other_tags": "\"level\"=>\"0\",\"shop\"=>\"perfumery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5741442, 53.7597737 ] } }
 ]
 }
