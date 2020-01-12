@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "392047416", "amenity": "childcare" }, "geometry": { "type": "Point", "coordinates": [ -1.5521318, 53.7747531 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "430953153", "name": "Kiddi-Club", "amenity": "childcare", "other_tags": "\"level\"=>\"0\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6022848, 53.7836337 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6110740193", "name": "WOOSC", "amenity": "childcare", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Weetwood Primary School\",\"addr:postcode\"=>\"LS16 5NW\",\"addr:street\"=>\"Weetwood Lane\",\"addr:suburb\"=>\"Weetwood\",\"fhrs:id\"=>\"323445\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5829325, 53.8293228 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6110740194", "name": "Carr Manor After School Club", "amenity": "childcare", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Carr Manor Primary School\",\"addr:postcode\"=>\"LS17 5DJ\",\"addr:street\"=>\"Carr Manor Road\",\"addr:suburb\"=>\"Moortown\",\"fhrs:id\"=>\"322813\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5514246, 53.8353173 ] } },
