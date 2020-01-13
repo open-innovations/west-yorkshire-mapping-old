@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "7126021330", "other_tags": "\"shop\"=>\"carpets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6332054, 53.8457659 ] } }
+]
+}

@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "7126021309", "name": "Screwfix", "other_tags": "\"shop\"=>\"diy\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6329989, 53.8457722 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.789530, "longitude": -1.563443 }, "osm_way_id": "201674109", "name": "Johnstone's Decorating Centre", "building": "commercial", "shop": "diy" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5639295, 53.7893324 ], [ -1.5640137, 53.7895663 ], [ -1.5638734, 53.7895848 ], [ -1.5638827, 53.7896234 ], [ -1.5630191, 53.7897266 ], [ -1.5628756, 53.7897082 ], [ -1.5628725, 53.7894466 ], [ -1.5639295, 53.7893324 ] ] ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.859806, "longitude": -1.847854 }, "osm_way_id": "545737595", "name": "Tool Central", "building": "retail", "shop": "diy" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8478509, 53.8596904 ], [ -1.8476674, 53.8598412 ], [ -1.8478579, 53.8599219 ], [ -1.8480414, 53.8597711 ], [ -1.8478509, 53.8596904 ] ] ] ] } }
 ]
