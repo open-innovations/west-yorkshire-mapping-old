@@ -18,8 +18,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2294471712", "barrier": "gate", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7152514, 53.8909266 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4142953997", "name": "Slabbering Baby", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5693136, 53.8538795 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4570094684", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6932972, 53.8896637 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5998770773", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4232743, 53.8019583 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5998770774", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4225528, 53.8017624 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5998770773", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4231688, 53.8022836 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6191158585", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4415491, 53.833172 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6308617486", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3543969, 53.8232516 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6467005569", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4464202, 53.8451276 ] } },
@@ -32,6 +31,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "6662832261", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4680819, 53.80229 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6782831363", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4426675, 53.8366742 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6782831364", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4438187, 53.8383747 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6782831379", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4385412, 53.828995 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6782831379", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4385412, 53.828995 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7128382474", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4244433, 53.8023647 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7128382475", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4258029, 53.8025343 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7128382476", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4276666, 53.8026589 ] } }
 ]
 }
