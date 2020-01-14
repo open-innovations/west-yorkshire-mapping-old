@@ -11,4 +11,4 @@ The data are downloaded in the form of [a PBF file for West Yorkshire](http://do
 
 ## Cities
 
-We've also created a subset of these GeoJSON files for Leeds and Bradford.
+We've also created a subset of these GeoJSON files for Leeds, Bradford, and Calderdale.
