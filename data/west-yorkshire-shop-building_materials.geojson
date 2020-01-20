@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.796536, "longitude": -1.467916 }, "osm_way_id": "708186623", "name": "Myers Building Supplies", "building": "yes", "shop": "building_materials" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4681246, 53.796547 ], [ -1.4678164, 53.7966478 ], [ -1.4677077, 53.7965319 ], [ -1.4678575, 53.7964828 ], [ -1.4678515, 53.7964764 ], [ -1.4680098, 53.7964246 ], [ -1.4681246, 53.796547 ] ] ] ] } }
+]
+}

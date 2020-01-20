@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "7096633034", "name": "Leeds Alarm Centre", "other_tags": "\"shop\"=>\"security\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4931771, 53.8020866 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7096633034", "name": "Leeds Alarm Centre", "other_tags": "\"shop\"=>\"security\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4931771, 53.8020866 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7141864938", "name": "Cube Security Ltd", "other_tags": "\"shop\"=>\"security\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4690858, 53.7962734 ] } }
 ]
 }
