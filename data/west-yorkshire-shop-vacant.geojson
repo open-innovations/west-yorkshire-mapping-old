@@ -182,7 +182,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "6606842488", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3120715, 53.6905656 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6612485489", "other_tags": "\"addr:city\"=>\"Pontefract\",\"addr:housename\"=>\"Unit 4\",\"addr:postcode\"=>\"WF8 4PR\",\"addr:street\"=>\"Park Road Retail Park\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3194268, 53.6973613 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6699962914", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3138618, 53.6920861 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6702943715", "other_tags": "\"beauty\"=>\"tanning\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4476527, 53.8106519 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6769233565", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5294063, 53.8035591 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6769233566", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5294278, 53.8035172 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7089250821", "amenity": "fast_food", "other_tags": "\"cuisine\"=>\"chicken\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4552864, 53.8137665 ] } },
