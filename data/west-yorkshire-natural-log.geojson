@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "7158864525", "barrier": "cycle_barrier", "other_tags": "\"natural\"=>\"log\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4896688, 53.8201314 ] } }
+]
+}
