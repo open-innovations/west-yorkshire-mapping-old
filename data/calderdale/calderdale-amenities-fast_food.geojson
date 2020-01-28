@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "299515948", "amenity": "fast_food" }, "geometry": { "type": "Point", "coordinates": [ -1.8321483, 53.7101396 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "329031801", "name": "Crown Street Fisheries", "amenity": "fast_food", "other_tags": "\"cuisine\"=>\"fish_and_chips\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0129147, 53.7412827 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "329031801", "name": "Crown Street Fisheries", "amenity": "fast_food", "other_tags": "\"cuisine\"=>\"fish_and_chips\",\"takeaway\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0129147, 53.7412827 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "329031805", "name": "Link", "amenity": "fast_food" }, "geometry": { "type": "Point", "coordinates": [ -2.0129677, 53.7411858 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330029826", "name": "Paradise", "amenity": "fast_food", "other_tags": "\"addr:city\"=>\"Hebden Bridge\",\"addr:country\"=>\"GB\",\"addr:housename\"=>\"Hope House\",\"addr:housenumber\"=>\"18\",\"addr:postcode\"=>\"HX7 8AD\",\"addr:street\"=>\"New Road\",\"cuisine\"=>\"indian\",\"fhrs:id\"=>\"348831\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0120668, 53.7408102 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "374406300", "name": "McDonald's", "amenity": "fast_food", "other_tags": "\"cuisine\"=>\"burger\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7787025, 53.7164204 ] } },
