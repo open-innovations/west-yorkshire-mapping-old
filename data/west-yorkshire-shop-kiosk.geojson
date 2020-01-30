@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "843387804", "other_tags": "\"operator\"=>\"WHSmith\",\"shop\"=>\"kiosk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7439937, 53.7135664 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "843387811", "name": "Hartshead Moor Services", "amenity": "fuel", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:country\"=>\"GB\",\"addr:hamlet\"=>\"Clifton\",\"addr:postcode\"=>\"HD6 4JX\",\"addr:street\"=>\"Highmoor Lane\",\"brand\"=>\"Shell\",\"fuel:diesel\"=>\"yes\",\"fuel:HGV_diesel\"=>\"yes\",\"fuel:octane_95\"=>\"yes\",\"opening_hours\"=>\"24\/7\",\"phone\"=>\"+44 1274 876584\",\"ref:navads\"=>\"NVDS353_10018820\",\"shop\"=>\"kiosk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7439057, 53.7120646 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1258398389", "other_tags": "\"shop\"=>\"kiosk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7895032, 53.5694696 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2117006515", "other_tags": "\"shop\"=>\"kiosk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5297667, 53.7793705 ] } },

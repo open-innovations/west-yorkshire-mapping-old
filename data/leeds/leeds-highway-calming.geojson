@@ -1155,6 +1155,7 @@
 { "type": "Feature", "properties": { "osm_id": "7128389716", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.42280, 53.80038 ] } },
 { "type": "Feature", "properties": { "osm_id": "7141356436", "barrier": "bollard" , "traffic_calming":"choker" }, "geometry": { "type": "Point", "coordinates": [ -1.49393, 53.78869 ] } },
 { "type": "Feature", "properties": { "osm_id": "7141784083", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.44820, 53.81517 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7158858426", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.46200, 53.81620 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7158858426", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.46200, 53.81620 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7169643113", "barrier": "gate" , "traffic_calming":"island" }, "geometry": { "type": "Point", "coordinates": [ -1.50827, 53.80002 ] } }
 ]
 }
