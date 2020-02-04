@@ -318,6 +318,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6859203125", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6700965, 53.6764705 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6934606429", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3341621, 53.7123301 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6934632321", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3418484, 53.7104455 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6993858957", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8984692, 53.8268723 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6993858957", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8984692, 53.8268723 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7181035933", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Tesco Express\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7956128, 53.928733 ] } }
 ]
 }
