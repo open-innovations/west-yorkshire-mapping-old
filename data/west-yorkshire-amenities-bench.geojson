@@ -891,6 +891,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7158671139", "name": "Walton Parish Council seat 30", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.4650981, 53.6485011 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7158672649", "name": "Walton Parish Council seat 8", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.4551914, 53.6483402 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7158678485", "name": "Walton Parish Council seat 9", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.4616505, 53.6488842 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7191286533", "amenity": "bench", "other_tags": "\"backrest\"=>\"no\",\"colour\"=>\"Black\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3399262, 53.7104672 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "734854382", "z_order": 0, "other_tags": "\"amenity\"=>\"bench\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.498663, 53.8373593 ], [ -1.498608, 53.8372445 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "734854383", "z_order": 0, "other_tags": "\"amenity\"=>\"bench\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4986477, 53.8373624 ], [ -1.4985927, 53.8372476 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "734854384", "z_order": 0, "other_tags": "\"amenity\"=>\"bench\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4986327, 53.8373656 ], [ -1.4985777, 53.8372509 ] ] } },
