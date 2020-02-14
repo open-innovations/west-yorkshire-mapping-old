@@ -4,7 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "411733763", "name": "Ashlar Chair", "is_in": "Romalds Moor", "other_tags": "\"natural\"=>\"rock\",\"alt_name\"=>\"Druid's Chair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.81708, 53.8991849 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1103305292", "name": "Pancake Stone", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.797421, 53.9120442 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1103305737", "name": "Calf", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.802472, 53.9171548 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2295207839", "name": "Orchan Rocks", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1188191, 53.7322452 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2450607779", "name": "Wolf Stones", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.129564, 53.7547193 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2593945452", "name": "Adel Crags", "other_tags": "\"sport\"=>\"climbing\",\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5732492, 53.8575349 ] } },
@@ -12,7 +11,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "3940962606", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8031816, 53.9128122 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5357338383", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.953062, 53.5904444 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6126218950", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8954029, 53.8950493 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6760355306", "name": "Cow", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8029713, 53.9169738 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6840867805", "name": "Rockery", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.744461, 53.8100858 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7094153791", "name": "Paddy's Crossing", "other_tags": "\"historic\"=>\"memorial\",\"memorial\"=>\"plaque\",\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4784001, 53.8044813 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.619549, "longitude": -1.793719 }, "osm_way_id": "233180619", "natural": "rock" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7936811, 53.6195605 ], [ -1.7937133, 53.6195318 ], [ -1.7937562, 53.6195414 ], [ -1.7937294, 53.6195668 ], [ -1.7936811, 53.6195605 ] ] ] ] } },
