@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "6872262750", "other_tags": "\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7345322, 53.8248342 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6872262751", "other_tags": "\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7346814, 53.8255599 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6872262751", "other_tags": "\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7346814, 53.8255599 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7211351134", "name": "Avanti Coffee Shop", "other_tags": "\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8238126, 53.9250855 ] } }
 ]
 }
