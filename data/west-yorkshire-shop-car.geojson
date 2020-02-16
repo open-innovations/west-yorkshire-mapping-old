@@ -63,7 +63,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "3191671093", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7242132, 53.876278 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3660972193", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9277634, 53.8354941 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4449839272", "name": "New Rodley Motors", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6506422, 53.818332 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4474318126", "name": "East Leeds Car Sales", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4532431, 53.8078626 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4474318126", "name": "East Leeds Car Sales", "other_tags": "\"second_hand\"=>\"only\",\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4532431, 53.8078626 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4489200799", "name": "Eden Mobility", "other_tags": "\"shop\"=>\"car\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4504143, 53.8063864 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4755205823", "name": "Pentagon", "other_tags": "\"name:en\"=>\"Pentagon\",\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7796556, 53.6503685 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4846648928", "name": "Auto Tech", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5964401, 53.7427975 ] } },

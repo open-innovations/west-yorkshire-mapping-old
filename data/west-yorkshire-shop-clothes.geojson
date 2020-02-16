@@ -109,6 +109,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4489200794", "name": "Jack & Jill", "other_tags": "\"clothes\"=>\"children;toys\",\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4504103, 53.8067031 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4602768928", "name": "Yorkshire Menswear", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6629175, 53.8231128 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4636108674", "name": "Fat Face", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0132507, 53.741658 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4653490142", "name": "Cats", "other_tags": "\"second_hand\"=>\"only\",\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4512422, 53.8073106 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4885695945", "name": "Select", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.544226, 53.8010395 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4951726045", "name": "USC", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.781345, 53.6440407 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4951726046", "name": "Dorothy Perkins", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7821254, 53.6440243 ] } },
