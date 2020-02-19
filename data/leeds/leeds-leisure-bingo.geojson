@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "313102499", "name": "New Western Bingo", "other_tags": "\"leisure\"=>\"bingo\",\"opening_hours\"=>\"closed\"" }, "geometry": { "type": "Point", "coordinates": [ -1.59087, 53.7985059 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.796169, "longitude": -1.536083 }, "osm_way_id": "199050391", "name": "Mecca Bingo", "building": "yes", "leisure": "bingo", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"50\",\"addr:postcode\"=>\"LS2 7DY\",\"fhrs:id\"=>\"319993\",\"levels\"=>\"3\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5363233, 53.7959474 ], [ -1.5363006, 53.7962737 ], [ -1.5362924, 53.7963901 ], [ -1.5359733, 53.7963896 ], [ -1.5359354, 53.7963818 ], [ -1.5358931, 53.7963672 ], [ -1.535865, 53.7963548 ], [ -1.5358499, 53.7963338 ], [ -1.5358439, 53.7963142 ], [ -1.5358436, 53.7962885 ], [ -1.5358647, 53.7959917 ], [ -1.5363233, 53.7959474 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "313102499", "name": "New Western Bingo", "other_tags": "\"leisure\"=>\"bingo\",\"opening_hours\"=>\"closed\"" }, "geometry": { "type": "Point", "coordinates": [ -1.59087, 53.7985059 ] } }
 ]
 }
