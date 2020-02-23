@@ -4,7 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "27456695", "name": "The Village Shop", "amenity": "post_office", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5107032, 53.8997963 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "146657042", "name": "Keiths Grocery", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5409342, 53.8106735 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "204035101", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7807031, 53.6457748 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "244138884", "name": "Kirkstall Lane Off-licence", "other_tags": "\"addr:housenumber\"=>\"201\",\"addr:postcode\"=>\"LS6 3EJ\",\"addr:street\"=>\"Kirkstall Lane\",\"fhrs:id\"=>\"319904\",\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5834435, 53.8186251 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "244220916", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9256315, 53.7062903 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "244220917", "other_tags": "\"shop\"=>\"convenience\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9382563, 53.7053132 ] } },

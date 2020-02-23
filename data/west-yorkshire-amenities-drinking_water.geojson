@@ -14,6 +14,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5584785556", "amenity": "drinking_water" }, "geometry": { "type": "Point", "coordinates": [ -1.5547345, 53.8055455 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5584788768", "amenity": "drinking_water" }, "geometry": { "type": "Point", "coordinates": [ -1.554697, 53.8049847 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5584804966", "amenity": "drinking_water", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5546914, 53.8063025 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5584804967", "amenity": "drinking_water", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5547343, 53.805894 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5584804967", "amenity": "drinking_water", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5547343, 53.805894 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7234390569", "amenity": "drinking_water", "other_tags": "\"access\"=>\"customers\",\"bottle\"=>\"yes\",\"fee\"=>\"no\",\"operator\"=>\"Kingsgate Centre\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7793059, 53.6462568 ] } }
 ]
 }

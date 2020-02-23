@@ -4,7 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "304635317", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8562588, 53.6404322 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "313246924", "name": "Blamey's Florist", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5875588, 53.7979774 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "314680695", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7819296, 53.6463047 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "314680695", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7819082, 53.64635 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330089284", "name": "Floral Expression", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.591898, 53.7966243 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "340071333", "name": "Kingston Centre Florists", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6324472, 53.8140219 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "343131669", "name": "Bartle's", "other_tags": "\"shop\"=>\"florist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5443651, 53.8019688 ] } },
