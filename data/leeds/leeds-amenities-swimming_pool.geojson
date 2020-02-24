@@ -4,7 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "27563238", "amenity": "swimming_pool", "other_tags": "\"sport\"=>\"swimming\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6944674, 53.9131665 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "828501695", "amenity": "swimming_pool" }, "geometry": { "type": "Point", "coordinates": [ -1.592567, 53.8283572 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1885259751", "name": "Virgin Active", "amenity": "swimming_pool", "other_tags": "\"sport\"=>\"swimming\",\"covered\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5461011, 53.8001647 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.896789, "longitude": -1.524833 }, "osm_way_id": "95077718", "amenity": "swimming_pool" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.524746, 53.8968064 ], [ -1.5247621, 53.896769 ], [ -1.5248716, 53.8967526 ], [ -1.524898, 53.8967707 ], [ -1.5249191, 53.8967852 ], [ -1.5248867, 53.8968074 ], [ -1.5248418, 53.8968155 ], [ -1.5247767, 53.896825 ], [ -1.524746, 53.8968064 ] ] ] } }
 ]
 }
