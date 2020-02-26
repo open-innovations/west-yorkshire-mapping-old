@@ -5,7 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "274257501", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.550829, 53.8125885 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "292238285", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5558368, 53.7671986 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "302043800", "name": "Washday Blues", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6205359, 53.796129 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "329041405", "name": "The Launderette", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0128689, 53.7421049 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "329041405", "name": "The Launderette", "other_tags": "\"self_service\"=>\"yes\",\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0128881, 53.7421002 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "349352556", "name": "Stitches", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6369154, 53.806571 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "382568477", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7759059, 53.8036097 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "390942296", "name": "Posh Wash Launderette", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5513904, 53.7739699 ] } },

@@ -33,7 +33,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6584456162", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4502671, 53.8065142 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6814590825", "name": "Ace Cards", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3862807, 53.9282004 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6814611949", "name": "Twenty Seven", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3853047, 53.9287131 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6814641364", "name": "Card Factory", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.384994, 53.928825 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6814641364", "name": "Card Factory", "other_tags": "\"brand\"=>\"Card Factory\",\"brand:wikidata\"=>\"Q5038192\",\"brand:wikipedia\"=>\"en:Card Factory\",\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.384994, 53.928825 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6945883871", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5285863, 53.895184 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6969267523", "name": "Card Factory", "other_tags": "\"brand\"=>\"Card Factory\",\"brand:wikidata\"=>\"Q5038192\",\"brand:wikipedia\"=>\"en:Card Factory\",\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4780715, 53.7487727 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6969267525", "name": "Mrs Bobbins", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4779495, 53.7485823 ] } },
