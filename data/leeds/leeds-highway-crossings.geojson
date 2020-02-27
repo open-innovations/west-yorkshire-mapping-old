@@ -2218,6 +2218,5 @@
 { "type": "Feature", "properties": { "osm_id": "7243378849" }, "geometry": { "type": "Point", "coordinates": [ -1.57046, 53.81710 ] } },
 { "type": "Feature", "properties": { "osm_id": "7243378853" }, "geometry": { "type": "Point", "coordinates": [ -1.56779, 53.81471 ] } },
 { "type": "Feature", "properties": { "osm_id": "7243378856" }, "geometry": { "type": "Point", "coordinates": [ -1.56262, 53.81501 ] } }
-
 ]
 }
