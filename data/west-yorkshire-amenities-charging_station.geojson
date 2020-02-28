@@ -27,7 +27,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6793996050", "amenity": "charging_station", "ref": "ENG01021", "other_tags": "\"operator\"=>\"Engie\",\"parking:fee\"=>\"no\",\"socket:chademo\"=>\"1\",\"socket:type2\"=>\"1\",\"socket:type2_combo\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6628569, 53.7950348 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6927497206", "amenity": "charging_station", "other_tags": "\"operator\"=>\"Rolec\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3410492, 53.7118445 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6927497207", "amenity": "charging_station", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3452845, 53.710351 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6927503001", "name": "Savile Road Service Station", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.3585855, 53.7275049 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6927503001", "amenity": "charging_station", "other_tags": "\"operator\"=>\"Alafa Power\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3585855, 53.7275049 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6927503002", "name": "Tesla Supercharger", "amenity": "charging_station", "other_tags": "\"brand\"=>\"Tesla Supercharger\",\"brand:wikidata\"=>\"Q17089620\",\"brand:wikipedia\"=>\"en:Tesla Supercharger\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3839177, 53.7171834 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6937731915", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\",\"car\"=>\"yes\",\"fee\"=>\"free until October 2021\",\"operator\"=>\"engie\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8367365, 53.8480457 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6946529200", "name": "EVbox", "amenity": "charging_station", "other_tags": "\"access\"=>\"yes\",\"addr:city\"=>\"Pontefract\",\"addr:postcode\"=>\"WF8 1BJ\",\"addr:street\"=>\"Stuart Road\",\"capacity\"=>\"2\",\"fee\"=>\"no\",\"opening_hours\"=>\"From 9th November  24\/7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3147442, 53.6933381 ] } },
@@ -37,6 +37,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "7244006026", "name": "Podpoint", "amenity": "charging_station", "other_tags": "\"operator\"=>\"PodPoint\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2733521, 53.7026781 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7244040449", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.2669465, 53.6981219 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7244040450", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.3838425, 53.7172082 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7244040451", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.3188289, 53.6924203 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7244040451", "amenity": "charging_station", "other_tags": "\"access\"=>\"customers\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3188289, 53.6924203 ] } }
 ]
 }
