@@ -1178,6 +1178,8 @@
 { "type": "Feature", "properties": { "osm_id": "7216064784" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.44619, 53.75634 ] } },
 { "type": "Feature", "properties": { "osm_id": "7216110785" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.44516, 53.75498 ] } },
 { "type": "Feature", "properties": { "osm_id": "7218421549" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.44679, 53.74914 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7236782567" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.46416, 53.78657 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7236782567" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.46416, 53.78657 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7251436999", "barrier": "block" , "traffic_calming":"chicane" }, "geometry": { "type": "Point", "coordinates": [ -1.54856, 53.79540 ] } }
+
 ]
 }
