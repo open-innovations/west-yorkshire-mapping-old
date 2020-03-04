@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.806201, "longitude": -1.585260 }, "osm_way_id": "27420486", "name": "Kirkstall Road Waste Sorting Site", "amenity": "recycling;waste_transfer_station", "landuse": "industrial", "other_tags": "\"operator\"=>\"Leeds City Council\",\"recycling_type\"=>\"centre\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5865812, 53.8059921 ], [ -1.5866677, 53.8060945 ], [ -1.5866497, 53.8061663 ], [ -1.5866472, 53.8063037 ], [ -1.5867441, 53.806329 ], [ -1.5866123, 53.8065861 ], [ -1.5864989, 53.8065641 ], [ -1.5864558, 53.8066282 ], [ -1.5864077, 53.8066226 ], [ -1.5863605, 53.8067379 ], [ -1.5862664, 53.8068288 ], [ -1.5855185, 53.806956 ], [ -1.5854923, 53.8069378 ], [ -1.5854365, 53.8068285 ], [ -1.5853036, 53.8067926 ], [ -1.5837753, 53.8063995 ], [ -1.5845648, 53.8055241 ], [ -1.5847277, 53.8054454 ], [ -1.5865812, 53.8059921 ] ] ] } }
+]
+}
