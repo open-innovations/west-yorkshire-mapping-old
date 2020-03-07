@@ -5,6 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "280718272", "name": "Redmond's Spa", "other_tags": "\"natural\"=>\"spring\",\"description\"=>\"Chalybeate spring, cit. OS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8252965, 53.8869386 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "280719166", "name": "Hog Hill Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8149101, 53.8831077 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "338716325", "name": "Cocklake Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7925683, 53.8837752 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "411708379", "name": "Wareholes Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5243439, 53.9408674 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "411732049", "name": "Sweet Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8422686, 53.8939834 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "411739917", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.902363, 53.9219424 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "429729619", "name": "Nor Hill Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9645286, 53.9549284 ] } },
