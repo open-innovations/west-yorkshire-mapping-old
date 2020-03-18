@@ -1,0 +1,12 @@
+{
+	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-waste_basket.geojson",
+	"name":"Leeds waste baskets",
+	"desc":"A waste basket is a single small container for depositing rubbish that is easily accessible for pedestrians. It can also be called a rubbish bin, litter bin, trash can, or garbage can. These come from Open Street Map.",
+	"url":"https://openstreetmap.org/",
+	"owner":"osm",
+	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
+	"date":"2020-01-11",
+	"odbl":true,
+	"size": 28633,
+	"colour":"#000000"
+}
