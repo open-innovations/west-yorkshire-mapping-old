@@ -42,6 +42,7 @@
 	"osm-leeds-schools": {"name":"Leeds schools","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-leeds-schools.json" },
 	"osm-leeds-social-club": {"name":"Leeds social clubs","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-leeds-social-club.json" },
 	"osm-leeds-trees": {"name":"Leeds trees","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-leeds-trees.json" },
+	"osm-leeds-waste_basket": {"name":"Leeds waste baskets","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-leeds-waste_basket.json" },
 	"osm-leeds-wood": {"name":"Leeds woods","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-leeds-wood.json" },
 	"osm-wy-allotments": {"name":"West Yorkshire allotments","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-wy-allotments.json" },
 	"osm-wy-bikeshops": {"name":"West Yorkshire bike shops","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-wy-bikeshops.json" },
