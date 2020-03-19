@@ -2124,7 +2124,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5248165215", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7854536, 53.7996585 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5254754514", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8083348, 53.5722431 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5254777445", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.824551, 53.5845506 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5254827260", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7963417, 53.5897413 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5254827260", "amenity": "post_box", "ref": "HD9 189D", "other_tags": "\"collection_times\"=>\"Mo-Fr 09:00; Sa 07:00\",\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7963417, 53.5897413 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5254852238", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"wall\",\"royal_cypher\"=>\"EIIR\"" }, "geometry": { "type": "Point", "coordinates": [ -2.020669, 53.748944 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5254852240", "amenity": "post_box" }, "geometry": { "type": "Point", "coordinates": [ -2.0211786, 53.7478956 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5254852249", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0040983, 53.741949 ] } },

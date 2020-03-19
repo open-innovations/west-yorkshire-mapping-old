@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.730513, "longitude": -1.782070 }, "osm_way_id": "782419506", "name": "Nordgreen Nurseries", "landuse": "plant_nursery", "other_tags": "\"addr:housename\"=>\"Whitehall Road\",\"addr:postcode\"=>\"HX3 8PT\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7830376, 53.7310243 ], [ -1.7810595, 53.7306215 ], [ -1.7814971, 53.7300015 ], [ -1.7827202, 53.7303188 ], [ -1.7828609, 53.7306822 ], [ -1.7828972, 53.7307758 ], [ -1.7830796, 53.7308964 ], [ -1.7830376, 53.7310243 ] ] ] } }
+]
+}
