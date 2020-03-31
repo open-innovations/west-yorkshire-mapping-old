@@ -2236,6 +2236,8 @@
 { "type": "Feature", "properties": { "osm_id": "7275655202" }, "geometry": { "type": "Point", "coordinates": [ -1.53565, 53.79170 ] } },
 { "type": "Feature", "properties": { "osm_id": "7275676988" }, "geometry": { "type": "Point", "coordinates": [ -1.54831, 53.79732 ] } },
 { "type": "Feature", "properties": { "osm_id": "7325229542" }, "geometry": { "type": "Point", "coordinates": [ -1.46296, 53.80842 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7325229543" }, "geometry": { "type": "Point", "coordinates": [ -1.46291, 53.80825 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7325229543" }, "geometry": { "type": "Point", "coordinates": [ -1.46291, 53.80825 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7344540823" }, "geometry": { "type": "Point", "coordinates": [ -1.48277, 53.79735 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7344540825", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.48406, 53.79597 ] } }
 ]
 }
