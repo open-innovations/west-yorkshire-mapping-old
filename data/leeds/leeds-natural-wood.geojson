@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4474305332", "other_tags": "\"natural\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4527831, 53.8155814 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4474305332", "other_tags": "\"natural\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4530508, 53.8158985 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6294105450", "name": "Great Heads Wood", "other_tags": "\"natural\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.498764, 53.8477624 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6294105451", "other_tags": "\"natural\"=>\"wood\",\"proposed\"=>\"natural\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4995835, 53.8485094 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6294107493", "name": "Great Heads Wood", "other_tags": "\"natural\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.490466, 53.8440923 ] } },
