@@ -70,7 +70,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5331826503", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.8078011, 53.8363804 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5387998547", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.5448545, 53.7543013 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5648164584", "amenity": "toilets", "other_tags": "\"level\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5437575, 53.8004623 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5893526078", "amenity": "toilets", "other_tags": "\"diaper\"=>\"yes\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7996575, 53.6492912 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5893526078", "amenity": "toilets", "other_tags": "\"changing_table\"=>\"yes\",\"diaper\"=>\"yes\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7996575, 53.6492912 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5966155637", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.7553301, 53.7920427 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6003229765", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.9398379, 53.6045319 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6033885569", "amenity": "toilets", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Corn Exchange\",\"addr:postcode\"=>\"LS1 7BR\",\"addr:street\"=>\"Call Lane\",\"level\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5402773, 53.7957936 ] } },
