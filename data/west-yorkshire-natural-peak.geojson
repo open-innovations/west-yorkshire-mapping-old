@@ -8,7 +8,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "29784410", "name": "Maw Stones Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0368147, 53.8566525 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "29784411", "name": "Withins Height", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0362408, 53.8100907 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "29784412", "name": "Oxenhope Stoop Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0115663, 53.8070576 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "29784477", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0105263, 53.8718961 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "29784477", "name": "Kidstone Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0105263, 53.8718961 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "29845871", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1250799, 53.7885957 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "29845872", "other_tags": "\"natural\"=>\"peak\",\"source:ele\"=>\"height in feet (1545) from npe, converted to metres\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1294207, 53.7632061 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "29846018", "name": "Holder Stones, Langfield Common", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0447172, 53.6881489 ] } },
