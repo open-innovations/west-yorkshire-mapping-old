@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "959902785", "name": "The Bicycle Den", "amenity": "cafe", "other_tags": "\"shop\"=>\"bicycle\",\"old_name\"=>\"Cycle Recycle\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0169142, 53.7404376 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "959902785", "name": "Hebble End Coffee Lounge", "amenity": "cafe", "other_tags": "\"old_name\"=>\"Cycle Recycle\",\"outdoor_seating\"=>\"yes\",\"shop\"=>\"bicycle\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0169142, 53.7404376 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1237420516", "name": "Shay Cycles", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"44-46\",\"addr:postcode\"=>\"HX1 2LY\",\"addr:street\"=>\"South Parade\",\"shop\"=>\"bicycle\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8571516, 53.7175902 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1414445060", "other_tags": "\"shop\"=>\"bicycle\"" }, "geometry": { "type": "Point", "coordinates": [ -2.102269, 53.71015 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2459851978", "name": "PedalSport", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:housenumber\"=>\"193 -195\",\"addr:postcode\"=>\"HX1 3LN\",\"addr:street\"=>\"King Cross Road\",\"opening_hours\"=>\"Mo 09:30-17:30; Tu 09:30-17:30; We off; Th 09:30-17:30; Fr 09:30-18:00; Sa 09:30-16:00; Su off\",\"phone\"=>\"+44 1422 361460\",\"shop\"=>\"bicycle\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8797291, 53.715639 ] } },

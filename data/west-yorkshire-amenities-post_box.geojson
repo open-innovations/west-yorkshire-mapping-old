@@ -2375,6 +2375,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7326737131", "amenity": "post_box", "ref": "WF8 11" }, "geometry": { "type": "Point", "coordinates": [ -1.3114692, 53.693719 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7326737132", "amenity": "post_box", "ref": "WF8 7" }, "geometry": { "type": "Point", "coordinates": [ -1.310866, 53.6916554 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7341658187", "amenity": "post_box", "ref": "HD1 104" }, "geometry": { "type": "Point", "coordinates": [ -1.7859368, 53.6467596 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7341658188", "amenity": "post_box", "ref": "HD1 271" }, "geometry": { "type": "Point", "coordinates": [ -1.7859355, 53.6467787 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7341658188", "amenity": "post_box", "ref": "HD1 271" }, "geometry": { "type": "Point", "coordinates": [ -1.7859355, 53.6467787 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7401625270", "amenity": "post_box", "other_tags": "\"drive_through\"=>\"no\",\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0310476, 53.7538684 ] } }
 ]
 }
