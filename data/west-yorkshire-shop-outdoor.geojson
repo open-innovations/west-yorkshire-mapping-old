@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "295417277", "name": "Chevin Trek", "other_tags": "\"shop\"=>\"outdoor\",\"website\"=>\"www.chevintrek.co.uk\",\"addr:city\"=>\"Otley\",\"is_in:town\"=>\"Otley\",\"addr:street\"=>\"Gay Lane\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"LS21 1BR\",\"addr:housenumber\"=>\"34\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6901189, 53.9027359 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314446193", "other_tags": "\"shop\"=>\"outdoor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7842253, 53.6446437 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "538416255", "name": "BAC", "other_tags": "\"shop\"=>\"outdoor\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8378408, 53.6852302 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "766759803", "name": "Kenmar Camping & Leisure", "other_tags": "\"shop\"=>\"outdoor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4230348, 53.6655493 ] } },

@@ -19,7 +19,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1535922407", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7834076, 53.6438014 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1613532769", "name": "mind", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6273497, 53.692346 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1614633366", "name": "pdsa", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6282948, 53.6922255 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2106070848", "name": "British Heart Foundation", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5786325, 53.822515 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2106070848", "name": "British Heart Foundation", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5786835, 53.8225498 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2121379000", "name": "Sue Ryder Care", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6258013, 53.6880418 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2145554315", "name": "Sue Ryder", "other_tags": "\"shop\"=>\"charity\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Otley Road\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"LS6 3AB\",\"addr:housenumber\"=>\"57\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5777368, 53.8210678 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2148948486", "name": "St Gemmas", "other_tags": "\"shop\"=>\"charity\"" }, "geometry": { "type": "Point", "coordinates": [ -1.563023, 53.8571946 ] } },

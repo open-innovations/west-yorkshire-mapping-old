@@ -320,6 +320,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6934632321", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3418484, 53.7104455 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6993858957", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8984692, 53.8268723 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7181035933", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Tesco Express\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7956128, 53.928733 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7316151370", "amenity": "atm", "other_tags": "\"brand\"=>\"Santander\",\"opening_hours\"=>\"24\/7\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6008979, 53.7451769 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7316151370", "amenity": "atm", "other_tags": "\"brand\"=>\"Santander\",\"opening_hours\"=>\"24\/7\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6008979, 53.7451769 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7431404791", "amenity": "atm", "other_tags": "\"fee\"=>\"None\",\"operator\"=>\"Sainsbury's\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5780687, 53.8218711 ] } }
 ]
 }
