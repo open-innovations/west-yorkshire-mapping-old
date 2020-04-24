@@ -9,7 +9,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "306328529", "name": "Tower Lane Garage", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6048552, 53.7990917 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "317087697", "name": "Americo Motors", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"High Court Lane\",\"phone\"=>\"+44 113 244 1437\",\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5372447, 53.794728 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "319860943", "name": "Apex Auto Care Centre", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5754989, 53.8104858 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "328993349", "name": "Brooklyn", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0116823, 53.744221 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "328993349", "name": "Brooklyn", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0118844, 53.7441967 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "328993358", "name": "Star Garage", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0120285, 53.7439338 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333790969", "name": "M&J Auto Repairs", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5402622, 53.7845002 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333790973", "name": "NCR Bodycare", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5421651, 53.7845809 ] } },

@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "299514486", "name": "West Lane Garage", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8311276, 53.7074704 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "328993349", "name": "Brooklyn", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0116823, 53.744221 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "328993349", "name": "Brooklyn", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0118844, 53.7441967 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "328993358", "name": "Star Garage", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0120285, 53.7439338 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1237420471", "name": "Hi Q", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"70\",\"addr:postcode\"=>\"HX1 1QE\",\"addr:street\"=>\"Horton Street\",\"shop\"=>\"car_repair\",\"website\"=>\"https:\/\/www.hiqonline.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8560841, 53.7208455 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1535393165", "name": "New Barn Garage", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1032249, 53.7081825 ] } },
