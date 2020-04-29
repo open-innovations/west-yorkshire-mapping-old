@@ -23,8 +23,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "3571882528", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9412664, 53.7077962 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3571882529", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9415124, 53.7080361 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3571882530", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9406541, 53.7080811 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4145229580", "name": "The Climbing Tree", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8903482, 53.7024404 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4145229582", "name": "The Climbing Tree", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8912977, 53.7053412 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4711759032", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8783726, 53.672606 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4711759033", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.879176, 53.6725536 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4711759034", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8791384, 53.6724988 ] } },
