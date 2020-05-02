@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "3916676777", "name": "Choice Cartridges", "other_tags": "\"addr:city\"=>\"Horsforth\",\"addr:housenumber\"=>\"100\",\"addr:postcode\"=>\"LS18 4QB\",\"addr:street\"=>\"New Road Side\",\"phone\"=>\"+44 113 2686868\",\"shop\"=>\"printer_ink\",\"website\"=>\"https:\/\/www.choicecartridges.com\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6414596, 53.8322429 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.647539, "longitude": -1.782892 }, "osm_way_id": "333926237", "name": "Cartridge World", "shop": "printer_ink" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7827633, 53.6475302 ], [ -1.7827779, 53.6475697 ], [ -1.7830203, 53.6475475 ], [ -1.7830137, 53.6475078 ], [ -1.7827633, 53.6475302 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "3916676777", "name": "Choice Cartridges", "other_tags": "\"addr:city\"=>\"Horsforth\",\"addr:housenumber\"=>\"100\",\"addr:postcode\"=>\"LS18 4QB\",\"addr:street\"=>\"New Road Side\",\"phone\"=>\"+44 113 2686868\",\"shop\"=>\"printer_ink\",\"website\"=>\"https:\/\/www.choicecartridges.com\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6414596, 53.8322429 ] } }
 ]
 }

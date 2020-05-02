@@ -2,8 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "490717228", "name": "Scholemoor Crematorium", "amenity": "crematorium" }, "geometry": { "type": "Point", "coordinates": [ -1.7979283, 53.7906304 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.836492, "longitude": -1.807765 }, "osm_way_id": "50176034", "amenity": "crematorium", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8078882, 53.8366124 ], [ -1.8076505, 53.8366156 ], [ -1.8076409, 53.8363719 ], [ -1.8078786, 53.8363686 ], [ -1.8078882, 53.8366124 ] ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.850113, "longitude": -1.964712 }, "osm_way_id": "605318703", "name": "Oakworth Crematorium", "amenity": "crematorium", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9648161, 53.8502224 ], [ -1.9646207, 53.8502539 ], [ -1.9645617, 53.8501267 ], [ -1.9646503, 53.8501124 ], [ -1.964593, 53.8499889 ], [ -1.9646918, 53.849973 ], [ -1.964722, 53.8500382 ], [ -1.9648361, 53.8500198 ], [ -1.9648615, 53.8500747 ], [ -1.9647555, 53.8500918 ], [ -1.9648161, 53.8502224 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "490717228", "name": "Scholemoor Crematorium", "amenity": "crematorium" }, "geometry": { "type": "Point", "coordinates": [ -1.7979283, 53.7906304 ] } }
 ]
 }

@@ -3,8 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2353394453", "name": "Agars", "other_tags": "\"shop\"=>\"fishing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6884213, 53.9062645 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3903000730", "name": "Supreme Angling Ltd", "other_tags": "\"addr:city\"=>\"Horsforth\",\"addr:housenumber\"=>\"125\",\"addr:postcode\"=>\"LS18 4QD\",\"addr:street\"=>\"New Road Side\",\"opening_hours\"=>\"Mo-Fr 08:30-17:30; Sa 08:30-16:30\",\"phone\"=>\"+44 113 281 8539\",\"shop\"=>\"fishing\",\"website\"=>\"https:\/\/www.supremeangling.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.643163, 53.8320344 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7089250816", "name": "JT Rodgers", "other_tags": "\"shop\"=>\"fishing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.45462, 53.8141986 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.781115, "longitude": -1.364484 }, "osm_way_id": "686355192", "name": "Koi and pond supplies", "building": "yes", "shop": "fishing" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.36467, 53.7811592 ], [ -1.3642883, 53.7811424 ], [ -1.3642975, 53.7810698 ], [ -1.3646792, 53.7810866 ], [ -1.36467, 53.7811592 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "3903000730", "name": "Supreme Angling Ltd", "other_tags": "\"addr:city\"=>\"Horsforth\",\"addr:housenumber\"=>\"125\",\"addr:postcode\"=>\"LS18 4QD\",\"addr:street\"=>\"New Road Side\",\"opening_hours\"=>\"Mo-Fr 08:30-17:30; Sa 08:30-16:30\",\"phone\"=>\"+44 113 281 8539\",\"shop\"=>\"fishing\",\"website\"=>\"https:\/\/www.supremeangling.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.643163, 53.8320344 ] } }
 ]
 }

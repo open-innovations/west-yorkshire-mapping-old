@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2353440332", "name": "Browns Gallery", "other_tags": "\"addr:city\"=>\"Otley\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"34\",\"addr:postcode\"=>\"LS21 1AZ\",\"addr:street\"=>\"Boroughgate\",\"shop\"=>\"frame\",\"website\"=>\"www.brownsgallery.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6921522, 53.9058252 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5311505844", "name": "Holdsworths Picture Framers", "other_tags": "\"shop\"=>\"frame\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6935159, 53.9068822 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2353440332", "name": "Browns Gallery", "other_tags": "\"addr:city\"=>\"Otley\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"34\",\"addr:postcode\"=>\"LS21 1AZ\",\"addr:street\"=>\"Boroughgate\",\"shop\"=>\"frame\",\"website\"=>\"www.brownsgallery.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6921522, 53.9058252 ] } }
 ]
 }

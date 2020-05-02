@@ -3,7 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "330029827", "name": "Denny & Wright", "amenity": "dentist", "other_tags": "\"healthcare\"=>\"dentist\",\"healthcare:speciality\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0118704, 53.7407617 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "846955795", "name": "Fresh Smile Clinic", "amenity": "dentist", "other_tags": "\"healthcare\"=>\"dentist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7792917, 53.7036038 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.686760, "longitude": -1.855202 }, "osm_way_id": "459856063", "name": "West Vale Dental Surgery", "amenity": "dentist", "building": "yes", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"64\",\"addr:postcode\"=>\"HX4 8AG\",\"addr:street\"=>\"Saddleworth Road\",\"addr:suburb\"=>\"West Vale\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8551919, 53.686821 ], [ -1.8551446, 53.6867018 ], [ -1.855225, 53.6866988 ], [ -1.8552587, 53.686817 ], [ -1.8551919, 53.686821 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "846955795", "name": "Fresh Smile Clinic", "amenity": "dentist", "other_tags": "\"healthcare\"=>\"dentist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7792917, 53.7036038 ] } }
 ]
 }

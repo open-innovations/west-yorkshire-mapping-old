@@ -2,9 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1284558147", "other_tags": "\"landuse\"=>\"pond\",\"natural\"=>\"water\",\"water\"=>\"pond\"" }, "geometry": { "type": "Point", "coordinates": [ -1.946026, 53.8183359 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.781525, "longitude": -1.791902 }, "osm_way_id": "75665703", "landuse": "pond", "natural": "water", "other_tags": "\"boat\"=>\"no\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7916713, 53.7815943 ], [ -1.7917893, 53.781645 ], [ -1.7919181, 53.7816323 ], [ -1.7919717, 53.7815752 ], [ -1.7921219, 53.7815689 ], [ -1.7921327, 53.7814865 ], [ -1.7920897, 53.7814041 ], [ -1.7918752, 53.7814104 ], [ -1.7917142, 53.7814484 ], [ -1.7916713, 53.7815943 ] ] ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.846240, "longitude": -1.860666 }, "osm_way_id": "146973269", "landuse": "pond" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8606809, 53.8463065 ], [ -1.8605812, 53.8462837 ], [ -1.8605535, 53.846233 ], [ -1.8606061, 53.8461873 ], [ -1.8606726, 53.8461726 ], [ -1.8607445, 53.8461922 ], [ -1.8607777, 53.8462314 ], [ -1.8607611, 53.8462837 ], [ -1.8606809, 53.8463065 ] ] ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.718813, "longitude": -2.107111 }, "osm_way_id": "274929610", "landuse": "pond" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.1070985, 53.7188423 ], [ -2.1071195, 53.7188354 ], [ -2.1071335, 53.7188216 ], [ -2.107151, 53.7188009 ], [ -2.107151, 53.7187836 ], [ -2.107137, 53.718785 ], [ -2.1071207, 53.7187871 ], [ -2.1070833, 53.718803 ], [ -2.1070716, 53.7188147 ], [ -2.1070716, 53.7188333 ], [ -2.1070985, 53.7188423 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "1284558147", "other_tags": "\"landuse\"=>\"pond\",\"natural\"=>\"water\",\"water\"=>\"pond\"" }, "geometry": { "type": "Point", "coordinates": [ -1.946026, 53.8183359 ] } }
 ]
 }

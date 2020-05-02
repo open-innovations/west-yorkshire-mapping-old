@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "3288308375", "name": "Pound Stretcher", "other_tags": "\"shop\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8674844, 53.7248941 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.727409, "longitude": -1.871891 }, "osm_way_id": "118927132", "name": "Home Bargains", "building": "retail", "shop": "general", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housename\"=>\"Unit 2\",\"addr:postcode\"=>\"HX1 5RA\",\"addr:street\"=>\"Pellon Lane\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8720435, 53.7272248 ], [ -1.8720478, 53.7275471 ], [ -1.8720484, 53.7275926 ], [ -1.8717384, 53.7275941 ], [ -1.8717335, 53.7272263 ], [ -1.8720435, 53.7272248 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "3288308375", "name": "Pound Stretcher", "other_tags": "\"shop\"=>\"general\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8674844, 53.7248941 ] } }
 ]
 }

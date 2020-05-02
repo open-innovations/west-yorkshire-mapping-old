@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "687080975", "name": "Adult Superstore", "other_tags": "\"shop\"=>\"toys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7233065, 53.7728608 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5289799102", "name": "Rainbow Wood", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"103\",\"addr:postcode\"=>\"BD16 2HT\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"toys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8382322, 53.8484335 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "687080975", "name": "Adult Superstore", "other_tags": "\"shop\"=>\"toys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7233065, 53.7728608 ] } }
 ]
 }

@@ -2,11 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1414463646", "name": "Picture House Antiques", "other_tags": "\"shop\"=>\"furniture\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0981311, 53.71272 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5469277359", "name": "BrightHouse", "other_tags": "\"shop\"=>\"furniture\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8574163, 53.722877 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5469277362", "name": "Baytree Interiors", "other_tags": "\"shop\"=>\"furniture\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8574888, 53.7230071 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7241052129", "name": "Homely at Hebden", "other_tags": "\"shop\"=>\"furniture\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0139434, 53.7419003 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.701803, "longitude": -1.778963 }, "osm_way_id": "154564238", "name": "Websters Interiors", "building": "yes", "shop": "furniture" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7790663, 53.7018613 ], [ -1.7788596, 53.7018612 ], [ -1.778861, 53.70178 ], [ -1.778973, 53.7017457 ], [ -1.779023, 53.7017468 ], [ -1.779067, 53.701767 ], [ -1.7790663, 53.7018613 ] ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.730716, "longitude": -1.980356 }, "osm_way_id": "202135348", "name": "Russell Dean", "building": "yes", "shop": "furniture" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9804628, 53.7309146 ], [ -1.9801148, 53.7308067 ], [ -1.9801979, 53.7305179 ], [ -1.9805406, 53.7305528 ], [ -1.9805343, 53.7305784 ], [ -1.9805969, 53.7305862 ], [ -1.9804628, 53.7309146 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "1414463646", "name": "Picture House Antiques", "other_tags": "\"shop\"=>\"furniture\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0981311, 53.71272 ] } }
 ]
 }

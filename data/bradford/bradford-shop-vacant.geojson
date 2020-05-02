@@ -7,7 +7,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "1586384945", "other_tags": "\"shop\"=>\"vacant\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Park Road\",\"addr:postcode\"=>\"BD16 4JQ\",\"addr:housenumber\"=>\"30C\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8364842, 53.8498401 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358527861", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.781132, 53.8352 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2661213525", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8205888, 53.9262391 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2661213529", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8207739, 53.9264388 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5289799101", "name": "restore", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8381933, 53.8483782 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2661213529", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8207739, 53.9264388 ] } }
 ]
 }

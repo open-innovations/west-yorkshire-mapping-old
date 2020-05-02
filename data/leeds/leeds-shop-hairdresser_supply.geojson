@@ -2,8 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2128107711", "name": "Design School Uniform & Workwear", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"21-23\",\"addr:postcode\"=>\"LS1 6PU\",\"addr:street\"=>\"The Headrow\",\"old_name\"=>\"Hair Trends\",\"shop\"=>\"hairdresser_supply\"" }, "geometry": { "type": "Point", "coordinates": [ -1.541147, 53.7988718 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5981573966", "name": "The Hair Shop", "other_tags": "\"shop\"=>\"hairdresser_supply\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5392577, 53.7974394 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6488022083", "name": "Mane Extensions", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"127\",\"addr:postcode\"=>\"LS15 7PB\",\"addr:street\"=>\"Cross Gates Road\",\"shop\"=>\"hairdresser_supply\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4546382, 53.8085531 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2128107711", "name": "Design School Uniform & Workwear", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"21-23\",\"addr:postcode\"=>\"LS1 6PU\",\"addr:street\"=>\"The Headrow\",\"old_name\"=>\"Hair Trends\",\"shop\"=>\"hairdresser_supply\"" }, "geometry": { "type": "Point", "coordinates": [ -1.541147, 53.7988718 ] } }
 ]
 }

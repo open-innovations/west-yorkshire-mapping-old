@@ -3,7 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2091013190", "name": "Jim's Place", "other_tags": "\"shop\"=>\"locksmith\"" }, "geometry": { "type": "Point", "coordinates": [ -1.540214, 53.7963804 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3904815789", "name": "Meridian Security", "other_tags": "\"addr:city\"=>\"Horsforth\",\"addr:housenumber\"=>\"67\",\"addr:postcode\"=>\"LS18 4JX\",\"addr:street\"=>\"New Road Side\",\"opening_hours\"=>\"Mo-Th 09:00-17:00; Fr 09:00-16:00; Sa 09:00-12:30; Su Closed\",\"phone\"=>\"+44 113 259 1538\",\"shop\"=>\"locksmith\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6395792, 53.8318291 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7096633014", "name": "Leeds Lock Centre", "other_tags": "\"shop\"=>\"locksmith\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4932382, 53.8020608 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "3904815789", "name": "Meridian Security", "other_tags": "\"addr:city\"=>\"Horsforth\",\"addr:housenumber\"=>\"67\",\"addr:postcode\"=>\"LS18 4JX\",\"addr:street\"=>\"New Road Side\",\"opening_hours\"=>\"Mo-Th 09:00-17:00; Fr 09:00-16:00; Sa 09:00-12:30; Su Closed\",\"phone\"=>\"+44 113 259 1538\",\"shop\"=>\"locksmith\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6395792, 53.8318291 ] } }
 ]
 }

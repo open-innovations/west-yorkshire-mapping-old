@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2807962329", "name": "Willy Hill End", "other_tags": "\"natural\"=>\"ridge\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8713888, 53.898383 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "276166564", "name": "Long Ridge", "z_order": 0, "other_tags": "\"natural\"=>\"ridge\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8748368, 53.9153105 ], [ -1.867439, 53.9161029 ], [ -1.862773, 53.9164776 ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2807962329", "name": "Willy Hill End", "other_tags": "\"natural\"=>\"ridge\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8713888, 53.898383 ] } }
 ]
 }
