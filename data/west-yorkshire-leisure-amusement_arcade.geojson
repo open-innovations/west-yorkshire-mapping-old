@@ -4,6 +4,9 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "313246922", "name": "Pleasuredome", "other_tags": "\"leisure\"=>\"amusement_arcade\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5878926, 53.7980007 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "320998135", "name": "Royal Amusements", "other_tags": "\"leisure\"=>\"amusement_arcade\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5387866, 53.7964251 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "330089332", "name": "Amusements", "other_tags": "\"leisure\"=>\"amusement_arcade\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5894322, 53.7973736 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "330089332", "name": "Amusements", "other_tags": "\"leisure\"=>\"amusement_arcade\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5894322, 53.7973736 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5398202769", "name": "Royal Amusements", "other_tags": "\"leisure\"=>\"amusement_arcade\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5401794, 53.7966286 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6373149076", "other_tags": "\"leisure\"=>\"amusement_arcade\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3761125, 53.7910101 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6540158131", "name": "Arcade Club", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:place\"=>\"Abbey Retail Park\",\"addr:postcode\"=>\"LS5 3RP\",\"addr:street\"=>\"Savins Mill Way\",\"fhrs:id\"=>\"1101689\",\"leisure\"=>\"amusement_arcade\",\"virtual_reality\"=>\"yes\",\"website\"=>\"https:\/\/www.arcadeclub.co.uk\/leeds\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6031429, 53.8156591 ] } }
 ]
 }

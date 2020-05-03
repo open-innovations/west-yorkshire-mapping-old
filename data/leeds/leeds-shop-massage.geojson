@@ -2,6 +2,9 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2353511326", "name": "Gifted Angel", "other_tags": "\"shop\"=>\"massage\",\"telephone\"=>\"01943 464276\",\"addr:street\"=>\"New Inn Court\",\"addr:postcode\"=>\"LS21 3AJ\",\"addr:housenumber\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6937669, 53.9049862 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2353511326", "name": "Gifted Angel", "other_tags": "\"shop\"=>\"massage\",\"telephone\"=>\"01943 464276\",\"addr:street\"=>\"New Inn Court\",\"addr:postcode\"=>\"LS21 3AJ\",\"addr:housenumber\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6937669, 53.9049862 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5564598459", "name": "Nuad Thai Boran", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"106-108\",\"addr:postcode\"=>\"LS2 7NL\",\"addr:street\"=>\"Vicar Lane\",\"massage\"=>\"thai\",\"shop\"=>\"massage\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5393774, 53.7996314 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6001482127", "name": "Nuad Thai Boran", "other_tags": "\"massage\"=>\"thai\",\"shop\"=>\"massage\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5380484, 53.7973431 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.785256, "longitude": -1.531003 }, "osm_way_id": "202286668", "name": "Angels Massage & Spa", "building": "yes", "shop": "massage", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Millwood house\",\"addr:postcode\"=>\"LS10 1PG\",\"addr:street\"=>\"Pym Street\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.531108, 53.7852759 ], [ -1.5309552, 53.7853146 ], [ -1.5309373, 53.7852901 ], [ -1.530898, 53.7852359 ], [ -1.5310508, 53.7851972 ], [ -1.531108, 53.7852759 ] ] ] } }
 ]
 }

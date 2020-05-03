@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1011423096", "name": "Mirfield Auto Spares", "amenity": "scrapyard", "other_tags": "\"phone\"=>\"+44 1924 499104\",\"website\"=>\"mirfield-auto-spares.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6906672, 53.6724924 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "1011423096", "name": "Mirfield Auto Spares", "amenity": "scrapyard", "other_tags": "\"phone\"=>\"+44 1924 499104\",\"website\"=>\"mirfield-auto-spares.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6906672, 53.6724924 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.704064, "longitude": -1.672494 }, "osm_way_id": "27568567", "name": "Heckmondwike Commercial Spares", "amenity": "scrapyard", "landuse": "industrial", "other_tags": "\"phone\"=>\"+44 1924 406387\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.673165, 53.7043785 ], [ -1.6729453, 53.704483 ], [ -1.6727125, 53.7045861 ], [ -1.6723502, 53.7043048 ], [ -1.6718239, 53.7039148 ], [ -1.672152, 53.7035418 ], [ -1.6725426, 53.7037123 ], [ -1.6723827, 53.7038872 ], [ -1.673165, 53.7043785 ] ] ] ] } }
 ]
 }

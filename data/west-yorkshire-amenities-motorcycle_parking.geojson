@@ -8,6 +8,11 @@
 	{ "type": "Feature", "properties": { "osm_id": "800488938", "amenity": "motorcycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5364206, 53.7991855 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "800488946", "amenity": "motorcycle_parking", "other_tags": "\"capacity\"=>\"10\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5483662, 53.7980853 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1038731043", "amenity": "motorcycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.7119849, 53.8300645 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3383549793", "amenity": "motorcycle_parking", "other_tags": "\"spaces\"=>\"10\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5472602, 53.7998741 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "3383549793", "amenity": "motorcycle_parking", "other_tags": "\"spaces\"=>\"10\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5472602, 53.7998741 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5156248769", "amenity": "motorcycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5529483, 53.8018086 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5980046668", "amenity": "motorcycle_parking", "other_tags": "\"capacity\"=>\"12\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5510385, 53.7988599 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6782685185", "amenity": "motorcycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.4893728, 53.6936225 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.798292, "longitude": -1.551292 }, "osm_way_id": "200517020", "name": "Park Square Motorbike Park", "amenity": "motorcycle_parking", "other_tags": "\"fee\"=>\"yes\",\"parking\"=>\"surface\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5512922, 53.7983664 ], [ -1.5512355, 53.7983584 ], [ -1.5512924, 53.7982182 ], [ -1.5513491, 53.7982262 ], [ -1.5512922, 53.7983664 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.799392, "longitude": -1.552549 }, "osm_way_id": "200517040", "name": "Park Square Motorbike Park", "amenity": "motorcycle_parking", "other_tags": "\"fee\"=>\"yes\",\"parking\"=>\"surface\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5525513, 53.7993131 ], [ -1.5526019, 53.7993194 ], [ -1.5525475, 53.7994717 ], [ -1.5524969, 53.7994654 ], [ -1.5525513, 53.7993131 ] ] ] ] } }
 ]
 }

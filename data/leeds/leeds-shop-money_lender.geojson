@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2125610584", "name": "Cash Shop", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"26\",\"addr:street\"=>\"New Market Street\",\"shop\"=>\"money_lender\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5411131, 53.7961357 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2128107762", "name": "The Money Shop", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"25-27\",\"addr:postcode\"=>\"LS1 6PU\",\"addr:street\"=>\"The Headrow\",\"shop\"=>\"money_lender\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5412942, 53.7988888 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2128107762", "name": "The Money Shop", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"25-27\",\"addr:postcode\"=>\"LS1 6PU\",\"addr:street\"=>\"The Headrow\",\"shop\"=>\"money_lender\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5412942, 53.7988888 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5422663133", "name": "Your Loan Shop", "other_tags": "\"shop\"=>\"money_lender\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5437655, 53.8012266 ] } }
 ]
 }

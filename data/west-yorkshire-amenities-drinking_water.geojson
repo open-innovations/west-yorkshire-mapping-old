@@ -8,6 +8,13 @@
 	{ "type": "Feature", "properties": { "osm_id": "2952522296", "amenity": "drinking_water" }, "geometry": { "type": "Point", "coordinates": [ -1.6634555, 53.7945971 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2980768076", "amenity": "drinking_water", "other_tags": "\"waterway\"=>\"water_point\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5527815, 53.7929682 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2980926896", "amenity": "drinking_water", "other_tags": "\"waterway\"=>\"water_point\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5289755, 53.7910011 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2991451925", "amenity": "drinking_water", "other_tags": "\"waterway\"=>\"water_point\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3454828, 53.734917 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2991451925", "amenity": "drinking_water", "other_tags": "\"waterway\"=>\"water_point\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3454828, 53.734917 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5361086514", "amenity": "drinking_water", "other_tags": "\"indoor\"=>\"yes\",\"private\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5405414, 53.8299293 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5584774686", "amenity": "drinking_water" }, "geometry": { "type": "Point", "coordinates": [ -1.5558476, 53.8067572 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5584785556", "amenity": "drinking_water" }, "geometry": { "type": "Point", "coordinates": [ -1.5547345, 53.8055455 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5584788768", "amenity": "drinking_water" }, "geometry": { "type": "Point", "coordinates": [ -1.554697, 53.8049847 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5584804966", "amenity": "drinking_water", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5546914, 53.8063025 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5584804967", "amenity": "drinking_water", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5547343, 53.805894 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7234390569", "amenity": "drinking_water", "other_tags": "\"access\"=>\"customers\",\"bottle\"=>\"yes\",\"fee\"=>\"no\",\"operator\"=>\"Kingsgate Centre\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7793059, 53.6462568 ] } }
 ]
 }

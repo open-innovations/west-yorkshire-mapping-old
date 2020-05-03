@@ -7,6 +7,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "747742280", "name": "Weecher Brow", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8019496, 53.8790601 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747743793", "name": "Fenny Shaw", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8283855, 53.8881918 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747743955", "name": "Fenny Shaw Allotment", "place": "locality", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8333207, 53.890329 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1544143724", "name": "High Moor", "place": "locality", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8378528, 53.8988827 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "1544143724", "name": "High Moor", "place": "locality", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8378528, 53.8988827 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4987884726", "name": "Green Hill", "other_tags": "\"natural\"=>\"fell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8964528, 53.9212985 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.919161, "longitude": -1.808715 }, "osm_way_id": "118795027", "natural": "fell" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8093136, 53.919216 ], [ -1.80915, 53.919276 ], [ -1.8089352, 53.919267 ], [ -1.8085033, 53.9191896 ], [ -1.8081976, 53.9191817 ], [ -1.8081174, 53.9191165 ], [ -1.8081412, 53.9190458 ], [ -1.8093136, 53.919216 ] ] ] } }
 ]
 }

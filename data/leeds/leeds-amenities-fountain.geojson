@@ -11,6 +11,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "2466453868", "amenity": "fountain", "other_tags": "\"drinking_water\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5051029, 53.8396459 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2466453882", "amenity": "fountain", "other_tags": "\"drinking_water\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5056018, 53.8397693 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2841809327", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.4971449, 53.8405609 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4500820386", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.4599642, 53.7836472 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "4500820386", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.4599642, 53.7836472 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4680833895", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.5329162, 53.7947489 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5247278813", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.5339283, 53.7984634 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.840254, "longitude": -1.505857 }, "osm_way_id": "554960212", "amenity": "fountain", "leisure": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5058868, 53.840256 ], [ -1.505884, 53.8402618 ], [ -1.5058782, 53.8402666 ], [ -1.50587, 53.8402701 ], [ -1.5058603, 53.8402718 ], [ -1.5058502, 53.8402715 ], [ -1.505841, 53.8402693 ], [ -1.5058336, 53.8402655 ], [ -1.5058285, 53.8402605 ], [ -1.5058265, 53.8402549 ], [ -1.5058276, 53.8402491 ], [ -1.5058319, 53.8402438 ], [ -1.5058387, 53.8402397 ], [ -1.5058475, 53.840237 ], [ -1.5058572, 53.8402362 ], [ -1.5058669, 53.8402372 ], [ -1.5058757, 53.8402401 ], [ -1.5058824, 53.8402446 ], [ -1.5058863, 53.8402501 ], [ -1.5058868, 53.840256 ] ] ] } }
 ]
 }

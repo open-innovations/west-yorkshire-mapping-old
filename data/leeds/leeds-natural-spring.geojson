@@ -17,6 +17,24 @@
 	{ "type": "Feature", "properties": { "osm_id": "2009546468", "other_tags": "\"natural\"=>\"spring\",\"drinking_water\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4298931, 53.8754147 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2294471712", "barrier": "gate", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7152514, 53.8909266 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4142953997", "name": "Slabbering Baby", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5693136, 53.8538795 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4570094684", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6932972, 53.8896637 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "4570094684", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6932972, 53.8896637 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5489429154", "ref": "Pond 1", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\",\"water\"=>\"pond\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4765007, 53.843508 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5998770773", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4231688, 53.8022836 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6191158585", "ref": "Pond 3", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\",\"water\"=>\"pond\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4401931, 53.833416 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6308617486", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3543969, 53.8232516 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467005569", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4464202, 53.8451276 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467005625", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4516142, 53.8481283 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467005631", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4342655, 53.850788 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467130638", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3974083, 53.8345077 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467167076", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.41474, 53.8426647 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467167077", "name": "Copple Syke Spring", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3994207, 53.8409543 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6467167078", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3816074, 53.8579358 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6662832261", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4680819, 53.80229 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6782831363", "ref": "Pond 2", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\",\"water\"=>\"pond\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4415518, 53.8367974 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6782831364", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4438187, 53.8383747 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6782831379", "ref": "Pond 4", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\",\"water\"=>\"pond\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4375005, 53.8279059 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7128382474", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4244433, 53.8023647 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7128382475", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4258029, 53.8025343 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7128382476", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4276666, 53.8026589 ] } }
 ]
 }
