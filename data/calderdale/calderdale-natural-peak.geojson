@@ -12,7 +12,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "90364893", "name": "Crow Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9674716, 53.7455154 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533436607", "name": "Dog Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9966785, 53.6501457 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533458309", "name": "Knave Holes Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0201543, 53.6694977 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "533458785", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.003649, 53.6741973 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533462595", "name": "Beacon Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.932346, 53.6635091 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533533830", "name": "Great Manshead Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9977267, 53.6807048 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "556857160", "name": "Lumb Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.952069, 53.693131 ] } },
