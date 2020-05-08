@@ -3,7 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "302049405", "name": "Pets at Home", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6436599, 53.7446181 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "334884437", "name": "Tyranosaurus Pets", "other_tags": "\"pet\"=>\"reptile\",\"shop\"=>\"pet\",\"website\"=>\"http:\/\/www.tyrannosauruspets.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.583378, 53.8067235 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "343108106", "name": "KB Pets & Tropical", "other_tags": "\"shop\"=>\"pet\",\"building\"=>\"retail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.621392, 53.7958628 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "676622221", "name": "Dogman's Pet Shop & Grooming Salon", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7088902, 53.7675453 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1256820163", "name": "Pet Warehouse", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.782373, 53.64217 ] } },

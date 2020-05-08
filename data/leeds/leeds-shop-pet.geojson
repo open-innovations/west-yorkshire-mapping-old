@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "334884437", "name": "Tyranosaurus Pets", "other_tags": "\"pet\"=>\"reptile\",\"shop\"=>\"pet\",\"website\"=>\"http:\/\/www.tyrannosauruspets.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.583378, 53.8067235 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "343108106", "name": "KB Pets & Tropical", "other_tags": "\"shop\"=>\"pet\",\"building\"=>\"retail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.621392, 53.7958628 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1520493180", "name": "Alfie's Pet Supplies", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6923842, 53.8576237 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1639561249", "name": "Kircole Pets", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"54\",\"addr:postcode\"=>\"LS11 8HB\",\"addr:street\"=>\"Ring Road Beeston\",\"phone\"=>\"+44 113 277 7077\",\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.567438, 53.7627431 ] } },
