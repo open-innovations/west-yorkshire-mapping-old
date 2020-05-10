@@ -2378,6 +2378,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "7341658188", "amenity": "post_box", "ref": "HD1 271" }, "geometry": { "type": "Point", "coordinates": [ -1.7859355, 53.6467787 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7401625270", "amenity": "post_box", "other_tags": "\"drive_through\"=>\"no\",\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0310476, 53.7538684 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7459168329", "amenity": "post_box", "ref": "HD4 216", "other_tags": "\"collection_times\"=>\"Mo-Fr 16:15; Sa 10:30\",\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8066663, 53.623325 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7459178337", "amenity": "post_box", "ref": "HD4 177", "other_tags": "\"collection_times\"=>\"Mo-Fr 17:00; Sa 10:45\",\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8280381, 53.6120384 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7459178337", "amenity": "post_box", "ref": "HD4 177", "other_tags": "\"collection_times\"=>\"Mo-Fr 17:00; Sa 10:45\",\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8280381, 53.6120384 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7500239066", "amenity": "post_box", "ref": "HD9 263", "other_tags": "\"collection_times\"=>\"Mo-Fr 17:15; Sa 11:15\",\"operator\"=>\"Royal Mail\",\"post_box:type\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7555219, 53.5577588 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7501482639", "amenity": "post_box", "other_tags": "\"drive_through\"=>\"no\",\"operator\"=>\"Royal Mail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7068473, 53.631756 ] } }
 ]
 }
