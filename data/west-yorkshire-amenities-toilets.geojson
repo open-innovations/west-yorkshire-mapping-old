@@ -64,7 +64,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4569592178", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.5747929, 53.75718 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4814272007", "amenity": "toilets", "other_tags": "\"description\"=>\"Open during Café opening hours.\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6919363, 53.8961824 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4852668370", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.686042, 53.5871046 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5028909721", "name": "Public Toilets", "amenity": "toilets", "other_tags": "\"access\"=>\"yes\",\"changing_table\"=>\"yes\",\"fee\"=>\"yes\",\"opening_hours:covid19\"=>\"off\",\"unisex\"=>\"yes\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3127287, 53.6919779 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5028909721", "name": "Public Toilets", "amenity": "toilets", "other_tags": "\"access\"=>\"yes\",\"changing_table\"=>\"yes\",\"fee\"=>\"yes\",\"opening_hours:covid19\"=>\"Mo-Su off\",\"unisex\"=>\"yes\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3127287, 53.6919779 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5043524121", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.7864154, 53.6458728 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5296593509", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.6366947, 53.8036257 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5331826503", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.8078011, 53.8363804 ] } },

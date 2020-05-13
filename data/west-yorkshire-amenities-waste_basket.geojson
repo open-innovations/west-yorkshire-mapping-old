@@ -4151,6 +4151,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7429091624", "amenity": "waste_basket", "other_tags": "\"ref:UK:leedscc:bin\"=>\"2001\"" }, "geometry": { "type": "Point", "coordinates": [ -1.327056, 53.923987 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7463096004", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"Black\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3437106, 53.7143328 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7463096005", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.3441874, 53.7142353 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7463133165", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.3434381, 53.7133482 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7463133165", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.3434381, 53.7133482 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7511364274", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.4588638, 53.8179104 ] } }
 ]
 }
