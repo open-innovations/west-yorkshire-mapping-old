@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.787621, "longitude": -1.485284 }, "osm_way_id": "803329639", "landuse": "logistics" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4876068, 53.7864295 ], [ -1.4880681, 53.7883215 ], [ -1.4873171, 53.7884451 ], [ -1.48574, 53.7887177 ], [ -1.4847207, 53.7888127 ], [ -1.4837551, 53.7888127 ], [ -1.4827525, 53.78877 ], [ -1.4824998, 53.7869493 ], [ -1.4828378, 53.7867781 ], [ -1.4831972, 53.7867052 ], [ -1.4876068, 53.7864295 ] ] ] } }
+]
+}
