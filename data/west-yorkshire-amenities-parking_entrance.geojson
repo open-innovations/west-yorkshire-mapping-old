@@ -81,6 +81,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7458901961", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.4810628, 53.7252074 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7458901963", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.4809383, 53.7250557 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7459052973", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.4797979, 53.7246717 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7459052982", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.4800167, 53.7248604 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7459052982", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.4800167, 53.7248604 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7528713565", "name": "Frickley Country Park", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.2993833, 53.5835544 ] } }
 ]
 }

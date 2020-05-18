@@ -98,6 +98,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6782831379", "ref": "Pond 4", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\",\"water\"=>\"pond\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4375005, 53.8279059 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7128382474", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4244433, 53.8023647 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7128382475", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4258029, 53.8025343 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7128382476", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4276666, 53.8026589 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7128382476", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4276666, 53.8026589 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7528772459", "name": "Dades Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6737335, 53.8944423 ] } }
 ]
 }
