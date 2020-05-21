@@ -39,6 +39,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "7528772459", "name": "Dades Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6737335, 53.8944423 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7537562537", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7022716, 53.8965145 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7537802492", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.682819, 53.8989088 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7537802493", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6817171, 53.899167 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7537802493", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6817171, 53.899167 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7540620350", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6547586, 53.8961333 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7540740186", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6459824, 53.9014681 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7540750247", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6333009, 53.9034781 ] } }
 ]
 }

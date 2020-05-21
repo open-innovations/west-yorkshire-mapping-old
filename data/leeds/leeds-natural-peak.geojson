@@ -14,7 +14,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "535294079", "name": "Green Gates Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6520996, 53.8826833 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "536666145", "name": "Hollins Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7229524, 53.8660688 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "536666398", "name": "Sodhall Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7132964, 53.8667774 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "664126073", "name": "Rawson Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6300256, 53.8945882 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "664126073", "name": "Rawson Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6295535, 53.8949928 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718548606", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6405039, 53.8750801 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747710868", "name": "Round Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7636417, 53.8698453 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747710922", "name": "Honey Joan Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7648541, 53.8684725 ] } },
