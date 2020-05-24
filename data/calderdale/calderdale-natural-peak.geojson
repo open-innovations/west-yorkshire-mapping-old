@@ -10,7 +10,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "29846018", "name": "Holder Stones, Langfield Common", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0447172, 53.6881489 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "30844489", "name": "Todmorden Moor", "other_tags": "\"natural\"=>\"peak\",\"source:ele\"=>\"height in feet (1382) from npe, converted to metres\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1462688, 53.7195997 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "90364893", "name": "Crow Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9674716, 53.7455154 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "533436607", "name": "Dog Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9966785, 53.6501457 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "533436607", "name": "Dog Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9968767, 53.6502086 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533458309", "name": "Knave Holes Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0201543, 53.6694977 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533462595", "name": "Beacon Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.932346, 53.6635091 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533533830", "name": "Great Manshead Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9977267, 53.6807048 ] } },

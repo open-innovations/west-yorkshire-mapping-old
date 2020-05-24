@@ -29,7 +29,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "411747167", "name": "Windgate Nick", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8938689, 53.919963 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "426916023", "name": "Rawden Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5579009, 53.8978265 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "482638621", "name": "Wood Royd Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7268361, 53.5484326 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "533436607", "name": "Dog Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9966785, 53.6501457 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "533436607", "name": "Dog Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9968767, 53.6502086 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533458309", "name": "Knave Holes Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0201543, 53.6694977 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533462595", "name": "Beacon Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.932346, 53.6635091 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533533830", "name": "Great Manshead Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9977267, 53.6807048 ] } },
