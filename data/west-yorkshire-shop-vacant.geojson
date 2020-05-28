@@ -185,6 +185,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6699962914", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3138618, 53.6920861 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6769233565", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5294063, 53.8035591 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6769233566", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5294278, 53.8035172 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7023019240", "other_tags": "\"addr:city\"=>\"Pontefract\",\"addr:housename\"=>\"Morrisons (car park)\",\"addr:postcode\"=>\"WF8 1BT\",\"addr:street\"=>\"Stuart Road\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.312175, 53.6935599 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7089250821", "amenity": "fast_food", "other_tags": "\"cuisine\"=>\"chicken\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4552864, 53.8137665 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7325396527", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7117003, 53.7223147 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7549426952", "name": "Lapries", "other_tags": "\"disused:shop\"=>\"clothes\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3947625, 53.8309807 ] } },
