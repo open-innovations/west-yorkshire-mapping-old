@@ -146,6 +146,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6612511130", "name": "Snow Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9580269, 53.9518099 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6612535194", "name": "Nor Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.920594, 53.9552633 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6703524400", "name": "Lodge Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0383934, 53.7250758 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7484478550", "name": "Haw", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9222326, 53.9178436 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7484478550", "name": "Haw", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9222326, 53.9178436 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7565780675", "name": "Nudge Hill End", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9037173, 53.9308203 ] } }
 ]
 }

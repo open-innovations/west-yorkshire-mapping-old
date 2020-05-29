@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.726171, "longitude": -1.872590 }, "osm_way_id": "322077410", "name": "Farmfoods", "building": "retail", "shop": "frozen_food", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housename\"=>\"Pellon Lane Retail Park\",\"addr:postcode\"=>\"HX1 5HQ\",\"addr:street\"=>\"Pellon Lane\",\"addr:unit\"=>\"3\",\"brand\"=>\"Farmfoods\",\"brand:wikidata\"=>\"Q5435841\",\"brand:wikipedia\"=>\"en:Farmfoods\",\"contact:website\"=>\"https:\/\/www.farmfoods.co.uk\/store-finder.php?branch_code=404\",\"fhrs:id\"=>\"618837\",\"opening_hours:url\"=>\"https:\/\/www.farmfoods.co.uk\/store-finder.php?branch_code=404\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8724579, 53.7262999 ], [ -1.8724628, 53.7262534 ], [ -1.8724859, 53.7260335 ], [ -1.8727226, 53.7260422 ], [ -1.8726946, 53.7263086 ], [ -1.8724579, 53.7262999 ] ] ] } }
+]
+}

@@ -58,6 +58,10 @@
 	{ "type": "Feature", "properties": { "osm_id": "5652362038", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9728077, 53.7976536 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5684163126", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9404227, 53.7916268 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5802121971", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8952294, 53.8085906 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6185769356", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9997715, 53.8135011 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6185769356", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9997715, 53.8135011 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7565135457", "name": "Hardwick Holes Spring", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8674869, 53.9202121 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7565410223", "name": "Holme Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.869292, 53.925453 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7565662019", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8979891, 53.936037 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7565780667", "name": "Nudge Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.903183, 53.9315903 ] } }
 ]
 }
