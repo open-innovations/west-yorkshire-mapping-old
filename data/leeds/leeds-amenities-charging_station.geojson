@@ -18,6 +18,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6593535931", "amenity": "charging_station", "ref": "Bryn-Axel", "other_tags": "\"capacity\"=>\"2\",\"operator\"=>\"Pod Point\",\"parking:fee\"=>\"no\",\"socket:type2\"=>\"2\",\"socket:type2:output\"=>\"7000\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6037786, 53.8153883 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6669744709", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"14\",\"fee\"=>\"£1\",\"payment:app\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4801236, 53.777861 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6793996050", "amenity": "charging_station", "ref": "ENG01021", "other_tags": "\"operator\"=>\"Engie\",\"parking:fee\"=>\"no\",\"socket:chademo\"=>\"1\",\"socket:type2\"=>\"1\",\"socket:type2_combo\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6628569, 53.7950348 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7141784080", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4494691, 53.8146564 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7141784080", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.4494691, 53.8146564 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.773189, "longitude": -1.473721 }, "osm_way_id": "810024887", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"6\",\"electrified\"=>\"yes\",\"operator\"=>\"Tesla\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4738284, 53.7732322 ], [ -1.4736119, 53.7732313 ], [ -1.4736128, 53.7731466 ], [ -1.4738294, 53.7731475 ], [ -1.4738284, 53.7732322 ] ] ] } }
 ]
 }
