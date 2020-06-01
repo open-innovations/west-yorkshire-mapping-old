@@ -9,7 +9,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "29845872", "other_tags": "\"natural\"=>\"peak\",\"source:ele\"=>\"height in feet (1545) from npe, converted to metres\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1294207, 53.7632061 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "29846018", "name": "Holder Stones, Langfield Common", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0447172, 53.6881489 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "30844489", "name": "Todmorden Moor", "other_tags": "\"natural\"=>\"peak\",\"source:ele\"=>\"height in feet (1382) from npe, converted to metres\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1462688, 53.7195997 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "90364893", "name": "Crow Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9674716, 53.7455154 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533436607", "name": "Dog Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9968767, 53.6502086 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533458309", "name": "Knave Holes Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0201543, 53.6694977 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533462595", "name": "Beacon Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.932346, 53.6635091 ] } },
@@ -19,11 +18,11 @@
 	{ "type": "Feature", "properties": { "osm_id": "718633048", "name": "Flaight Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9939079, 53.7744808 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718633067", "name": "White Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9888868, 53.7793119 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718634780", "name": "High Brown Knoll", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9870532, 53.7698565 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "718635358", "name": "Tom Tittiman", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9923201, 53.7598194 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718636230", "name": "Cock Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.985754, 53.7444167 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718636510", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9773426, 53.7515224 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718638845", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9459286, 53.7305318 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "731980775", "name": "Stoodley Pike", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0422935, 53.7143115 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1011165656", "name": "Crow Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9674635, 53.7455139 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2855889407", "name": "Standing Stone Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0757635, 53.7687474 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2863286947", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7667859, 53.7088483 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2948049177", "name": "Wholestone Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9229521, 53.6613875 ] } },
@@ -31,6 +30,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4593272828", "name": "Elland Scholes", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8901351, 53.6709512 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4726196115", "name": "Stubley Cross Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1135537, 53.6715331 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4726196116", "name": "Great Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1081393, 53.6720763 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6703524400", "name": "Lodge Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0383934, 53.7250758 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6703524400", "name": "Lodge Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0383934, 53.7250758 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7500134170", "name": "Tom Tittiman", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9933853, 53.7594603 ] } }
 ]
 }
