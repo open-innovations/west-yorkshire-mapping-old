@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "6937731915", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\",\"car\"=>\"yes\",\"fee\"=>\"free until October 2021\",\"operator\"=>\"engie\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8367365, 53.8480457 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6937731915", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\",\"fee\"=>\"free until October 2021\",\"motorcar\"=>\"yes\",\"operator\"=>\"engie\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8367365, 53.8480457 ] } }
 ]
 }

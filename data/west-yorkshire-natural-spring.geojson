@@ -56,7 +56,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5177178483", "name": "Dearne Head", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7103201, 53.5643786 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5489429154", "ref": "Pond 1", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\",\"water\"=>\"pond\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4765007, 53.843508 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5536001469", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.919205, 53.804774 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5536471180", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9320971, 53.7974065 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5536471180", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9316089, 53.797153 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5536471437", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9271122, 53.7998508 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5536471750", "other_tags": "\"natural\"=>\"spring\",\"water\"=>\"Stone Trough\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9275091, 53.8019077 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5557487457", "name": "stone trough", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.906598, 53.8064182 ] } },
