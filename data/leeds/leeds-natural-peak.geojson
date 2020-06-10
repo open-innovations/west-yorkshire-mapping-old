@@ -35,6 +35,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1980247768", "name": "Hill 60", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5010182, 53.8361519 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2462938416", "name": "Dog Kennel Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4572764, 53.7819184 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2462938422", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4228255, 53.8002843 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7576920623", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7304039, 53.8979589 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7576920623", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7304039, 53.8979589 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7605640840", "name": "Dunstan Hills", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4575336, 53.7788775 ] } }
 ]
 }

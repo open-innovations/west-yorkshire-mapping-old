@@ -17,7 +17,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "700315290", "name": "Soil Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\",\"is_in:county\"=>\"West Yorkshire\",\"is_in:country_code\"=>\"GB\",\"is_in:municipality\"=>\"Calderdale\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8847413, 53.7775993 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718633048", "name": "Flaight Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9939079, 53.7744808 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718633067", "name": "White Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9888868, 53.7793119 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "718634780", "name": "High Brown Knoll", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9870532, 53.7698565 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "718634780", "name": "High Brown Knoll", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9870532, 53.7698565 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718636230", "name": "Cock Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.985754, 53.7444167 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718636510", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9773426, 53.7515224 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718638845", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9459286, 53.7305318 ] } },

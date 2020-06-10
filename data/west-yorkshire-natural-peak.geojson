@@ -73,7 +73,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "718548606", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6405039, 53.8750801 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718633048", "name": "Flaight Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9939079, 53.7744808 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718633067", "name": "White Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9888868, 53.7793119 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "718634780", "name": "High Brown Knoll", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9870532, 53.7698565 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "718634780", "name": "High Brown Knoll", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9870532, 53.7698565 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718636230", "name": "Cock Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.985754, 53.7444167 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718636510", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9773426, 53.7515224 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718638845", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9459286, 53.7305318 ] } },
@@ -148,6 +148,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7484478550", "name": "Haw", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9222326, 53.9178436 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7500134170", "name": "Tom Tittiman", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9933853, 53.7594603 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7565780675", "name": "Nudge Hill End", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9037173, 53.9308203 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7576920623", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7304039, 53.8979589 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7576920623", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7304039, 53.8979589 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7605640840", "name": "Dunstan Hills", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4575336, 53.7788775 ] } }
 ]
 }
