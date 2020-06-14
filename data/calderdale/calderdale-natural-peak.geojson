@@ -15,7 +15,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "533533830", "name": "Great Manshead Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9977267, 53.6807048 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "556857160", "name": "Lumb Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.952069, 53.693131 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "700315290", "name": "Soil Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\",\"is_in:county\"=>\"West Yorkshire\",\"is_in:country_code\"=>\"GB\",\"is_in:municipality\"=>\"Calderdale\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8847413, 53.7775993 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "703400082", "name": "Sheepstones", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9788821, 53.7468927 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "703400082", "name": "Sheepstones", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9789104, 53.7469011 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718633048", "name": "Flaight Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9939079, 53.7744808 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718633067", "name": "White Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9888868, 53.7793119 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718634780", "name": "High Brown Knoll", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9870532, 53.7698565 ] } },

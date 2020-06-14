@@ -135,7 +135,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1591600144", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5649337, 53.8565278 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1591600188", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5633265, 53.8568218 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1591600222", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5637931, 53.8569347 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1607349676", "name": "Coronation Tree", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4179492, 53.8226089 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1607349676", "name": "Coronation Tree", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4178748, 53.822641 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1652885255", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4491315, 53.8986659 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1700634077", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3920322, 53.8511621 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1700634156", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3912091, 53.8515508 ] } },
