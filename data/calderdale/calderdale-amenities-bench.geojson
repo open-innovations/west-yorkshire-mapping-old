@@ -8,7 +8,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "425820760", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7793488, 53.7005949 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "425820761", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.779913, 53.7006685 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "425820762", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7802525, 53.70069 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "495677843", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -2.0528447, 53.7021652 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "495677843", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"inscription\"=>\"THIS SEAT WAS BUILT IN MEMORY OF OUR DAD CYRIL WEBSTER WHO DIED DEC 1992 \\\"STILL WALKING THE HILLS\\\"\",\"material\"=>\"stone\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0528447, 53.7021652 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "495797022", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -2.028383, 53.7409206 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "538608739", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -2.0556782, 53.7775083 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "643011216", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\",\"seats\"=>\"2\",\"tourism\"=>\"viewpoint\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0277919, 53.7521 ] } },

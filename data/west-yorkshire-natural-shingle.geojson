@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.864049, "longitude": -1.709523 }, "osm_way_id": "815749221", "natural": "shingle" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7096152, 53.8640232 ], [ -1.7096025, 53.8640561 ], [ -1.7094932, 53.8640735 ], [ -1.7094308, 53.8640747 ], [ -1.7096152, 53.8640232 ] ] ] ] } }
+]
+}

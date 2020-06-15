@@ -150,6 +150,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7500134170", "name": "Tom Tittiman", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9933853, 53.7594603 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7565780675", "name": "Nudge Hill End", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9037173, 53.9308203 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7576920623", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7304039, 53.8979589 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7605640840", "name": "Dunstan Hills", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4575336, 53.7788775 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7605640840", "name": "Dunstan Hills", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4575336, 53.7788775 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7619312110", "name": "Naze End", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9985398, 53.7743282 ] } }
 ]
 }
