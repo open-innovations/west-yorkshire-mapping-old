@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2358622122", "name": "Tile Giant", "other_tags": "\"shop\"=>\"trade\",\"trade\"=>\"tiles\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7750326, 53.8332058 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2611488249", "name": "Lindley Flooring", "other_tags": "\"shop\"=>\"trade\",\"trade\"=>\"flooring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.816247, 53.652847 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4449839273", "name": "Woodworks Timber", "other_tags": "\"shop\"=>\"trade\",\"trade\"=>\"timber\",\"website\"=>\"http:\/\/www.woodworkstimber.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6512001, 53.8183653 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5437278631", "name": "Selco", "other_tags": "\"shop\"=>\"trade\",\"trade\"=>\"building_supplies;plumbing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5315038, 53.8095209 ] } },
