@@ -21,7 +21,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4810470114", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6654333, 53.7944494 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4810470115", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6653501, 53.7944114 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4810470116", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6654293, 53.794409 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4847295848", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7084302, 53.8730671 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4847295848", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7084537, 53.8731541 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4866900366", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9725542, 53.8239521 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4902106496", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4727264, 53.7495146 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4902106497", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4729638, 53.7494036 ] } },
@@ -39,6 +39,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6835693138", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0183891, 53.7588176 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7197800301", "name": "Walton Parish Council seat 32", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.467601, 53.650686 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7197838710", "name": "Walton Parish Council seat 33", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4672082, 53.6506871 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7316700211", "other_tags": "\"bench\"=>\"yes\",\"leisure\"=>\"picnic_table\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6773567, 53.552648 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7316700211", "other_tags": "\"bench\"=>\"yes\",\"leisure\"=>\"picnic_table\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6773567, 53.552648 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7636714693", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7083962, 53.8731961 ] } }
 ]
 }
