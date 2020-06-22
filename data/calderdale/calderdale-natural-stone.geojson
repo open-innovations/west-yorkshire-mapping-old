@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "699912963", "name": "Robin Hoods Penny Stone", "other_tags": "\"natural\"=>\"stone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9737063, 53.7523094 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "703400107", "name": "Sheep Stones", "other_tags": "\"natural\"=>\"stone\",\"source:name\"=>\"OS_OpenData_StreetView\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9786739, 53.7487395 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1376440542", "name": "Cuckoo Stone", "other_tags": "\"natural\"=>\"stone\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0114903, 53.7299042 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1997841357", "name": "Round Stone", "other_tags": "\"natural\"=>\"stone\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0987011, 53.7881931 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1997841385", "other_tags": "\"natural\"=>\"stone\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1042522, 53.789317 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1997841387", "other_tags": "\"natural\"=>\"stone\"" }, "geometry": { "type": "Point", "coordinates": [ -2.104492, 53.7894124 ] } },
