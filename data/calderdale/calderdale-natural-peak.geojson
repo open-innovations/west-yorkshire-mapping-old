@@ -20,7 +20,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "718633067", "name": "White Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9888868, 53.7793119 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718634780", "name": "High Brown Knoll", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9870532, 53.7698565 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718636230", "name": "Cock Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.985754, 53.7444167 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "718636510", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9773426, 53.7515224 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "718636510", "name": "Midgley Moor", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9773426, 53.7515224 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "718638845", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9459286, 53.7305318 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "731980775", "name": "Stoodley Pike", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0422935, 53.7143115 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1011165656", "name": "Crow Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9674635, 53.7455139 ] } },
