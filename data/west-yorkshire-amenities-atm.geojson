@@ -325,6 +325,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7431404791", "amenity": "atm", "other_tags": "\"fee\"=>\"None\",\"operator\"=>\"Sainsbury's\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5780687, 53.8218711 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7575101683", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5201852, 53.8560377 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7593715030", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4604704, 53.8222198 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7593715032", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4604603, 53.8222071 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7593715032", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4604603, 53.8222071 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7667095285", "amenity": "atm", "other_tags": "\"survey:date\"=>\"2020-06-29\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5895142, 53.8132531 ] } }
 ]
 }
