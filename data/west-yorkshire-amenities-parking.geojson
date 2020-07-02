@@ -390,7 +390,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "5891286598", "amenity": "parking", "other_tags": "\"access\"=>\"private\",\"parking\"=>\"surface\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5661769, 53.7882985 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5897440018", "name": "Lidl Car park", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.4942573, 53.8139229 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5966005092", "amenity": "parking", "other_tags": "\"parking\"=>\"multi-storey\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7500234, 53.7944787 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5998770753", "amenity": "parking", "other_tags": "\"parking\"=>\"park_and_ride\",\"proposed\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4209893, 53.8033497 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6202053277", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.4414791, 53.7983289 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6217574767", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.4344625, 53.8391028 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6221475533", "amenity": "parking", "other_tags": "\"operator\"=>\"The Gym\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5195369, 53.7978679 ] } },
