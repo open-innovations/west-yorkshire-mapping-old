@@ -1219,6 +1219,8 @@
 { "type": "Feature", "properties": { "osm_id": "7619826418", "highway": "crossing" , "traffic_calming":"island" }, "geometry": { "type": "Point", "coordinates": [ -1.51599, 53.84960 ] } },
 { "type": "Feature", "properties": { "osm_id": "7619826478", "highway": "crossing" , "traffic_calming":"island" }, "geometry": { "type": "Point", "coordinates": [ -1.51817, 53.84972 ] } },
 { "type": "Feature", "properties": { "osm_id": "7661761963" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.38576, 53.79630 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7661761966" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.38581, 53.79603 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7661761966" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.38581, 53.79603 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7692244796" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.51552, 53.79702 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7692244797" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.51583, 53.79691 ] } }
 ]
 }

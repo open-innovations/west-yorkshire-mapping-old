@@ -30,7 +30,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "972553034", "name": "Arnold Clark Motorstore", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7639609, 53.6593675 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "979292941", "name": "R N Golden", "other_tags": "\"shop\"=>\"car\",\"brand\"=>\"Hyundai\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7129588, 53.6351208 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1126487433", "other_tags": "\"shop\"=>\"car\",\"brand\"=>\"Prugeot\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5929739, 53.7176349 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1162442495", "name": "Benfield Ford", "other_tags": "\"shop\"=>\"car\",\"brand\"=>\"Ford\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7162485, 53.8752804 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1276400749", "name": "Elams of Mirfield LTD.", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6769795, 53.6751023 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1301895941", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7141653, 53.712178 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1305973008", "name": "The Stables", "other_tags": "\"phone\"=>\"+44 1924 480000\",\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6994665, 53.6757116 ] } },
