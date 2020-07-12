@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2952522258", "other_tags": "\"leisure\"=>\"bandstand\",\"building\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6657081, 53.7940934 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4810013349", "name": "Bandstand", "other_tags": "\"leisure\"=>\"bandstand\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6656669, 53.7938769 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4810013349", "other_tags": "\"leisure\"=>\"bandstand\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6656669, 53.7938769 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5039126005", "other_tags": "\"building\"=>\"yes\",\"leisure\"=>\"bandstand\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5447705, 53.754816 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6211511361", "other_tags": "\"historic\"=>\"leisure\",\"leisure\"=>\"bandstand\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5067867, 53.7941318 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.819719, "longitude": -1.557723 }, "osm_way_id": "227770291", "leisure": "bandstand" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5577701, 53.819751 ], [ -1.5577304, 53.8197596 ], [ -1.5576802, 53.8197534 ], [ -1.5576531, 53.8197287 ], [ -1.5576677, 53.819693 ], [ -1.5577074, 53.8196794 ], [ -1.5577764, 53.8196905 ], [ -1.5577931, 53.8197226 ], [ -1.5577701, 53.819751 ] ] ] } },
