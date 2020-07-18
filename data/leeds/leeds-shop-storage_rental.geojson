@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.787887, "longitude": -1.569022 }, "osm_way_id": "150591349", "name": "Big Yellow Self Storage", "building": "yes", "shop": "storage_rental" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5695241, 53.7882227 ], [ -1.5682647, 53.7878728 ], [ -1.5685207, 53.7875512 ], [ -1.5697801, 53.787901 ], [ -1.5695241, 53.7882227 ] ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.797682, "longitude": -1.524411 }, "osm_way_id": "619359889", "name": "Safestore", "building": "yes", "shop": "storage_rental", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"50\",\"addr:postcode\"=>\"LS9 8SY\",\"addr:street\"=>\"York Road\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5248316, 53.7977729 ], [ -1.5247937, 53.797878 ], [ -1.5240754, 53.797789 ], [ -1.5240866, 53.7977576 ], [ -1.5239373, 53.7977391 ], [ -1.5240222, 53.7975 ], [ -1.5240592, 53.7975045 ], [ -1.5240658, 53.7974862 ], [ -1.5247527, 53.7975712 ], [ -1.5247413, 53.7976033 ], [ -1.5248854, 53.7976211 ], [ -1.5248316, 53.7977729 ] ] ] } }
 ]
 }
