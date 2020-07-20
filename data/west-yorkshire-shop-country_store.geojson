@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "7727875167", "other_tags": "\"shop\"=>\"country_store\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5244449, 53.6791708 ] } }
+]
+}
