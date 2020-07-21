@@ -3490,7 +3490,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7721174732", "other_tags": "\"denotation\"=>\"avenue\",\"genus\"=>\"acer\",\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\",\"species\"=>\"pseudoplatanus\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7131577, 53.8745972 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7721174733", "other_tags": "\"denotation\"=>\"avenue\",\"genus\"=>\"acer\",\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\",\"species\"=>\"pseudoplatanus\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7132168, 53.874636 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7721651578", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3109598, 53.6905744 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7728649829", "name": "tree", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5286218, 53.6387821 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7728649829", "name": "tree", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5286055, 53.6387766 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7728649846", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.525679, 53.6386426 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7728649847", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5255288, 53.6385886 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7728649855", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5308878, 53.6390243 ] } },

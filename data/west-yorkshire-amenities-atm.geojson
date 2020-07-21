@@ -306,7 +306,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6294180911", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4520487, 53.8072009 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6294180912", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4520342, 53.8073247 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6396466800", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.3782586, 53.6350727 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6551413438", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4961348, 53.683682 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6551413438", "amenity": "atm", "other_tags": "\"currency:$\"=>\"yes\",\"currency:£\"=>\"yes\",\"currency:EUR\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4961348, 53.683682 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6600898423", "amenity": "atm", "other_tags": "\"brand\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3529366, 53.7259898 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6600898424", "amenity": "atm", "other_tags": "\"brand\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3529119, 53.7259955 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6625266272", "name": "Copley ATM", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8846362, 53.7073942 ] } },
@@ -326,6 +326,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7575101683", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5201852, 53.8560377 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7593715030", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4604704, 53.8222198 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7593715032", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4604603, 53.8222071 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7667095285", "amenity": "atm", "other_tags": "\"survey:date\"=>\"2020-06-29\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5895142, 53.8132531 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7667095285", "amenity": "atm", "other_tags": "\"survey:date\"=>\"2020-06-29\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5895142, 53.8132531 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7730232043", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.493757, 53.681946 ] } }
 ]
 }
