@@ -75,6 +75,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7172522933", "amenity": "grit_bin", "other_tags": "\"access\"=>\"yes\",\"colour\"=>\"Yellow\",\"mapillary\"=>\"j_s2VZBbfBoMDLFqRuyqfA\",\"material\"=>\"plastic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3274483, 53.716783 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7401626986", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -2.0206806, 53.7496211 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7628680319", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.5005068, 53.6494605 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7733138919", "amenity": "grit_bin", "other_tags": "\"access\"=>\"yes\",\"collection_times\"=>\"When need refilling (idk)\",\"colour\"=>\"Yellow\",\"material\"=>\"reinforced_plastic.\",\"operator\"=>\"Wakefield Conucil\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5029987, 53.6841182 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7733138919", "amenity": "grit_bin", "other_tags": "\"access\"=>\"yes\",\"collection_times\"=>\"When need refilling (idk)\",\"colour\"=>\"Yellow\",\"material\"=>\"reinforced_plastic.\",\"operator\"=>\"Wakefield Conucil\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5029987, 53.6841182 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7741052743", "amenity": "grit_bin", "other_tags": "\"access\"=>\"yes\",\"collection_times\"=>\"When needs filling\",\"material\"=>\"plastic\",\"operator\"=>\"IKEA (UK)\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6483923, 53.7450899 ] } }
 ]
 }

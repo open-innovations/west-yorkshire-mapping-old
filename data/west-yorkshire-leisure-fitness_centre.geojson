@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "301022546", "name": "COACH Gym", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS4 2EZ\",\"addr:street\"=>\"Kirkstall Road\",\"brand\"=>\"Iceland\",\"brand:wikidata\"=>\"Q721810\",\"brand:wikipedia\"=>\"en:Iceland (supermarket)\",\"fhrs:id\"=>\"467019\",\"leisure\"=>\"fitness_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5869049, 53.80708 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "305686967", "name": "ClimbZone", "other_tags": "\"leisure\"=>\"fitness_centre\",\"sport\"=>\"climbing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3413731, 53.7105322 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1041331266", "name": "energie Fitness for Women", "other_tags": "\"addr:city\"=>\"Huddersfield\",\"addr:housenumber\"=>\"49-59\",\"addr:postcode\"=>\"HD1 2BQ\",\"addr:street\"=>\"New Street\",\"indoor\"=>\"yes\",\"leisure\"=>\"fitness_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7829818, 53.6448331 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3874017909", "name": "PureGym", "other_tags": "\"brand\"=>\"PureGym\",\"brand:wikidata\"=>\"Q18345898\",\"brand:wikipedia\"=>\"en:PureGym\",\"leisure\"=>\"fitness_centre\",\"sport\"=>\"fitness\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6044677, 53.8162162 ] } },
