@@ -83,7 +83,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1025703047", "amenity": "atm", "other_tags": "\"operator\"=>\"Barclays Bank PLC\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5532458, 53.8066066 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1251743160", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6605588, 53.8073927 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1313886882", "amenity": "atm", "other_tags": "\"operator\"=>\"Barclays Bank PLC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5553509, 53.8031829 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1323671073", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5521156, 53.7917137 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1323671073", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5521434, 53.7917114 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1423146249", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"network\"=>\"Link\",\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5082044, 53.8442838 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1427701542", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Post Office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5580053, 53.8475809 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1428534330", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"network\"=>\"Link; Visa; Cirrus\",\"operator\"=>\"cashpoint\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5352331, 53.8478176 ] } },

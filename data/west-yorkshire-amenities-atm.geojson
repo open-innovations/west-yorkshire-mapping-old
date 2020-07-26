@@ -125,7 +125,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1247631801", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8580209, 53.7247837 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1251743160", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6605588, 53.8073927 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1313886882", "amenity": "atm", "other_tags": "\"operator\"=>\"Barclays Bank PLC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5553509, 53.8031829 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1323671073", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5521156, 53.7917137 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1323671073", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5521434, 53.7917114 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1340360113", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6705776, 53.7034299 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1347992538", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"currency\"=>\"GBP\",\"operator\"=>\"The Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.784424, 53.5724115 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1414371806", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax\",\"description\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0969961, 53.7136066 ] } },

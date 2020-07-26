@@ -8,6 +8,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6001596343", "name": "Aspinal of London", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Victoria Gate\",\"addr:postcode\"=>\"LS2 7AR\",\"addr:street\"=>\"Harewood Street\",\"addr:unit\"=>\"14-15\",\"level\"=>\"0\",\"shop\"=>\"bag\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5388933, 53.798159 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6052531534", "name": "Secco Accessories", "other_tags": "\"level\"=>\"0\",\"shop\"=>\"bag\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5742663, 53.757281 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6606798468", "other_tags": "\"addr:housename\"=>\"Market Hall\",\"addr:postcode\"=>\"WF8 1AU\",\"addr:street\"=>\"Market Place\",\"addr:town\"=>\"Pontefract\",\"shop\"=>\"bag\"" }, "geometry": { "type": "Point", "coordinates": [ -1.311108, 53.6919262 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7730232062", "name": "Tripp at Debenhams", "other_tags": "\"shop\"=>\"bag\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4937764, 53.6846603 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7730232062", "name": "Tripp at Debenhams", "other_tags": "\"shop\"=>\"bag\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4937764, 53.6846603 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7746707325", "name": "Antler", "other_tags": "\"addr:city\"=>\"Castleford\",\"addr:housename\"=>\"Junction 32 Outlet Shopping Village\",\"addr:housenumber\"=>\"Unit 23\",\"addr:postcode\"=>\"WF10 4FR\",\"addr:street\"=>\"Tomahawk Trail\",\"shop\"=>\"bag\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3402321, 53.712825 ] } }
 ]
 }
