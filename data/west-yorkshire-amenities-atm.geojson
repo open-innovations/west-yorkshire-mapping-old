@@ -327,6 +327,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "7667095285", "amenity": "atm", "other_tags": "\"survey:date\"=>\"2020-06-29\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5895142, 53.8132531 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7730232043", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.493757, 53.681946 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7738994953", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6451258, 53.7442239 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7740448772", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"NoteMachine\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6448144, 53.7460944 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7740448772", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"NoteMachine\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6448144, 53.7460944 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7750414765", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"NoteMachine\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3387048, 53.7123251 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7750414766", "amenity": "atm", "other_tags": "\"currency:gb\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"cashzone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3387282, 53.7123068 ] } }
 ]
 }
