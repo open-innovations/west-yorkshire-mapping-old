@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.695538, "longitude": -1.310434 }, "osm_way_id": "722146942", "amenity": "court_yard" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.3106212, 53.6955486 ], [ -1.3103115, 53.6956185 ], [ -1.3103041, 53.6956071 ], [ -1.3103824, 53.6955894 ], [ -1.31034, 53.6955236 ], [ -1.310256, 53.6955426 ], [ -1.3102472, 53.695529 ], [ -1.3105627, 53.6954578 ], [ -1.3106212, 53.6955486 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.695529, "longitude": -1.310448 }, "osm_way_id": "722146942", "amenity": "court_yard" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.3106346, 53.695539 ], [ -1.3103249, 53.6956089 ], [ -1.3103175, 53.6955975 ], [ -1.3103958, 53.6955798 ], [ -1.3103534, 53.695514 ], [ -1.3102694, 53.695533 ], [ -1.3102606, 53.6955194 ], [ -1.3105761, 53.6954482 ], [ -1.3106346, 53.695539 ] ] ] ] } }
 ]
 }
