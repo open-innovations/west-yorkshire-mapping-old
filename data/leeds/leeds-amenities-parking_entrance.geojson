@@ -58,6 +58,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "7105722505", "amenity": "parking_entrance", "other_tags": "\"access\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.550804, 53.7973724 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7176358843", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.532104, 53.7937881 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7251436998", "amenity": "parking_entrance", "other_tags": "\"access\"=>\"yes\",\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS1 4BY\",\"addr:street\"=>\"Princes Square\",\"level\"=>\"G\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5494086, 53.7951271 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7603485962", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.3874179, 53.9272356 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7603485962", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.3874179, 53.9272356 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7780884361", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.4618009, 53.8285166 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7780884366", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.4615661, 53.8286209 ] } }
 ]
 }
