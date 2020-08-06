@@ -33,7 +33,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6781698732", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.3471117, 53.6405559 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6859203134", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.6697912, 53.6764311 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7176834942", "name": "Singh Hand Car Wash", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.3100087, 53.7012832 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7608160952", "name": "Fast Hand Car Wash & Valeting", "amenity": "car_wash", "other_tags": "\"addr:city\"=>\"Pontefract\",\"addr:postcode\"=>\"WF8 2ST\",\"addr:street\"=>\"Pontefract Road\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3028421, 53.6943965 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7608160952", "name": "Fast Hand Car Wash & Valeting", "amenity": "car_wash", "other_tags": "\"addr:city\"=>\"Pontefract\",\"addr:postcode\"=>\"WF8 2ST\",\"addr:street\"=>\"Pontefract Road\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3028234, 53.6943784 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7707742401", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.4788402, 53.804883 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7707742402", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.4787305, 53.804877 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7730232028", "name": "BP", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.4848601, 53.6731335 ] } },
