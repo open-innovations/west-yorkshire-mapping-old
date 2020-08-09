@@ -53,10 +53,11 @@
 	{ "type": "Feature", "properties": { "osm_id": "2807904394", "name": "High Crag", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8638142, 53.9169456 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2808047448", "name": "Coppy Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8982793, 53.9374093 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4739531268", "name": "Kiln Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9590889, 53.9325459 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4987925416", "name": "Brown Bank", "other_tags": "\"ele:ft\"=>\"850\",\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9143067, 53.9235673 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4987925416", "name": "Brown Bank", "other_tags": "\"ele:ft\"=>\"850\",\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9145427, 53.9233904 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6612511130", "name": "Snow Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9580269, 53.9518099 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6612535194", "name": "Nor Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.920594, 53.9552633 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7484478550", "name": "Haw", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9222326, 53.9178436 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7565780675", "name": "Nudge Hill End", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9037173, 53.9308203 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7565780675", "name": "Nudge Hill End", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9037173, 53.9308203 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7796708025", "name": "Pinfold Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9058068, 53.8968923 ] } }
 ]
 }

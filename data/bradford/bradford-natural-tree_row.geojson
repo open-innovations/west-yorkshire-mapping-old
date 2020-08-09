@@ -102,6 +102,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "815710545", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8711273, 53.9412677 ], [ -1.8709771, 53.9410972 ], [ -1.8708591, 53.9401815 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "827599218", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.87841, 53.9395015 ], [ -1.8768811, 53.9394383 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "827599219", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8765432, 53.9394162 ], [ -1.8751323, 53.9393467 ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": "827600426", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8757213, 53.9404218 ], [ -1.8760808, 53.9401092 ], [ -1.8763183, 53.9399909 ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "827600426", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8757213, 53.9404218 ], [ -1.8760808, 53.9401092 ], [ -1.8763183, 53.9399909 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "835279009", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9037195, 53.9102223 ], [ -1.9028505, 53.9100454 ], [ -1.9025184, 53.9100561 ], [ -1.9006994, 53.9102097 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "835279012", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9026413, 53.9106394 ], [ -1.9026418, 53.910549 ], [ -1.9026788, 53.9101307 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "835279013", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9039878, 53.9106268 ], [ -1.9038268, 53.9109838 ], [ -1.9037201, 53.9109567 ] ] } }
 ]
 }

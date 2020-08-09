@@ -174,7 +174,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2135014985", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5481854, 53.7916523 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2148948484", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5626016, 53.8561811 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2149405513", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4994285, 53.6845174 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2182347191", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6509553, 53.7013119 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2182347191", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6512342, 53.7016803 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2196359295", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Tesco\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8157644, 53.8160599 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2214979249", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9621753, 53.8977328 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2281926881", "amenity": "atm", "other_tags": "\"operator\"=>\"Co-Operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4840343, 53.8001213 ] } },

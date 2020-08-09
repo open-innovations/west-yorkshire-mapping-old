@@ -9,7 +9,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "699024158", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8864525, 53.9217085 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "708660091", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8792777, 53.9226166 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "708660094", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8788915, 53.9232231 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "708685665", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8834694, 53.8998338 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "708685665", "name": "Rivock Well", "other_tags": "\"natural\"=>\"spring\",\"source:name\"=>\"NLS-OS-NatGrid-110k-1940-60\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8834694, 53.8998338 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "708688768", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9050529, 53.9030684 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "746786929", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7246713, 53.8919194 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747706198", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.752194, 53.8893753 ] } },
