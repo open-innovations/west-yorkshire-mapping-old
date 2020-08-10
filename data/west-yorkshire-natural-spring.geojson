@@ -54,6 +54,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4988444845", "name": "Silver Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8520758, 53.9130479 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4988488393", "name": "Fanny Shaw Low Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8349505, 53.8765593 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5177178483", "name": "Dearne Head", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7103201, 53.5643786 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5230501445", "name": "Guiseley Wells", "other_tags": "\"historic\"=>\"yes\",\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7082111, 53.875289 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5489429154", "ref": "Pond 1", "other_tags": "\"natural\"=>\"spring\",\"proposed\"=>\"natural\",\"water\"=>\"pond\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4765007, 53.843508 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5536001469", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.919205, 53.804774 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5536471180", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9316089, 53.797153 ] } },
