@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.676872, "longitude": -1.517716 }, "osm_way_id": "430387591", "name": "KennelGate", "building": "yes", "shop": "pet_food", "other_tags": "\"addr:housenumber\"=>\"106-116\",\"addr:postcode\"=>\"WF2 8UB\",\"addr:street\"=>\"Horbury Road\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5179481, 53.6769161 ], [ -1.5178571, 53.6769899 ], [ -1.5174832, 53.6768285 ], [ -1.5175744, 53.6767545 ], [ -1.5179481, 53.6769161 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.676872, "longitude": -1.517716 }, "osm_way_id": "430387591", "name": "KennelGate", "building": "yes", "shop": "pet_food", "other_tags": "\"addr:street\"=>\"Horbury Road\",\"addr:postcode\"=>\"WF2 8UB\",\"addr:housenumber\"=>\"106-116\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5179481, 53.6769161 ], [ -1.5178571, 53.6769899 ], [ -1.5174832, 53.6768285 ], [ -1.5175744, 53.6767545 ], [ -1.5179481, 53.6769161 ] ] ] ] } }
 ]
 }

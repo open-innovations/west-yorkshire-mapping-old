@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "5711950286", "name": "Azeem's Accessories", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"67-69\",\"addr:postcode\"=>\"BD16 2HZ\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"phone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8387248, 53.8493385 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5711950286", "name": "Azeem's Accessories", "other_tags": "\"shop\"=>\"phone\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"addr:postcode\"=>\"BD16 2HZ\",\"addr:housenumber\"=>\"67-69\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8387248, 53.8493385 ] } }
 ]
 }

@@ -3,6 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5452280965", "name": "Body Shop", "other_tags": "\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8580788, 53.7233928 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5569969831", "name": "Savers", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housename\"=>\"Westgate House\",\"addr:housenumber\"=>\"31\",\"addr:postcode\"=>\"HX1 1PD\",\"addr:street\"=>\"Market Street\",\"fhrs:id\"=>\"347937\",\"shop\"=>\"cosmetics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8584248, 53.7222152 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5569969831", "name": "Savers", "other_tags": "\"shop\"=>\"cosmetics\",\"fhrs:id\"=>\"347937\",\"addr:city\"=>\"Halifax\",\"addr:street\"=>\"Market Street\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"HX1 1PD\",\"addr:housename\"=>\"Westgate House\",\"addr:housenumber\"=>\"31\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8584248, 53.7222152 ] } }
 ]
 }

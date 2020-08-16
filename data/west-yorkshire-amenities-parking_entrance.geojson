@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "304990749", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5520243, 53.8037074 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "317020516", "name": "Calarence Dock Car Park", "amenity": "parking_entrance", "other_tags": "\"access\"=>\"yes\",\"covered\"=>\"yes\",\"fee\"=>\"no\",\"lit\"=>\"yes\",\"parking\"=>\"multi-storey\",\"smoothness\"=>\"good\",\"surface\"=>\"concrete\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5302366, 53.7908486 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "317020516", "name": "Calarence Dock Car Park", "amenity": "parking_entrance", "other_tags": "\"fee\"=>\"no\",\"lit\"=>\"yes\",\"access\"=>\"yes\",\"covered\"=>\"yes\",\"parking\"=>\"multi-storey\",\"surface\"=>\"concrete\",\"smoothness\"=>\"good\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5302366, 53.7908486 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "317440799", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5557833, 53.7978034 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "324323922", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.7866265, 53.645964 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330053622", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.786381, 53.6459558 ] } },

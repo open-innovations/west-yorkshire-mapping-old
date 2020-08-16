@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1139428955", "name": "Hollywood Nails", "other_tags": "\"phone\"=>\"+44 1924 460694\",\"shop\"=>\"nails\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6279725, 53.6906954 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "1139428955", "name": "Hollywood Nails", "other_tags": "\"shop\"=>\"nails\",\"phone\"=>\"+44 1924 460694\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6279725, 53.6906954 ] } }
 ]
 }

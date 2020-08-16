@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4583121589", "name": "Tanfastique", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"24\",\"addr:postcode\"=>\"LS26 0RD\",\"addr:street\"=>\"Manor Road\",\"addr:suburb\"=>\"Rothwell\",\"shop\"=>\"solarium\"" }, "geometry": { "type": "Point", "coordinates": [ -1.486055, 53.752751 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "4583121589", "name": "Tanfastique", "other_tags": "\"shop\"=>\"solarium\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Manor Road\",\"addr:suburb\"=>\"Rothwell\",\"addr:postcode\"=>\"LS26 0RD\",\"addr:housenumber\"=>\"24\"" }, "geometry": { "type": "Point", "coordinates": [ -1.486055, 53.752751 ] } }
 ]
 }

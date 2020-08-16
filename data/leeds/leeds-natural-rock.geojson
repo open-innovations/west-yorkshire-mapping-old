@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2593945452", "name": "Adel Crags", "other_tags": "\"sport\"=>\"climbing\",\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5732492, 53.8575349 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2955107448", "name": "Rankling Stone", "other_tags": "\"natural\"=>\"rock\",\"source:name\"=>\"http:\/\/maps.nls.uk\/view\/100947032\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6386727, 53.7931453 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7094153791", "name": "Paddy's Crossing", "other_tags": "\"historic\"=>\"memorial\",\"memorial\"=>\"plaque\",\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4784001, 53.8044813 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7094153791", "name": "Paddy's Crossing", "other_tags": "\"historic\"=>\"memorial\",\"memorial\"=>\"plaque\",\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4784001, 53.8044813 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7809631419", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5490086, 53.8821819 ] } }
 ]
 }

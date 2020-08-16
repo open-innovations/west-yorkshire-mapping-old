@@ -5,7 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "301724011", "name": "HSBC", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7567629, 53.7910928 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301736434", "name": "NatWest", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7471223, 53.7916054 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "317592551", "name": "HSBC", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.754263, 53.7934027 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "354946624", "amenity": "atm", "other_tags": "\"operator\"=>\"Sainsburys\",\"toilets:wheelchair\"=>\"no\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9042448, 53.8687467 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "354946624", "amenity": "atm", "other_tags": "\"operator\"=>\"Sainsburys\",\"wheelchair\"=>\"yes\",\"toilets:wheelchair\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9042448, 53.8687467 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "382568502", "amenity": "atm", "other_tags": "\"operator\"=>\"Barclays Bank PLC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7732802, 53.805695 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "415510968", "amenity": "atm", "other_tags": "\"operator\"=>\"Santander\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9085059, 53.8681187 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "415510969", "amenity": "atm", "other_tags": "\"operator\"=>\"Bradford & Bingley\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9090424, 53.8670781 ] } },

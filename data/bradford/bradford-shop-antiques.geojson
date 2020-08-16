@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1295263461", "name": "Revival", "other_tags": "\"phone\"=>\"+44 1535 606837\",\"shop\"=>\"antiques\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9112089, 53.8596081 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1295263461", "name": "Revival", "other_tags": "\"shop\"=>\"antiques\",\"phone\"=>\"+44 1535 606837\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9112089, 53.8596081 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5434991088", "name": "Antiques Retro & Vintage", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"84\",\"addr:postcode\"=>\"BD16 2JH\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"antiques\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8405847, 53.8505737 ] } }
 ]
 }

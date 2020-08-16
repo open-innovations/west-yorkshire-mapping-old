@@ -4,6 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "1295263542", "name": "Sequines", "other_tags": "\"shop\"=>\"fancy_dress\",\"description\"=>\"Fancy Dress\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9111802, 53.8657567 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1377220124", "name": "The Magic Wardrobe Fancy Dress & Vintage", "other_tags": "\"shop\"=>\"fancy_dress\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5636301, 53.8153193 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5407594202", "name": "Sashes & Tashes", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"1\",\"addr:postcode\"=>\"LS26 0NW\",\"addr:street\"=>\"Spibey Lane\",\"shop\"=>\"fancy_dress\"" }, "geometry": { "type": "Point", "coordinates": [ -1.48598, 53.7551156 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5407594202", "name": "Sashes & Tashes", "other_tags": "\"shop\"=>\"fancy_dress\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Spibey Lane\",\"addr:postcode\"=>\"LS26 0NW\",\"addr:housenumber\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.48598, 53.7551156 ] } }
 ]
 }

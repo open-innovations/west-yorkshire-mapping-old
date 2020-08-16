@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "4847310278", "name": "Moon's", "other_tags": "\"shop\"=>\"fabric\"" }, "geometry": { "type": "Point", "coordinates": [ -1.71471, 53.8762232 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5632863871", "name": "B&M Fabrics", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Market Buildings\",\"addr:housenumber\"=>\"17\",\"addr:postcode\"=>\"LS2 7HZ\",\"addr:street\"=>\"Ludgate Hill\",\"shop\"=>\"fabric\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5396182, 53.7975941 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5632863871", "name": "B&M Fabrics", "other_tags": "\"shop\"=>\"fabric\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Ludgate Hill\",\"addr:postcode\"=>\"LS2 7HZ\",\"addr:housename\"=>\"Market Buildings\",\"addr:housenumber\"=>\"17\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5396182, 53.7975941 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6001482109", "name": "Jacks Fabrics", "other_tags": "\"shop\"=>\"fabric\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5381302, 53.7974271 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6001482137", "name": "Fletchers Interior Fabrics", "other_tags": "\"shop\"=>\"fabric\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5385406, 53.7970159 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6001482139", "name": "B&M Fabrics", "other_tags": "\"shop\"=>\"fabric\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5385385, 53.7970983 ] } },
