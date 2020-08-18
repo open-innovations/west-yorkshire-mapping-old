@@ -41,6 +41,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7737637662", "name": "Ecotricity Electric", "amenity": "charging_station", "other_tags": "\"access\"=>\"yes\",\"capacity\"=>\"2\",\"fee\"=>\"no\",\"operator\"=>\"IKEA UK\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6482055, 53.7452932 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7742495074", "name": "Genie Point", "amenity": "charging_station", "other_tags": "\"access\"=>\"yes\",\"capacity\"=>\"2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5341038, 53.787131 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7810528941", "name": "ChargeYourCar", "amenity": "charging_station", "other_tags": "\"access\"=>\"private\",\"capacity\"=>\"2\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3474994, 53.7125743 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7820112498", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8779575, 53.6239672 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.773189, "longitude": -1.473721 }, "osm_way_id": "810024887", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"6\",\"electrified\"=>\"yes\",\"operator\"=>\"Tesla\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4738284, 53.7732322 ], [ -1.4738294, 53.7731475 ], [ -1.4736128, 53.7731466 ], [ -1.4736119, 53.7732313 ], [ -1.4738284, 53.7732322 ] ] ] ] } }
 ]
 }
