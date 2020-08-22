@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.803841, "longitude": -1.582026 }, "osm_way_id": "232537909", "name": "Hollywood Bowl", "building": "yes", "leisure": "bowling_alley", "sport": "10pin", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"3\",\"addr:postcode\"=>\"LS4 2DG\",\"addr:street\"=>\"Cardigan Fields Road\",\"brand\"=>\"Hollywood Bowl\",\"brand:wikidata\"=>\"Q80971952\",\"brand:wikipedia\"=>\"en:Hollywood Bowl Group\",\"fhrs:id\"=>\"323078\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5826751, 53.8038776 ], [ -1.5824027, 53.8042028 ], [ -1.5817927, 53.804032 ], [ -1.5813871, 53.8039177 ], [ -1.5814376, 53.8038559 ], [ -1.5814068, 53.8038445 ], [ -1.5814378, 53.8038083 ], [ -1.5813773, 53.8037906 ], [ -1.581404, 53.8037556 ], [ -1.5814741, 53.8037763 ], [ -1.5815276, 53.8037112 ], [ -1.5814284, 53.8036811 ], [ -1.5816022, 53.80348 ], [ -1.5825951, 53.8037635 ], [ -1.5826751, 53.8038776 ] ] ] } }
+]
+}
