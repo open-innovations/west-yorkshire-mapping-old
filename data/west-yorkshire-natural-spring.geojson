@@ -111,6 +111,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7565410223", "name": "Holme Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.869292, 53.925453 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7565662019", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8979891, 53.936037 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7565780667", "name": "Nudge Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.903183, 53.9315903 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7603324937", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0609524, 53.7274891 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7603324937", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0609524, 53.7274891 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7835682472", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7435033, 53.9344636 ] } }
 ]
 }

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.880863, "longitude": -1.664101 }, "osm_way_id": "560155802", "landuse": "meadow; farmland", "other_tags": "\"farmland\"=>\"field\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6633192, 53.8802089 ], [ -1.66467, 53.8804644 ], [ -1.6647998, 53.880484 ], [ -1.6649478, 53.880579 ], [ -1.6647934, 53.8815174 ], [ -1.6632533, 53.8814421 ], [ -1.6633192, 53.8802089 ] ] ] } }
+]
+}
