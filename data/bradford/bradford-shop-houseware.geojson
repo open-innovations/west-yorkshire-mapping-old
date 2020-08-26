@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "301033879", "name": "The Range", "other_tags": "\"brand\"=>\"The Range\",\"brand:wikidata\"=>\"Q7759409\",\"shop\"=>\"houseware\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7876317, 53.7984884 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "301033879", "name": "The Range", "other_tags": "\"shop\"=>\"houseware\",\"brand\"=>\"The Range\",\"brand:wikidata\"=>\"Q7759409\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7876317, 53.7984884 ] } }
 ]
 }

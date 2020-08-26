@@ -26,6 +26,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "5897283849", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.4621044, 53.83047 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6967682911", "name": "Lindley Clock Tower", "amenity": "clock", "man_made": "tower", "other_tags": "\"display\"=>\"analog\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8216947, 53.658807 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7314509213", "name": "Ellis Memorial Clock Tower", "amenity": "clock", "other_tags": "\"date\"=>\"no\",\"display\"=>\"analog\",\"support\"=>\"tower\"" }, "geometry": { "type": "Point", "coordinates": [ -1.793228, 53.7394919 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7782034315", "amenity": "clock", "other_tags": "\"barometer\"=>\"no\",\"date\"=>\"no\",\"display\"=>\"analog\",\"hygrometer\"=>\"no\",\"support\"=>\"pillar\",\"thermometer\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7180192, 53.8784728 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7782034315", "amenity": "clock", "other_tags": "\"date\"=>\"no\",\"display\"=>\"analog\",\"support\"=>\"pillar\",\"barometer\"=>\"no\",\"hygrometer\"=>\"no\",\"thermometer\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7180192, 53.8784728 ] } }
 ]
 }

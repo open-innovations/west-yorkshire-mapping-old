@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "6702943714", "name": "Chinese Acupuncture & Herbs", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"6\",\"addr:postcode\"=>\"LS15 8BQ\",\"addr:street\"=>\"Manston Approach\",\"shop\"=>\"vacant;herbalist\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4476571, 53.8107041 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6702943714", "name": "Chinese Acupuncture & Herbs", "other_tags": "\"shop\"=>\"vacant;herbalist\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Manston Approach\",\"addr:postcode\"=>\"LS15 8BQ\",\"addr:housenumber\"=>\"6\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4476571, 53.8107041 ] } }
 ]
 }

@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4471291129", "name": "Iceland", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Crossgates Shopping Centre\",\"addr:postcode\"=>\"LS15 8ET\",\"addr:street\"=>\"Station Road\",\"addr:unit\"=>\"7\",\"brand\"=>\"Iceland\",\"brand:wikidata\"=>\"Q721810\",\"brand:wikipedia\"=>\"en:Iceland (supermarket)\",\"fhrs:id\"=>\"322754\",\"shop\"=>\"supermarket;frozen_food\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4517317, 53.8062637 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "4471291129", "name": "Iceland", "other_tags": "\"shop\"=>\"supermarket;frozen_food\",\"brand\"=>\"Iceland\",\"fhrs:id\"=>\"322754\",\"addr:city\"=>\"Leeds\",\"addr:unit\"=>\"7\",\"wheelchair\"=>\"yes\",\"addr:street\"=>\"Station Road\",\"addr:postcode\"=>\"LS15 8ET\",\"addr:housename\"=>\"Crossgates Shopping Centre\",\"brand:wikidata\"=>\"Q721810\",\"brand:wikipedia\"=>\"en:Iceland (supermarket)\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4517317, 53.8062637 ] } }
 ]
 }

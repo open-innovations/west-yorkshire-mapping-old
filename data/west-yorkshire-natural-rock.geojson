@@ -12,7 +12,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5357338383", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.953062, 53.5904444 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6126218950", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8954029, 53.8950493 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6840867805", "name": "Rockery", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.744461, 53.8100858 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7094153791", "name": "Paddy's Crossing", "other_tags": "\"historic\"=>\"memorial\",\"memorial\"=>\"plaque\",\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4784001, 53.8044813 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7094153791", "name": "Paddy's Crossing", "other_tags": "\"natural\"=>\"rock\",\"historic\"=>\"memorial\",\"memorial\"=>\"plaque\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4784001, 53.8044813 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7565135460", "name": "Sepulchre Stone", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8638927, 53.9189867 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7809631419", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5490086, 53.8821819 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7837610911", "other_tags": "\"description\"=>\"Annotated as \\\"PILLAR\\\" on OS sheet 187, publ 1851\",\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6869731, 53.8870822 ] } },

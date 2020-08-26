@@ -6,6 +6,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "4697333837", "name": "Trinity Kitchen", "amenity": "food_court", "other_tags": "\"cuisine\"=>\"international\",\"operator\"=>\"Land Securities Group\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5455178, 53.7971476 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5619412805", "name": "The Core Food Court", "amenity": "food_court" }, "geometry": { "type": "Point", "coordinates": [ -1.5439963, 53.7988947 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6052531510", "amenity": "food_court", "other_tags": "\"level\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5742904, 53.7582642 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6724415570", "name": "Medirest Food Court", "amenity": "food_court", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Clarendon Wing Leeds General Infirmary\",\"addr:postcode\"=>\"LS2 9NS\",\"addr:street\"=>\"Clarendon Road\",\"addr:suburb\"=>\"Woodhouse\",\"fhrs:id\"=>\"319566\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5547022, 53.8023569 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6724415570", "name": "Medirest Food Court", "amenity": "food_court", "other_tags": "\"fhrs:id\"=>\"319566\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Clarendon Road\",\"addr:suburb\"=>\"Woodhouse\",\"addr:postcode\"=>\"LS2 9NS\",\"addr:housename\"=>\"Clarendon Wing Leeds General Infirmary\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5547022, 53.8023569 ] } }
 ]
 }

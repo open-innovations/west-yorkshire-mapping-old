@@ -2,8 +2,8 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "330089354", "name": "Cash Converters", "other_tags": "\"brand\"=>\"Cash Converters\",\"brand:wikidata\"=>\"Q5048645\",\"brand:wikipedia\"=>\"en:Cash Converters\",\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5888196, 53.7974026 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "342601309", "name": "Convert2Cash", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"51\",\"addr:postcode\"=>\"LS2 8JD\",\"addr:street\"=>\"New Briggate\",\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5414674, 53.8001706 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "330089354", "name": "Cash Converters", "other_tags": "\"shop\"=>\"pawnbroker\",\"brand\"=>\"Cash Converters\",\"brand:wikidata\"=>\"Q5048645\",\"brand:wikipedia\"=>\"en:Cash Converters\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5888196, 53.7974026 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "342601309", "name": "Convert2Cash", "other_tags": "\"shop\"=>\"pawnbroker\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"New Briggate\",\"addr:postcode\"=>\"LS2 8JD\",\"addr:housenumber\"=>\"51\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5414674, 53.8001706 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5407217971", "name": "Cash Convertors", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5406883, 53.7970156 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5527199859", "name": "Cash Planet", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5832533, 53.806687 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6022850242", "name": "Ramsdens", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5412885, 53.7972243 ] } },

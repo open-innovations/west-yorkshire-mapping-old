@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4254659526", "name": "Patriot Games", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Citispace\",\"addr:housenumber\"=>\"11\",\"addr:postcode\"=>\"LS2 7QN\",\"addr:street\"=>\"Regent Street\",\"addr:unit\"=>\"2\",\"fhrs:id\"=>\"1157878\",\"phone\"=>\"+44 113 243 3352\",\"shop\"=>\"games\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5332916, 53.8026715 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "4254659526", "name": "Patriot Games", "other_tags": "\"shop\"=>\"games\",\"phone\"=>\"+44 113 243 3352\",\"fhrs:id\"=>\"1157878\",\"addr:city\"=>\"Leeds\",\"addr:unit\"=>\"2\",\"addr:street\"=>\"Regent Street\",\"addr:postcode\"=>\"LS2 7QN\",\"addr:housename\"=>\"Citispace\",\"addr:housenumber\"=>\"11\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5332916, 53.8026715 ] } }
 ]
 }

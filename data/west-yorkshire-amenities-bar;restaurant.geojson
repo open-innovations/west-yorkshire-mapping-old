@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.807512, "longitude": -1.447741 }, "osm_way_id": "704207056", "name": "Slip's xgates", "amenity": "bar;restaurant", "building": "yes", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"55\",\"addr:postcode\"=>\"LS15 8EQ\",\"addr:street\"=>\"Austhorpe Road\",\"addr:suburb\"=>\"Cross Gates\",\"fhrs:id\"=>\"1134074\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4478186, 53.8075699 ], [ -1.4478403, 53.8074668 ], [ -1.447664, 53.8074539 ], [ -1.4476423, 53.8075569 ], [ -1.4478186, 53.8075699 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.807512, "longitude": -1.447741 }, "osm_way_id": "704207056", "name": "Slip's xgates", "amenity": "bar;restaurant", "building": "yes", "other_tags": "\"fhrs:id\"=>\"1134074\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Austhorpe Road\",\"addr:suburb\"=>\"Cross Gates\",\"addr:postcode\"=>\"LS15 8EQ\",\"addr:housenumber\"=>\"55\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4478186, 53.8075699 ], [ -1.4478403, 53.8074668 ], [ -1.447664, 53.8074539 ], [ -1.4476423, 53.8075569 ], [ -1.4478186, 53.8075699 ] ] ] ] } }
 ]
 }

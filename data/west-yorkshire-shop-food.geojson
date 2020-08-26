@@ -5,6 +5,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "405211385", "name": "All Nations Food Arcade", "other_tags": "\"shop\"=>\"food\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5527554, 53.7762711 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1137884548", "name": "Mochachinno's Cake & Shake", "other_tags": "\"shop\"=>\"food\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6273069, 53.692863 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1305202651", "name": "Fultons", "other_tags": "\"shop\"=>\"food\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7801244, 53.7024644 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7562611928", "name": "Refill And Go", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"26\",\"addr:postcode\"=>\"LS25 1AA\",\"addr:street\"=>\"Main Street\",\"addr:suburb\"=>\"Garforth\",\"fhrs:id\"=>\"1172882\",\"shop\"=>\"food\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3880479, 53.7943749 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7562611928", "name": "Refill And Go", "other_tags": "\"shop\"=>\"food\",\"fhrs:id\"=>\"1172882\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Main Street\",\"addr:suburb\"=>\"Garforth\",\"addr:postcode\"=>\"LS25 1AA\",\"addr:housenumber\"=>\"26\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3880479, 53.7943749 ] } }
 ]
 }

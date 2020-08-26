@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "344785263", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housename\"=>\"Arden House\",\"addr:housenumber\"=>\"121-123\",\"addr:postcode\"=>\"BD16 2HT\",\"addr:street\"=>\"Main Street\",\"description\"=>\"Estate Agent\",\"old_name\"=>\"Your Move\",\"shop\"=>\"closed\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8379335, 53.8480106 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "344785263", "other_tags": "\"shop\"=>\"closed\",\"old_name\"=>\"Your Move\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"description\"=>\"Estate Agent\",\"addr:postcode\"=>\"BD16 2HT\",\"addr:housename\"=>\"Arden House\",\"addr:housenumber\"=>\"121-123\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8379335, 53.8480106 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5684881346", "name": "99 & Main", "amenity": "bar", "other_tags": "\"shop\"=>\"closed\",\"old_name\"=>\"Opulence\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"addr:housenumber\"=>\"99\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8382701, 53.8484922 ] } }
 ]
 }
