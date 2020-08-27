@@ -451,6 +451,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7809450333", "amenity": "bench", "other_tags": "\"colour\"=>\"brown\",\"backrest\"=>\"yes\",\"material\"=>\"wood\",\"direction\"=>\"SE\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5598019, 53.8766799 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7809477446", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.684504, 53.7914611 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7810591045", "amenity": "bench", "other_tags": "\"material\"=>\"wood\",\"direction\"=>\"E\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4905272, 53.8933275 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7847440967", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"direction\"=>\"w\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7057199, 53.8817545 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "734854382", "z_order": 0, "other_tags": "\"amenity\"=>\"bench\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.498663, 53.8373593 ], [ -1.498608, 53.8372445 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "734854383", "z_order": 0, "other_tags": "\"amenity\"=>\"bench\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4986477, 53.8373624 ], [ -1.4985927, 53.8372476 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "734854384", "z_order": 0, "other_tags": "\"amenity\"=>\"bench\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4986327, 53.8373656 ], [ -1.4985777, 53.8372509 ] ] } },

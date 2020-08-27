@@ -9,6 +9,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2466613124", "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8408963, 53.8592676 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4122133019", "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7762994, 53.6440872 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7637465584", "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8851665, 53.8030448 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7846214544", "name": "Disabled Access Ramp", "other_tags": "\"access\"=>\"customers\",\"leisure\"=>\"slipway\",\"surface\"=>\"concrete\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3358848, 53.6411095 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "283395653", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5106854, 53.6572595 ], [ -1.5104409, 53.6570023 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "283395654", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5102042, 53.6574398 ], [ -1.5099498, 53.6571762 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "283395655", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5110609, 53.6570856 ], [ -1.5107338, 53.6568447 ] ] } },

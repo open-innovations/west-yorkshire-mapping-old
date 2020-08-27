@@ -18,7 +18,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "421955822", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX100\",\"covered\"=>\"booth\",\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.821362, 53.7467633 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "431888416", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.7995348, 53.7287509 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "443247584", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9967886, 53.7504257 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "538557337", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\",\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0474631, 53.7553087 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "538557337", "amenity": "telephone", "other_tags": "\"fee\"=>\"yes\",\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0474631, 53.7553087 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "538599035", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0590188, 53.7504241 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "851657701", "amenity": "telephone", "other_tags": "\"operator\"=>\"British Telecom\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7706311, 53.7115434 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "878108411", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.873067, 53.6984896 ] } },
