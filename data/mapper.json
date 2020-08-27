@@ -14,7 +14,6 @@
 	"osm-bradford-trees": {"name":"Bradford trees","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-trees.json" },
 	"osm-bradford-waste_basket": {"name":"Bradford waste baskets","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-waste_basket.json" },
 	"osm-bradford-wood": {"name":"Bradford woods","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-wood.json" },
-	"osm-calderdale-allotments": {"name":"Calderdale allotments","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-calderdale-allotments.json" },
 	"osm-calderdale-bench": {"name":"Calderdale benches","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-calderdale-bench.json" },
 	"osm-calderdale-bicycle-parking": {"name":"Calderdale bicycle parking","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-calderdale-bicycle-parking.json" },
 	"osm-calderdale-cafe": {"name":"Calderdale cafes","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-calderdale-cafe.json" },
