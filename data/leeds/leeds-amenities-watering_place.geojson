@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "7847534360", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7045368, 53.8913401 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7848457454", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7081043, 53.8752472 ] } }
+]
+}
