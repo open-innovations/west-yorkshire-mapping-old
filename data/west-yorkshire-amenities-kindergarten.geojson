@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "28164102", "name": "Kangaroo Club Childrens Day Nursery", "amenity": "kindergarten" }, "geometry": { "type": "Point", "coordinates": [ -1.8205079, 53.9239074 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "252755375", "name": "Flatts Nursery School", "amenity": "kindergarten", "other_tags": "\"fhrs:id\"=>\"226815\",\"addr:city\"=>\"Dewsbury\",\"addr:street\"=>\"Ashworth Green\",\"addr:suburb\"=>\"Eightlands\",\"source:addr\"=>\"FHRS Open Data\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"WF13 2SU\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6381544, 53.6929039 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "263924008", "amenity": "kindergarten" }, "geometry": { "type": "Point", "coordinates": [ -1.5855187, 53.8296209 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "297118285", "name": "Busy Bees", "amenity": "kindergarten", "other_tags": "\"fhrs:id\"=>\"1043820\",\"building\"=>\"yes\",\"addr:town\"=>\"Pudsey\",\"addr:street\"=>\"Lowtown\",\"addr:postcode\"=>\"LS28 9AZ\",\"addr:housename\"=>\"The Old School Hall\",\"addr:housenumber\"=>\"85a\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6560897, 53.7976159 ] } },
