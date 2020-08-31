@@ -2,6 +2,12 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4866900366", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9725542, 53.8239521 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "4866900366", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9725542, 53.8239521 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7849874067", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8217319, 53.9325555 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7849874068", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8217344, 53.9327343 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7849874069", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8216867, 53.9328895 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7849874070", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8215118, 53.9328247 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7849874071", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8211404, 53.9328196 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7849874072", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8214808, 53.9326429 ] } }
 ]
 }

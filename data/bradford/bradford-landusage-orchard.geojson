@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.801029, "longitude": -1.756923 }, "osm_way_id": "237662539", "name": "Spring Gardens Community Orchard", "landuse": "orchard" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7569918, 53.8009651 ], [ -1.7570481, 53.8010158 ], [ -1.7568469, 53.8010919 ], [ -1.7567987, 53.8010412 ], [ -1.7569918, 53.8009651 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.801029, "longitude": -1.756923 }, "osm_way_id": "237662539", "name": "Spring Gardens Community Orchard", "landuse": "orchard" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7569918, 53.8009651 ], [ -1.7570481, 53.8010158 ], [ -1.7568469, 53.8010919 ], [ -1.7567987, 53.8010412 ], [ -1.7569918, 53.8009651 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.928870, "longitude": -1.821186 }, "osm_way_id": "841315946", "name": "Ilkley Community Orchard", "landuse": "orchard", "other_tags": "\"trees\"=>\"apple_trees\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8221375, 53.9284521 ], [ -1.8222493, 53.9286498 ], [ -1.8223407, 53.928834 ], [ -1.8223861, 53.9288967 ], [ -1.82019, 53.9292612 ], [ -1.8200603, 53.9292887 ], [ -1.8199852, 53.9291495 ], [ -1.8211788, 53.928649 ], [ -1.8221375, 53.9284521 ] ] ] } }
 ]
 }
