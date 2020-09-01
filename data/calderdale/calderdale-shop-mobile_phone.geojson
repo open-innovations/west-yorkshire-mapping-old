@@ -8,6 +8,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5452280967", "name": "3", "other_tags": "\"shop\"=>\"mobile_phone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8584221, 53.7231722 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5463222477", "name": "Virgin", "other_tags": "\"shop\"=>\"mobile_phone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8580467, 53.7231737 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5469277361", "name": "EE", "other_tags": "\"shop\"=>\"mobile_phone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8575344, 53.7230658 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5502173703", "name": "Carphone Warehouse", "other_tags": "\"shop\"=>\"mobile_phone\",\"opening_hours\"=>\"Mo-Sa 09:00-17:30; Su 10:00-16:00\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8575934, 53.7231499 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5502173703", "name": "Carphone Warehouse", "other_tags": "\"shop\"=>\"mobile_phone\",\"opening_hours\"=>\"Mo-Sa 09:00-17:30; Su 10:00-16:00\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8575934, 53.7231499 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.723132, "longitude": -1.860449 }, "osm_way_id": "567601663", "name": "Hex", "building": "yes", "shop": "mobile_phone" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8605118, 53.7231114 ], [ -1.8605226, 53.7231625 ], [ -1.8603885, 53.7231546 ], [ -1.860375, 53.7231011 ], [ -1.8605118, 53.7231114 ] ] ] } }
 ]
 }
