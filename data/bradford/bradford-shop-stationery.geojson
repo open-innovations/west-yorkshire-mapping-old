@@ -4,7 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "540201687", "name": "Time & Time Again", "other_tags": "\"shop\"=>\"stationery\",\"addr:city\"=>\"Ilkley\",\"addr:street\"=>\"Victorian Mews\",\"description\"=>\"Stationers & Printers\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"LS29 9DX\",\"addr:housenumber\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8239414, 53.9257766 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "634606864", "name": "Small Office Supplies", "other_tags": "\"shop\"=>\"stationery\",\"phone\"=>\"+44 1535 667936\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9097989, 53.8692686 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6221888964", "name": "The Little Stationary Shop", "other_tags": "\"shop\"=>\"stationery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7766419, 53.8326503 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.847789, "longitude": -1.837227 }, "osm_way_id": "486756153", "name": "The Stationery Cupboard", "building": "commercial", "shop": "stationery", "other_tags": "\"old_name\"=>\"The Card Emporium\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Chapel Lane\",\"addr:postcode\"=>\"BD16 2NG\",\"addr:housenumber\"=>\"11\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8372283, 53.847827 ], [ -1.837174, 53.8477664 ], [ -1.8372257, 53.8477511 ], [ -1.8372792, 53.847812 ], [ -1.8372283, 53.847827 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6221888964", "name": "The Little Stationary Shop", "other_tags": "\"shop\"=>\"stationery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7766419, 53.8326503 ] } }
 ]
 }

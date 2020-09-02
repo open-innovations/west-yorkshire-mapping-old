@@ -5,6 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2279140122", "amenity": "waste_disposal" }, "geometry": { "type": "Point", "coordinates": [ -2.0976416, 53.712412 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2905663142", "amenity": "waste_disposal" }, "geometry": { "type": "Point", "coordinates": [ -1.8754014, 53.6236627 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7721651556", "amenity": "waste_disposal", "other_tags": "\"waste\"=>\"asbestos;general;recycling\",\"access\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3108512, 53.6965108 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7726343736", "amenity": "waste_disposal", "other_tags": "\"waste\"=>\"trash;recycling;mixed\",\"access\"=>\"private\",\"operator\"=>\"Metro\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3090265, 53.6935183 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7726343736", "amenity": "waste_disposal", "other_tags": "\"waste\"=>\"trash;recycling;mixed\",\"access\"=>\"private\",\"operator\"=>\"Metro\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3090265, 53.6935183 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7865766770", "amenity": "waste_disposal" }, "geometry": { "type": "Point", "coordinates": [ -1.3068858, 53.6952196 ] } }
 ]
 }
