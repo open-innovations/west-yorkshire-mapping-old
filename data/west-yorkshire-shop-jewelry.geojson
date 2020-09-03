@@ -31,7 +31,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4885695955", "name": "Watch Hospital", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5447688, 53.8019407 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4969745125", "name": "F.Hinds", "other_tags": "\"shop\"=>\"jewelry\",\"addr:city\"=>\"Huddersfield\",\"addr:street\"=>\"Kingsgate Centre\",\"addr:postcode\"=>\"HD1 2QB\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7791227, 53.6461248 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5262528851", "name": "Browns", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4606891, 53.8224118 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5413294428", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4498251, 53.8074357 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5413294428", "name": "West Yorkshire Jewellers", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4498251, 53.8074357 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5438626918", "name": "Brown's", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8599376, 53.7225961 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5438626924", "name": "T S Moodie", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8598545, 53.7221437 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5452280968", "name": "Clare's Accesories", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8584758, 53.723415 ] } },
