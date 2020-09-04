@@ -11,6 +11,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5569969826", "name": "Istanbul Barber Studio", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8588996, 53.7223977 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7045927700", "name": "Madam Vanity", "other_tags": "\"shop\"=>\"hairdresser\",\"website\"=>\"https:\/\/en-gb.facebook.com\/madamvanitybeauty\/\",\"addr:city\"=>\"Todmorden\",\"addr:street\"=>\"Burnley Road\",\"addr:housenumber\"=>\"48a\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0970656, 53.7156776 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7241022329", "name": "Nathans Barbers", "other_tags": "\"shop\"=>\"hairdresser\",\"addr:city\"=>\"Hebden Bridge\",\"addr:street\"=>\"New Road\",\"payment:cash\"=>\"yes\",\"addr:postcode\"=>\"HX7 8AD\",\"payment:coins\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0116434, 53.740696 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7865329089", "name": "Salon 10 Hair Design", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9086533, 53.7091166 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7865329089", "name": "Salon 10 Hair Design", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9086533, 53.7091166 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7872653919", "name": "Top Cut Barbers", "other_tags": "\"addr:housenumber\"=>\"55\",\"addr:street\"=>\"Halifax Road\",\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -2.093609, 53.7141325 ] } }
 ]
 }

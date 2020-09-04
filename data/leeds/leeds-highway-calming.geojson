@@ -1229,6 +1229,8 @@
 { "type": "Feature", "properties": { "osm_id": "7711195528", "highway": "crossing" , "traffic_calming":"island" }, "geometry": { "type": "Point", "coordinates": [ -1.38906, 53.75323 ] } },
 { "type": "Feature", "properties": { "osm_id": "7740263383", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.53205, 53.82382 ] } },
 { "type": "Feature", "properties": { "osm_id": "7767914460", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.45518, 53.83767 ] } },
-{ "type": "Feature", "properties": { "osm_id": "7805941980" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.41957, 53.76901 ] } }
+{ "type": "Feature", "properties": { "osm_id": "7805941980" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.41957, 53.76901 ] } },
+{ "type": "Feature", "properties": { "osm_id": "7872525247" , "traffic_calming":"bump" }, "geometry": { "type": "Point", "coordinates": [ -1.44407, 53.81850 ] } }
+
 ]
 }
