@@ -58,6 +58,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "6357055152", "name": "The Hair Lounge", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7640562, 53.8426296 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6357055157", "name": "Stylistics", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7643909, 53.8424824 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6900468377", "other_tags": "\"shop\"=>\"hairdresser\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"addr:postcode\"=>\"BD16 2JH\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8400349, 53.850083 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7600266008", "name": "Unique Hair Studio", "other_tags": "\"shop\"=>\"hairdresser\",\"website\"=>\"https:\/\/www.uniquehairstudio.co.uk\",\"addr:city\"=>\"Ben Rhydding, Ilkley\",\"addr:street\"=>\"Bolling Road\",\"addr:postcode\"=>\"LS29 8PN\",\"opening_hours\"=>\"Tu-Sa 08:30-17:30\",\"addr:housenumber\"=>\"141\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7974923, 53.9249085 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7600266008", "name": "Unique Hair Studio", "other_tags": "\"shop\"=>\"hairdresser\",\"website\"=>\"https:\/\/www.uniquehairstudio.co.uk\",\"addr:city\"=>\"Ben Rhydding, Ilkley\",\"addr:street\"=>\"Bolling Road\",\"addr:postcode\"=>\"LS29 8PN\",\"opening_hours\"=>\"Tu-Sa 08:30-17:30\",\"addr:housenumber\"=>\"141\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7974923, 53.9249085 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7878173104", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8594958, 53.8221525 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7878173110", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8603299, 53.8228745 ] } }
 ]
 }

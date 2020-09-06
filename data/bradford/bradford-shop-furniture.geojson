@@ -11,6 +11,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1957575016", "name": "Lowbridge Upholstery", "other_tags": "\"shop\"=>\"furniture\",\"craft\"=>\"upholsterer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9100445, 53.8692539 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2661215476", "name": "Waltons Fine Furnishings", "other_tags": "\"shop\"=>\"furniture\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8199183, 53.9266106 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5659255326", "name": "Schofields", "other_tags": "\"shop\"=>\"furniture\",\"phone\"=>\"+441274594948\",\"addr:city\"=>\"Shipley\",\"addr:village\"=>\"Saltaire\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7913308, 53.8345757 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6872262761", "other_tags": "\"shop\"=>\"furniture\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7335281, 53.8253532 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6872262761", "other_tags": "\"shop\"=>\"furniture\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7335281, 53.8253532 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7878173109", "other_tags": "\"shop\"=>\"furniture\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8598351, 53.8229038 ] } }
 ]
 }

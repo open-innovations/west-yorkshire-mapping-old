@@ -5,6 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1957539344", "name": "homes express", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7764364, 53.8346639 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358646345", "name": "Hamilton Bower", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7761833, 53.8345716 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5626680073", "name": "Martin Co", "other_tags": "\"shop\"=>\"estate_agent\",\"opening_hours\"=>\"Mo-Fr 09:00-17:00; Sa 09:00-12:00\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7924073, 53.8359716 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5626681212", "name": "CotsonReddish", "other_tags": "\"shop\"=>\"estate_agent\",\"opening_hours\"=>\"Mo-Fr 09:00-17:00\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7939469, 53.8356438 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5626681212", "name": "CotsonReddish", "other_tags": "\"shop\"=>\"estate_agent\",\"opening_hours\"=>\"Mo-Fr 09:00-17:00\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7939469, 53.8356438 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7878173105", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8594877, 53.8220939 ] } }
 ]
 }
