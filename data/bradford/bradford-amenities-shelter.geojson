@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "3890697852", "amenity": "shelter", "other_tags": "\"shelter_type\"=>\"public_transport\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7081707, 53.8424105 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3890697852", "amenity": "shelter", "other_tags": "\"shelter_type\"=>\"public_transport\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7079884, 53.8423635 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3890697853", "amenity": "shelter", "other_tags": "\"shelter_type\"=>\"public_transport\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7057715, 53.8418257 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4274166492", "amenity": "shelter" }, "geometry": { "type": "Point", "coordinates": [ -1.7415456, 53.8030294 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5485292979", "amenity": "shelter" }, "geometry": { "type": "Point", "coordinates": [ -1.7711605, 53.8471702 ] } }

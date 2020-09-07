@@ -6,7 +6,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1538885357", "amenity": "shelter" }, "geometry": { "type": "Point", "coordinates": [ -1.7942368, 53.6487496 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1708529108", "amenity": "shelter", "other_tags": "\"shelter_type\"=>\"public_transport\"" }, "geometry": { "type": "Point", "coordinates": [ -1.781106, 53.5465184 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1710509840", "amenity": "shelter" }, "geometry": { "type": "Point", "coordinates": [ -1.7818006, 53.5780457 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3890697852", "amenity": "shelter", "other_tags": "\"shelter_type\"=>\"public_transport\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7081707, 53.8424105 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3890697852", "amenity": "shelter", "other_tags": "\"shelter_type\"=>\"public_transport\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7079884, 53.8423635 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3890697853", "amenity": "shelter", "other_tags": "\"shelter_type\"=>\"public_transport\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7057715, 53.8418257 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4274166492", "amenity": "shelter" }, "geometry": { "type": "Point", "coordinates": [ -1.7415456, 53.8030294 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4760764308", "amenity": "shelter", "other_tags": "\"bin\"=>\"no\",\"shelter_type\"=>\"public_transport\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6629807, 53.5725807 ] } },
