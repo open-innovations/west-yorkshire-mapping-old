@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "3916676778", "name": "Baby Direct", "other_tags": "\"shop\"=>\"baby_goods\",\"phone\"=>\"+44 113 2250505\",\"website\"=>\"http:\/\/www.baby-direct.com\/\",\"addr:city\"=>\"Horsforth\",\"addr:street\"=>\"New Road Side\",\"addr:postcode\"=>\"LS18 4QB\",\"opening_hours\"=>\"Mo-Sa 10:00-17:00; Su 11:00-16:00\",\"addr:housenumber\"=>\"96-98\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6413779, 53.8322332 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.786962, "longitude": -1.540565 }, "osm_way_id": "161590959", "name": "Mothercare", "building": "yes", "shop": "baby_goods", "other_tags": "\"brand\"=>\"Mothercare\",\"brand:wikidata\"=>\"Q136738\",\"brand:wikipedia\"=>\"en:Mothercare\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5409416, 53.7872677 ], [ -1.5401849, 53.7872661 ], [ -1.5401795, 53.7868127 ], [ -1.5405457, 53.7868159 ], [ -1.5405538, 53.7866568 ], [ -1.5409511, 53.786657 ], [ -1.5409476, 53.7869995 ], [ -1.5409416, 53.7872677 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "3916676778", "name": "Baby Direct", "other_tags": "\"shop\"=>\"baby_goods\",\"phone\"=>\"+44 113 2250505\",\"website\"=>\"http:\/\/www.baby-direct.com\/\",\"addr:city\"=>\"Horsforth\",\"addr:street\"=>\"New Road Side\",\"addr:postcode\"=>\"LS18 4QB\",\"opening_hours\"=>\"Mo-Sa 10:00-17:00; Su 11:00-16:00\",\"addr:housenumber\"=>\"96-98\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6413779, 53.8322332 ] } }
 ]
 }

@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4625665390", "name": "Veeno", "other_tags": "\"shop\"=>\"wine\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Duncan Street\",\"addr:postcode\"=>\"LS1 6DQ\",\"addr:housenumber\"=>\"7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5420495, 53.7961332 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.878225, "longitude": -1.602953 }, "osm_way_id": "214775706", "name": "Cairns & Hickey", "building": "yes", "shop": "wine", "other_tags": "\"fhrs:id\"=>\"467297\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Leeds Road\",\"addr:suburb\"=>\"Bramhope\",\"addr:postcode\"=>\"LS16 9ED\",\"addr:housenumber\"=>\"854\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6031124, 53.8782537 ], [ -1.6029549, 53.8783231 ], [ -1.6027944, 53.8781964 ], [ -1.602952, 53.878127 ], [ -1.6031124, 53.8782537 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "4625665390", "name": "Veeno", "other_tags": "\"shop\"=>\"wine\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Duncan Street\",\"addr:postcode\"=>\"LS1 6DQ\",\"addr:housenumber\"=>\"7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5420495, 53.7961332 ] } }
 ]
 }
