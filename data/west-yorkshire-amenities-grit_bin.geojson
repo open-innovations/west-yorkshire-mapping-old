@@ -76,6 +76,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7401626986", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -2.0206806, 53.7496211 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7628680319", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.5005068, 53.6494605 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7733138919", "amenity": "grit_bin", "other_tags": "\"access\"=>\"yes\",\"colour\"=>\"Yellow\",\"material\"=>\"reinforced_plastic.\",\"operator\"=>\"Wakefield Conucil\",\"collection_times\"=>\"When need refilling (idk)\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5029987, 53.6841182 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7741052743", "amenity": "grit_bin", "other_tags": "\"access\"=>\"yes\",\"material\"=>\"plastic\",\"operator\"=>\"IKEA (UK)\",\"collection_times\"=>\"When needs filling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6483923, 53.7450899 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7741052743", "amenity": "grit_bin", "other_tags": "\"access\"=>\"yes\",\"material\"=>\"plastic\",\"operator\"=>\"IKEA (UK)\",\"collection_times\"=>\"When needs filling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6483923, 53.7450899 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7895251923", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.6272238, 53.8254851 ] } }
 ]
 }
