@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2195805624", "name": "Sports Direct", "other_tags": "\"shop\"=>\"sports\",\"brand\"=>\"Sports Direct\",\"brand:wikidata\"=>\"Q2913554\",\"brand:wikipedia\"=>\"en:Sports Direct\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7527302, 53.7981044 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2195805624", "name": "Sports Direct", "other_tags": "\"brand\"=>\"Sports Direct\",\"brand:wikidata\"=>\"Q7579661\",\"brand:wikipedia\"=>\"en:Sports Direct\",\"shop\"=>\"sports\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7527302, 53.7981044 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2195805687", "name": "JD Sports", "other_tags": "\"shop\"=>\"sports\",\"brand\"=>\"JD Sports\",\"brand:wikidata\"=>\"Q6108019\",\"brand:wikipedia\"=>\"en:JD Sports\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7529629, 53.7983651 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7647124232", "other_tags": "\"shop\"=>\"sports\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9058529, 53.8666579 ] } }
 ]
