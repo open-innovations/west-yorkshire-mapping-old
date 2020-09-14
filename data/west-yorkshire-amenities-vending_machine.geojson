@@ -92,6 +92,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7864445561", "amenity": "vending_machine", "other_tags": "\"currency:GBP\"=>\"yes\",\"payment:coins\"=>\"yes\",\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3133615, 53.6929088 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7864445562", "amenity": "vending_machine", "other_tags": "\"currency:GBP\"=>\"yes\",\"payment:coins\"=>\"yes\",\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3143564, 53.6931838 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7864445563", "amenity": "vending_machine", "other_tags": "\"currency:GBP\"=>\"yes\",\"payment:coins\"=>\"yes\",\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3143795, 53.6927453 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7897400371", "amenity": "vending_machine", "other_tags": "\"currency:GBP\"=>\"yes\",\"operator\"=>\"Wakefield Council\",\"payment:coins\"=>\"yes\",\"payment:RingGo\"=>\"yes\",\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3134967, 53.6919789 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7897400371", "amenity": "vending_machine", "other_tags": "\"currency:GBP\"=>\"yes\",\"operator\"=>\"Wakefield Council\",\"payment:coins\"=>\"yes\",\"payment:RingGo\"=>\"yes\",\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3134967, 53.6919789 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7902885882", "amenity": "vending_machine", "other_tags": "\"operator\"=>\"InPost\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4300241, 53.7935917 ] } }
 ]
 }
