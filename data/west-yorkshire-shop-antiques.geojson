@@ -4,7 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "1295263461", "name": "Revival", "other_tags": "\"shop\"=>\"antiques\",\"phone\"=>\"+44 1535 606837\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9112089, 53.8596081 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2128107770", "name": "Year Dot", "other_tags": "\"shop\"=>\"antiques\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5416822, 53.7989408 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3222614665", "name": "retro boutiques", "other_tags": "\"shop\"=>\"antiques\"" }, "geometry": { "type": "Point", "coordinates": [ -1.561964, 53.8150137 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3222614665", "name": "Vintage Boutique", "other_tags": "\"shop\"=>\"antiques\"" }, "geometry": { "type": "Point", "coordinates": [ -1.561964, 53.8150137 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3718207673", "name": "Ruby Tuesday", "other_tags": "\"shop\"=>\"antiques\",\"phone\"=>\"+44 7960 425 785\",\"addr:city\"=>\"Yeadon\",\"addr:street\"=>\"High Street\",\"addr:postcode\"=>\"LS19 7SP\",\"addr:housenumber\"=>\"23\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6846568, 53.866201 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4340994074", "name": "A645 Trading Post", "other_tags": "\"shop\"=>\"antiques\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3633783, 53.6752326 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4723573582", "name": "Cottage Antiques", "other_tags": "\"shop\"=>\"antiques\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1005193, 53.6880138 ] } },
