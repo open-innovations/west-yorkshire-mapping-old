@@ -333,6 +333,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "7813524577", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"operator\"=>\"NoteMachine\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3112637, 53.6936104 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7882808771", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2971662, 53.7017509 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7903919861", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5043814, 53.6956144 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7904010042", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.3785713, 53.718066 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7904010042", "amenity": "atm", "other_tags": "\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3785713, 53.718066 ] } }
 ]
 }
