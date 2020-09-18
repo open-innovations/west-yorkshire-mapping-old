@@ -81,6 +81,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7745186184", "name": "Angela's Nails", "other_tags": "\"shop\"=>\"beauty\",\"beauty\"=>\"nails\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3885061, 53.7957822 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7837813417", "name": "Guise & Dolls", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"76\",\"addr:postcode\"=>\"LS20 8BH\",\"addr:street\"=>\"Otley Road\",\"phone\"=>\"+44 1943 884 782\",\"shop\"=>\"beauty\",\"website\"=>\"https:\/\/www.guiseanddolls.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7142637, 53.8744913 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7869213653", "name": "Bombom", "other_tags": "\"beauty\"=>\"nails\",\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4522575, 53.8036789 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7869213694", "name": "Tan fastique", "other_tags": "\"beauty\"=>\"tanning\",\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4524799, 53.8045159 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7869213694", "name": "Tan fastique", "other_tags": "\"beauty\"=>\"tanning\",\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4524799, 53.8045159 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7902894933", "name": "Skin + Health", "other_tags": "\"beauty\"=>\"eyebrow\",\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4354347, 53.7959225 ] } }
 ]
 }

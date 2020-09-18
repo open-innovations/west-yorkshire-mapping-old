@@ -453,6 +453,11 @@
 	{ "type": "Feature", "properties": { "osm_id": "7810591045", "amenity": "bench", "other_tags": "\"material\"=>\"wood\",\"direction\"=>\"E\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4905272, 53.8933275 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7847440967", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"direction\"=>\"w\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7057199, 53.8817545 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7856398323", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.66029, 53.8962038 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7869213612", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.4391173, 53.8107121 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7869213612", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.4391173, 53.8107121 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7895251924", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"metal\",\"seats\"=>\"3\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6272086, 53.8254765 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7895251925", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"metal\",\"seats\"=>\"3\"" }, "geometry": { "type": "Point", "coordinates": [ -1.627347, 53.825359 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7902827739", "amenity": "bench", "other_tags": "\"backrest\"=>\"no\",\"inscription\"=>\"In memory of Tony Sharma 29\/08\/1980 - 18\/04\/2017\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6949638, 53.8940528 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7902831611", "amenity": "bench", "other_tags": "\"backrest\"=>\"no\",\"direction\"=>\"30\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6940511, 53.8940687 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7907996420", "amenity": "bench", "other_tags": "\"back_rest\"=>\"yes\",\"direction\"=>\"W\"" }, "geometry": { "type": "Point", "coordinates": [ -1.424736, 53.8628505 ] } }
 ]
 }
