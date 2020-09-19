@@ -1015,7 +1015,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7902827739", "amenity": "bench", "other_tags": "\"backrest\"=>\"no\",\"inscription\"=>\"In memory of Tony Sharma 29\/08\/1980 - 18\/04\/2017\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6949638, 53.8940528 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7902831611", "amenity": "bench", "other_tags": "\"backrest\"=>\"no\",\"direction\"=>\"30\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6940511, 53.8940687 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7906726310", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8662412, 53.8439155 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7907996420", "amenity": "bench", "other_tags": "\"back_rest\"=>\"yes\",\"direction\"=>\"W\"" }, "geometry": { "type": "Point", "coordinates": [ -1.424736, 53.8628505 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7907996420", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"direction\"=>\"W\"" }, "geometry": { "type": "Point", "coordinates": [ -1.424736, 53.8628505 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7911216844", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8703506, 53.8498429 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "734854382", "z_order": 0, "other_tags": "\"amenity\"=>\"bench\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.498663, 53.8373593 ], [ -1.498608, 53.8372445 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "734854383", "z_order": 0, "other_tags": "\"amenity\"=>\"bench\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4986477, 53.8373624 ], [ -1.4985927, 53.8372476 ] ] } },

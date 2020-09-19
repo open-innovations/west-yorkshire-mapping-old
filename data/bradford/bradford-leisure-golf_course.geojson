@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "765960702", "name": "Shipley Golf Club", "other_tags": "\"fhrs:id\"=>\"327347\",\"leisure\"=>\"golf_course\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Beckfoot Lane\",\"addr:postcode\"=>\"BD16 1LX\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8358929, 53.8388696 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7090793260", "name": "Baildon Golf Club", "other_tags": "\"leisure\"=>\"golf_course\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7684536, 53.8556629 ] } }
 ]
 }
