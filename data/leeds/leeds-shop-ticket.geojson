@@ -5,6 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2143153148", "name": "Leeds Playhouse Box Office", "other_tags": "\"shop\"=>\"ticket\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Eastgate\",\"addr:postcode\"=>\"LS2 7LY\",\"addr:housenumber\"=>\"19\"" }, "geometry": { "type": "Point", "coordinates": [ -1.538056, 53.7989022 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5101169279", "name": "Grand Theatre Box Office", "other_tags": "\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.541207, 53.799993 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5101169280", "name": "Opera North Box Office", "other_tags": "\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5413528, 53.7998201 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5286818613", "other_tags": "\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4592556, 53.7855535 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5286818613", "other_tags": "\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4592556, 53.7855535 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7929482023", "other_tags": "\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6299874, 53.8475786 ] } }
 ]
 }

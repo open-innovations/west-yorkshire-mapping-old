@@ -6,6 +6,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "314716504", "name": "Wetherby Ings", "other_tags": "\"leisure\"=>\"park\",\"wikidata\"=>\"Q7990082\",\"uk_postcode_centroid\"=>\"LS22\"" }, "geometry": { "type": "Point", "coordinates": [ -1.39195, 53.927977 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "389460215", "name": "Holbeck Moor Park", "other_tags": "\"leisure\"=>\"park\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5547318, 53.7827922 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5293573719", "name": "Baileys Hiding Den", "other_tags": "\"leisure\"=>\"park\",\"description\"=>\"Hiding Place from Est 2012\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4936125, 53.8191167 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5610301653", "name": "Devils Canyon", "other_tags": "\"leisure\"=>\"park\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3821555, 53.7682646 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5610301653", "name": "Devils Canyon", "other_tags": "\"leisure\"=>\"park\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3821555, 53.7682646 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7924269441", "name": "Playhouse Gardens", "other_tags": "\"leisure\"=>\"park\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5350531, 53.798485 ] } }
 ]
 }

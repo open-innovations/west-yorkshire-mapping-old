@@ -201,6 +201,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "6402227929", "amenity": "pub", "other_tags": "\"phone\"=>\"01535669912\",\"fhrs:id\"=>\"326742\",\"name:en\"=>\"Cricketers Arms\",\"addr:city\"=>\"Keighley\",\"addr:street\"=>\"Coney Lane\",\"addr:postcode\"=>\"BD21 5JE\",\"opening_hours\"=>\"Mo-Th 16:00-23:00; Fr-Sa 12:00-00:00; Su 12:00-22:00\",\"addr:housenumber\"=>\"23\"" }, "geometry": { "type": "Point", "coordinates": [ -1.905281, 53.8656051 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6934872585", "name": "Brewhouse", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.8391538, 53.8496555 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7089383181", "name": "The Copper Beach Club", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.7654542, 53.854234 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7646161184", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.932835, 53.8618114 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7646161184", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.932835, 53.8618114 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7929591574", "name": "The Snooty Fox", "amenity": "pub", "other_tags": "\"addr:city\"=>\"Keighley\",\"addr:postcode\"=>\"BD22 7PB\",\"addr:street\"=>\"Colne Road\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9552312, 53.845781 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7929591575", "name": "The Golden Fleece", "amenity": "pub", "other_tags": "\"addr:city\"=>\"Keighley\",\"addr:housenumber\"=>\"126\",\"addr:postcode\"=>\"BD22 7PR\",\"addr:street\"=>\"Commercial Street\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9590868, 53.845608 ] } }
 ]
 }

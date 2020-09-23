@@ -20,6 +20,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6618990331", "other_tags": "\"sport\"=>\"soccer\",\"access\"=>\"construction\",\"leisure\"=>\"pitch\",\"proposed\"=>\"leisure\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4585136, 53.7710121 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6632266890", "other_tags": "\"sport\"=>\"yes\",\"leisure\"=>\"pitch\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4969594, 53.8123341 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6781803671", "other_tags": "\"sport\"=>\"cricket\",\"leisure\"=>\"pitch\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4377753, 53.8425564 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7619946698", "other_tags": "\"sport\"=>\"soccer\",\"leisure\"=>\"pitch\",\"informal\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5496398, 53.8411934 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7619946698", "other_tags": "\"sport\"=>\"soccer\",\"leisure\"=>\"pitch\",\"informal\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5496398, 53.8411934 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7931933067", "other_tags": "\"leisure\"=>\"pitch\",\"sport\"=>\"cricket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6424829, 53.8427064 ] } }
 ]
 }
