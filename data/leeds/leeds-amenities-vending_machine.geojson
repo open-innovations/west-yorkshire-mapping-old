@@ -37,6 +37,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7902885882", "amenity": "vending_machine", "other_tags": "\"operator\"=>\"InPost\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4300241, 53.7935917 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7929482020", "amenity": "vending_machine", "other_tags": "\"operator\"=>\"Northern\",\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.630315, 53.8476469 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7929482021", "amenity": "vending_machine", "other_tags": "\"operator\"=>\"Northern\",\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6300064, 53.8476501 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7929558846", "amenity": "vending_machine", "other_tags": "\"covered\"=>\"yes\",\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5778484, 53.8121721 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7929558846", "amenity": "vending_machine", "other_tags": "\"covered\"=>\"yes\",\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5778484, 53.8121721 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7935635405", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4437606, 53.7570334 ] } }
 ]
 }
