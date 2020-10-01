@@ -7,7 +7,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "3940962606", "name": "Haystack Rock", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8031816, 53.9128122 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6126218950", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8954029, 53.8950493 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6840867805", "name": "Rockery", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.744461, 53.8100858 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7565135460", "name": "Sepulchre Stone", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8638927, 53.9189867 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7837917203", "name": "Panorama Stones", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8268345, 53.9215706 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7565135460", "name": "Sepulchre Stone", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8638927, 53.9189867 ] } }
 ]
 }
