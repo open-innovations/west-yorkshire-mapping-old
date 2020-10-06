@@ -13,6 +13,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2725607092", "name": "Baildon Motors", "other_tags": "\"shop\"=>\"car_repair\",\"addr:city\"=>\"Shipley\",\"addr:village\"=>\"Baildon\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7683392, 53.8408475 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3743232570", "name": "Dock Lane Garage", "other_tags": "\"shop\"=>\"car_repair\",\"phone\"=>\"+44 1274 563572\",\"addr:city\"=>\"Bingley\",\"addr:state\"=>\"West Yorkshire\",\"addr:street\"=>\"Micklethwaite Lane\",\"addr:country\"=>\"GB\",\"addr:village\"=>\"Crossflatts\",\"addr:postcode\"=>\"BD16 3HP\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8441292, 53.8623523 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5220599422", "name": "B & S Motors Oxenhope", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9393473, 53.8055898 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5709589129", "name": "Classic Autos", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8486629, 53.8597334 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5709589129", "name": "Classic Autos", "other_tags": "\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8486629, 53.8597334 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7963057784", "name": "taylor garage services", "other_tags": "\"addr:city\"=>\"Queensbury\",\"addr:housename\"=>\"11a black dyke mills queensbury\",\"addr:postcode\"=>\"bd131qa\",\"shop\"=>\"car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8435365, 53.7668745 ] } }
 ]
 }

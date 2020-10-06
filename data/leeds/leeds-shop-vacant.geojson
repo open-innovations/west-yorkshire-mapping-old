@@ -107,6 +107,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6769233565", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5294063, 53.8035591 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6769233566", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5294278, 53.8035172 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7089250821", "name": "Volcanic Charcoal Chicken", "amenity": "fast_food", "other_tags": "\"cuisine\"=>\"chicken\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4552855, 53.8137498 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7549426952", "name": "Lapries", "other_tags": "\"shop\"=>\"vacant\",\"disused:shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3947625, 53.8309807 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7549426952", "name": "Lapries", "other_tags": "\"shop\"=>\"vacant\",\"disused:shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3947625, 53.8309807 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7961350470", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6623343, 53.806915 ] } }
 ]
 }

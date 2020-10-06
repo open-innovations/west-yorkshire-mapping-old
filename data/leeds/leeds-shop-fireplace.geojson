@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "301016226", "name": "The Yorkshire Fireplace Company", "other_tags": "\"shop\"=>\"fireplace\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5785593, 53.804924 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2138710576", "name": "Leeds Gas Showroom", "other_tags": "\"shop\"=>\"fireplace\"" }, "geometry": { "type": "Point", "coordinates": [ -1.539275, 53.7990058 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3715078560", "name": "Phoenix Stoves & Fireplaces", "other_tags": "\"addr:city\"=>\"Yeadon\",\"addr:housenumber\"=>\"154\",\"addr:postcode\"=>\"LS19 6AH\",\"addr:street\"=>\"Harrogate Road\",\"phone\"=>\"+44 113 250 8832\",\"shop\"=>\"fireplace\",\"website\"=>\"www.daveraynercycles.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6724362, 53.8630991 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7890195153", "name": "Interiors 4 Living", "other_tags": "\"shop\"=>\"fireplace\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4527355, 53.8070189 ] } }
 ]
 }
