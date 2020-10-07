@@ -7,6 +7,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "831582026", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.9116841, 53.8647787 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1379363052", "name": "Car Spa", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.7830454, 53.926251 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1643687496", "amenity": "car_wash", "other_tags": "\"operator\"=>\"Morrisons\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9074217, 53.8630205 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2358527884", "name": "5 Star", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.7797641, 53.8351034 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2358527884", "name": "5 Star", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.7797641, 53.8351034 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.835172, "longitude": -1.779575 }, "osm_way_id": "227122992", "amenity": "car_wash", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7801071, 53.8351067 ], [ -1.7800401, 53.8353219 ], [ -1.7793885, 53.83517 ], [ -1.7793829, 53.835132 ], [ -1.7790423, 53.8350418 ], [ -1.7790798, 53.8350307 ], [ -1.7794205, 53.8350228 ], [ -1.7796994, 53.8350212 ], [ -1.7799033, 53.8350529 ], [ -1.7801071, 53.8351067 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.801876, "longitude": -1.710280 }, "osm_way_id": "456462806", "name": "Morrisons", "amenity": "car_wash", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7103401, 53.8019134 ], [ -1.7102718, 53.8019271 ], [ -1.7102208, 53.8018384 ], [ -1.7102891, 53.8018247 ], [ -1.7103401, 53.8019134 ] ] ] } }
 ]
 }

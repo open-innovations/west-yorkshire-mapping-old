@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "26198184", "name": "Icon", "amenity": "nightclub", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:housenumber\"=>\"50-52\",\"addr:postcode\"=>\"WF1 1XH\",\"addr:street\"=>\"Westgate\",\"fhrs:id\"=>\"1274345\",\"old_name\"=>\"Flares\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5004196, 53.6825646 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "299171008", "name": "Pryzm", "amenity": "nightclub", "other_tags": "\"fhrs:id\"=>\"818464\",\"website\"=>\"https:\/\/www.pryzm.co.uk\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Woodhouse Lane\",\"addr:postcode\"=>\"LS2 8LX\",\"addr:housenumber\"=>\"16-18\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5447329, 53.8010886 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314446330", "name": "Camel Club", "amenity": "nightclub", "other_tags": "\"fhrs:id\"=>\"463744\",\"addr:city\"=>\"Huddersfield\",\"addr:street\"=>\"Byram Court\",\"source:addr\"=>\"FHRS Open Data\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"HD1 1BS\",\"addr:housenumber\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7829338, 53.6473579 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "320998194", "name": "Mezz", "amenity": "nightclub" }, "geometry": { "type": "Point", "coordinates": [ -1.5393723, 53.7957685 ] } },

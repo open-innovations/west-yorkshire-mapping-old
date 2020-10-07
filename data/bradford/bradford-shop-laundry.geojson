@@ -4,6 +4,8 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "382568477", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7759059, 53.8036097 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "497396142", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7919049, 53.8360437 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1585028259", "name": "South Street Laundrette", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.911184, 53.8592763 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "1585028259", "name": "South Street Laundrette", "other_tags": "\"shop\"=>\"laundry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.911184, 53.8592763 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.829887, "longitude": -1.829529 }, "osm_way_id": "558067612", "name": "Laundrette", "building": "shop", "shop": "laundry", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"The Parade\",\"addr:village\"=>\"Cottingley\",\"addr:postcode\"=>\"BD16 1RP\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.829557, 53.8299259 ], [ -1.8295047, 53.8299262 ], [ -1.8295019, 53.8298493 ], [ -1.829553, 53.8298484 ], [ -1.829557, 53.8299259 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.843932, "longitude": -1.834451 }, "osm_way_id": "590503978", "name": "Bingley laundrette and ironing", "building": "terrace", "shop": "laundry", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Ashfield Terrace\",\"addr:postcode\"=>\"BD16 1EQ\",\"addr:housenumber\"=>\"2\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8345449, 53.8439246 ], [ -1.8344039, 53.8439798 ], [ -1.8343578, 53.8439388 ], [ -1.8344988, 53.8438836 ], [ -1.8345449, 53.8439246 ] ] ] } }
 ]
 }

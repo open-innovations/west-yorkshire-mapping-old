@@ -18,7 +18,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2142650177", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5442414, 53.7949701 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2143718193", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5359907, 53.7931451 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2389222684", "amenity": "parking_entrance", "other_tags": "\"layer\"=>\"-1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5563555, 53.7962512 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2679318365", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.7844356, 53.6507988 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2679318365", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.7844393, 53.6508012 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2780510094", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.8561896, 53.7227694 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2780510245", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.8565671, 53.7239736 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3043472125", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.541398, 53.8048874 ] } },
@@ -85,6 +85,11 @@
 	{ "type": "Feature", "properties": { "osm_id": "7528713565", "name": "Frickley Country Park", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.2993833, 53.5835544 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7603485962", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.3874179, 53.9272356 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7780884361", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.4618009, 53.8285166 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7780884366", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.4615661, 53.8286209 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7780884366", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.4615661, 53.8286209 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7972051980", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5444486, 53.7989461 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7972051982", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5444959, 53.7984847 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7972109237", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5366545, 53.8010203 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7972109240", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5365727, 53.8011639 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7972109246", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.537724, 53.8014098 ] } }
 ]
 }

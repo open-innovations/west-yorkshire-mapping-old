@@ -3,6 +3,8 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "374406326", "amenity": "car_wash", "other_tags": "\"operator\"=>\"arc\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7787717, 53.7162403 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3294487843", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.9860589, 53.7325381 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "3294487843", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.9860589, 53.7325381 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.726336, "longitude": -1.854554 }, "osm_way_id": "118709501", "amenity": "car_wash", "building": "yes", "other_tags": "\"operator\"=>\"Sainsburys\",\"self_service\"=>\"yes\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8545822, 53.7264029 ], [ -1.8544527, 53.7263772 ], [ -1.8545131, 53.7262698 ], [ -1.8546561, 53.7262955 ], [ -1.8545822, 53.7264029 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.688735, "longitude": -1.834808 }, "osm_way_id": "556858761", "amenity": "car_wash" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8349743, 53.6887942 ], [ -1.8346578, 53.6887688 ], [ -1.8346417, 53.6887052 ], [ -1.8349528, 53.6886766 ], [ -1.8349743, 53.6887942 ] ] ] } }
 ]
 }

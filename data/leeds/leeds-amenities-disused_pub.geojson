@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1593659929", "name": "The Well", "amenity": "disused_pub" }, "geometry": { "type": "Point", "coordinates": [ -1.5554626, 53.8009435 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "1593659929", "name": "The Well", "amenity": "disused_pub" }, "geometry": { "type": "Point", "coordinates": [ -1.5554626, 53.8009435 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.814894, "longitude": -1.601011 }, "osm_way_id": "470007659", "name": "The George IV", "amenity": "disused_pub", "building": "yes", "other_tags": "\"disused\"=>\"yes\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6011702, 53.8149416 ], [ -1.6009435, 53.8150025 ], [ -1.6008791, 53.8149202 ], [ -1.6009086, 53.8149115 ], [ -1.600851, 53.814845 ], [ -1.6008952, 53.8148117 ], [ -1.6009676, 53.8147856 ], [ -1.6011702, 53.8149416 ] ] ] } }
 ]
 }

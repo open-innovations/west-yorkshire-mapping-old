@@ -307,7 +307,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6625266272", "name": "Copley ATM", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8846362, 53.7073942 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6702943716", "amenity": "atm", "other_tags": "\"fee\"=>\"£0.95\",\"currency:GBP\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4413169, 53.8179001 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6711989285", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\",\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7786502, 53.6456575 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6780534916", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"Tesco Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3134085, 53.6925041 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6780534916", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"Tesco Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3134122, 53.6924979 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6780534919", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"operator\"=>\"NoteMachine\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3113022, 53.693622 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6781698735", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Cashzone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3474148, 53.6407658 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6815315851", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"NoteMachine\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3105733, 53.6924519 ] } },
@@ -333,6 +333,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7813524577", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"operator\"=>\"NoteMachine\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3112637, 53.6936104 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7882808771", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2971662, 53.7017509 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7903919861", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5043814, 53.6956144 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7904010042", "amenity": "atm", "other_tags": "\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3785713, 53.718066 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7904010042", "amenity": "atm", "other_tags": "\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3785713, 53.718066 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7941265198", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4465489, 53.6647759 ] } }
 ]
 }
