@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "1057704076", "name": "Grove Books", "other_tags": "\"addr:street\"=>\"The Grove\",\"shop\"=>\"books\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8241944, 53.9246442 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5289874022", "name": "Waterstones", "other_tags": "\"shop\"=>\"books\"" }, "geometry": { "type": "Point", "coordinates": [ -1.752398, 53.7942597 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5643784153", "name": "Narrow Escape Comic Book Store", "other_tags": "\"shop\"=>\"books\",\"books\"=>\"comic\",\"opening_hours\"=>\"Mo, We 10:00-16:00; Th, Fr 10:00-17:00; Sa 12:00-17:00\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7775908, 53.8342423 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5643784153", "name": "Narrow Escape Comic Book Store", "other_tags": "\"shop\"=>\"books\",\"books\"=>\"comic\",\"opening_hours\"=>\"Mo, We 10:00-16:00; Th, Fr 10:00-17:00; Sa 12:00-17:00\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7775908, 53.8342423 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7982777631", "name": "WHSmith", "other_tags": "\"brand\"=>\"WHSmith\",\"brand:wikidata\"=>\"Q1548712\",\"brand:wikipedia\"=>\"en:WHSmith\",\"shop\"=>\"books\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8250912, 53.9246977 ] } }
 ]
 }
