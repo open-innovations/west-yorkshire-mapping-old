@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "7838106277", "name": "Denise Elliott Interiors", "other_tags": "\"addr:city\"=>\"Ilkley\",\"addr:housenumber\"=>\"12\",\"addr:street\"=>\"Wells Road\",\"shop\"=>\"interior_decoration\"" }, "geometry": { "type": "Point", "coordinates": [ -1.822825, 53.9239832 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.914923, "longitude": -1.938845 }, "osm_way_id": "561541377", "building": "yes", "shop": "interior_decoration" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.938826, 53.9149676 ], [ -1.9387719, 53.9149386 ], [ -1.9388616, 53.9148775 ], [ -1.9389184, 53.9149065 ], [ -1.938826, 53.9149676 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7838106277", "name": "Denise Elliott Interiors", "other_tags": "\"addr:city\"=>\"Ilkley\",\"addr:housenumber\"=>\"12\",\"addr:street\"=>\"Wells Road\",\"shop\"=>\"interior_decoration\"" }, "geometry": { "type": "Point", "coordinates": [ -1.822825, 53.9239832 ] } }
 ]
 }
