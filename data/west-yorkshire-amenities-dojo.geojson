@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "3925501001", "name": "Huddersfield Wing Chun Kung Fu School", "amenity": "dojo", "other_tags": "\"sport\"=>\"Wing_Chun_Kung_Fu\",\"operator\"=>\"Albert Mills\",\"wheelchair\"=>\"no\",\"opening_hours\"=>\"Mo 19:00-21:00; Th 19:00-21:00\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7896597, 53.6360541 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6609233274", "name": "Black Widow Taekwondo Academy", "amenity": "dojo", "other_tags": "\"sport\"=>\"taekwondo\",\"addr:town\"=>\"Normanton\",\"addr:street\"=>\"High Street\",\"addr:postcode\"=>\"WF6 2AB\",\"addr:housenumber\"=>\"22\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4191414, 53.6997173 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6609233274", "name": "Black Widow Taekwondo Academy", "amenity": "dojo", "other_tags": "\"sport\"=>\"taekwondo\",\"addr:town\"=>\"Normanton\",\"addr:street\"=>\"High Street\",\"addr:postcode\"=>\"WF6 2AB\",\"addr:housenumber\"=>\"22\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4191414, 53.6997173 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7998896288", "name": "Combat Base", "amenity": "dojo", "other_tags": "\"addr:city\"=>\"Pontefract\",\"addr:postcode\"=>\"WF8 1QY\",\"addr:street\"=>\"Harrop Well Lane\",\"email\"=>\"combatbase@hotmail.com\",\"sport\"=>\"martial_arts\",\"website\"=>\"http:\/\/www.combatbase.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.305512, 53.6925677 ] } }
 ]
 }

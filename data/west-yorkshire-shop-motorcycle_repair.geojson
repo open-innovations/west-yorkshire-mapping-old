@@ -4,6 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "7975566367", "name": "Pete Smith Motorcycles", "other_tags": "\"addr:city\"=>\"Pontefract\",\"addr:housenumber\"=>\"3\",\"addr:street\"=>\"North Baileygate\",\"service:vehicle:motorbike\"=>\"yes\",\"shop\"=>\"motorcycle_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3056705, 53.6964888 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7982043053", "name": "Nicks Motorcycles", "other_tags": "\"shop\"=>\"motorcycle_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3057189, 53.6966274 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7990906701", "name": "Sykes Motorcycles LTD", "other_tags": "\"service:vehicle:accessories\"=>\"yes\",\"service:vehicle:MOT\"=>\"yes\",\"service:vehicle:repairs\"=>\"yes\",\"service:vehicle:sales\"=>\"yes\",\"service:vehicle:servicing\"=>\"yes\",\"service:vehicle:spares\"=>\"yes\",\"shop\"=>\"motorcycle_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3192261, 53.6916612 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7990906701", "name": "Sykes Motorcycles LTD", "other_tags": "\"service:vehicle:accessories\"=>\"yes\",\"service:vehicle:MOT\"=>\"yes\",\"service:vehicle:parts\"=>\"yes\",\"service:vehicle:repairs\"=>\"yes\",\"service:vehicle:sales\"=>\"yes\",\"service:vehicle:service\"=>\"yes\",\"shop\"=>\"motorcycle_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3192261, 53.6916612 ] } }
 ]
 }
