@@ -17,7 +17,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "452003089", "name": "Highcroft Youth Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.7624928, 53.8289827 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "455594436", "name": "Swinnow Community Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.6440169, 53.800747 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "524472805", "name": "Emily Street Community Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.9020407, 53.8707501 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "529090660", "name": "St Lukes Church Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.7003871, 53.7591295 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "530763674", "name": "Sangat Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.9002038, 53.8706413 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "685938776", "name": "The Grove Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.7080562, 53.7789802 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "703163417", "name": "Dodd Naze Community Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -2.0040646, 53.7423807 ] } },
