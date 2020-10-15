@@ -1,5 +1,6 @@
 {
 	"leeds-drinking-water": {"name":"Leeds drinking water","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/leeds-drinking-water.json" },
+	"osm-bradford-allotments": {"name":"Bradford allotments","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-allotments.json" },
 	"osm-bradford-bench": {"name":"Bradford benches","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-bench.json" },
 	"osm-bradford-bicycle-parking": {"name":"Bradford bicycle parking","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-bicycle-parking.json" },
 	"osm-bradford-cafe": {"name":"Bradford cafes","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-cafe.json" },
@@ -9,6 +10,7 @@
 	"osm-bradford-postbox": {"name":"Bradford post boxes","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-postbox.json" },
 	"osm-bradford-postoffice": {"name":"Bradford post offices","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-postoffice.json" },
 	"osm-bradford-schools": {"name":"Bradford schools","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-schools.json" },
+	"osm-bradford-social-club": {"name":"Bradford social clubs","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-social-club.json" },
 	"osm-bradford-trees": {"name":"Bradford trees","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-trees.json" },
 	"osm-bradford-waste_basket": {"name":"Bradford waste baskets","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-waste_basket.json" },
 	"osm-bradford-wood": {"name":"Bradford woods","credit": { "src": "OpenStreetMap" },"metadata":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/meta/osm-bradford-wood.json" },
