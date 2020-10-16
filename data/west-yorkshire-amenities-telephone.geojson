@@ -641,6 +641,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7989634812", "amenity": "telephone", "other_tags": "\"fee\"=>\"yes\",\"phone\"=>\"01943 870832\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7150811, 53.8759044 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7994285955", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX100\",\"fee\"=>\"yes\",\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3348437, 53.7153264 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7994338610", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX100\",\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3117185, 53.6919681 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8008605572", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX100\",\"covered\"=>\"booth\",\"fee\"=>\"yes\",\"operator\"=>\"bt\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3151549, 53.7234216 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.806304, "longitude": -1.477629 }, "osm_way_id": "681264221", "name": "ASDA Click & Collect", "amenity": "telephone", "building": "roof", "shop": "kiosk", "other_tags": "\"layer\"=>\"1\",\"building:levels\"=>\"1\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4776298, 53.8063349 ], [ -1.4776141, 53.8063291 ], [ -1.477583, 53.8063179 ], [ -1.4776289, 53.8062739 ], [ -1.4776577, 53.8062843 ], [ -1.4776757, 53.8062909 ], [ -1.4776298, 53.8063349 ] ] ] ] } }
 ]
 }

@@ -4229,6 +4229,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "7994193514", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"Xscape\",\"waste\"=>\"trash;mixed;recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3403079, 53.7099504 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7994193515", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"Xscape\",\"waste\"=>\"trash;mixed;recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3402978, 53.7099713 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7994193518", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"Xscape\",\"waste\"=>\"trash;mixed;recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3402813, 53.709649 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7994193524", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"Xscape\",\"waste\"=>\"trash;mixed;recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3398518, 53.7104526 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7994193524", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"Xscape\",\"waste\"=>\"trash;mixed;recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3398518, 53.7104526 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8008620505", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.3154372, 53.7234605 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8008620506", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.3151338, 53.7234312 ] } }
 ]
 }
