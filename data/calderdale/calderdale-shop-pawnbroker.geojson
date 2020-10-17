@@ -2,6 +2,8 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "5452280961", "name": "CEX", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8574995, 53.7232229 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5452280961", "name": "CEX", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8574995, 53.7232229 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.724017, "longitude": -1.861428 }, "osm_way_id": "565964296", "name": "Cash Converters", "building": "yes", "shop": "pawnbroker" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.861413, 53.7240379 ], [ -1.8613485, 53.7240466 ], [ -1.8613359, 53.7240127 ], [ -1.8614847, 53.7239748 ], [ -1.8615201, 53.7239974 ], [ -1.8615134, 53.7240569 ], [ -1.8614973, 53.7240582 ], [ -1.8614113, 53.7240529 ], [ -1.861413, 53.7240379 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.721938, "longitude": -1.860766 }, "osm_way_id": "566220144", "name": "Cash Generator", "shop": "pawnbroker", "other_tags": "\"building:part\"=>\"yes\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8606794, 53.7218622 ], [ -1.8608112, 53.7218506 ], [ -1.8608525, 53.7220145 ], [ -1.8607207, 53.7220262 ], [ -1.8606794, 53.7218622 ] ] ] } }
 ]
 }
