@@ -80,7 +80,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1633801300", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.7736535, 53.7758856 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1633801332", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.7737474, 53.7757556 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1633801371", "name": "St Oswalds", "amenity": "place_of_worship", "other_tags": "\"religion\"=>\"christian\",\"wikidata\"=>\"Q26426185\",\"denomination\"=>\"anglican\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7705377, 53.7757419 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1651479635", "amenity": "place_of_worship", "other_tags": "\"denomination\"=>\"anglican\",\"religion\"=>\"christian\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8606042, 53.8241985 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1651479635", "name": "St Matthew", "amenity": "place_of_worship", "other_tags": "\"denomination\"=>\"anglican\",\"religion\"=>\"christian\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8606042, 53.8241985 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1651479638", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.8626003, 53.8250132 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1651495260", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.7669449, 53.8039992 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1652846882", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.7443408, 53.7882675 ] } },
