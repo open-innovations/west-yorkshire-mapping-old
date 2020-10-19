@@ -336,6 +336,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "7904010042", "amenity": "atm", "other_tags": "\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3785713, 53.718066 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7941265198", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4465489, 53.6647759 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7988831945", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"operator\"=>\"NoteMachine\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3088775, 53.6929003 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7994798292", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.3716449, 53.6753497 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7994798292", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.3716449, 53.6753497 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8018152772", "amenity": "atm", "other_tags": "\"brand\"=>\"Barclays\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.310162, 53.6917782 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8018152773", "amenity": "atm", "other_tags": "\"cash_in\"=>\"yes\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"Nationwide\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3103747, 53.6916967 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8018152774", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"Santander\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3106854, 53.6915322 ] } }
 ]
 }

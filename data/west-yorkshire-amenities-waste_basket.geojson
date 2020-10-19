@@ -4231,6 +4231,10 @@
 	{ "type": "Feature", "properties": { "osm_id": "7994193518", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"Xscape\",\"waste\"=>\"trash;mixed;recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3402813, 53.709649 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7994193524", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"Xscape\",\"waste\"=>\"trash;mixed;recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3398518, 53.7104526 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8008620505", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.3154372, 53.7234605 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8008620506", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.3151338, 53.7234312 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8008620506", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.3151338, 53.7234312 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8017988808", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"black\",\"material\"=>\"plastic\",\"operator\"=>\"Moto uk\",\"waste\"=>\"trash;mixed;recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2662824, 53.6978564 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8017988809", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"black\",\"material\"=>\"plastic\",\"operator\"=>\"Moto uk\",\"waste\"=>\"trash;mixed;recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2663929, 53.6978358 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8017988813", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"black\",\"material\"=>\"plastic\",\"operator\"=>\"Moto uk\",\"waste\"=>\"trash;mixed;recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2661946, 53.6978724 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8017988814", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"black\",\"material\"=>\"plastic\",\"operator\"=>\"Moto uk\",\"waste\"=>\"trash;mixed;recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2660754, 53.6978321 ] } }
 ]
 }
