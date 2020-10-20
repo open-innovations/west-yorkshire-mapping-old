@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "5502173702", "name": "Game", "other_tags": "\"shop\"=>\"video_games\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8573573, 53.722804 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.722271, "longitude": -1.860256 }, "osm_way_id": "564469647", "name": "Game", "building": "commercial", "shop": "video_games" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8603423, 53.7222925 ], [ -1.8601813, 53.7223066 ], [ -1.8601703, 53.7222472 ], [ -1.8603366, 53.7222345 ], [ -1.8603423, 53.7222925 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5502173702", "name": "Game", "other_tags": "\"shop\"=>\"video_games\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8573573, 53.722804 ] } }
 ]
 }

@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "6836924777", "name": "Enne", "other_tags": "\"shop\"=>\"fabric\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8239167, 53.9253759 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.859649, "longitude": -1.847483 }, "osm_way_id": "554506224", "name": "The Design Mill", "building": "retail", "shop": "fabric" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8476684, 53.8596131 ], [ -1.8474849, 53.8597639 ], [ -1.8472969, 53.8596843 ], [ -1.8474804, 53.8595335 ], [ -1.8476684, 53.8596131 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6836924777", "name": "Enne", "other_tags": "\"shop\"=>\"fabric\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8239167, 53.9253759 ] } }
 ]
 }

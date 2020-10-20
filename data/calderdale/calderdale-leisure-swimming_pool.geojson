@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4217027288", "name": "Brighouse Swimming Pool", "other_tags": "\"leisure\"=>\"swimming_pool\",\"addr:city\"=>\"Brighouse\",\"addr:street\"=>\"Woodvale Road\",\"addr:postcode\"=>\"HD6 4AS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7787885, 53.707465 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.707461, "longitude": -1.778783 }, "osm_way_id": "421972657", "name": "Brighouse Swimming Pool", "leisure": "swimming_pool", "other_tags": "\"operator\"=>\"Calderdale Council\",\"addr:city\"=>\"Brighouse\",\"addr:street\"=>\"Woodvale Road\",\"addr:postcode\"=>\"HD6 4AS\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7792451, 53.7075572 ], [ -1.778509, 53.7077059 ], [ -1.7783214, 53.707398 ], [ -1.7785727, 53.7073456 ], [ -1.7785585, 53.70731 ], [ -1.7790292, 53.7072157 ], [ -1.7792451, 53.7075572 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "4217027288", "name": "Brighouse Swimming Pool", "other_tags": "\"leisure\"=>\"swimming_pool\",\"addr:city\"=>\"Brighouse\",\"addr:street\"=>\"Woodvale Road\",\"addr:postcode\"=>\"HD6 4AS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7787885, 53.707465 ] } }
 ]
 }

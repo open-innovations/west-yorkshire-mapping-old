@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "5463222465", "name": "Paradise 2 Tatoos", "other_tags": "\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8599001, 53.7230008 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.689064, "longitude": -1.859493 }, "osm_way_id": "173502628", "name": "Artistic Inc", "building": "commercial", "shop": "tattoo", "other_tags": "\"email\"=>\"artistic.inc@hotmail.co.uk\",\"phone\"=>\"+44 7811 933427\",\"website\"=>\"www.artisticinc.co.uk\",\"addr:city\"=>\"Halifax\",\"addr:street\"=>\"Rochdale road\",\"addr:suburb\"=>\"Greetland\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"HX4 8AX\",\"building:levels\"=>\"2\",\"addr:housenumber\"=>\"58\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8595386, 53.6890849 ], [ -1.8594672, 53.6890979 ], [ -1.8594474, 53.6890367 ], [ -1.8595159, 53.6890301 ], [ -1.8595386, 53.6890849 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5463222465", "name": "Paradise 2 Tatoos", "other_tags": "\"shop\"=>\"tattoo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8599001, 53.7230008 ] } }
 ]
 }
