@@ -86,6 +86,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "7994193511", "amenity": "grit_bin", "other_tags": "\"access\"=>\"unknown\",\"material\"=>\"plastic\",\"operator\"=>\"Xscape\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3402528, 53.7100599 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7994193519", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.3405929, 53.7093905 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7997417853", "amenity": "grit_bin", "other_tags": "\"access\"=>\"private\",\"colour\"=>\"yellow\",\"direction\"=>\"forward\",\"material\"=>\"plastic\",\"operator\"=>\"St Giles CofE Academy\"" }, "geometry": { "type": "Point", "coordinates": [ -1.311001, 53.6958344 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8020961403", "amenity": "grit_bin", "other_tags": "\"access\"=>\"private\",\"material\"=>\"plastic\",\"operator\"=>\"WYF&RS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2884484, 53.7013058 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8020961403", "amenity": "grit_bin", "other_tags": "\"access\"=>\"private\",\"material\"=>\"plastic\",\"operator\"=>\"WYF&RS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2884484, 53.7013058 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8023849102", "amenity": "grit_bin", "other_tags": "\"access\"=>\"private\",\"operator\"=>\"HM Prison Service\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5069668, 53.6826427 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8027074629", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.4895721, 53.6943373 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8027074984", "amenity": "grit_bin", "other_tags": "\"operator\"=>\"Mid Yorkshire NHS Trust\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4893471, 53.6934481 ] } }
 ]
 }
