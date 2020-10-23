@@ -89,6 +89,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8020961403", "amenity": "grit_bin", "other_tags": "\"access\"=>\"private\",\"material\"=>\"plastic\",\"operator\"=>\"WYF&RS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2884484, 53.7013058 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8023849102", "amenity": "grit_bin", "other_tags": "\"access\"=>\"private\",\"operator\"=>\"HM Prison Service\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5069668, 53.6826427 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8027074629", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.4895721, 53.6943373 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8027074984", "amenity": "grit_bin", "other_tags": "\"operator\"=>\"Mid Yorkshire NHS Trust\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4893471, 53.6934481 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8027074984", "amenity": "grit_bin", "other_tags": "\"operator\"=>\"Mid Yorkshire NHS Trust\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4893471, 53.6934481 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8035034534", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.307153, 53.6905524 ] } }
 ]
 }

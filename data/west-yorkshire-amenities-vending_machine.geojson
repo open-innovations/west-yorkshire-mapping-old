@@ -112,6 +112,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "7997170111", "name": "Inpost", "amenity": "vending_machine", "other_tags": "\"brand\"=>\"Inpost\",\"brand:wikidata\"=>\"Q3182097\",\"brand:wikipedia\"=>\"pl:InPost\",\"operator\"=>\"Inpost\",\"vending\"=>\"parcel_pickup;parcel_mail_in\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3297388, 53.7237697 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8018077874", "amenity": "vending_machine", "other_tags": "\"currency:GBP\"=>\"yes\",\"operator\"=>\"Wakefield Council\",\"payment:coins\"=>\"yes\",\"payment:RingGo\"=>\"yes\",\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3527487, 53.7271673 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8023942513", "name": "Inpost", "amenity": "vending_machine", "other_tags": "\"brand:wikidata\"=>\"Q3182097\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5049092, 53.6828683 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8027281794", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4896276, 53.6932576 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8027281794", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4896276, 53.6932576 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8034242090", "amenity": "vending_machine", "ref": "hok", "other_tags": "\"operator\"=>\"Amazon\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6455808, 53.8012956 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8035034535", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.30715, 53.6909405 ] } }
 ]
 }

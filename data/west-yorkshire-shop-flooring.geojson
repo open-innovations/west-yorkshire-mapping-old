@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "6814641604", "name": "Floor Design Wetherby", "other_tags": "\"shop\"=>\"flooring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3852492, 53.9300663 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6814641604", "name": "Floor Design Wetherby", "other_tags": "\"shop\"=>\"flooring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3852492, 53.9300663 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.677489, "longitude": -1.497328 }, "osm_way_id": "97085997", "name": "Floorstore.", "building": "yes", "shop": "flooring", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:housenumber\"=>\"Unit 3\",\"addr:postcode\"=>\"WF1 1RN\",\"addr:street\"=>\"Ings Road\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4975577, 53.6772641 ], [ -1.4975435, 53.6772973 ], [ -1.4973496, 53.6777521 ], [ -1.4973039, 53.6777453 ], [ -1.4970976, 53.6777144 ], [ -1.4973057, 53.6772264 ], [ -1.4975577, 53.6772641 ] ] ] ] } }
 ]
 }
