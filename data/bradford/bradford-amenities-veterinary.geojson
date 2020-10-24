@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "524565596", "name": "The Avenue Veterinary Group", "amenity": "veterinary" }, "geometry": { "type": "Point", "coordinates": [ -1.7979495, 53.8357549 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "524565596", "name": "The Avenue Veterinary Group", "amenity": "veterinary" }, "geometry": { "type": "Point", "coordinates": [ -1.7979495, 53.8357549 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.871854, "longitude": -1.889564 }, "osm_way_id": "155066587", "name": "Aireworth Vets", "amenity": "veterinary", "building": "yes", "other_tags": "\"addr:city\"=>\"Keighley\",\"addr:postcode\"=>\"BD21 4DJ\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8896165, 53.8720363 ], [ -1.8892893, 53.8719477 ], [ -1.8893783, 53.8718116 ], [ -1.8895071, 53.8718274 ], [ -1.8896143, 53.8716724 ], [ -1.8898396, 53.8717293 ], [ -1.8897324, 53.8718622 ], [ -1.8896755, 53.8718434 ], [ -1.8896916, 53.8718908 ], [ -1.8896165, 53.8720363 ] ] ] } }
 ]
 }

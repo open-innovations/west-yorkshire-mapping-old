@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "286836664", "name": "(closed) Ossett Fire Station", "amenity": "fire_station", "other_tags": "\"operator\"=>\"WYFRS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5786242, 53.6829347 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "286836664", "name": "Ossett Fire Station", "amenity": "fire_station", "other_tags": "\"description\"=>\"closed\",\"operator\"=>\"WYFRS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5786242, 53.6829347 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "355757428", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.6910336, 53.6739311 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "414269035", "name": "Idle", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.7369589, 53.8285639 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "498396112", "name": "Headquarters", "amenity": "fire_station", "other_tags": "\"operator\"=>\"West Yorkshire Fire & Rescue Service\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6943942, 53.7469851 ] } },
