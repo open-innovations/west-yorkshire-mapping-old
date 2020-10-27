@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "302049405", "name": "Pets at Home", "other_tags": "\"shop\"=>\"pet\",\"brand\"=>\"Pets at Home\",\"brand:wikidata\"=>\"Q7179258\",\"brand:wikipedia\"=>\"en:Pets at Home\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6436599, 53.7446181 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "343108106", "name": "KB Pets & Tropical", "other_tags": "\"shop\"=>\"pet\",\"building\"=>\"retail\"" }, "geometry": { "type": "Point", "coordinates": [ -1.621392, 53.7958628 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "676622221", "name": "Dogman's Pet Shop & Grooming Salon", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7088902, 53.7675453 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1256820163", "name": "Pet Warehouse", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.782373, 53.64217 ] } },
@@ -37,7 +36,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6600898399", "name": "Four Seasons Pet Supplies", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3519636, 53.726037 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6600898402", "name": "Coverdale's Pet Shop", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3522332, 53.7258235 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6609245384", "name": "Ponte Pets", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3146177, 53.6884177 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6614677540", "name": "Pets at Home", "other_tags": "\"shop\"=>\"pet\",\"brand\"=>\"Pets at Home\",\"addr:street\"=>\"Valley Road\",\"addr:postcode\"=>\"BD1 4AG\",\"brand:wikidata\"=>\"Q7179258\",\"brand:wikipedia\"=>\"en:Pets at Home\",\"source:postcode\"=>\"website\",\"addr:housenumber\"=>\"5\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7524495, 53.797751 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6614677540", "name": "Pets at Home", "other_tags": "\"addr:housenumber\"=>\"5\",\"addr:postcode\"=>\"BD1 4AG\",\"addr:street\"=>\"Valley Road\",\"brand\"=>\"Pets at Home\",\"brand:wikidata\"=>\"Q7179258\",\"brand:wikipedia\"=>\"en:Pets at Home\",\"shop\"=>\"pet\",\"source:postcode\"=>\"website\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7525622, 53.7978328 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6814640686", "name": "The Barking Lot", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3846933, 53.9283833 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6836922626", "name": "Canine Health", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6943479, 53.9061481 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6872262757", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7322734, 53.8252121 ] } },
