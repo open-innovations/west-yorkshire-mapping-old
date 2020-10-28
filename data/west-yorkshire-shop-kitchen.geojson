@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "998439558", "name": "K&F", "other_tags": "\"shop\"=>\"kitchen\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6564555, 53.7347658 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2390385816", "name": "Expressions", "other_tags": "\"shop\"=>\"kitchen\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7956577, 53.6330969 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3715344954", "name": "AKA interiors", "other_tags": "\"shop\"=>\"kitchen\",\"phone\"=>\"+44 113 391 0179\",\"website\"=>\"www.akainteriors.co.uk\",\"addr:city\"=>\"Rawdon\",\"addr:street\"=>\"Leeds Road\",\"addr:postcode\"=>\"LS19 6AX\",\"addr:housename\"=>\"Realtex House\",\"addr:housenumber\"=>\"8\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6845389, 53.8523405 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3716704505", "name": "Hugel Designer Kitchen", "other_tags": "\"shop\"=>\"kitchen\",\"phone\"=>\"+44 113 250 6767\",\"website\"=>\"https:\/\/www.hugel.co.uk\/\",\"addr:city\"=>\"Yeadon\",\"addr:street\"=>\"Moorfield Road\",\"addr:postcode\"=>\"LS19 7BN\",\"addr:housenumber\"=>\"5\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6738951, 53.8651348 ] } },

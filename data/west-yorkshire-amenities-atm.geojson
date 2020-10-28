@@ -19,7 +19,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "247432051", "amenity": "atm", "other_tags": "\"operator\"=>\"TSB\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5766946, 53.8204141 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "249713770", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5442192, 53.7973799 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "250756716", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5548334, 53.8313101 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "265423773", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6300011, 53.7142988 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "265423773", "name": "Tesco Bank", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"operator\"=>\"Tesco Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6299862, 53.7142494 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "289815019", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6719582, 53.8036345 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "289818220", "amenity": "atm", "other_tags": "\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6020819, 53.8135182 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "291601296", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6284621, 53.8120334 ] } },

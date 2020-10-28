@@ -2,6 +2,8 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "5966004619", "name": "Marks & Spencer", "other_tags": "\"shop\"=>\"department_store\",\"brand\"=>\"Marks & Spencer\",\"brand:wikidata\"=>\"Q714491\",\"brand:wikipedia\"=>\"en:Marks & Spencer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7498007, 53.7953136 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2195805684", "name": "TK Maxx", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:housename\"=>\"Units 11 To 12 Forster Square Retail Park\",\"addr:housenumber\"=>\"53\",\"addr:postcode\"=>\"BD1 4RN\",\"addr:street\"=>\"Valley Road\",\"brand\"=>\"TK Maxx\",\"brand:wikidata\"=>\"Q23823668\",\"brand:wikipedia\"=>\"en:TK Maxx\",\"fhrs:id\"=>\"324992\",\"shop\"=>\"department_store\",\"source:addr\"=>\"FHRS Open Data\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7546891, 53.8006189 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5966004619", "name": "Marks & Spencer", "other_tags": "\"shop\"=>\"department_store\",\"brand\"=>\"Marks & Spencer\",\"brand:wikidata\"=>\"Q714491\",\"brand:wikipedia\"=>\"en:Marks & Spencer\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7498007, 53.7953136 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8047164089", "name": "Asda Living", "other_tags": "\"brand:wikidata\"=>\"Q297410\",\"brand:wikipedia\"=>\"en:Asda\",\"shop\"=>\"department_store\"" }, "geometry": { "type": "Point", "coordinates": [ -1.754464, 53.8003635 ] } }
 ]
 }

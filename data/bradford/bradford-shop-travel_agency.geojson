@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2358605891", "name": "The Co-operative Travel", "other_tags": "\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.777173, 53.8329003 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2661206210", "name": "Bakewell Travel", "other_tags": "\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8218954, 53.9263485 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2661206210", "name": "Bakewell Travel", "other_tags": "\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8218954, 53.9263485 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8047164092", "name": "TUI", "other_tags": "\"brand\"=>\"TUI\",\"brand:wikidata\"=>\"Q7795876\",\"brand:wikipedia\"=>\"en:TUI UK\",\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7550843, 53.8011636 ] } }
 ]
 }

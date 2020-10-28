@@ -11,7 +11,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1959492746", "name": "Jannat Boutique", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9014119, 53.8702328 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1959492752", "name": "Maria", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9017339, 53.8703047 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1959492756", "name": "Mughal Boutique", "other_tags": "\"shop\"=>\"clothes\",\"wheelchair\"=>\"limited\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9001762, 53.8699808 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2195805631", "name": "Mothercare", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.75351, 53.7989164 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2195805644", "name": "USC", "other_tags": "\"brand\"=>\"USC\",\"brand:wikidata\"=>\"Q7866331\",\"brand:wikipedia\"=>\"en:USC (clothing retailer)\",\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7551731, 53.8015873 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2195805657", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7577426, 53.796464 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2661206206", "name": "Backcountry UK", "other_tags": "\"shop\"=>\"clothes\",\"clothes\"=>\"outsoor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.822436, 53.9263064 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3660968673", "name": "Coldspring Mill", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9115041, 53.8211105 ] } },
@@ -22,6 +22,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "6836919225", "name": "The Fitting Room", "other_tags": "\"shop\"=>\"clothes\",\"clothes:underwear\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8246549, 53.925002 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6836944201", "name": "Herbert & Stella", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8239153, 53.9253285 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7837875675", "name": "M&Co", "other_tags": "\"brand\"=>\"M&Co\",\"brand:wikidata\"=>\"Q6711808\",\"brand:wikipedia\"=>\"en:M&Co.\",\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8227816, 53.9246527 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7847703582", "name": "Eric Spencer", "other_tags": "\"addr:city\"=>\"Ilkley\",\"addr:housenumber\"=>\"15-17\",\"addr:street\"=>\"Church Street\",\"clothes\"=>\"men\",\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8246498, 53.9261746 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7847703582", "name": "Eric Spencer", "other_tags": "\"addr:city\"=>\"Ilkley\",\"addr:housenumber\"=>\"15-17\",\"addr:street\"=>\"Church Street\",\"clothes\"=>\"men\",\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8246498, 53.9261746 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8047164094", "name": "Outfit", "other_tags": "\"brand\"=>\"Outfit\",\"brand:wikidata\"=>\"Q7112061\",\"brand:wikipedia\"=>\"en:Outfit (retailer)\",\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7547474, 53.8016877 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8047164095", "name": "Next", "other_tags": "\"brand\"=>\"Next\",\"brand:wikidata\"=>\"Q246655\",\"brand:wikipedia\"=>\"en:Next plc\",\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7543906, 53.801772 ] } }
 ]
 }
