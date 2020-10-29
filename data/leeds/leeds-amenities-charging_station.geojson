@@ -22,7 +22,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "7742495074", "name": "Genie Point", "amenity": "charging_station", "other_tags": "\"access\"=>\"yes\",\"capacity\"=>\"2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5341038, 53.787131 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7961350493", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6607583, 53.8074819 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8007868181", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"4\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3840129, 53.9377172 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8034242022", "amenity": "charging_station", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6376938, 53.7985273 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.773189, "longitude": -1.473721 }, "osm_way_id": "810024887", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"6\",\"operator\"=>\"Tesla\",\"electrified\"=>\"yes\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4738284, 53.7732322 ], [ -1.4736119, 53.7732313 ], [ -1.4736128, 53.7731466 ], [ -1.4738294, 53.7731475 ], [ -1.4738284, 53.7732322 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8034242022", "amenity": "charging_station", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6376938, 53.7985273 ] } }
 ]
 }
