@@ -16,6 +16,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6311830376", "name": "Tesco Hand Car Wash", "amenity": "car_wash", "other_tags": "\"car_wash\"=>\"hand\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4597362, 53.8217056 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6311830377", "amenity": "car_wash", "other_tags": "\"car_wash\"=>\"jet_wash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4587935, 53.8213249 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7707742401", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.4788402, 53.804883 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7707742402", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.4787305, 53.804877 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7707742402", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.4787305, 53.804877 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8062623955", "name": "Shell Car Wash", "amenity": "car_wash", "other_tags": "\"automated\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5716166, 53.7551968 ] } }
 ]
 }

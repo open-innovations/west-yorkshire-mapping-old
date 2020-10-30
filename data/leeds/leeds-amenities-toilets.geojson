@@ -30,9 +30,10 @@
 	{ "type": "Feature", "properties": { "osm_id": "6398659921", "amenity": "toilets", "other_tags": "\"access\"=>\"staff\",\"unisex\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4533704, 53.8062914 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6398659922", "amenity": "toilets", "other_tags": "\"male\"=>\"yes\",\"access\"=>\"permissive\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4531223, 53.8062372 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6398659924", "amenity": "toilets", "other_tags": "\"access\"=>\"permissive\",\"female\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4531224, 53.8062085 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6696434956", "amenity": "toilets", "other_tags": "\"unisex\"=>\"yes\",\"wheelchair\"=>\"yes\",\"changing_table\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5737223, 53.7563281 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6696434956", "amenity": "toilets", "other_tags": "\"changing_table\"=>\"yes\",\"unisex\"=>\"yes\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.57371, 53.7563425 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6767661131", "amenity": "toilets", "other_tags": "\"access\"=>\"customers\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6672008, 53.7933697 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6945883870", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.5284304, 53.8951866 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7294965970", "amenity": "toilets", "other_tags": "\"access\"=>\"customers\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6024348, 53.7454283 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7294965970", "amenity": "toilets", "other_tags": "\"access\"=>\"customers\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6024348, 53.7454283 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8062785229", "amenity": "toilets", "other_tags": "\"access\"=>\"yes\",\"changing_table\"=>\"yes\",\"toilets:wheelchair\"=>\"yes\",\"unisex\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6715478, 53.8037584 ] } }
 ]
 }

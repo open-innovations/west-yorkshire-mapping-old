@@ -9,6 +9,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5422663143", "name": "Eurochange - Bureau de Change", "amenity": "bureau_de_change", "other_tags": "\"operator\"=>\"Note Machine\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5441625, 53.8016631 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5934417588", "name": "Travelex", "amenity": "bureau_de_change", "other_tags": "\"brand\"=>\"Travelex\",\"brand:wikidata\"=>\"Q2337964\",\"brand:wikipedia\"=>\"en:Travelex\",\"level\"=>\"0\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6593272, 53.8692592 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5934417589", "name": "Travelex", "amenity": "bureau_de_change", "other_tags": "\"brand\"=>\"Travelex\",\"brand:wikidata\"=>\"Q2337964\",\"brand:wikipedia\"=>\"en:Travelex\",\"level\"=>\"0\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6605422, 53.8695423 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6966811636", "name": "Eurochange", "amenity": "bureau_de_change", "other_tags": "\"brand\"=>\"Eurochange\",\"brand:wikidata\"=>\"Q86525249\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5452528, 53.7961446 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6966811636", "name": "Eurochange", "amenity": "bureau_de_change", "other_tags": "\"brand\"=>\"Eurochange\",\"brand:wikidata\"=>\"Q86525249\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5452528, 53.7961446 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8062722132", "name": "Asda", "amenity": "bureau_de_change", "other_tags": "\"brand:wikidata\"=>\"Q297410\",\"brand:wikipedia\"=>\"en:Asda\",\"operator\"=>\"Asda Stores Ltd\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6714705, 53.8038985 ] } }
 ]
 }
