@@ -13,6 +13,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6702943764", "name": "The Co-operative Funeralcare", "other_tags": "\"shop\"=>\"funeral_directors\",\"brand\"=>\"The Co-operative Funeralcare\",\"brand:wikidata\"=>\"Q7726521\",\"brand:wikipedia\"=>\"en:Co-op Funeralcare\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4493714, 53.7982276 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7063672131", "name": "Hughes Funeral Services", "other_tags": "\"shop\"=>\"funeral_directors\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4953387, 53.8208972 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7141864956", "name": "Kaye's of Halton", "other_tags": "\"shop\"=>\"funeral_directors\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4702712, 53.7960817 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7869213668", "name": "Hughes Funeral Services", "other_tags": "\"shop\"=>\"funeral_directors\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4523658, 53.8039874 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7869213668", "name": "Hughes Funeral Services", "other_tags": "\"shop\"=>\"funeral_directors\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4523658, 53.8039874 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8065478157", "name": "The Co-operative Funeralcare", "other_tags": "\"brand\"=>\"The Co-operative Funeralcare\",\"brand:wikidata\"=>\"Q7726521\",\"brand:wikipedia\"=>\"en:Co-op Funeralcare\",\"shop\"=>\"funeral_directors\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5331036, 53.7486026 ] } }
 ]
 }

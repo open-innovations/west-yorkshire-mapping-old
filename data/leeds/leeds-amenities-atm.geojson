@@ -141,8 +141,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "3655905302", "amenity": "atm", "other_tags": "\"operator\"=>\"Lloyds\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5335034, 53.8440003 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3656642056", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5802456, 53.8210231 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3660168631", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5744462, 53.807991 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3663504264", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5293712, 53.7485413 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3663514950", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5476205, 53.7474621 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3663504264", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5296379, 53.7485838 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3738199852", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6646677, 53.7955493 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3738199854", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6643037, 53.7959625 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3833032812", "amenity": "atm", "other_tags": "\"operator\"=>\"Sainsburys\",\"opening_hours\"=>\"24\/7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.692161, 53.9030404 ] } },
@@ -199,6 +198,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7593715032", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4604603, 53.8222071 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7667095285", "amenity": "atm", "other_tags": "\"survey:date\"=>\"2020-06-29\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5895142, 53.8132531 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7740448772", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"operator\"=>\"NoteMachine\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6448144, 53.7460944 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7755888635", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5476728, 53.7912246 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7755888635", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5476728, 53.7912246 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8064950476", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5470394, 53.7479066 ] } }
 ]
 }

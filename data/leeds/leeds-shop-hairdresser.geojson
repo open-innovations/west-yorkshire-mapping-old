@@ -237,6 +237,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "7869213693", "name": "Wildest Dreams", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4523479, 53.8041552 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7869213695", "name": "The Opposition", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4524955, 53.8045592 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7890195152", "name": "Men only", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4527396, 53.8069437 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7902894934", "name": "Two's Company", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4355339, 53.7959687 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7902894934", "name": "Two's Company", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4355339, 53.7959687 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8064950474", "name": "Nova", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.54731, 53.7477091 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8065478159", "name": "Hair Infinity", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5332758, 53.7489001 ] } }
 ]
 }

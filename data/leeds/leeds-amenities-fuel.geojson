@@ -26,7 +26,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "5543102072", "name": "Oakdale Garage", "amenity": "fuel", "other_tags": "\"fhrs:id\"=>\"818449\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Leeds\",\"addr:suburb\"=>\"Kippax\",\"addr:postcode\"=>\"LS25 7EP\"" }, "geometry": { "type": "Point", "coordinates": [ -1.374549, 53.7742474 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5798288553", "name": "M&S", "amenity": "fuel" }, "geometry": { "type": "Point", "coordinates": [ -1.5914903, 53.8551936 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6990105932", "name": "Esso", "amenity": "fuel", "other_tags": "\"brand\"=>\"Esso\",\"brand:wikidata\"=>\"Q867662\",\"brand:wikipedia\"=>\"en:Esso\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4807793, 53.7792822 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7053182158", "name": "Texaco", "amenity": "fuel", "other_tags": "\"brand\"=>\"Texaco\",\"brand:wikidata\"=>\"Q775060\",\"brand:wikipedia\"=>\"en:Texaco\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5497834, 53.7481275 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7471439785", "name": "Texaco", "amenity": "fuel", "other_tags": "\"brand\"=>\"Texaco\",\"opening_hours\"=>\"24\/7\",\"brand:wikidata\"=>\"Q775060\",\"brand:wikipedia\"=>\"en:Texaco\"" }, "geometry": { "type": "Point", "coordinates": [ -1.470062, 53.7740125 ] } }
 ]
 }

@@ -22,6 +22,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4295416373", "name": "Calverley Medical Centre", "amenity": "doctors" }, "geometry": { "type": "Point", "coordinates": [ -1.6924801, 53.8256836 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5820670126", "amenity": "doctors", "other_tags": "\"healthcare\"=>\"doctor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.527637, 53.7786751 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5853434334", "name": "Burley Park Medical Centre", "amenity": "doctors", "other_tags": "\"addr:city\"=>\"Leeds\",\"healthcare\"=>\"doctor\",\"addr:street\"=>\"Burley Road\",\"addr:postcode\"=>\"LS4 2EL\",\"addr:housename\"=>\"Burley Park Medical Centre\",\"addr:housenumber\"=>\"273\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5796965, 53.8075568 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6708532738", "amenity": "doctors", "other_tags": "\"healthcare\"=>\"doctor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4719249, 53.8106899 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6708532738", "amenity": "doctors", "other_tags": "\"healthcare\"=>\"doctor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4719249, 53.8106899 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8065987020", "name": "St Georges Centre Urgent Treatment Cente", "amenity": "doctors", "other_tags": "\"healthcare\"=>\"doctor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5319929, 53.7478343 ] } }
 ]
 }

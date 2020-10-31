@@ -22,6 +22,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7742495074", "name": "Genie Point", "amenity": "charging_station", "other_tags": "\"access\"=>\"yes\",\"capacity\"=>\"2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5341038, 53.787131 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7961350493", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6607583, 53.8074819 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8007868181", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"4\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3840129, 53.9377172 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8034242022", "amenity": "charging_station", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6376938, 53.7985273 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8034242022", "amenity": "charging_station", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6376938, 53.7985273 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8066090042", "name": "Chargemaster", "amenity": "charging_station", "other_tags": "\"access\"=>\"yes\",\"brand\"=>\"ChargePoint\",\"capacity\"=>\"4\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5306366, 53.7485024 ] } }
 ]
 }
