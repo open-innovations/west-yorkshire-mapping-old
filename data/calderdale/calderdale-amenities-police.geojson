@@ -2,6 +2,9 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "950874523", "name": "Halifax Police Station", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.8648595, 53.7263571 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "950874523", "name": "Halifax Police Station", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.8648595, 53.7263571 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.716871, "longitude": -2.098246 }, "osm_way_id": "102874992", "name": "Todmorden Police Station", "amenity": "police", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.0982007, 53.7167622 ], [ -2.0984318, 53.7168912 ], [ -2.0982912, 53.7169794 ], [ -2.0980601, 53.7168504 ], [ -2.0982007, 53.7167622 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.739815, "longitude": -1.876102 }, "osm_way_id": "109109287", "amenity": "police" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8762326, 53.7398896 ], [ -1.8760856, 53.7399216 ], [ -1.8759722, 53.7397397 ], [ -1.8761192, 53.7397077 ], [ -1.8762326, 53.7398896 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.707918, "longitude": -1.779683 }, "osm_way_id": "421973109", "name": "Brighouse Police Station", "amenity": "police", "building": "yes", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:street\"=>\"Woodvale Road\",\"addr:postcode\"=>\"HD6 4AS\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7798076, 53.7080518 ], [ -1.7796782, 53.7080755 ], [ -1.7796289, 53.7079716 ], [ -1.7795088, 53.7079898 ], [ -1.7794749, 53.7079114 ], [ -1.7795858, 53.7078968 ], [ -1.7795396, 53.7077874 ], [ -1.7797306, 53.70776 ], [ -1.7798107, 53.7079333 ], [ -1.7798631, 53.707926 ], [ -1.7798908, 53.7079807 ], [ -1.7797861, 53.7079989 ], [ -1.7798076, 53.7080518 ] ] ] } }
 ]
 }

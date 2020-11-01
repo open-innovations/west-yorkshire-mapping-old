@@ -4,7 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "27348279", "name": "Pool Village Hall", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.6250267, 53.9016498 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "27441180", "name": "Otley Civic Centre (formerly Mechanics Institute)", "amenity": "public_building", "other_tags": "\"old_name\"=>\"Mechanics Institute\",\"is_in:town\"=>\"Otley\",\"is_in:county\"=>\"West Yorkshire\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6894967, 53.9061435 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "27652979", "name": "Citizen's Advice Bureau", "amenity": "public_building", "other_tags": "\"is_in:town\"=>\"Otley\",\"is_in:county\"=>\"West Yorkshire\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6926749, 53.9063988 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "28168204", "name": "Ilkley Town Hall", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.8209513, 53.9241586 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "270542177", "name": "Horbury Community Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.5491735, 53.6596716 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "280604006", "name": "Ossett War Memorial Community Centre", "amenity": "public_building" }, "geometry": { "type": "Point", "coordinates": [ -1.5792775, 53.6781 ] } },

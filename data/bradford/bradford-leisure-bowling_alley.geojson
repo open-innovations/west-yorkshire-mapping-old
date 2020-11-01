@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "300897408", "name": "Hollywood Bowl", "other_tags": "\"brand\"=>\"Hollywood Bowl\",\"brand:wikidata\"=>\"Q80971952\",\"brand:wikipedia\"=>\"en:Hollywood Bowl Group\",\"leisure\"=>\"bowling_alley\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7466983, 53.7915102 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "300897408", "name": "Hollywood Bowl", "other_tags": "\"brand\"=>\"Hollywood Bowl\",\"brand:wikidata\"=>\"Q80971952\",\"brand:wikipedia\"=>\"en:Hollywood Bowl Group\",\"leisure\"=>\"bowling_alley\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7466983, 53.7915102 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.832314, "longitude": -1.776194 }, "osm_way_id": "166683978", "name": "Shipley Lanes", "building": "yes", "leisure": "bowling_alley", "sport": "10pin" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7763667, 53.8324958 ], [ -1.7760213, 53.8324956 ], [ -1.7760221, 53.8321317 ], [ -1.7763675, 53.8321319 ], [ -1.7763667, 53.8324958 ] ] ] } }
 ]
 }

@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2358605891", "name": "The Co-operative Travel", "other_tags": "\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.777173, 53.8329003 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2661206210", "name": "Bakewell Travel", "other_tags": "\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8218954, 53.9263485 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8047164092", "name": "TUI", "other_tags": "\"brand\"=>\"TUI\",\"brand:wikidata\"=>\"Q7795876\",\"brand:wikipedia\"=>\"en:TUI UK\",\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7550843, 53.8011636 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8047164092", "name": "TUI", "other_tags": "\"brand\"=>\"TUI\",\"brand:wikidata\"=>\"Q7795876\",\"brand:wikipedia\"=>\"en:TUI UK\",\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7550843, 53.8011636 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.913529, "longitude": -1.937812 }, "osm_way_id": "567873079", "building": "yes", "shop": "travel_agency" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9379246, 53.9135459 ], [ -1.9377265, 53.9135755 ], [ -1.9376992, 53.9135138 ], [ -1.9377858, 53.9134898 ], [ -1.9378972, 53.913482 ], [ -1.9379246, 53.9135459 ] ] ] } }
 ]
 }

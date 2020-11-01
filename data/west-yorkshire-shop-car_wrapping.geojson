@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.750499, "longitude": -1.632245 }, "osm_way_id": "865638395", "name": "The Vehicle Wrapping Center", "shop": "car_wrapping", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Overland Park\",\"addr:housenumber\"=>\"Unit 5\",\"addr:postcode\"=>\"LS27 7FE\",\"addr:street\"=>\"Gelderd Road\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6324167, 53.750608 ], [ -1.6323249, 53.7503601 ], [ -1.632073, 53.7503927 ], [ -1.6321579, 53.7506377 ], [ -1.6324167, 53.750608 ] ] ] ] } }
+]
+}

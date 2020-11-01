@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "5483736334", "name": "Quick Service", "other_tags": "\"shop\"=>\"dry_cleaning\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8597284, 53.7237784 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5483736334", "name": "Quick Service", "other_tags": "\"shop\"=>\"dry_cleaning\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8597284, 53.7237784 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.713862, "longitude": -2.096211 }, "osm_way_id": "788250003", "name": "Concept Cleaners", "building": "yes", "shop": "dry_cleaning" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.0962679, 53.7139271 ], [ -2.0961885, 53.7139359 ], [ -2.0961541, 53.713795 ], [ -2.0962291, 53.7137872 ], [ -2.0962679, 53.7139271 ] ] ] } }
 ]
 }
