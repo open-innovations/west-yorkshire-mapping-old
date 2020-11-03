@@ -134,6 +134,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7861776226", "amenity": "bench", "other_tags": "\"backrest\"=>\"no\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8178006, 53.9192588 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7906726310", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8662412, 53.8439155 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7911216844", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8703506, 53.8498429 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7956402685", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8213487, 53.9165409 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7956402685", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8213487, 53.9165409 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8075211073", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7985993, 53.917267 ] } }
 ]
 }
