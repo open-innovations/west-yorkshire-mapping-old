@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "4636108674", "name": "Fat Face", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0132507, 53.741658 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4636108674", "name": "Fat Face", "other_tags": "\"brand\"=>\"Fat Face\",\"brand:wikidata\"=>\"Q5437186\",\"brand:wikipedia\"=>\"en:Fat Face\",\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0132507, 53.741658 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5438626920", "name": "Burton", "other_tags": "\"shop\"=>\"clothes\",\"fhrs:id\"=>\"441480\",\"addr:city\"=>\"Halifax\",\"addr:street\"=>\"Southgate\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"HX1 1NT\",\"addr:housenumber\"=>\"1-3\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8599591, 53.7227754 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5452280958", "name": "New Look", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8570355, 53.7233166 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5452280959", "name": "Topshop \/ Topman", "other_tags": "\"shop\"=>\"clothes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8572286, 53.7232864 ] } },

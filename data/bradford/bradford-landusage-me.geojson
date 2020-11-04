@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.909369, "longitude": -1.727563 }, "osm_way_id": "217833990", "landuse": "me", "other_tags": "\"farmland\"=>\"field\",\"historic:ref:1835_tithe_award\"=>\"10\",\"old_name\"=>\"The Laund\",\"source:name\"=>\"1835 Tithe Award\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.727518239792767, 53.909308098088559 ], [ -1.7276432, 53.9093817 ], [ -1.7275681, 53.9094291 ], [ -1.727483351045282, 53.909410824457865 ], [ -1.727518239792767, 53.909308098088559 ] ] ] } }
+]
+}
