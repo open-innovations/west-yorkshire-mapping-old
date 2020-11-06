@@ -58,6 +58,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8034242022", "amenity": "charging_station", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6376938, 53.7985273 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8066090042", "name": "Chargemaster", "amenity": "charging_station", "other_tags": "\"access\"=>\"yes\",\"brand\"=>\"ChargePoint\",\"capacity\"=>\"4\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5306366, 53.7485024 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8068268597", "name": "Alfa Power", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.6203569, 53.7423481 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8084513588", "amenity": "charging_station", "other_tags": "\"access\"=>\"private\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3450207, 53.7115529 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.773189, "longitude": -1.473721 }, "osm_way_id": "810024887", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"6\",\"operator\"=>\"Tesla\",\"electrified\"=>\"yes\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4738284, 53.7732322 ], [ -1.4738294, 53.7731475 ], [ -1.4736128, 53.7731466 ], [ -1.4736119, 53.7732313 ], [ -1.4738284, 53.7732322 ] ] ] ] } }
 ]
 }
