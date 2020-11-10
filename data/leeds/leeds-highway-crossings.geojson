@@ -2534,6 +2534,5 @@
 { "type": "Feature", "properties": { "osm_id": "8089552689" }, "geometry": { "type": "Point", "coordinates": [ -1.52486, 53.85020 ] } },
 { "type": "Feature", "properties": { "osm_id": "8089603736" }, "geometry": { "type": "Point", "coordinates": [ -1.54831, 53.84940 ] } },
 { "type": "Feature", "properties": { "osm_id": "8092174150", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.63572, 53.84142 ] } }
-
 ]
 }

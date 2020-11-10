@@ -61,6 +61,12 @@
 	{ "type": "Feature", "properties": { "osm_id": "7857618714", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8821501, 53.6740782 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7857618715", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8822517, 53.6743102 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7857618778", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8835402, 53.6735936 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7927954191", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.9778547, 53.723698 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7927954191", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.9778547, 53.723698 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8098352626", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\",\"seats\"=>\"4\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0489904, 53.7141535 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8098363879", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0959593, 53.7145695 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8098363880", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0960045, 53.7145376 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8098363881", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0960091, 53.7144868 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8098363882", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0955807, 53.7143331 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8098363883", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0955487, 53.7143541 ] } }
 ]
 }
