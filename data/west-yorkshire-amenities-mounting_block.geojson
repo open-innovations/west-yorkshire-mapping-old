@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "5895049799", "amenity": "mounting_block" }, "geometry": { "type": "Point", "coordinates": [ -1.9284897, 53.591745 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5895049799", "amenity": "mounting_block", "other_tags": "\"inscription\"=>\"Pennine Bridleway Dark Peak Link 2008\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9286097, 53.5917191 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5895049800", "amenity": "mounting_block" }, "geometry": { "type": "Point", "coordinates": [ -1.927981, 53.5917787 ] } }
 ]
 }
