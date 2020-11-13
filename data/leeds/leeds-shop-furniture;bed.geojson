@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "4471291131", "name": "Durham Bed & Furniture Centre", "other_tags": "\"old_name\"=>\"Green Woods\",\"shop\"=>\"furniture;bed\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4511888, 53.8062644 ] } }
+]
+}

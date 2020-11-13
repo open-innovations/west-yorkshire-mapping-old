@@ -7,6 +7,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "5407217971", "name": "Cash Convertors", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5406883, 53.7970156 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5527199859", "name": "Cash Planet", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5832533, 53.806687 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6022850242", "name": "Ramsdens", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5412885, 53.7972243 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8112004358", "other_tags": "\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6263884, 53.8117221 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8112004481", "name": "Cash Converters", "other_tags": "\"brand\"=>\"Cash Converters\",\"brand:wikidata\"=>\"Q5048645\",\"brand:wikipedia\"=>\"en:Cash Converters\",\"shop\"=>\"pawnbroker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6262219, 53.8110388 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.796662, "longitude": -1.540802 }, "osm_way_id": "639133096", "name": "H & T Pawnbrokers", "building": "yes", "shop": "pawnbroker" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5408593, 53.7966504 ], [ -1.5409183, 53.7966631 ], [ -1.5408895, 53.7967094 ], [ -1.5406854, 53.7966648 ], [ -1.5407144, 53.7966155 ], [ -1.5408593, 53.7966504 ] ] ] } }
 ]
 }
