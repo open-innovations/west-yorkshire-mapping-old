@@ -4238,6 +4238,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8017988814", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"black\",\"material\"=>\"plastic\",\"operator\"=>\"Moto uk\",\"waste\"=>\"trash;mixed;recycling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2660754, 53.6978321 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8070746623", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3000457, 53.6785063 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8070746624", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2984591, 53.6785351 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8077635984", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"Black\",\"material\"=>\"plastic\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0151669, 53.7390817 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8077635984", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"Black\",\"material\"=>\"plastic\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0151669, 53.7390817 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8119648341", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6366416, 53.8307575 ] } }
 ]
 }
