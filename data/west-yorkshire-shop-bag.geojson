@@ -9,6 +9,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "6052531534", "name": "Secco Accessories", "other_tags": "\"shop\"=>\"bag\",\"level\"=>\"0\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5742663, 53.757281 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6606798468", "other_tags": "\"addr:housename\"=>\"Market Hall\",\"addr:postcode\"=>\"WF8 1AU\",\"addr:street\"=>\"Market Place\",\"addr:town\"=>\"Pontefract\",\"shop\"=>\"bag\"" }, "geometry": { "type": "Point", "coordinates": [ -1.311108, 53.6919262 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7730232062", "name": "Tripp at Debenhams", "other_tags": "\"shop\"=>\"bag\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4937764, 53.6846603 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7746707325", "name": "Antler", "other_tags": "\"shop\"=>\"bag\",\"addr:city\"=>\"Castleford\",\"addr:street\"=>\"Tomahawk Trail\",\"addr:postcode\"=>\"WF10 4FR\",\"addr:housename\"=>\"Junction 32 Outlet Shopping Village\",\"addr:housenumber\"=>\"Unit 23\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3402229, 53.7128431 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7746707325", "name": "Antler", "other_tags": "\"addr:city\"=>\"Castleford\",\"addr:housename\"=>\"Junction 32 Outlet Shopping Village\",\"addr:housenumber\"=>\"Unit 23\",\"addr:postcode\"=>\"WF10 4FR\",\"addr:street\"=>\"Tomahawk Trail\",\"shop\"=>\"bag\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3402087, 53.7128555 ] } }
 ]
 }

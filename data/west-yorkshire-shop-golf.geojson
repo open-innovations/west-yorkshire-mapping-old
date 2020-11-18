@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1159765239", "name": "The Golf Company", "other_tags": "\"shop\"=>\"golf\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3404132, 53.7128019 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1159765239", "name": "The Golf Company", "other_tags": "\"shop\"=>\"golf\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3403185, 53.71278 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.890120, "longitude": -1.730365 }, "osm_way_id": "100548614", "name": "americangolf", "building": "retail", "shop": "golf" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.730399, 53.8902396 ], [ -1.7303731, 53.890234 ], [ -1.730332, 53.8901482 ], [ -1.7303599, 53.8901448 ], [ -1.7303492, 53.8901259 ], [ -1.7302764, 53.8901405 ], [ -1.7302113, 53.8900282 ], [ -1.7304506, 53.8899801 ], [ -1.7305156, 53.8900924 ], [ -1.7305064, 53.8900942 ], [ -1.7305177, 53.8901142 ], [ -1.7304249, 53.8901324 ], [ -1.7304914, 53.8902432 ], [ -1.7304531, 53.8902512 ], [ -1.7304112, 53.8902599 ], [ -1.730399, 53.8902396 ] ] ] ] } }
 ]
 }
