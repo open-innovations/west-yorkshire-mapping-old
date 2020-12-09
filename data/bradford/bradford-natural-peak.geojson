@@ -24,7 +24,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "700257233", "name": "Sentry Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9235797, 53.8020388 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "700290713", "name": "Yeoman Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9863219, 53.7966907 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "700291925", "name": "Cock Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9825668, 53.7908983 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "700313350", "name": "Birk Hill", "other_tags": "\"natural\"=>\"peak\",\"is_in:county\"=>\"West Yorkshire\",\"is_in:country_code\"=>\"GB\",\"is_in:municipality\"=>\"Bradford\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8865652, 53.799707 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "700313350", "name": "Birk Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8865652, 53.799707 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "708651129", "name": "Asker Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9152794, 53.9258042 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "708651788", "name": "Sea Moor Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9137387, 53.9319914 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "708652275", "name": "Brook's Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9196611, 53.9332042 ] } },
@@ -58,6 +58,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6612535194", "name": "Nor Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.920594, 53.9552633 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7484478550", "name": "Haw", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9222326, 53.9178436 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7565780675", "name": "Nudge Hill End", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9037173, 53.9308203 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7796708025", "name": "Pinfold Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9058068, 53.8968923 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7796708025", "name": "Pinfold Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9058068, 53.8968923 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8184991487", "name": "Nab Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9455611, 53.7872098 ] } }
 ]
 }

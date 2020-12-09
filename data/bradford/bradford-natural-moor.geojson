@@ -9,7 +9,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "518894189", "name": "Steeton Moor", "other_tags": "\"natural\"=>\"moor\",\"is_in:country\"=>\"UK\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9588393, 53.8847865 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "700236277", "name": "Brow Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9368191, 53.8270087 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "700261694", "name": "Thornton Moor", "other_tags": "\"natural\"=>\"moor\",\"is_in:county\"=>\"West Yorkshire\",\"is_in:country_code\"=>\"GB\",\"is_in:municipality\"=>\"Bradford\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9195886, 53.7900236 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "700275176", "name": "Old Allen Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8768878, 53.8091981 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "708660265", "name": "Brocka Bank Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.89992, 53.9314608 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747743921", "name": "Low Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8444573, 53.8916568 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "763561897", "name": "Addingham Middle Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9132673, 53.9374123 ] } },

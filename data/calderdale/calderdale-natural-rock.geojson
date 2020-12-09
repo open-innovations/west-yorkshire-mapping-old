@@ -2,6 +2,12 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2295207839", "name": "Orchan Rocks", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1188191, 53.7322452 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2295207839", "name": "Orchan Rocks", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1188191, 53.7322452 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186412563", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0665359, 53.7789962 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186412564", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.066674, 53.7790045 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186412565", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0671765, 53.7789125 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186412566", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0669642, 53.7788414 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186412567", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0680047, 53.7787494 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186412568", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0683091, 53.778764 ] } }
 ]
 }

@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2128107733", "name": "Admiral Casino", "other_tags": "\"fhrs:id\"=>\"1157893\",\"leisure\"=>\"adult_gaming_centre\",\"old_name\"=>\"Quicksilver\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"The Headrow\",\"addr:postcode\"=>\"LS1 6PU\",\"addr:housenumber\"=>\"7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.540401, 53.7988039 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2128107733", "name": "Admiral Casino", "other_tags": "\"fhrs:id\"=>\"1157893\",\"leisure\"=>\"adult_gaming_centre\",\"old_name\"=>\"Quicksilver\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"The Headrow\",\"addr:postcode\"=>\"LS1 6PU\",\"addr:housenumber\"=>\"7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.540401, 53.7988039 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2131042059", "name": "Admiral", "other_tags": "\"leisure\"=>\"adult_gaming_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5396566, 53.7978161 ] } }
 ]
 }

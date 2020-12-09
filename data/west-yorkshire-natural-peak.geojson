@@ -60,7 +60,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "700257233", "name": "Sentry Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9235797, 53.8020388 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "700290713", "name": "Yeoman Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9863219, 53.7966907 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "700291925", "name": "Cock Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9825668, 53.7908983 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "700313350", "name": "Birk Hill", "other_tags": "\"natural\"=>\"peak\",\"is_in:county\"=>\"West Yorkshire\",\"is_in:country_code\"=>\"GB\",\"is_in:municipality\"=>\"Bradford\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8865652, 53.799707 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "700313350", "name": "Birk Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8865652, 53.799707 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "700315290", "name": "Soil Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\",\"is_in:county\"=>\"West Yorkshire\",\"is_in:country_code\"=>\"GB\",\"is_in:municipality\"=>\"Calderdale\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8847413, 53.7775993 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "703400082", "name": "Sheepstones", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9789104, 53.7469011 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "708651129", "name": "Asker Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9152794, 53.9258042 ] } },
@@ -131,7 +131,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2786522410", "name": "Norr Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8468783, 53.8234922 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2807904394", "name": "High Crag", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8638142, 53.9169456 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2808047448", "name": "Coppy Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8982793, 53.9374093 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2855889407", "name": "Standing Stone Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0757635, 53.7687474 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2855889408", "name": "Standing Stone Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0757889, 53.768753 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2863286947", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7667859, 53.7088483 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2948049177", "name": "Wholestone Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9229521, 53.6613875 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3526065806", "name": "Moorside Edge", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.894836, 53.6351636 ] } },
@@ -154,6 +154,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7619312110", "name": "Naze End", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9985398, 53.7743282 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7796708025", "name": "Pinfold Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9058068, 53.8968923 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7809631403", "name": "Cote Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5047415, 53.8809044 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7837815082", "name": "Yeadon Banks", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6838939, 53.8712582 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7837815082", "name": "Yeadon Banks", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6838939, 53.8712582 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8184991487", "name": "Nab Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9455611, 53.7872098 ] } }
 ]
 }

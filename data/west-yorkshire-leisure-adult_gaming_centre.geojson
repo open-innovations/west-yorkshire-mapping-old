@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "1137965446", "name": "goldroom", "other_tags": "\"leisure\"=>\"adult_gaming_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6292752, 53.6931764 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2128107733", "name": "Admiral Casino", "other_tags": "\"fhrs:id\"=>\"1157893\",\"leisure\"=>\"adult_gaming_centre\",\"old_name\"=>\"Quicksilver\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"The Headrow\",\"addr:postcode\"=>\"LS1 6PU\",\"addr:housenumber\"=>\"7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.540401, 53.7988039 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2131042059", "name": "Admiral", "other_tags": "\"leisure\"=>\"adult_gaming_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5396566, 53.7978161 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7169362267", "name": "Welcome Break Gaming", "other_tags": "\"leisure\"=>\"adult_gaming_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7443035, 53.7135468 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7169362268", "name": "Game Zone", "other_tags": "\"leisure\"=>\"adult_gaming_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7463382, 53.7131881 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8050474736", "name": "Admiral", "other_tags": "\"leisure\"=>\"adult_gaming_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6322225, 53.7140899 ] } },

@@ -20,6 +20,16 @@
 	{ "type": "Feature", "properties": { "osm_id": "8091103978", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -1.9694668, 53.7472102 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8091103980", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -1.9698303, 53.7469159 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8091103981", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -1.9706617, 53.7462764 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8091103982", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -1.9710662, 53.7459182 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8091103982", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -1.9710662, 53.7459182 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186371973", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -2.0729796, 53.7689556 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186371974", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -2.0723992, 53.7690644 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186371975", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -2.0718542, 53.7691543 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186371976", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -2.0713021, 53.7692422 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186371977", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -2.0707252, 53.7693405 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186371978", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -2.070127, 53.7694493 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186371979", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -2.0695926, 53.769533 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186371980", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -2.0689803, 53.7696396 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186371981", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -2.0684247, 53.7697254 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8186371982", "amenity": "hunting_stand" }, "geometry": { "type": "Point", "coordinates": [ -2.0678018, 53.7698342 ] } }
 ]
 }

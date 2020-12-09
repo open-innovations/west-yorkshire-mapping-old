@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "8195889396", "name": "Westgate Internet Cafe", "amenity": "internet_cafe", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:housenumber\"=>\"95\",\"addr:postcode\"=>\"WF2 9RL\",\"addr:street\"=>\"Westgate End\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5121587, 53.6793506 ] } }
+]
+}
