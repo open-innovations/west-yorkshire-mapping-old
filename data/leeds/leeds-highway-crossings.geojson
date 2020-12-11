@@ -624,6 +624,7 @@
 { "type": "Feature", "properties": { "osm_id": "1444393841" }, "geometry": { "type": "Point", "coordinates": [ -1.55927, 53.78414 ] } },
 { "type": "Feature", "properties": { "osm_id": "1518686480" }, "geometry": { "type": "Point", "coordinates": [ -1.61660, 53.81913 ] } },
 { "type": "Feature", "properties": { "osm_id": "1518745309" }, "geometry": { "type": "Point", "coordinates": [ -1.61539, 53.81422 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1520493236", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.70343, 53.84108 ] } },
 { "type": "Feature", "properties": { "osm_id": "1533402157" }, "geometry": { "type": "Point", "coordinates": [ -1.68354, 53.80559 ] } },
 { "type": "Feature", "properties": { "osm_id": "1534657217" }, "geometry": { "type": "Point", "coordinates": [ -1.61248, 53.80388 ] } },
 { "type": "Feature", "properties": { "osm_id": "1540916802" }, "geometry": { "type": "Point", "coordinates": [ -1.69451, 53.90595 ] } },
@@ -2567,6 +2568,8 @@
 { "type": "Feature", "properties": { "osm_id": "8189668797" }, "geometry": { "type": "Point", "coordinates": [ -1.57556, 53.75971 ] } },
 { "type": "Feature", "properties": { "osm_id": "8199361527", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.65697, 53.84942 ] } },
 { "type": "Feature", "properties": { "osm_id": "8203882263" }, "geometry": { "type": "Point", "coordinates": [ -1.58691, 53.81749 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8211241069", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.52041, 53.83299 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8211241069", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.52041, 53.83299 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8211259820", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.62295, 53.85785 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8211494552" }, "geometry": { "type": "Point", "coordinates": [ -1.47230, 53.82343 ] } }
 ]
 }

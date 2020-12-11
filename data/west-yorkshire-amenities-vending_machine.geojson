@@ -122,6 +122,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8173049291", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.548523, 53.7952472 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8173049292", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5485028, 53.795236 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8173070466", "name": "Amazon Locker", "amenity": "vending_machine", "other_tags": "\"brand\"=>\"Amazon Locker\",\"brand:wikidata\"=>\"Q16974764\",\"brand:wikipedia\"=>\"en:Amazon Locker\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5902846, 53.8087654 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8173091375", "name": "Amazon Locker - Jane", "amenity": "vending_machine", "other_tags": "\"brand\"=>\"Amazon Locker\",\"brand:wikidata\"=>\"Q16974764\",\"brand:wikipedia\"=>\"en:Amazon Locker\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6027587, 53.8132514 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8173091375", "name": "Amazon Locker - Jane", "amenity": "vending_machine", "other_tags": "\"brand\"=>\"Amazon Locker\",\"brand:wikidata\"=>\"Q16974764\",\"brand:wikipedia\"=>\"en:Amazon Locker\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6027587, 53.8132514 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8215006217", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7068953, 53.8418691 ] } }
 ]
 }

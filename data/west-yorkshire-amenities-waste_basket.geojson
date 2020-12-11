@@ -4255,6 +4255,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8197114080", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6897135, 53.8644385 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8206911473", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6894507, 53.8623439 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8206911481", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7036783, 53.8653768 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8210385383", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6907998, 53.8627669 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8210385383", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6907998, 53.8627669 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8215166982", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"City of Bradford\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7227939, 53.8618785 ] } }
 ]
 }
