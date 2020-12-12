@@ -109,6 +109,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "747542388", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5468778, 53.7977974 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747542389", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5460938, 53.797659 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "846286331", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5326935, 53.8026154 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "854470025", "amenity": "atm", "other_tags": "\"operator\"=>\"Sainsbury\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7628687, 53.790687 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "926275642", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7304337, 53.6425176 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1022499656", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Cashzone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6981021, 53.9035072 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1025703046", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5561147, 53.8067322 ] } },

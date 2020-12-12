@@ -22,6 +22,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "493742619", "amenity": "atm", "other_tags": "\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8170823, 53.9243295 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "497396129", "amenity": "atm", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7874222, 53.8360854 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "595481584", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7537208, 53.803861 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "854470025", "amenity": "atm", "other_tags": "\"operator\"=>\"Sainsbury\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7628687, 53.790687 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1038799938", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7798622, 53.8320796 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1182516742", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7327389, 53.771994 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1677503278", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8364618, 53.8472911 ] } },
