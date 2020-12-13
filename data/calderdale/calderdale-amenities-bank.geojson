@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1026886611", "amenity": "bank", "other_tags": "\"brand\"=>\"HSBC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7813954, 53.7012761 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1026886611", "name": "HSBC UK", "amenity": "bank", "other_tags": "\"brand\"=>\"HSBC UK\",\"brand:wikidata\"=>\"Q64767453\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7813954, 53.7012761 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1026947186", "amenity": "bank", "other_tags": "\"brand\"=>\"Yorkshire Building Society\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7793755, 53.7016618 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1415429377", "name": "Halifax", "amenity": "bank", "other_tags": "\"atm\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0969719, 53.7135606 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1415429494", "name": "TSB", "amenity": "bank", "other_tags": "\"atm\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.097224, 53.7135416 ] } },

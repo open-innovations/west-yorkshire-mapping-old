@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "3718231084", "name": "This Means Wargaming", "other_tags": "\"addr:city\"=>\"Yeadon\",\"addr:housenumber\"=>\"2\",\"addr:postcode\"=>\"LS19 7PP\",\"addr:street\"=>\"High Street\",\"shop\"=>\"video_games\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6854204, 53.8658931 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6022850389", "name": "Gamechanger", "other_tags": "\"shop\"=>\"video_games\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5378928, 53.7973653 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6052531577", "name": "Game", "other_tags": "\"shop\"=>\"video_games\",\"brand\"=>\"Game\",\"level\"=>\"0\",\"brand:wikidata\"=>\"Q5519813\",\"brand:wikipedia\"=>\"en:Game (retailer)\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5740402, 53.757585 ] } }
 ]
