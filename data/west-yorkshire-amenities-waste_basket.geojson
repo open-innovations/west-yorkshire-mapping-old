@@ -4253,6 +4253,13 @@
 	{ "type": "Feature", "properties": { "osm_id": "8206911481", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7036783, 53.8653768 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8210385383", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6907998, 53.8627669 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8215166982", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"City of Bradford\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7227939, 53.8618785 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8228399319", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.706406, 53.8670487 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8228399319", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.706406, 53.8670487 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8234347380", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8200786, 53.8336403 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8234347381", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8219227, 53.833755 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8234347382", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8306828, 53.8400685 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8234347383", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8285142, 53.8367782 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8234347384", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8311977, 53.8411269 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8234347386", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8317327, 53.8420839 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8234347387", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8348509, 53.845525 ] } }
 ]
 }

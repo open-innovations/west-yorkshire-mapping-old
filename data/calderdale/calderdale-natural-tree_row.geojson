@@ -18,6 +18,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "833019113", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8569856, 53.7408466 ], [ -1.8560254, 53.7405928 ], [ -1.8550062, 53.7402596 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "850887359", "z_order": 0, "other_tags": "\"denotation\"=>\"avenue\",\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8758836, 53.7185417 ], [ -1.8754974, 53.7176872 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "881591425", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9491021, 53.6598087 ], [ -1.9491143, 53.6616854 ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": "881591426", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9481019, 53.661926 ], [ -1.9527046, 53.6612839 ], [ -1.9526626, 53.6614746 ], [ -1.9512719, 53.6630222 ], [ -1.9513004, 53.6637425 ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "881591426", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9481019, 53.661926 ], [ -1.9527046, 53.6612839 ], [ -1.9526626, 53.6614746 ], [ -1.9512719, 53.6630222 ], [ -1.9513004, 53.6637425 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "885543249", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8513811, 53.7497333 ], [ -1.8506993, 53.7493605 ], [ -1.8502136, 53.7490098 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "885543250", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8533798, 53.7490816 ], [ -1.8523898, 53.7483083 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "885543251", "z_order": 0, "other_tags": "\"natural\"=>\"tree_row\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8549536, 53.747455 ], [ -1.8546104, 53.7477367 ], [ -1.8541457, 53.7479908 ] ] } }
 ]
 }

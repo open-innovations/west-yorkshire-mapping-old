@@ -14,7 +14,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "533460913", "name": "Turley Holes and Higher House Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0300849, 53.691379 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533461163", "name": "Withens Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0350631, 53.6968676 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533482072", "name": "Ringstone Edge Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.935242, 53.6623998 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "533540488", "name": "Walden Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0806392, 53.6917856 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "533540488", "name": "Walsden Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0806392, 53.6917856 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533600534", "name": "Clough Moor", "other_tags": "\"natural\"=>\"moor\",\"is_in:county\"=>\"West Yorkshire\",\"is_in:country\"=>\"UK\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9006851, 53.6957945 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "534431178", "name": "Bramhope Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6339888, 53.8780065 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "700236277", "name": "Brow Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9368191, 53.8270087 ] } },
