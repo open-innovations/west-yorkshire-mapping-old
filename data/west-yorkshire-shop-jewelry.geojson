@@ -10,6 +10,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "529077308", "name": "Sohail Jewellers", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6279318, 53.6925805 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1137965464", "name": "Yaqoob Jewellers", "other_tags": "\"shop\"=>\"jewelry\",\"phone\"=>\"+44 1924 485123\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6291938, 53.6931256 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1139428805", "name": "Grants", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.629177, 53.6911865 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1159765198", "name": "Dartington", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3378239, 53.7128946 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1276400745", "name": "Sufi Jewellers", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6648796, 53.6786304 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1305181589", "name": "Jewellers", "other_tags": "\"shop\"=>\"jewelry\",\"addr:housenumber\"=>\"100\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7825559, 53.7021096 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1416446549", "name": "John Greenwood LTD", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6294625, 53.6907692 ] } },
