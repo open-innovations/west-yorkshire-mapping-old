@@ -92,6 +92,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "8027074984", "amenity": "grit_bin", "other_tags": "\"operator\"=>\"Mid Yorkshire NHS Trust\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4893471, 53.6934481 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8035034534", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.307153, 53.6905524 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8174014038", "amenity": "grit_bin", "other_tags": "\"material\"=>\"plastic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6795474, 53.66118 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8174029456", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.6822366, 53.6591998 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8174029456", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.6822366, 53.6591998 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8243907225", "amenity": "grit_bin", "other_tags": "\"material\"=>\"plastic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7735514, 53.8328851 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8243914608", "amenity": "grit_bin", "other_tags": "\"material\"=>\"plastic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9006816, 53.8677742 ] } }
 ]
 }

@@ -35,6 +35,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "708660343", "name": "Brocka Bank Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8979888, 53.9330021 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747719036", "name": "Derry Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7478274, 53.8867638 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747742219", "name": "Craven Hall Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7768227, 53.893073 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747742278", "name": "Green Well Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8091594, 53.8783012 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747743792", "name": "Cabin Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8250381, 53.8791993 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747746232", "name": "Black Knoll", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8441139, 53.8978778 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "759574917", "name": "Bare Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.852466, 53.911292 ] } },

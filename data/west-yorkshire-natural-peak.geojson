@@ -84,6 +84,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "747719036", "name": "Derry Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7478274, 53.8867638 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747731716", "name": "Beacon Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6977559, 53.8936051 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747742219", "name": "Craven Hall Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7768227, 53.893073 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747742278", "name": "Green Well Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8091594, 53.8783012 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747742391", "name": "Cocklake Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7957698, 53.8836389 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747742445", "name": "Knapley Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7915856, 53.8808689 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747743792", "name": "Cabin Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8250381, 53.8791993 ] } },
