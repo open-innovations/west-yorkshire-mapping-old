@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "3716749538", "name": "Mucki Pups", "other_tags": "\"addr:city\"=>\"Yeadon\",\"addr:housenumber\"=>\"131\",\"addr:postcode\"=>\"LS19 7TA\",\"addr:street\"=>\"High Street\",\"phone\"=>\"+44 113 250 5516\",\"shop\"=>\"pet_grooming\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6771306, 53.8653923 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5322134923", "name": "The Groom Room", "other_tags": "\"shop\"=>\"pet_grooming\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6435679, 53.7445786 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6310537745", "name": "The Dog House", "other_tags": "\"shop\"=>\"pet_grooming\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8520948, 53.5918983 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6601250213", "name": "Pet Grooming Spa", "other_tags": "\"shop\"=>\"pet_grooming\"" }, "geometry": { "type": "Point", "coordinates": [ -1.379047, 53.7250202 ] } },

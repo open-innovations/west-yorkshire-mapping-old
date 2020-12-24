@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "1015090695", "name": "Timpson", "other_tags": "\"shop\"=>\"shoe_repair\",\"wikidata\"=>\"Q7807658\",\"wikipedia\"=>\"en:Timpson (retailer)\",\"addr:street\"=>\"Westmorland Street\",\"addr:postcode\"=>\"WF1 1PJ\",\"addr:housenumber\"=>\"2\",\"opening_hours:covid19\"=>\"off\"" }, "geometry": { "type": "Point", "coordinates": [ -1.497436, 53.6833879 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3718444416", "name": "Walkers", "other_tags": "\"addr:city\"=>\"Yeadon\",\"addr:street\"=>\"High Street\",\"shop\"=>\"shoe_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6835021, 53.8660198 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3777343355", "name": "Timpson", "other_tags": "\"shop\"=>\"shoe_repair\",\"building\"=>\"kiosk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5105705, 53.8230805 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5218896682", "name": "ShoeCare", "other_tags": "\"shop\"=>\"shoe_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6026293, 53.7453474 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5278520657", "name": "Timpsons", "other_tags": "\"shop\"=>\"shoe_repair\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"addr:postcode\"=>\"BD16 1GL\",\"addr:housename\"=>\"Five Rise Shopping Centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8366861, 53.8471332 ] } },
