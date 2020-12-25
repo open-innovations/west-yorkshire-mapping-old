@@ -6,6 +6,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "5981573953", "amenity": "photo_booth" }, "geometry": { "type": "Point", "coordinates": [ -1.5385018, 53.7975654 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6551413432", "amenity": "photo_booth" }, "geometry": { "type": "Point", "coordinates": [ -1.4981492, 53.6855674 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7511364273", "amenity": "photo_booth" }, "geometry": { "type": "Point", "coordinates": [ -1.4588961, 53.8179366 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.712823, "longitude": -1.536085 }, "osm_way_id": "759175712", "name": "TARDIS", "amenity": "photo_booth", "building": "yes", "other_tags": "\"phone\"=>\"no\",\"colour\"=>\"blue\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5360713, 53.7128155 ], [ -1.5360716, 53.7128315 ], [ -1.5360983, 53.7128314 ], [ -1.536098, 53.7128153 ], [ -1.5360713, 53.7128155 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.712823, "longitude": -1.536085 }, "osm_way_id": "759175712", "name": "TARDIS", "amenity": "photo_booth", "building": "yes", "other_tags": "\"colour\"=>\"blue\",\"not:amenity\"=>\"telephone\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5360713, 53.7128155 ], [ -1.5360716, 53.7128315 ], [ -1.5360983, 53.7128314 ], [ -1.536098, 53.7128153 ], [ -1.5360713, 53.7128155 ] ] ] ] } }
 ]
 }

@@ -4263,6 +4263,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8243907237", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7734525, 53.8329354 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8243907238", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7735617, 53.8329577 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8246200763", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.8604732, 53.8541288 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8246201427", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.8979306, 53.8274459 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8246201427", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.8979306, 53.8274459 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8258034618", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6969554, 53.8696243 ] } }
 ]
 }

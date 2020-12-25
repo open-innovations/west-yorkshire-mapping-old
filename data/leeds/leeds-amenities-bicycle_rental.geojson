@@ -3,6 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2357200971", "name": "Brunswick Bike Hire", "amenity": "bicycle_rental", "other_tags": "\"website\"=>\"e-bikehire.com\",\"addr:city\"=>\"Otley\",\"addr:street\"=>\"Leeds Road\",\"addr:postcode\"=>\"LS21 1DL\"" }, "geometry": { "type": "Point", "coordinates": [ -1.678052, 53.9000482 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8117129997", "name": "Leeds Bike Park Bike Shop", "amenity": "bicycle_rental", "other_tags": "\"opening_hours\"=>\"Mo-Su 09:00-17:00\",\"phone\"=>\"0113 277 2413\",\"shop\"=>\"bicycle\",\"website\"=>\"https:\/\/www.leedsurbanbikepark.com\/copy-of-bike-servicing-repair-1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5584997, 53.7518003 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8117129997", "name": "Leeds Bike Park Bike Shop", "amenity": "bicycle_rental", "other_tags": "\"opening_hours\"=>\"Mo-Su 09:00-17:00\",\"phone\"=>\"+44 113 2772413\",\"shop\"=>\"bicycle\",\"website\"=>\"https:\/\/www.leedsurbanbikepark.com\/copy-of-bike-servicing-repair-1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5584997, 53.7518003 ] } }
 ]
 }
