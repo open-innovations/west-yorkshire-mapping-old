@@ -8,6 +8,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8186412565", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0671765, 53.7789125 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8186412566", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0669642, 53.7788414 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8186412567", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0680047, 53.7787494 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8186412568", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0683091, 53.778764 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8186412568", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0683091, 53.778764 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8269906528", "name": "Shuttleworth Rocks", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1184793, 53.7838701 ] } }
 ]
 }
