@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "5288501708", "name": "Max Spielman", "other_tags": "\"shop\"=>\"photo\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"addr:postcode\"=>\"BD16 1AJ\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8370846, 53.847131 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5288501708", "name": "Max Spielmann", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:postcode\"=>\"BD16 1AJ\",\"addr:street\"=>\"Main Street\",\"brand\"=>\"Max Spielmann\",\"brand:wikidata\"=>\"Q76221051\",\"shop\"=>\"photo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8370846, 53.847131 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.914028, "longitude": -1.937661 }, "osm_way_id": "568963627", "building": "yes", "shop": "photo" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9377581, 53.9140354 ], [ -1.9375806, 53.9140599 ], [ -1.9375647, 53.91402 ], [ -1.9375802, 53.9140177 ], [ -1.9377428, 53.9139957 ], [ -1.9377581, 53.9140354 ] ] ] } }
 ]
 }

@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "322683514", "name": "Bingley Cemetery", "amenity": "grave_yard" }, "geometry": { "type": "Point", "coordinates": [ -1.8429159, 53.8536576 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3660957235", "amenity": "grave_yard" }, "geometry": { "type": "Point", "coordinates": [ -1.8951879, 53.8279182 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.816441, "longitude": -1.788444 }, "osm_way_id": "49169592", "name": "Heaton Graveyard", "amenity": "grave_yard" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7887979, 53.8168278 ], [ -1.7879936, 53.8168354 ], [ -1.7880997, 53.8160465 ], [ -1.7888156, 53.8160873 ], [ -1.7888947, 53.8160859 ], [ -1.7887979, 53.8168278 ] ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.835711, "longitude": -1.805358 }, "osm_way_id": "50262609", "name": "Hirst Wood Burial Ground", "amenity": "grave_yard", "other_tags": "\"layer\"=>\"1\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8059246, 53.8356255 ], [ -1.8065916, 53.8355891 ], [ -1.8065841, 53.8358563 ], [ -1.8045443, 53.8358538 ], [ -1.8041295, 53.8358533 ], [ -1.8041235, 53.8355874 ], [ -1.8046917, 53.8355872 ], [ -1.8056204, 53.8355651 ], [ -1.8056286, 53.8356288 ], [ -1.8059246, 53.8356255 ] ] ] } },
