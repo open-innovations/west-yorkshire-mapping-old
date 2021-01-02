@@ -11,7 +11,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "352871294", "name": "The Student Property Shop", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5741822, 53.8146199 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "581453143", "name": "EarnshawKay", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7828164, 53.6486286 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "581453160", "name": "Belvoir!", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7827789, 53.6484855 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1378792146", "name": "william h brown", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5774794, 53.8215209 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1421148723", "other_tags": "\"shop\"=>\"estate_agent\",\"brand\"=>\"Your Move\"" }, "geometry": { "type": "Point", "coordinates": [ -1.630086, 53.6924457 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1421148728", "name": "william h brown", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6291309, 53.6923161 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1957539344", "name": "homes express", "other_tags": "\"shop\"=>\"estate_agent\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7764364, 53.8346639 ] } },

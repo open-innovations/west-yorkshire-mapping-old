@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "6041946966", "other_tags": "\"shop\"=>\"radiotechnics\",\"name:en\"=>\"Pennine Radio\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7851069, 53.6501207 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6041946966", "name": "Pennine Radio", "other_tags": "\"shop\"=>\"radiotechnics\"" }, "geometry": { "type": "Point", "coordinates": [ -1.785123, 53.6501398 ] } }
 ]
 }
