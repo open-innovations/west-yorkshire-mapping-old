@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "1026886540", "name": "Reel Deal Gaming Centre", "other_tags": "\"gambling\"=>\"slot_machines\",\"leisure\"=>\"adult_gaming_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.781408, 53.7017707 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7169362267", "name": "Welcome Break Gaming", "other_tags": "\"leisure\"=>\"adult_gaming_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7443035, 53.7135468 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7169362268", "name": "Game Zone", "other_tags": "\"leisure\"=>\"adult_gaming_centre\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7463382, 53.7131881 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.702361, "longitude": -1.780879 }, "osm_way_id": "203295601", "name": "Nobles Amusements", "building": "yes", "leisure": "adult_gaming_centre" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.780798, 53.7023161 ], [ -1.7809165, 53.7022955 ], [ -1.780961, 53.7024066 ], [ -1.7808448, 53.7024265 ], [ -1.780798, 53.7023161 ] ] ] } }

@@ -5,6 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1366105823", "name": "Lyall's", "other_tags": "\"shop\"=>\"books\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0980152, 53.7132574 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2579496277", "name": "The Bookcase", "other_tags": "\"shop\"=>\"books\",\"website\"=>\"https:\/\/www.bookcase.co.uk\/\",\"addr:city\"=>\"Hebden Bridge\",\"addr:street\"=>\"Market Street\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"HX7 6EU\",\"addr:housenumber\"=>\"29\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0163655, 53.7412741 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5452280971", "name": "The Works", "other_tags": "\"shop\"=>\"books\"" }, "geometry": { "type": "Point", "coordinates": [ -1.858862, 53.7234166 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5569969822", "name": "Legacy Comics", "other_tags": "\"shop\"=>\"books\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8586072, 53.7218438 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5569969822", "name": "Legacy Comics", "other_tags": "\"shop\"=>\"books\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8586072, 53.7218438 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8287678798", "name": "Just Books", "other_tags": "\"shop\"=>\"books\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7799714, 53.7022786 ] } }
 ]
 }

@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.702465, "longitude": -1.780225 }, "osm_way_id": "115559373", "name": "Flower Garden", "building": "retail", "shop": "florist" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7802999, 53.7025327 ], [ -1.7802105, 53.7025452 ], [ -1.7801509, 53.7023963 ], [ -1.7802404, 53.7023838 ], [ -1.7802999, 53.7025327 ] ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.687392, "longitude": -1.854981 }, "osm_way_id": "174658350", "name": "The Garden Room", "building": "yes", "shop": "florist", "other_tags": "\"phone\"=>\"+44 7581 661008\",\"website\"=>\"https:\/\/www.facebook.com\/Thegardenroomwestvale\/\",\"addr:city\"=>\"Halifax\",\"addr:street\"=>\"Stainland Road\",\"addr:suburb\"=>\"West Vale\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"HX4 8AD\",\"addr:housenumber\"=>\"15\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8550281, 53.6873977 ], [ -1.8549962, 53.6874214 ], [ -1.854934, 53.6873872 ], [ -1.8549674, 53.6873634 ], [ -1.8550281, 53.6873977 ] ] ] } }
 ]
 }

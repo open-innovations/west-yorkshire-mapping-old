@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "6170667563", "name": "Lidl Todmorden", "amenity": "charging_station", "other_tags": "\"access\"=>\"customers\",\"capacity\"=>\"1\",\"operator\"=>\"Pod Point\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0908583, 53.7135511 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6606200051", "name": "Tesla Supercharger", "amenity": "charging_station", "other_tags": "\"brand\"=>\"Tesla Supercharger\",\"capacity\"=>\"8\",\"operator\"=>\"Tesla Motors\",\"brand:wikidata\"=>\"Q17089620\",\"brand:wikipedia\"=>\"en:Tesla Supercharger\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7436701, 53.7142285 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6606200075", "name": "Tesla Supercharger", "amenity": "charging_station", "other_tags": "\"brand\"=>\"Tesla Supercharger\",\"brand:wikidata\"=>\"Q17089620\",\"brand:wikipedia\"=>\"en:Tesla Supercharger\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7469763, 53.7119957 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6606200075", "name": "Tesla Supercharger", "amenity": "charging_station", "other_tags": "\"brand\"=>\"Tesla Supercharger\",\"brand:wikidata\"=>\"Q17089620\",\"brand:wikipedia\"=>\"en:Tesla Supercharger\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7469763, 53.7119957 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8288470173", "name": "Podpoint", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7755531, 53.7021418 ] } }
 ]
 }
