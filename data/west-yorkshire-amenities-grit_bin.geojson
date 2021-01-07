@@ -96,6 +96,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8243907225", "amenity": "grit_bin", "other_tags": "\"material\"=>\"plastic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7735514, 53.8328851 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8243914608", "amenity": "grit_bin", "other_tags": "\"material\"=>\"plastic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9006816, 53.8677742 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8247183220", "amenity": "grit_bin", "other_tags": "\"access\"=>\"private\",\"material\"=>\"plastic\",\"operator\"=>\"Wakefield Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3209216, 53.6910352 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8278355976", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.8368843, 53.8566888 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8278355976", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.8368843, 53.8566888 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8297216866", "amenity": "grit_bin", "other_tags": "\"access\"=>\"yes\",\"colour\"=>\"Yellow\",\"material\"=>\"plastic\",\"operator\"=>\"Wakefield Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3374038, 53.7167283 ] } }
 ]
 }
