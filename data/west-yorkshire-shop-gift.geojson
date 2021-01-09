@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "469404610", "name": "Celebrations", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6935656, 53.6740586 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1041331270", "name": "Clintons", "other_tags": "\"addr:city\"=>\"Huddersfield\",\"addr:housenumber\"=>\"49-59\",\"addr:postcode\"=>\"HD1 2BQ\",\"addr:street\"=>\"New Street\",\"brand\"=>\"Clintons\",\"brand:wikidata\"=>\"Q5134299\",\"brand:wikipedia\"=>\"en:Clintons\",\"indoor\"=>\"yes\",\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7829996, 53.6448731 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1710509888", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7781342, 53.5838643 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2125610518", "name": "Hot Crazes", "other_tags": "\"shop\"=>\"gift\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5384424, 53.7966021 ] } },
