@@ -5,6 +5,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "2140182053", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7508475, 53.59961 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5849855326", "name": "Stone Trough 1852", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.9981371, 53.8600909 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7847534360", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7045368, 53.8913401 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7848457454", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7081043, 53.8752472 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7848457454", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7081043, 53.8752472 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8306357909", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7138172, 53.8814145 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8306357910", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7138437, 53.8814081 ] } }
 ]
 }
