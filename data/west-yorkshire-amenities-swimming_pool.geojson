@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "27563238", "amenity": "swimming_pool", "other_tags": "\"sport\"=>\"swimming\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6944674, 53.9131665 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "30732816", "name": "Halifax Swimming Pool", "amenity": "swimming_pool", "other_tags": "\"sport\"=>\"swimming\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8598971, 53.7188219 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "828501695", "amenity": "swimming_pool" }, "geometry": { "type": "Point", "coordinates": [ -1.592567, 53.8283572 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1110750293", "name": "Bowling Pool", "amenity": "swimming_pool" }, "geometry": { "type": "Point", "coordinates": [ -1.7371433, 53.7787465 ] } },
