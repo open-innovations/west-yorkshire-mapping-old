@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1231630213", "name": "Attention X", "other_tags": "\"shop\"=>\"hairdresser\",\"addr:city\"=>\"Halifax\",\"addr:street\"=>\"Abbey Walk South\",\"addr:country\"=>\"GB\",\"addr:postcode\"=>\"HX3 0AP\",\"addr:housenumber\"=>\"2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.857875, 53.7093294 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1589970791", "name": "Ron & Bruce Urquhart", "other_tags": "\"shop\"=>\"hairdresser\",\"phone\"=>\"+44 1484 713510\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7805811, 53.7084081 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2459805632", "name": "Frankies Hair & Beauty", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8819396, 53.7150661 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2797640560", "name": "The Hairloom", "other_tags": "\"shop\"=>\"hairdresser\",\"addr:city\"=>\"Halifax\",\"addr:place\"=>\"Bowling Mill\",\"addr:street\"=>\"Dean Clough Mills\",\"addr:postcode\"=>\"HX3 5AX\"" }, "geometry": { "type": "Point", "coordinates": [ -1.862587, 53.7282426 ] } },

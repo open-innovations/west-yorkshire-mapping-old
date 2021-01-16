@@ -200,6 +200,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7755888635", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5476728, 53.7912246 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8064950476", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5470394, 53.7479066 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8173070324", "name": "Notemachine", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"operator\"=>\"Notemachine\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5647835, 53.800708 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8189472813", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"The Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5660985, 53.7727338 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8189472813", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"The Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5660985, 53.7727338 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8319941412", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.61476, 53.813827 ] } }
 ]
 }
