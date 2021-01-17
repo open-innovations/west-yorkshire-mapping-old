@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "345024384", "name": "British Transport Police", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ -1.5461353, 53.7949047 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "345024384", "name": "British Transport Police", "amenity": "police", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"New Station Street\",\"website\"=>\"http:\/\/www.btp.police.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5460371, 53.7949052 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "357751903", "name": "Leeds Central Police Station", "amenity": "police", "other_tags": "\"alt_name\"=>\"Bridewell Police Station\",\"old_name\"=>\"Bridewell Police Station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5527326, 53.8003617 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5407594206", "name": "Rothwell Police Station", "amenity": "police", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Haigh Road\",\"addr:postcode\"=>\"LS26 0LP\",\"addr:housenumber\"=>\"92\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4798471, 53.7550165 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8158466813", "name": "BTP Grace Street", "amenity": "police", "other_tags": "\"operator\"=>\"British Transport Police\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5540604, 53.7990005 ] } },

@@ -7,7 +7,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "338717399", "name": "Reva Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.77051, 53.8862105 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "426916023", "name": "Rawden Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5579009, 53.8978265 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533716802", "name": "Whale Jaws Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7126459, 53.8871957 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "533719848", "name": "Cuddy Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7198557, 53.8716121 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "533719848", "name": "Cuddy Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.718292, 53.8725024 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "534249657", "name": "The Bowshaws", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5719071, 53.8856314 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "534383677", "name": "Black Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5869524, 53.8733764 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "535216452", "name": "Yeadon Haw", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6782301, 53.873024 ] } },
