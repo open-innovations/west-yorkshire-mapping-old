@@ -50,7 +50,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "2807962318", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8769514, 53.8895759 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2807962369", "name": "Rivock Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8761456, 53.8893629 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4142953997", "name": "Slabbering Baby", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5693136, 53.8538795 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4570094684", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6932972, 53.8896637 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4988444845", "name": "Silver Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8520758, 53.9130479 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4988488393", "name": "Fanny Shaw Low Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8349505, 53.8765593 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5177178483", "name": "Dearne Head", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7103201, 53.5643786 ] } },
