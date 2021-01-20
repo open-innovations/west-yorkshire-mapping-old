@@ -4290,6 +4290,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8318514808", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8383056, 53.848056 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8318514809", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8379821, 53.8480078 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8318602341", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8380937, 53.8477332 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8331243097", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6222646, 53.8623329 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8331243097", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6222646, 53.8623329 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8337805483", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"Wakefield Council\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3980991, 53.6984006 ] } }
 ]
 }
