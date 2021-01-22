@@ -990,6 +990,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "7103705156", "amenity": "post_box", "other_tags": "\"royal_cypher\"=>\"GR\",\"post_box:type\"=>\"wall\",\"post_box:mounting\"=>\"brick_pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6926592, 53.9150727 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7103714114", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"lamp\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6818177, 53.9021022 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7593651054", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"pillar\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4567275, 53.8276953 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7593715029", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"pillar\",\"post_box:design\"=>\"type_k\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4603308, 53.8225919 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7593715029", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"pillar\",\"post_box:design\"=>\"type_k\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4603308, 53.8225919 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8340392341", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"pillar\",\"royal_cypher\"=>\"EIIR\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5335504, 53.8511883 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8340441135", "amenity": "post_box", "other_tags": "\"post_box:type\"=>\"pillar\",\"royal_cypher\"=>\"EIIR\"" }, "geometry": { "type": "Point", "coordinates": [ -1.525351, 53.8076088 ] } }
 ]
 }
