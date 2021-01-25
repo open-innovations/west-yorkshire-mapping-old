@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "3900180355", "name": "Select Driveways", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"261\",\"addr:postcode\"=>\"LS18 4DR\",\"addr:street\"=>\"New Road Side\",\"phone\"=>\"+44 113 222 4319\",\"shop\"=>\"trade\",\"website\"=>\"https:\/\/www.selectdriveways.com\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6484405, 53.8335037 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4449839273", "name": "Woodworks Timber", "other_tags": "\"shop\"=>\"trade\",\"trade\"=>\"timber\",\"website\"=>\"http:\/\/www.woodworkstimber.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6512001, 53.8183653 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5437278631", "name": "Selco", "other_tags": "\"shop\"=>\"trade\",\"trade\"=>\"building_supplies;plumbing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5315038, 53.8095209 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5437278632", "name": "GSL Wholesalers", "other_tags": "\"shop\"=>\"trade\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5334898, 53.8083563 ] } },
