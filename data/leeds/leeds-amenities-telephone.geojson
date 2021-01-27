@@ -285,7 +285,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5476705679", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.4390083, 53.8108715 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5512423132", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.5494505, 53.8028653 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5698015552", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX300\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.356787, 53.8829793 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5975789249", "amenity": "telephone", "other_tags": "\"covered\"=>\"booth\",\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3773157, 53.9291152 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5975789249", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\",\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3773157, 53.9291152 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6294180916", "amenity": "telephone", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.452111, 53.8070823 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6435716665", "amenity": "telephone", "ref": "House", "other_tags": "\"operator\"=>\"Leeds City Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.459468, 53.7840874 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6435716666", "amenity": "telephone", "ref": "Stable Courtyard", "other_tags": "\"operator\"=>\"Leeds City Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4580204, 53.784869 ] } },
