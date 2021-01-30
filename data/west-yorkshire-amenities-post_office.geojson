@@ -149,7 +149,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1633693689", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.7839903, 53.6432938 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1634912121", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.6542961, 53.7264659 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1636250644", "amenity": "post_office", "other_tags": "\"brand\"=>\"Post Office\",\"operator\"=>\"Londis\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7910913, 53.5834285 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1639170963", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.8717175, 53.6577207 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1639170963", "name": "Go Local", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.8726026, 53.6575856 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1639297457", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.7920632, 53.6042721 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1639561307", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.5641543, 53.7690139 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1648724590", "name": "Adel Post Office", "amenity": "post_office", "other_tags": "\"addr:city\"=>\"Leeds\",\"ref:pol_id\"=>\"2954\",\"addr:street\"=>\"Otley Road\",\"addr:postcode\"=>\"LS16 6AJ\",\"opening_hours\"=>\"Mo-Sa 08:00-20:00\",\"addr:housenumber\"=>\"425\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5925902, 53.8518081 ] } },
