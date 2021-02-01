@@ -54,7 +54,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2358605875", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7775215, 53.8330981 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358605903", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7775405, 53.8332643 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2650397827", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8956479, 53.9199243 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2820311945", "name": "Stanza Stones Poetry Seat", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8121917, 53.9097205 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2820311945", "name": "Stanza Stones Poetry Seat", "amenity": "bench", "other_tags": "\"material\"=>\"stone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8121917, 53.9097205 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3627169426", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7502597, 53.9136318 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3632249976", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7355183, 53.8884924 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3660954877", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.9002359, 53.8254296 ] } },
@@ -162,6 +162,10 @@
 	{ "type": "Feature", "properties": { "osm_id": "8318602338", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8388514, 53.8479381 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8318602339", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8399739, 53.8480671 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8318602340", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8385872, 53.8473084 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8358914872", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8176518, 53.9352576 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8358914872", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8176518, 53.9352576 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8381065910", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7425934, 53.8897902 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8381065911", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7428099, 53.8898698 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8381070741", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7437714, 53.8904306 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8381070782", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7358836, 53.8879016 ] } }
 ]
 }
