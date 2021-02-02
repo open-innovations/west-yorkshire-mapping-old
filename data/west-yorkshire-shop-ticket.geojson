@@ -10,6 +10,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7929482023", "other_tags": "\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6299874, 53.8475786 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7941743554", "name": "Leeds Station ticket office", "other_tags": "\"opening_hours:covid19\"=>\"open\",\"operator\"=>\"Northern\",\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5475404, 53.7951594 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7941743556", "name": "Priomise to pay ticket exchange", "other_tags": "\"operator\"=>\"Northern\",\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5481928, 53.7949759 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8382164742", "other_tags": "\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7733733, 53.8330893 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.804671, "longitude": -1.451631 }, "osm_way_id": "80509465", "name": "Crossgates Train Station", "building": "yes", "shop": "ticket" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4517066, 53.8046245 ], [ -1.4515271, 53.8046493 ], [ -1.4515544, 53.8047182 ], [ -1.451734, 53.8046934 ], [ -1.4517066, 53.8046245 ] ] ] ] } }
 ]
 }

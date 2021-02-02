@@ -16,6 +16,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8062623975", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.5715999, 53.7552487 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8067804756", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.5308107, 53.7481512 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8068235621", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.6086124, 53.7360358 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8310479711", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.4466708, 53.6647843 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8310479711", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.4466708, 53.6647843 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8385200743", "amenity": "compressed_air", "other_tags": "\"lit\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.853582, 53.7025097 ] } }
 ]
 }
