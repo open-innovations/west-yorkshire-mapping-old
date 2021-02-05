@@ -121,6 +121,12 @@
 	{ "type": "Feature", "properties": { "osm_id": "8390235906", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8592795, 53.7216677 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8390235907", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8591816, 53.721809 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8390235908", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8591575, 53.7217487 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8390235909", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8591347, 53.7216884 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8390235909", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8591347, 53.7216884 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8394641842", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8604825, 53.7147827 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8394641843", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8604235, 53.7146819 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8394641844", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8608071, 53.7148042 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8394641845", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8609305, 53.7146351 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8394641846", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8608004, 53.714447 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8394641847", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8604691, 53.7145097 ] } }
 ]
 }

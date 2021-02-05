@@ -1272,6 +1272,7 @@
 { "type": "Feature", "properties": { "osm_id": "3714915225", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.66414, 53.87225 ] } },
 { "type": "Feature", "properties": { "osm_id": "3714915226", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.66483, 53.87249 ] } },
 { "type": "Feature", "properties": { "osm_id": "3715039827", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.66959, 53.86649 ] } },
+{ "type": "Feature", "properties": { "osm_id": "3715221463", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.68290, 53.85548 ] } },
 { "type": "Feature", "properties": { "osm_id": "3715901146" }, "geometry": { "type": "Point", "coordinates": [ -1.72087, 53.87651 ] } },
 { "type": "Feature", "properties": { "osm_id": "3716946416" }, "geometry": { "type": "Point", "coordinates": [ -1.68262, 53.86614 ] } },
 { "type": "Feature", "properties": { "osm_id": "3755643980" }, "geometry": { "type": "Point", "coordinates": [ -1.69425, 53.90568 ] } },
@@ -2734,6 +2735,7 @@
 { "type": "Feature", "properties": { "osm_id": "8373170797" }, "geometry": { "type": "Point", "coordinates": [ -1.54727, 53.79679 ] } },
 { "type": "Feature", "properties": { "osm_id": "8373170803" }, "geometry": { "type": "Point", "coordinates": [ -1.54976, 53.79779 ] } },
 { "type": "Feature", "properties": { "osm_id": "8380977725", "Tactile paving":"yes", "Kerb":"lowered", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.65706, 53.81541 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8387891876", "Tactile paving":"no" }, "geometry": { "type": "Point", "coordinates": [ -1.45002, 53.80568 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8387891876", "Tactile paving":"no" }, "geometry": { "type": "Point", "coordinates": [ -1.45002, 53.80568 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8392356016", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.67946, 53.85751 ] } }
 ]
 }
