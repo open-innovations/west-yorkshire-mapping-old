@@ -1825,6 +1825,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "8331101122", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3871735, 53.939771 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8343502722", "name": "Joshua", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4549191, 53.7858447 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8365700518", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6908922, 53.8405299 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8388127309", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4507583, 53.8068429 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8388127309", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4507583, 53.8068429 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8397764845", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6579077, 53.8589065 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8397764897", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6611744, 53.8604403 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8397765154", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6612341, 53.8616705 ] } }
 ]
 }
