@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "8400917649", "name": "White Rose Coffee Roasters", "other_tags": "\"payment:bitcoincash\"=>\"yes\",\"shop\"=>\"yes\",\"website\"=>\"https:\/\/whiterosecoffeeroasters.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8662181, 53.723039 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.686931, "longitude": -1.795791 }, "osm_way_id": "505312293", "name": "Carr Green Off License & Convenience Store", "building": "yes", "shop": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7959403, 53.6869024 ], [ -1.7959157, 53.6869499 ], [ -1.7958279, 53.6869325 ], [ -1.795777, 53.6870073 ], [ -1.7956415, 53.6869845 ], [ -1.7957293, 53.686855 ], [ -1.7959403, 53.6869024 ] ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.702397, "longitude": -1.780623 }, "osm_way_id": "776874834", "building": "yes", "shop": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7805072, 53.7023593 ], [ -1.7806378, 53.702342 ], [ -1.7806978, 53.7023333 ], [ -1.7807391, 53.7024336 ], [ -1.7806778, 53.7024424 ], [ -1.7805457, 53.7024611 ], [ -1.7805072, 53.7023593 ] ] ] } }
 ]
