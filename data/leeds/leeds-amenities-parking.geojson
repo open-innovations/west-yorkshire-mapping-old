@@ -57,7 +57,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1164233047", "name": "Fernville Leisure Centre", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.4878322, 53.8154119 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1296600293", "amenity": "parking", "other_tags": "\"parking\"=>\"surface\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5638618, 53.8448772 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1296601492", "amenity": "parking", "other_tags": "\"parking\"=>\"surface\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5631984, 53.8455214 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1362178543", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.6241663, 53.787354 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1362178543", "amenity": "parking", "other_tags": "\"access\"=>\"yes\",\"parking\"=>\"surface\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6241663, 53.787354 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1379104250", "amenity": "parking", "other_tags": "\"parking\"=>\"layby\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6966043, 53.9004412 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1379104286", "amenity": "parking", "other_tags": "\"parking\"=>\"layby\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7268429, 53.9095477 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1510489205", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5044387, 53.8830672 ] } },
