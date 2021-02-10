@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "8406711438", "name": "Piety Shop", "other_tags": "\"denomination\"=>\"catholic\",\"opening_hours:covid19\"=>\"off\",\"operator\"=>\"St Theresa's Church\",\"payment:cash\"=>\"yes\",\"religion\"=>\"christian\",\"shop\"=>\"religion\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4526579, 53.8067552 ] } }
+]
+}

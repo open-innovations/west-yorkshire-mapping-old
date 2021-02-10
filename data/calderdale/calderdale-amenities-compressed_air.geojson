@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5371260044", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.835146, 53.6888037 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8385200743", "amenity": "compressed_air", "other_tags": "\"lit\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.853582, 53.7025097 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8396758207", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.859762, 53.7181997 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8396758207", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.859762, 53.7181997 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8408011712", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.8552017, 53.7266058 ] } }
 ]
 }
