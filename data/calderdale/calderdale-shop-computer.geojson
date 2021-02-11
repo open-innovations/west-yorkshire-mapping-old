@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.722770, "longitude": -1.861868 }, "osm_way_id": "566139266", "name": "Tech Zone", "building": "yes", "shop": "computer" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8617819, 53.7228297 ], [ -1.861732, 53.7227722 ], [ -1.8617841, 53.7227513 ], [ -1.8618768, 53.7227246 ], [ -1.8619359, 53.7227103 ], [ -1.8619573, 53.7227357 ], [ -1.8620032, 53.7227613 ], [ -1.861907, 53.722801 ], [ -1.8617819, 53.7228297 ] ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.723269, "longitude": -1.862567 }, "osm_way_id": "566220163", "name": "Cosmo Tech", "building": "yes", "shop": "computer" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8626068, 53.7233123 ], [ -1.8625036, 53.7233118 ], [ -1.8625064, 53.7232257 ], [ -1.8626296, 53.7232372 ], [ -1.8626068, 53.7233123 ] ] ] } }
 ]
 }

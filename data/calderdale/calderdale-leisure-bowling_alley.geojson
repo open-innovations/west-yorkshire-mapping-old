@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.720252, "longitude": -1.860469 }, "osm_way_id": "183831235", "name": "Electric Bowl", "building": "yes", "leisure": "bowling_alley", "other_tags": "\"toilets:wheelchair\"=>\"yes\",\"wheelchair\"=>\"yes\",\"wheelchair:description\"=>\"Front door doesn't have a button so may be difficult to open.\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8607616, 53.7203818 ], [ -1.8604293, 53.7204673 ], [ -1.860376, 53.7203948 ], [ -1.8601761, 53.7201228 ], [ -1.8605085, 53.7200373 ], [ -1.8607616, 53.7203818 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.720240, "longitude": -1.860463 }, "osm_way_id": "183831235", "name": "Electric Bowl", "building": "yes", "leisure": "bowling_alley", "other_tags": "\"toilets:wheelchair\"=>\"yes\",\"wheelchair\"=>\"yes\",\"wheelchair:description\"=>\"Front door doesn't have a button so may be difficult to open.\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8607992, 53.7203977 ], [ -1.8606432, 53.7204384 ], [ -1.8605205, 53.7204705 ], [ -1.8604323, 53.7203726 ], [ -1.8602274, 53.7204276 ], [ -1.8601274, 53.7203092 ], [ -1.8603449, 53.7202454 ], [ -1.8602635, 53.7201349 ], [ -1.8603397, 53.7200911 ], [ -1.8605648, 53.7200087 ], [ -1.8607992, 53.7203977 ] ] ] } }
 ]
 }

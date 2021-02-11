@@ -8,6 +8,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7511364273", "amenity": "photo_booth" }, "geometry": { "type": "Point", "coordinates": [ -1.4588961, 53.8179366 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8315415960", "name": "Photo-me", "amenity": "photo_booth", "other_tags": "\"fee\"=>\"yes\",\"operator\"=>\"Photo-me\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3112776, 53.6911762 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8354969428", "name": "Max Spielmann", "amenity": "photo_booth", "other_tags": "\"brand\"=>\"Max Spielmann\",\"brand:wikidata\"=>\"Q76221051\"" }, "geometry": { "type": "Point", "coordinates": [ -1.317711, 53.6917329 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8410971672", "name": "Photo-me", "amenity": "photo_booth", "other_tags": "\"fee\"=>\"yes\",\"operator\"=>\"Photo-me\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3108619, 53.6933845 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.712823, "longitude": -1.536085 }, "osm_way_id": "759175712", "name": "TARDIS", "amenity": "photo_booth", "building": "yes", "other_tags": "\"colour\"=>\"blue\",\"not:amenity\"=>\"telephone\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5360713, 53.7128155 ], [ -1.5360716, 53.7128315 ], [ -1.5360983, 53.7128314 ], [ -1.536098, 53.7128153 ], [ -1.5360713, 53.7128155 ] ] ] ] } }
 ]
 }

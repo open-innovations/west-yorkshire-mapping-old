@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.721669, "longitude": -1.860427 }, "osm_way_id": "566139307", "name": "Yorkshire Linen", "building": "commercial", "shop": "curtain" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8605894, 53.7217486 ], [ -1.8603137, 53.7217739 ], [ -1.8602889, 53.7216726 ], [ -1.8602749, 53.7216153 ], [ -1.8602655, 53.7215898 ], [ -1.8605411, 53.7215645 ], [ -1.8605894, 53.7217486 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.721672, "longitude": -1.860411 }, "osm_way_id": "566139307", "name": "Yorkshire Linen", "building": "commercial", "shop": "curtain" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8605559, 53.7217494 ], [ -1.8603137, 53.7217739 ], [ -1.8602889, 53.7216726 ], [ -1.8602666, 53.7215895 ], [ -1.8605062, 53.7215708 ], [ -1.8605559, 53.7217494 ] ] ] } }
 ]
 }

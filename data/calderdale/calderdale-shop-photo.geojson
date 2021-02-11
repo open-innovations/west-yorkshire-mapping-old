@@ -3,7 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5463222471", "name": "Janet Greens", "other_tags": "\"shop\"=>\"photo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8597257, 53.7233404 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5569969829", "name": "Max Spielman", "other_tags": "\"shop\"=>\"photo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8590176, 53.7226278 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.702298, "longitude": -1.781392 }, "osm_way_id": "148853886", "name": "Lords Photodigital", "building": "retail", "shop": "photo" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7814639, 53.7023795 ], [ -1.7813909, 53.7023898 ], [ -1.7813211, 53.7022166 ], [ -1.7813941, 53.7022063 ], [ -1.7814639, 53.7023795 ] ] ] } }
 ]
 }
