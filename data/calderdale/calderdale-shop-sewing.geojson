@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.720292, "longitude": -1.859664 }, "osm_way_id": "906141485", "name": "The Fabbadashery", "building": "yes", "shop": "sewing" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8597751, 53.7202987 ], [ -1.8596738, 53.7203568 ], [ -1.8596282, 53.7203259 ], [ -1.8595839, 53.7203227 ], [ -1.8595531, 53.7202636 ], [ -1.85959, 53.7202503 ], [ -1.8596654, 53.7202277 ], [ -1.8597751, 53.7202987 ] ] ] } }
+]
+}
