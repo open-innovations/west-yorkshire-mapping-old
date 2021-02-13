@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.868852, "longitude": -1.906841 }, "osm_way_id": "159922393", "name": "Territorial Army Centre", "landuse": "military" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9069927, 53.8687035 ], [ -1.9069821, 53.8689996 ], [ -1.9066901, 53.8689996 ], [ -1.9069927, 53.8687035 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.717213, "longitude": -1.858323 }, "osm_way_id": "403114474", "name": "RAF Cadet Centre", "building": "yes", "landuse": "military", "military": "barracks" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8580416, 53.7174747 ], [ -1.858163, 53.7169911 ], [ -1.8581774, 53.7169339 ], [ -1.8586041, 53.7169715 ], [ -1.8585715, 53.7171014 ], [ -1.8584127, 53.7170875 ], [ -1.8584276, 53.7170284 ], [ -1.8582887, 53.7170162 ], [ -1.8581837, 53.7174353 ], [ -1.8582497, 53.7174411 ], [ -1.858237, 53.7174918 ], [ -1.8580416, 53.7174747 ] ] ] } }
 ]
 }

@@ -14,7 +14,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1414424652", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -2.097202, 53.714039 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1771321859", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Barclays Bank PLC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8882749, 53.7250925 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2623539932", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.983271, 53.7308901 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4578048532", "amenity": "atm", "other_tags": "\"fee\"=>\"free\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8559314, 53.6872278 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4578048532", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8559314, 53.6872278 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5212379639", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8629607, 53.7298611 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5322536883", "amenity": "atm", "other_tags": "\"operator\"=>\"Co Operative Bank\",\"addr:city\"=>\"Brighouse\",\"addr:street\"=>\"Highfield Road\",\"addr:suburb\"=>\"Rastrick\",\"addr:country\"=>\"GB\",\"currency:GBP\"=>\"yes\",\"addr:postcode\"=>\"HD6 3JT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7997313, 53.6914382 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5451345358", "amenity": "atm", "other_tags": "\"brand\"=>\"Lloyds\",\"operator\"=>\"Lloyds\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8616882, 53.7220982 ] } },

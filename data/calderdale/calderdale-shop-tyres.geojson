@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "8417997533", "name": "The Tyre Shop", "other_tags": "\"shop\"=>\"tyres\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8569811, 53.7179602 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.723507, "longitude": -1.855500 }, "osm_way_id": "119623043", "name": "Tyre City", "building": "yes", "shop": "tyres" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8556905, 53.7236448 ], [ -1.8554722, 53.7236843 ], [ -1.8553092, 53.723369 ], [ -1.8555275, 53.7233295 ], [ -1.8556905, 53.7236448 ] ] ] } }
 ]
 }
