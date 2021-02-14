@@ -226,7 +226,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "3904815772", "amenity": "atm", "other_tags": "\"operator\"=>\"Tesco Bank\",\"drive_through\"=>\"no\",\"opening_hours\"=>\"24\/7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6403145, 53.8319064 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4051026380", "amenity": "atm", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5501916, 53.621795 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4113846170", "amenity": "atm", "other_tags": "\"operator\"=>\"Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6719416, 53.811598 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4189556311", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3896007, 53.9302296 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4189556311", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.389598, 53.9302178 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4192442239", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4768953, 53.8061054 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4194370889", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5632551, 53.7242119 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4313766614", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6226593, 53.857949 ] } },
