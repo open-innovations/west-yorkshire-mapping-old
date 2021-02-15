@@ -1307,6 +1307,7 @@
 { "type": "Feature", "properties": { "osm_id": "8319268470", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.60822, 53.85571 ] } },
 { "type": "Feature", "properties": { "osm_id": "8319268473" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.60927, 53.85525 ] } },
 { "type": "Feature", "properties": { "osm_id": "8339940725" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.64205, 53.81443 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8339940726" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.63997, 53.81447 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8339940726" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.63997, 53.81447 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8422277500" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.67906, 53.85039 ] } }
 ]
 }

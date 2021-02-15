@@ -75,7 +75,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2770706595", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7895807, 53.5843542 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2971244416", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9471882, 53.8952969 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3166819761", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.512778, 53.7962219 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3166819780", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5101685, 53.7929597 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3166819780", "other_tags": "\"access\"=>\"yes\",\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5101685, 53.7929597 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3225855248", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7060653, 53.7765236 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3248443618", "name": "Baildon Playground", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7627792, 53.8554296 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3287967964", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6238743, 53.9013403 ] } },
