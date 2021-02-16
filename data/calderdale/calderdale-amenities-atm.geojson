@@ -22,7 +22,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5452280990", "amenity": "atm", "other_tags": "\"brand\"=>\"Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8614838, 53.7216233 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5452280993", "amenity": "atm", "other_tags": "\"brand\"=>\"Lloyds\",\"operator\"=>\"Lloyds\"" }, "geometry": { "type": "Point", "coordinates": [ -1.861725, 53.722089 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5569969833", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8597606, 53.7239498 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6625266272", "name": "Copley ATM", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8846362, 53.7073942 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6625266272", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8846362, 53.7073942 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8411808566", "amenity": "atm", "other_tags": "\"operator\"=>\"Natwest\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8619909, 53.72343 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8411808567", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8618232, 53.7238982 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8412224451", "amenity": "atm", "other_tags": "\"operator\"=>\"HSBC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8618132, 53.722812 ] } },
