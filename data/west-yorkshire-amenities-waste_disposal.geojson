@@ -8,6 +8,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7865766770", "amenity": "waste_disposal" }, "geometry": { "type": "Point", "coordinates": [ -1.3068858, 53.6952196 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7874365486", "amenity": "waste_disposal" }, "geometry": { "type": "Point", "coordinates": [ -1.306225, 53.6973912 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7874365487", "amenity": "waste_disposal" }, "geometry": { "type": "Point", "coordinates": [ -1.306387, 53.6973825 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8428974009", "amenity": "waste_disposal" }, "geometry": { "type": "Point", "coordinates": [ -1.3125955, 53.6920843 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.695938, "longitude": -1.310635 }, "osm_way_id": "877880901", "amenity": "waste_disposal" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.310681, 53.6959482 ], [ -1.3106608, 53.6959145 ], [ -1.3106385, 53.6959192 ], [ -1.3105898, 53.6959294 ], [ -1.3106106, 53.6959624 ], [ -1.310681, 53.6959482 ] ] ] ] } }
 ]
 }
