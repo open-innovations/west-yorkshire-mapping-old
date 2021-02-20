@@ -112,6 +112,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7565780667", "name": "Nudge Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.903183, 53.9315903 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7603324937", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0609524, 53.7274891 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7835682472", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7435033, 53.9344636 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8098265818", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8998194, 53.8366262 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8098265818", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8998194, 53.8366262 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8436217426", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6909868, 53.8908759 ] } }
 ]
 }
