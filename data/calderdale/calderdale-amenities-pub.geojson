@@ -44,7 +44,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "732790768", "name": "West End Hotel", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.8903777, 53.7183394 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "734178685", "name": "Jack's House", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -2.102865, 53.7191878 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "895819898", "name": "The Brown Cow", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.8991286, 53.7232361 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "955084048", "name": "The Punch Bowl", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.8534707, 53.7011875 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "957179937", "name": "The Volunteer Arms", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.8691033, 53.6993635 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "957529273", "name": "The Golden Fleece", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.8405035, 53.6719662 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "971104439", "name": "The Navigation", "amenity": "pub" }, "geometry": { "type": "Point", "coordinates": [ -1.9000999, 53.7103765 ] } },
