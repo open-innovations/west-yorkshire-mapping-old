@@ -10,6 +10,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8215006217", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7068953, 53.8418691 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8243821302", "name": "Amazon Locker", "amenity": "vending_machine", "ref": "fiaz", "other_tags": "\"brand\"=>\"Amazon Locker\",\"brand:wikidata\"=>\"Q16974764\",\"brand:wikipedia\"=>\"en:Amazon Locker\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9447751, 53.8999281 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8243907226", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.77353, 53.8329286 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8421213618", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7355753, 53.8924929 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8421213618", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7355753, 53.8924929 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8443249887", "amenity": "vending_machine", "other_tags": "\"operator\"=>\"Northern\",\"payment:cards\"=>\"yes\",\"payment:others\"=>\"no\",\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.944549, 53.9000442 ] } }
 ]
 }

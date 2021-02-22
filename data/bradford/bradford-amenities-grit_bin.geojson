@@ -10,6 +10,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8380963513", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7460704, 53.8914293 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8385035691", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.8232504, 53.8546332 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8385035692", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.8291137, 53.8467174 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8421194515", "amenity": "grit_bin", "other_tags": "\"material\"=>\"plastic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7358625, 53.8924343 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8421194515", "amenity": "grit_bin", "other_tags": "\"material\"=>\"plastic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7358625, 53.8924343 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8443249888", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.9445666, 53.90005 ] } }
 ]
 }

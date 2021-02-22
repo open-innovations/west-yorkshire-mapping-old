@@ -53,7 +53,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2358584639", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7772506, 53.8339179 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358605875", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7775215, 53.8330981 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358605903", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7775405, 53.8332643 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2650397827", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8956479, 53.9199243 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2650397827", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8956529, 53.9199026 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2820311945", "name": "Stanza Stones Poetry Seat", "amenity": "bench", "other_tags": "\"material\"=>\"stone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8121917, 53.9097205 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3627169426", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7502597, 53.9136318 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3632249976", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7355183, 53.8884924 ] } },
@@ -134,7 +134,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7861776226", "amenity": "bench", "other_tags": "\"backrest\"=>\"no\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8178006, 53.9192588 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7906726310", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8662412, 53.8439155 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7911216844", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8703506, 53.8498429 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7956402685", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8213487, 53.9165409 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7956402685", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8213822, 53.9165499 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8075211073", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7985993, 53.917267 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8151696167", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.6923612, 53.7838417 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8151696168", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.6888315, 53.783398 ] } },
@@ -171,6 +171,11 @@
 	{ "type": "Feature", "properties": { "osm_id": "8385471631", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7513771, 53.7932953 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8385471634", "amenity": "bench", "other_tags": "\"advertising\"=>\"column\",\"covered\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7514843, 53.793594 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8385471635", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7458168, 53.7933856 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8421028771", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8748973, 53.9451167 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8421028771", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8748973, 53.9451167 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8443230161", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8214729, 53.9169433 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8443230163", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8213347, 53.9165728 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8443230164", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8212747, 53.9165787 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8443230165", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8212086, 53.916571 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8443230191", "amenity": "bench", "other_tags": "\"backrest\"=>\"no\",\"historic\"=>\"memorial\",\"inscription\"=>\"In memory of Douglas and Vera Tempest\",\"material\"=>\"wood\",\"memorial\"=>\"plaque\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9079757, 53.9195636 ] } }
 ]
 }
