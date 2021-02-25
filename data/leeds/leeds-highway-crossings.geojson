@@ -2777,7 +2777,7 @@
 { "type": "Feature", "properties": { "osm_id": "8441635202" }, "geometry": { "type": "Point", "coordinates": [ -1.57307, 53.82267 ] } },
 { "type": "Feature", "properties": { "osm_id": "8443289846", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.38346, 53.92872 ] } },
 { "type": "Feature", "properties": { "osm_id": "8443289847", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.38300, 53.92877 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8450269000" }, "geometry": { "type": "Point", "coordinates": [ -1.53949, 53.80089 ] } }
-
+{ "type": "Feature", "properties": { "osm_id": "8450269000" }, "geometry": { "type": "Point", "coordinates": [ -1.53949, 53.80089 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8451348831", "Kerb":"flush" }, "geometry": { "type": "Point", "coordinates": [ -1.71307, 53.87156 ] } }
 ]
 }

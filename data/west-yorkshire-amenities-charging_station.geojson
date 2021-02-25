@@ -85,6 +85,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8421213664", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\",\"operator\"=>\"Pod Point\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6894791, 53.8656666 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8421966106", "name": "PodPoint", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"2\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3639727, 53.6745035 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8437427811", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ -1.3182481, 53.6957231 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8452055439", "name": "Aspire at The Park", "amenity": "charging_station", "other_tags": "\"access\"=>\"customers\",\"capacity\"=>\"2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3220063, 53.6959388 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.773189, "longitude": -1.473721 }, "osm_way_id": "810024887", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"6\",\"operator\"=>\"Tesla\",\"electrified\"=>\"yes\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4738284, 53.7732322 ], [ -1.4738294, 53.7731475 ], [ -1.4736128, 53.7731466 ], [ -1.4736119, 53.7732313 ], [ -1.4738284, 53.7732322 ] ] ] ] } }
 ]
 }

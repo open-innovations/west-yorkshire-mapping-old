@@ -131,6 +131,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8280804329", "name": "Costa Express", "amenity": "vending_machine", "other_tags": "\"operator\"=>\"Costa\",\"vending\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3137213, 53.6921444 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8282888489", "amenity": "vending_machine", "other_tags": "\"currency:GBP\"=>\"yes\",\"operator\"=>\"Wakefield Council\",\"payment:coins\"=>\"yes\",\"payment:RingGo\"=>\"yes\",\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.30599, 53.6915993 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8421213618", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7355753, 53.8924929 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8443249887", "amenity": "vending_machine", "other_tags": "\"operator\"=>\"Northern\",\"payment:cards\"=>\"yes\",\"payment:others\"=>\"no\",\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.944549, 53.9000442 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8443249887", "amenity": "vending_machine", "other_tags": "\"operator\"=>\"Northern\",\"payment:cards\"=>\"yes\",\"payment:others\"=>\"no\",\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.944549, 53.9000442 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8452304204", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3146503, 53.6914143 ] } }
 ]
 }
