@@ -226,7 +226,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "3904815772", "amenity": "atm", "other_tags": "\"operator\"=>\"Tesco Bank\",\"drive_through\"=>\"no\",\"opening_hours\"=>\"24\/7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6403145, 53.8319064 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4051026380", "amenity": "atm", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5501916, 53.621795 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4113846170", "amenity": "atm", "other_tags": "\"operator\"=>\"Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6719416, 53.811598 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4189556311", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.389598, 53.9302178 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4189556311", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.38961, 53.9302462 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4192442239", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4768953, 53.8061054 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4194370889", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5632551, 53.7242119 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4313766614", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6226593, 53.857949 ] } },
@@ -304,7 +304,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "6625266272", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8846362, 53.7073942 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6702943716", "amenity": "atm", "other_tags": "\"fee\"=>\"£0.95\",\"currency:GBP\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4413169, 53.8179001 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6711989285", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\",\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7786502, 53.6456575 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6780534916", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"Tesco Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3134264, 53.6924947 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6780534919", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"NoteMachine\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3113037, 53.6935496 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6781698735", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Cashzone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3474148, 53.6407658 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6815315851", "amenity": "atm", "other_tags": "\"cash_in\"=>\"no\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"NoteMachine\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3104447, 53.6924595 ] } },
@@ -360,6 +359,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8411808567", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8618232, 53.7238982 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8412224451", "amenity": "atm", "other_tags": "\"operator\"=>\"HSBC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8618132, 53.722812 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8412561627", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8611522, 53.7216844 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8412561628", "amenity": "atm", "other_tags": "\"operator\"=>\"Santander\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8601048, 53.7217114 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8412561628", "amenity": "atm", "other_tags": "\"operator\"=>\"Santander\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8601048, 53.7217114 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8460840366", "name": "Tesco Bank", "amenity": "atm", "other_tags": "\"brand\"=>\"Tesco Bank\",\"cash_in\"=>\"no\",\"covered\"=>\"yes\",\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"indoor\"=>\"no\",\"lit\"=>\"yes\",\"network\"=>\"Tesco Bank\",\"opening_hours\"=>\"24\/7\",\"operator\"=>\"Natwest\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3134296, 53.6924975 ] } }
 ]
 }
