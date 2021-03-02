@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "3025622677", "name": "Millenium Clock", "amenity": "clock", "other_tags": "\"support\"=>\"wall_mounted\",\"start_date\"=>\"2000\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0127416, 53.7425784 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7314509213", "name": "Ellis Memorial Clock Tower", "amenity": "clock", "other_tags": "\"date\"=>\"no\",\"display\"=>\"analog\",\"support\"=>\"tower\"" }, "geometry": { "type": "Point", "coordinates": [ -1.793228, 53.7394919 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8415785650", "amenity": "clock", "other_tags": "\"display\"=>\"sundial\",\"historic\"=>\"sundial\",\"wikidata\"=>\"Q26426843\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7354174, 53.6945943 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8415785650", "amenity": "clock", "other_tags": "\"display\"=>\"sundial\",\"historic\"=>\"sundial\",\"wikidata\"=>\"Q26426843\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7354174, 53.6945943 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8476138134", "amenity": "clock", "other_tags": "\"display\"=>\"sundial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8662931, 53.7081756 ] } }
 ]
 }

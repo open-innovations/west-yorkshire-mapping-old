@@ -289,7 +289,7 @@
 { "type": "Feature", "properties": { "osm_id": "319128732" }, "geometry": { "type": "Point", "coordinates": [ -1.54739, 53.79208 ] } },
 { "type": "Feature", "properties": { "osm_id": "319128738", "Tactile paving":"yes", "Kerb":"lowered" }, "geometry": { "type": "Point", "coordinates": [ -1.54563, 53.78945 ] } },
 { "type": "Feature", "properties": { "osm_id": "319130548" }, "geometry": { "type": "Point", "coordinates": [ -1.53693, 53.79538 ] } },
-{ "type": "Feature", "properties": { "osm_id": "319777899", "Tactile paving":"yes", "Kerb":"flush" }, "geometry": { "type": "Point", "coordinates": [ -1.59377, 53.81990 ] } },
+{ "type": "Feature", "properties": { "osm_id": "319777899", "Tactile paving":"yes", "Kerb":"flush" }, "geometry": { "type": "Point", "coordinates": [ -1.59380, 53.81992 ] } },
 { "type": "Feature", "properties": { "osm_id": "319790178" }, "geometry": { "type": "Point", "coordinates": [ -1.58495, 53.81033 ] } },
 { "type": "Feature", "properties": { "osm_id": "319866416" }, "geometry": { "type": "Point", "coordinates": [ -1.59743, 53.82173 ] } },
 { "type": "Feature", "properties": { "osm_id": "319871568" }, "geometry": { "type": "Point", "coordinates": [ -1.58100, 53.80805 ] } },
@@ -787,6 +787,7 @@
 { "type": "Feature", "properties": { "osm_id": "1789854695" }, "geometry": { "type": "Point", "coordinates": [ -1.57538, 53.73198 ] } },
 { "type": "Feature", "properties": { "osm_id": "1789854747" }, "geometry": { "type": "Point", "coordinates": [ -1.57530, 53.73222 ] } },
 { "type": "Feature", "properties": { "osm_id": "1790325013", "Tactile paving":"yes", "Kerb":"flush" }, "geometry": { "type": "Point", "coordinates": [ -1.52770, 53.79913 ] } },
+{ "type": "Feature", "properties": { "osm_id": "1790899266", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.59357, 53.81992 ] } },
 { "type": "Feature", "properties": { "osm_id": "1801481462" }, "geometry": { "type": "Point", "coordinates": [ -1.54784, 53.74830 ] } },
 { "type": "Feature", "properties": { "osm_id": "1801481471" }, "geometry": { "type": "Point", "coordinates": [ -1.54690, 53.74831 ] } },
 { "type": "Feature", "properties": { "osm_id": "1801481482" }, "geometry": { "type": "Point", "coordinates": [ -1.54877, 53.74829 ] } },
@@ -2779,7 +2780,8 @@
 { "type": "Feature", "properties": { "osm_id": "8451348831", "Kerb":"flush" }, "geometry": { "type": "Point", "coordinates": [ -1.71307, 53.87156 ] } },
 { "type": "Feature", "properties": { "osm_id": "8467320612", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.38348, 53.92812 ] } },
 { "type": "Feature", "properties": { "osm_id": "8467320613", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.38353, 53.92789 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8467320614", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.38362, 53.92793 ] } }
-
+{ "type": "Feature", "properties": { "osm_id": "8467320614", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.38362, 53.92793 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8473824077" }, "geometry": { "type": "Point", "coordinates": [ -1.59355, 53.81976 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8473824110", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.58147, 53.82299 ] } }
 ]
 }

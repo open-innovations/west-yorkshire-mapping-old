@@ -31,6 +31,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8128262985", "amenity": "clock", "other_tags": "\"date\"=>\"no\",\"display\"=>\"analog\",\"faces\"=>\"1\",\"support\"=>\"wall_mounted\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3491211, 53.7278752 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8128262986", "amenity": "clock", "other_tags": "\"date\"=>\"no\",\"display\"=>\"analog\",\"faces\"=>\"1\",\"support\"=>\"wall_mounted\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3490684, 53.7278605 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8366525352", "amenity": "clock", "other_tags": "\"date\"=>\"no\",\"display\"=>\"analog\",\"faces\"=>\"1\",\"support\"=>\"building\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3018786, 53.6947909 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8415785650", "amenity": "clock", "other_tags": "\"display\"=>\"sundial\",\"historic\"=>\"sundial\",\"wikidata\"=>\"Q26426843\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7354174, 53.6945943 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8415785650", "amenity": "clock", "other_tags": "\"display\"=>\"sundial\",\"historic\"=>\"sundial\",\"wikidata\"=>\"Q26426843\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7354174, 53.6945943 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8476138134", "amenity": "clock", "other_tags": "\"display\"=>\"sundial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8662931, 53.7081756 ] } }
 ]
 }

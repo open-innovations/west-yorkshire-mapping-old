@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "5941346454", "name": "Silver Lining", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"8\",\"addr:postcode\"=>\"LS1 6LF\",\"addr:street\"=>\"Queens Arcade\",\"shop\"=>\"piercing\",\"website\"=>\"http:\/\/www.leedspiercing.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5430229, 53.7983525 ] } }
+]
+}
