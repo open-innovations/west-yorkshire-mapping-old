@@ -70,6 +70,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8176275035", "amenity": "parking_entrance", "other_tags": "\"access\"=>\"private\",\"parking\"=>\"multi-storey\"" }, "geometry": { "type": "Point", "coordinates": [ -1.543512, 53.7920671 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8326375654", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5345207, 53.7918867 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8326375660", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5346069, 53.7925286 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8326375685", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5359608, 53.7932207 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8326375685", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5359608, 53.7932207 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8482012968", "amenity": "parking_entrance", "other_tags": "\"parking\"=>\"underground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5505878, 53.7887558 ] } }
 ]
 }
