@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "3288308376", "name": "The Pet Hut", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8674124, 53.7248945 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3288308376", "name": "The Pet Hut", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.867635, 53.724812 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5438626920", "name": "Paw Prints", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"1-3\",\"addr:postcode\"=>\"HX1 1NT\",\"addr:street\"=>\"Southgate\",\"fhrs:id\"=>\"441480\",\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8599591, 53.7227754 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7241022333", "other_tags": "\"shop\"=>\"pet\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0145941, 53.7416031 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.728777, "longitude": -1.872778 }, "osm_way_id": "115743072", "name": "Jollyes", "building": "yes", "shop": "pet" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8730906, 53.7286454 ], [ -1.8730241, 53.7289506 ], [ -1.8724661, 53.7289081 ], [ -1.8725326, 53.7286028 ], [ -1.8730906, 53.7286454 ] ] ] } },

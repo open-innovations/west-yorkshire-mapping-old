@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "910926641", "highway": "service", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\",\"service\"=>\"slipway\",\"surface\"=>\"concrete\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9119041, 53.7545574 ], [ -1.9115821, 53.7547353 ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "910926641", "highway": "service", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\",\"service\"=>\"slipway\",\"surface\"=>\"concrete\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.9119041, 53.7545574 ], [ -1.9115821, 53.7547353 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "913591637", "highway": "service", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\",\"service\"=>\"slipway\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8099177, 53.6979699 ], [ -1.8097112, 53.6979905 ] ] } }
 ]
 }
