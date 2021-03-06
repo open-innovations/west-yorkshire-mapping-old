@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "247296698", "name": "Mike's Carpets", "other_tags": "\"shop\"=>\"carpet\",\"description\"=>\"Famous Mike's Carpets building, as seen in TV adverts in the 90s. Well known land mark.\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5874942, 53.7980797 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "247296698", "name": "Mike's Carpets", "other_tags": "\"description\"=>\"Famous Mike's Carpets building, as seen in TV adverts in the 90s. Well known land mark.\",\"shop\"=>\"carpet\",\"wikidata\"=>\"Q26547559\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5874942, 53.7980797 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "332484042", "name": "Carpet Company", "other_tags": "\"shop\"=>\"carpet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5390457, 53.7863242 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2124265328", "name": "Christian's Carpets", "other_tags": "\"shop\"=>\"carpet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5631262, 53.7914746 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2571192291", "name": "Carpetright", "other_tags": "\"shop\"=>\"carpet\",\"brand\"=>\"Carpetright\",\"brand:wikidata\"=>\"Q5045782\",\"brand:wikipedia\"=>\"en:Carpetright\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7045592, 53.8692536 ] } },
