@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "262069660", "z_order": 0, "other_tags": "\"natural\"=>\"hedge\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3851383, 53.9248029 ], [ -1.3847923, 53.9248313 ], [ -1.3847225, 53.9247971 ], [ -1.3845804, 53.9243607 ], [ -1.3845402, 53.924318 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "836759885", "z_order": 0, "other_tags": "\"natural\"=>\"hedge\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5070789, 53.8881073 ], [ -1.5083785, 53.8878921 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "836759887", "z_order": 0, "other_tags": "\"natural\"=>\"hedge\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.4970382, 53.8891188 ], [ -1.4973807, 53.8867377 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "836759888", "z_order": 0, "other_tags": "\"natural\"=>\"hedge\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5035077, 53.8883347 ], [ -1.5034103, 53.8863393 ] ] } },
