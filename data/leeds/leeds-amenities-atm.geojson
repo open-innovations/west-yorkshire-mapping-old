@@ -32,7 +32,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "319429912", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5688977, 53.8124777 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330089296", "amenity": "atm", "other_tags": "\"operator\"=>\"Lloyds TSB\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5909116, 53.7968846 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "330089355", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5887588, 53.7972115 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "332329791", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5780719, 53.8211134 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "332477443", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5808781, 53.8203572 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "332484031", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5412083, 53.7873678 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "333442552", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Post Office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5386399, 53.796446 ] } },
