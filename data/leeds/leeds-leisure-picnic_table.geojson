@@ -32,6 +32,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "7895251928", "other_tags": "\"bench\"=>\"yes\",\"leisure\"=>\"picnic_table\",\"lit\"=>\"no\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6273844, 53.8256782 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8152193572", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6702001, 53.878365 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8152193573", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6704497, 53.877833 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8416267380", "other_tags": "\"bench\"=>\"no\",\"leisure\"=>\"picnic_table\",\"lit\"=>\"no\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6632534, 53.8285667 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8416267380", "other_tags": "\"bench\"=>\"no\",\"leisure\"=>\"picnic_table\",\"lit\"=>\"no\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6632534, 53.8285667 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8495147437", "other_tags": "\"leisure\"=>\"picnic_table\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6695324, 53.8949461 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8495147439", "other_tags": "\"leisure\"=>\"picnic_table\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6693427, 53.8949022 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8495147465", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6919992, 53.8957389 ] } }
 ]
 }
