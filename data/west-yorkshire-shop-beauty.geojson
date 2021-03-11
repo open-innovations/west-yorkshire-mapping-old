@@ -155,7 +155,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "8049572263", "name": "Candy Coated Tanning & Beauty Clinic", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6609315, 53.7317712 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8049572274", "name": "The Powder Room", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6615537, 53.7323117 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8050474743", "name": "Fantastic Nails", "other_tags": "\"beauty\"=>\"nails\",\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6326964, 53.7139763 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8050474747", "name": "Batley Nail Bar", "other_tags": "\"beauty\"=>\"nails\",\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6328909, 53.7143125 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8059149938", "name": "Maison De Beaute", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.268638, 53.7132005 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8059149940", "name": "Mary Wheatley Skin Clinic & Co", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2681947, 53.713207 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8065478161", "name": "Hair Botique", "other_tags": "\"shop\"=>\"beauty\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5333706, 53.7490498 ] } },
