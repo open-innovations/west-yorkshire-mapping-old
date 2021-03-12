@@ -72,6 +72,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1673994414", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.6800943, 53.8060058 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1700851986", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5361833, 53.8856668 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1723080645", "name": "cheerful chili parking", "amenity": "parking", "other_tags": "\"parking\"=>\"surface\",\"capacity\"=>\"7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.671231, 53.8933672 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1986238492", "amenity": "parking", "other_tags": "\"parking\"=>\"surface\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6821154, 53.8509138 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1986238508", "amenity": "parking", "other_tags": "\"parking\"=>\"surface\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6845913, 53.8520641 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2091633420", "amenity": "parking", "other_tags": "\"layer\"=>\"-1\",\"parking\"=>\"underground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3832653, 53.7972006 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2145561747", "amenity": "parking", "other_tags": "\"access\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.544757, 53.7983475 ] } },
