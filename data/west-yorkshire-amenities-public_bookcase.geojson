@@ -18,6 +18,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8334092548", "name": "Little Free Library", "amenity": "public_bookcase", "other_tags": "\"brand\"=>\"Little Free Library\",\"brand:wikidata\"=>\"Q6650101\",\"brand:wikipedia\"=>\"en:Little Free Library\",\"lit\"=>\"no\",\"opening_hours\"=>\"24\/7\",\"opening_hours:covid19\"=>\"off\",\"public_bookcase:type\"=>\"wooden_cabinet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6285201, 53.8578802 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8420679749", "amenity": "public_bookcase", "other_tags": "\"public_bookcase:type\"=>\"wooden_cabinet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.69293, 53.9008153 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8513604906", "amenity": "public_bookcase" }, "geometry": { "type": "Point", "coordinates": [ -1.5057432, 53.7066694 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8513604915", "amenity": "public_bookcase" }, "geometry": { "type": "Point", "coordinates": [ -1.5074263, 53.7108352 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8513604915", "amenity": "public_bookcase" }, "geometry": { "type": "Point", "coordinates": [ -1.5074263, 53.7108352 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8517233554", "name": "Stanley Little Library", "amenity": "public_bookcase" }, "geometry": { "type": "Point", "coordinates": [ -1.4746664, 53.7143531 ] } }
 ]
 }
