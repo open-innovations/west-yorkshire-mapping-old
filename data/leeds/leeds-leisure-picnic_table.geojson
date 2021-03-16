@@ -35,6 +35,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8416267380", "other_tags": "\"bench\"=>\"no\",\"leisure\"=>\"picnic_table\",\"lit\"=>\"no\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6632534, 53.8285667 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8495147437", "other_tags": "\"leisure\"=>\"picnic_table\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6695324, 53.8949461 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8495147439", "other_tags": "\"leisure\"=>\"picnic_table\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6693427, 53.8949022 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8495147465", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6919992, 53.8957389 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8495147465", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6919992, 53.8957389 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8521897285", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.624736, 53.7869207 ] } }
 ]
 }
