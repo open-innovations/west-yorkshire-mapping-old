@@ -19,6 +19,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8420679749", "amenity": "public_bookcase", "other_tags": "\"public_bookcase:type\"=>\"wooden_cabinet\"" }, "geometry": { "type": "Point", "coordinates": [ -1.69293, 53.9008153 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8513604906", "amenity": "public_bookcase" }, "geometry": { "type": "Point", "coordinates": [ -1.5057432, 53.7066694 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8513604915", "amenity": "public_bookcase" }, "geometry": { "type": "Point", "coordinates": [ -1.5074263, 53.7108352 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8517233554", "name": "Stanley Little Library", "amenity": "public_bookcase" }, "geometry": { "type": "Point", "coordinates": [ -1.4746664, 53.7143531 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8517233554", "name": "Stanley Little Library", "amenity": "public_bookcase" }, "geometry": { "type": "Point", "coordinates": [ -1.4746664, 53.7143531 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8523067653", "name": "Banks Avenue Little Free Library", "amenity": "public_bookcase", "other_tags": "\"addr:housenumber\"=>\"47\",\"addr:postcode\"=>\"WF8 4DR\",\"addr:street\"=>\"Banks Avenue\",\"addr:town\"=>\"Pontefract\",\"facebook\"=>\"https:\/\/www.facebook.com\/Banks-Avenue-Little-Free-Library-110162977458532\/\",\"opening_hours\"=>\"24\/7\",\"opening_hours:covid19\"=>\"same\",\"public_bookcase:type\"=>\"wooden_cabinet\",\"twitter\"=>\"https:\/\/twitter.com\/avenuefree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3195059, 53.6894901 ] } }
 ]
 }
