@@ -176,6 +176,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8443230163", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8213347, 53.9165728 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8443230164", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8212747, 53.9165787 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8443230165", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8212086, 53.916571 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8443230191", "amenity": "bench", "other_tags": "\"backrest\"=>\"no\",\"historic\"=>\"memorial\",\"inscription\"=>\"In memory of Douglas and Vera Tempest\",\"material\"=>\"wood\",\"memorial\"=>\"plaque\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9079757, 53.9195636 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8443230191", "amenity": "bench", "other_tags": "\"backrest\"=>\"no\",\"historic\"=>\"memorial\",\"inscription\"=>\"In memory of Douglas and Vera Tempest\",\"material\"=>\"wood\",\"memorial\"=>\"plaque\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9079757, 53.9195636 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8541410440", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8151863, 53.9320662 ] } }
 ]
 }
