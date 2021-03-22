@@ -1665,7 +1665,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7429089143", "amenity": "waste_basket", "other_tags": "\"ref:UK:leedscc:bin\"=>\"3006\"" }, "geometry": { "type": "Point", "coordinates": [ -1.437618, 53.819339 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429089144", "amenity": "waste_basket", "other_tags": "\"collection_times\"=>\"Mo-Fr\",\"ref:UK:leedscc:bin\"=>\"2842\"" }, "geometry": { "type": "Point", "coordinates": [ -1.54698, 53.827448 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429089145", "amenity": "waste_basket", "other_tags": "\"ref:UK:leedscc:bin\"=>\"3633\"" }, "geometry": { "type": "Point", "coordinates": [ -1.619441, 53.785888 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7429089146", "amenity": "waste_basket", "other_tags": "\"condition\"=>\"GOOD\",\"collection_times\"=>\"twice per week\",\"ref:UK:leedscc:bin\"=>\"7561\",\"waste_basket:model\"=>\"METAL SQUARE\"" }, "geometry": { "type": "Point", "coordinates": [ -1.697989, 53.873737 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7429089146", "amenity": "waste_basket", "other_tags": "\"collection_times\"=>\"twice per week\",\"condition\"=>\"GOOD\",\"ref:UK:leedscc:bin\"=>\"7561\",\"waste_basket:model\"=>\"METAL SQUARE\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6979176, 53.8735667 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429089147", "amenity": "waste_basket", "other_tags": "\"ref:UK:leedscc:bin\"=>\"832\"" }, "geometry": { "type": "Point", "coordinates": [ -1.528509, 53.803906 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429089148", "amenity": "waste_basket", "other_tags": "\"condition\"=>\"FAIR\",\"collection_times\"=>\"twice per week\",\"ref:UK:leedscc:bin\"=>\"1333\",\"waste_basket:model\"=>\"PLASTIC ROUND\"" }, "geometry": { "type": "Point", "coordinates": [ -1.676822, 53.859728 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429089149", "amenity": "waste_basket", "other_tags": "\"collection_times\"=>\"weekly\",\"ref:UK:leedscc:bin\"=>\"2492\"" }, "geometry": { "type": "Point", "coordinates": [ -1.632117, 53.831466 ] } },
@@ -4333,6 +4333,12 @@
 	{ "type": "Feature", "properties": { "osm_id": "8521897231", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6222228, 53.7881607 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8534463353", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"blue\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6994476, 53.5934516 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8541410469", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.8149683, 53.9326117 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8541410472", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7333324, 53.8941654 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8541410472", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7333324, 53.8941654 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8543806577", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.3107078, 53.6898011 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8543806588", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.3123079, 53.6888163 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8544399679", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6921808, 53.8682997 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8544399681", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6921761, 53.8685022 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8544399685", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.691936, 53.8685806 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8544399686", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6921734, 53.8686669 ] } }
 ]
 }
