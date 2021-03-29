@@ -889,6 +889,13 @@
 	{ "type": "Feature", "properties": { "osm_id": "8385471629", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.751306, 53.7933104 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8403144878", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8204821, 53.9316733 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8403144879", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.819692, 53.9317788 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8443230162", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8213194, 53.9165183 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8443230162", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8213194, 53.9165183 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8569326415", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9461512, 53.8525806 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8569326416", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9461934, 53.8526277 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8569327717", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9462274, 53.8527121 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8569327718", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.94625, 53.8527822 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8569327719", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9462826, 53.8529033 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8569327720", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9460172, 53.8531653 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8569327721", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.944962, 53.8535175 ] } }
 ]
 }
