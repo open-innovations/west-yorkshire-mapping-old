@@ -9,7 +9,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "274060297", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.5359301, 53.7985981 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "305686988", "amenity": "fountain", "other_tags": "\"drinking_water\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3377655, 53.7125016 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "305686990", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.3400347, 53.7123888 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "317593440", "amenity": "fountain", "other_tags": "\"drinkable\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7523689, 53.7924605 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "317593440", "amenity": "fountain", "other_tags": "\"drinking_water\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7523689, 53.7924605 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "581453156", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.7831224, 53.648343 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1003052661", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.4980354, 53.6834999 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1241484268", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.7936694, 53.6486503 ] } },

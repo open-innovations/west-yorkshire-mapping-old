@@ -4339,6 +4339,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8544399685", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.691936, 53.8685806 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8544399686", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6921734, 53.8686669 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8564415086", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"#232326\",\"material\"=>\"plastic\",\"operator\"=>\"Wakefield Council\",\"waste\"=>\"trash;cans;plastic;glass\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3044521, 53.6943827 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8564415087", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"#232326\",\"material\"=>\"plastic\",\"operator\"=>\"Wakefield Council\",\"waste\"=>\"trash;cans;plastic;glass;cigarettes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.302898, 53.6954212 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8564415087", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"#232326\",\"material\"=>\"plastic\",\"operator\"=>\"Wakefield Council\",\"waste\"=>\"trash;cans;plastic;glass;cigarettes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.302898, 53.6954212 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8580831320", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7726917, 53.8444169 ] } }
 ]
 }

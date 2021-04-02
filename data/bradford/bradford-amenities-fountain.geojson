@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "317593440", "amenity": "fountain", "other_tags": "\"drinkable\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7523689, 53.7924605 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "317593440", "amenity": "fountain", "other_tags": "\"drinking_water\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7523689, 53.7924605 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1283413817", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.9119418, 53.874666 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2195805634", "name": "City Park", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.7546849, 53.7923542 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5040030401", "name": "Harold Park Water Fountain\/Monument", "amenity": "fountain" }, "geometry": { "type": "Point", "coordinates": [ -1.7738922, 53.7572217 ] } },
