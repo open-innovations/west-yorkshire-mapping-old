@@ -4,7 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "300304074", "name": "Barkerend Health Centre", "amenity": "doctors", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:street\"=>\"Barkerend Road\",\"addr:suburb\"=>\"Barkerend\",\"addr:postcode\"=>\"BD3 8QH\"" }, "geometry": { "type": "Point", "coordinates": [ -1.721886, 53.797869 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "300600417", "name": "Rooley Lane Medical Centre", "amenity": "doctors" }, "geometry": { "type": "Point", "coordinates": [ -1.7308873, 53.7727826 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "301284349", "name": "Little Horton Lane Medical Centre", "amenity": "doctors" }, "geometry": { "type": "Point", "coordinates": [ -1.764861, 53.7824723 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "301284349", "name": "Little Horton Lane Medical Centre", "amenity": "doctors", "other_tags": "\"healthcare\"=>\"doctor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.764861, 53.7824723 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "302740031", "amenity": "doctors" }, "geometry": { "type": "Point", "coordinates": [ -1.7591352, 53.7751404 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "331482407", "name": "Murghal Medical Centre", "amenity": "doctors" }, "geometry": { "type": "Point", "coordinates": [ -1.7777458, 53.7858224 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "355370557", "name": "Allerton Health Centre", "amenity": "doctors" }, "geometry": { "type": "Point", "coordinates": [ -1.8261055, 53.7988295 ] } },
