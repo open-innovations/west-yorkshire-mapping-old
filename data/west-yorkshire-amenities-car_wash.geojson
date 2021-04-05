@@ -38,7 +38,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "7951882282", "name": "Ponte Hand Car Wash", "amenity": "car_wash", "other_tags": "\"automated\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3155119, 53.6886747 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7953558996", "amenity": "car_wash", "other_tags": "\"name:signed\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3073447, 53.6916501 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7979839589", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.3348818, 53.6450034 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8005390876", "name": "Express Hand Car Wash", "amenity": "car_wash", "other_tags": "\"automated\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3782924, 53.7253836 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8034645630", "name": "Fast Hand Car wash", "amenity": "car_wash", "other_tags": "\"automated\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5004641, 53.67588 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8062623955", "name": "Shell Car Wash", "amenity": "car_wash", "other_tags": "\"automated\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5716166, 53.7551968 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8173070467", "name": "New Tango Valet", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.5904647, 53.8085839 ] } },
