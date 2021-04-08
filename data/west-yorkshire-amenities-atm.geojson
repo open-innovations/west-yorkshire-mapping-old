@@ -190,7 +190,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "3225905510", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5701262, 53.8122085 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3257033807", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4458031, 53.7534025 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3409740389", "amenity": "atm", "other_tags": "\"booth\"=>\"KXPlus\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7825311, 53.6470409 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3443058114", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8186298, 53.7849741 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3443058114", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8186765, 53.7849769 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3445656291", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7843422, 53.6485579 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3451185040", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.351731, 53.726341 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3451798851", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.3508207, 53.7262268 ] } },
