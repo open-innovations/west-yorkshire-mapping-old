@@ -339,7 +339,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8041638400", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3523134, 53.7145928 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8064950476", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5470394, 53.7479066 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8073332415", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4045815, 53.7046053 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8117864698", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.2958923, 53.7044133 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8117864698", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.2958254, 53.7044538 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8120322869", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.524461, 53.6790408 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8133193325", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4817972, 53.7006008 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8149182300", "name": "Asda", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"operator\"=>\"Asda\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4170733, 53.7002362 ] } },

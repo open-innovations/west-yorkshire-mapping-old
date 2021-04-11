@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "8615021082", "other_tags": "\"shop\"=>\"trophy;shoe_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6558939, 53.7978041 ] } }
+]
+}
