@@ -128,7 +128,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "1414372181", "amenity": "atm", "other_tags": "\"operator\"=>\"TSB\",\"description\"=>\"TSB\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0972267, 53.7135892 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1414423006", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -2.101069, 53.710754 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1414424652", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -2.097202, 53.714039 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1423146249", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"network\"=>\"Link\",\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5082044, 53.8442838 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1427701542", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Post Office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5580053, 53.8475809 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1428534330", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"network\"=>\"Link; Visa; Cirrus\",\"operator\"=>\"cashpoint\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5352331, 53.8478176 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1562986889", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5385023, 53.7975353 ] } },
