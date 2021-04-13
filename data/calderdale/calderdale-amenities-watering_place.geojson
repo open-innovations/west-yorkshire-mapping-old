@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "8619128145", "amenity": "watering_place", "man_made": "animal_drinking_trough" }, "geometry": { "type": "Point", "coordinates": [ -1.9595637, 53.7371721 ] } }
+]
+}
