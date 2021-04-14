@@ -698,7 +698,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5274110376", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.715886, 53.7399515 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5284237784", "name": "Old Stone Bench", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5272173, 53.8617135 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5300411721", "name": "Walton Parish Council seat 12", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.4610486, 53.6402218 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5325888038", "amenity": "bench", "other_tags": "\"backrest\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6692695, 53.5535682 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5325888038", "amenity": "bench", "other_tags": "\"backrest\"=>\"no\",\"disused\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6692695, 53.5535682 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5391402331", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7479209, 53.8468626 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5394239523", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7491813, 53.8260354 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5394239524", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7496916, 53.8259744 ] } },

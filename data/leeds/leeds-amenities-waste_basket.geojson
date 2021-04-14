@@ -125,7 +125,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5194913959", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6015793, 53.7456972 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5218896691", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6029753, 53.7451428 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5474949833", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.5453645, 53.7527001 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5475771241", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7072006, 53.8720085 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5475771241", "amenity": "waste_basket", "other_tags": "\"collection_times\"=>\"\\\"twice per week\\\"\",\"condition\"=>\"GOOD\",\"ref:UK:leedscc:bin\"=>\"3194\",\"waste_basket:model\"=>\"METAL SQUARE\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7072006, 53.8720085 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5475771243", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7128506, 53.8742311 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5506378769", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.5342276, 53.7984465 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5506378771", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.5338735, 53.7983823 ] } },
@@ -183,7 +183,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "7429085344", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"CITY CENTRE MANAGEMENT\",\"ref:UK:leedscc:bin\"=>\"3533\"" }, "geometry": { "type": "Point", "coordinates": [ -1.558074, 53.796886 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429085345", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"CITY CENTRE MANAGEMENT\",\"ref:UK:leedscc:bin\"=>\"2281\"" }, "geometry": { "type": "Point", "coordinates": [ -1.538993, 53.796607 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429085346", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"CITY CENTRE MANAGEMENT\",\"ref:UK:leedscc:bin\"=>\"1640\"" }, "geometry": { "type": "Point", "coordinates": [ -1.539597, 53.796654 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7429085347", "amenity": "waste_basket", "other_tags": "\"collection_times\"=>\"twice per week\",\"condition\"=>\"GOOD\",\"ref:UK:leedscc:bin\"=>\"3194\",\"waste_basket:model\"=>\"METAL SQUARE\"" }, "geometry": { "type": "Point", "coordinates": [ -1.707303, 53.871778 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429085348", "amenity": "waste_basket", "other_tags": "\"condition\"=>\"GOOD\",\"collection_times\"=>\"Su\",\"ref:UK:leedscc:bin\"=>\"3722\",\"waste_basket:model\"=>\"METAL SQURE\"" }, "geometry": { "type": "Point", "coordinates": [ -1.552179, 53.808549 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429085349", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"CITY CENTRE MANAGEMENT\",\"ref:UK:leedscc:bin\"=>\"1437\"" }, "geometry": { "type": "Point", "coordinates": [ -1.536978, 53.795469 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429085350", "amenity": "waste_basket", "other_tags": "\"condition\"=>\"FAIR\",\"collection_times\"=>\"Sa\",\"ref:UK:leedscc:bin\"=>\"533\",\"waste_basket:model\"=>\"PLASTIC ROUND\"" }, "geometry": { "type": "Point", "coordinates": [ -1.662989, 53.823604 ] } },
@@ -4006,6 +4005,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8544399679", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6921808, 53.8682997 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8544399681", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6921761, 53.8685022 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8544399685", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.691936, 53.8685806 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8544399686", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6921734, 53.8686669 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8544399686", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6921734, 53.8686669 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8626959548", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6495693, 53.8323124 ] } }
 ]
 }

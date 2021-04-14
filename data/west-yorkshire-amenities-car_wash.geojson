@@ -6,7 +6,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "301022564", "name": "The Big Wash", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.5980733, 53.8116806 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301022571", "name": "Bruce's Drive-Through Hand Car Wash", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.6003857, 53.8139346 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "336233972", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.7711396, 53.806713 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "349349936", "name": "Hand Car Wash", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.6435729, 53.8069198 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "349349936", "name": "Car Spa", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.643538, 53.8069277 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "363870414", "amenity": "car_wash", "other_tags": "\"operator\"=>\"Sainsburys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6238135, 53.687777 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "374406326", "amenity": "car_wash", "other_tags": "\"operator\"=>\"arc\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7787717, 53.7162403 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "639286259", "name": "arc", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.6395471, 53.7190092 ] } },

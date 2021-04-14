@@ -5,7 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "52841969", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.551492, 53.8181282 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301022564", "name": "The Big Wash", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.5980733, 53.8116806 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301022571", "name": "Bruce's Drive-Through Hand Car Wash", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.6003857, 53.8139346 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "349349936", "name": "Hand Car Wash", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.6435729, 53.8069198 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "349349936", "name": "Car Spa", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.643538, 53.8069277 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1873300019", "name": "Morley Hand Carwash", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.6189449, 53.7410722 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2881824666", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.6224174, 53.7968753 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3786773395", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.6383478, 53.804203 ] } },
