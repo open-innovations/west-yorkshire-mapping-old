@@ -9,6 +9,10 @@
 	{ "type": "Feature", "properties": { "osm_id": "2661213525", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8205888, 53.9262391 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2661213529", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8207739, 53.9264388 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5289799101", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8381933, 53.8483782 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5688842050", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"152\",\"addr:postcode\"=>\"BD16 2HS\",\"addr:street\"=>\"Main Street\",\"old_name\"=>\"Barclays\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8387697, 53.8487378 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5688842050", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"152\",\"addr:postcode\"=>\"BD16 2HS\",\"addr:street\"=>\"Main Street\",\"old_name\"=>\"Barclays\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8387697, 53.8487378 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8633753036", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.906482, 53.8682794 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8633753037", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9063774, 53.8682596 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8633753064", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9042289, 53.867797 ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.867776, "longitude": -1.905641 }, "osm_way_id": "818852016", "building": "retail", "shop": "vacant", "other_tags": "\"old_name\"=>\"ToyLand\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9058766, 53.8679034 ], [ -1.9052871, 53.8677746 ], [ -1.9053662, 53.8676494 ], [ -1.9058956, 53.8677657 ], [ -1.9059361, 53.8677016 ], [ -1.9059958, 53.8677147 ], [ -1.9059416, 53.8678002 ], [ -1.9058766, 53.8679034 ] ] ] } }
 ]
 }

@@ -3,6 +3,8 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5643783605", "name": "Ecigarette outlet", "other_tags": "\"shop\"=>\"e-cigarette\",\"addr:city\"=>\"Shipley\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7779584, 53.8340369 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5688842046", "name": "fresh", "other_tags": "\"shop\"=>\"e-cigarette\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"addr:postcode\"=>\"BD16 2HR\",\"addr:housenumber\"=>\"150a\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8387884, 53.8488201 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5688842046", "name": "fresh", "other_tags": "\"shop\"=>\"e-cigarette\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"addr:postcode\"=>\"BD16 2HR\",\"addr:housenumber\"=>\"150a\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8387884, 53.8488201 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8633753045", "name": "Vapours", "other_tags": "\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9056344, 53.8680967 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8633753077", "name": "CBD & Vape Dispensary", "other_tags": "\"shop\"=>\"e-cigarette\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9063747, 53.8679805 ] } }
 ]
 }
