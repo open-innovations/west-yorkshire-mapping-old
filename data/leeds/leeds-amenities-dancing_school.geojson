@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.805331, "longitude": -1.531986 }, "osm_way_id": "406986171", "name": "KOBY Studio", "amenity": "dancing_school", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5320885, 53.8052715 ], [ -1.532071, 53.8053987 ], [ -1.5318833, 53.8053897 ], [ -1.5319009, 53.8052625 ], [ -1.5320885, 53.8052715 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8637679315", "name": "Starlight Academy", "amenity": "dancing_school", "other_tags": "\"dance:teaching\"=>\"yes\",\"leisure\"=>\"dance\"" }, "geometry": { "type": "Point", "coordinates": [ -1.719729, 53.8805325 ] } }
 ]
 }
