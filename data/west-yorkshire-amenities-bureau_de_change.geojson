@@ -4,7 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "333799044", "name": "Change Group", "amenity": "bureau_de_change" }, "geometry": { "type": "Point", "coordinates": [ -1.5437994, 53.7991737 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2888250701", "name": "Sainsburys Currency Exchange", "amenity": "bureau_de_change", "other_tags": "\"operator\"=>\"Sainsburys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.435161, 53.794207 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4411803749", "name": "No1 Currency", "amenity": "bureau_de_change", "other_tags": "\"brand\"=>\"No1 Currency\",\"addr:street\"=>\"Teall Street\",\"addr:postcode\"=>\"WF1 1PT\",\"brand:wikidata\"=>\"Q87139463\",\"addr:housenumber\"=>\"8\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4959846, 53.6830298 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4465596498", "amenity": "bureau_de_change" }, "geometry": { "type": "Point", "coordinates": [ -1.4766782, 53.8061799 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5422663143", "name": "Eurochange", "amenity": "bureau_de_change", "other_tags": "\"brand\"=>\"Eurochange\",\"brand:wikidata\"=>\"Q86525249\",\"operator\"=>\"Note Machine\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5441625, 53.8016631 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5483736331", "name": "Cash Cheque Credit", "amenity": "bureau_de_change" }, "geometry": { "type": "Point", "coordinates": [ -1.8598223, 53.7239498 ] } },
