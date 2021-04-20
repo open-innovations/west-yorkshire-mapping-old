@@ -1972,6 +1972,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8627021287", "other_tags": "\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7107719, 53.8762576 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8636312232", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3806743, 53.7897205 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8636354983", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7062052, 53.8721722 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8638562224", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6339803, 53.7879009 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8638562224", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6339803, 53.7879009 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8643928404", "name": "The Solar Avenue Christmas Tree", "other_tags": "\"denotation\"=>\"urban\",\"height\"=>\"4\",\"leaf_cycle\"=>\"evergreen\",\"leaf_type\"=>\"needleleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5262915, 53.7899179 ] } }
 ]
 }

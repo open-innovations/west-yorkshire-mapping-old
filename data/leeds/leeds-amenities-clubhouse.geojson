@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.805594, "longitude": -1.636140 }, "osm_way_id": "513332345", "name": "Leeds Kodokan Martial Arts Club", "amenity": "clubhouse", "building": "yes", "sport": "martial_arts", "other_tags": "\"club\"=>\"sport\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6359973, 53.8055137 ], [ -1.6363353, 53.8056032 ], [ -1.636282, 53.8056734 ], [ -1.635944, 53.8055839 ], [ -1.6359973, 53.8055137 ] ] ] } }
+]
+}
