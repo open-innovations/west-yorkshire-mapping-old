@@ -48,7 +48,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1039320873", "amenity": "bicycle_parking", "other_tags": "\"capacity\"=>\"4\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5013057, 53.6840585 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1039320875", "amenity": "bicycle_parking", "other_tags": "\"covered\"=>\"yes\",\"capacity\"=>\"5\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5107081, 53.7157419 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1039320877", "amenity": "bicycle_parking", "other_tags": "\"capacity\"=>\"2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4946635, 53.6827342 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1039320881", "amenity": "bicycle_parking", "other_tags": "\"capacity\"=>\"6\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5001716, 53.6823126 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1039320881", "amenity": "bicycle_parking", "other_tags": "\"bicycle_parking\"=>\"stands\",\"capacity\"=>\"6\",\"covered\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5001716, 53.6823126 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1039320908", "amenity": "bicycle_parking", "other_tags": "\"capacity\"=>\"5\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5003703, 53.6837655 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1132773212", "amenity": "bicycle_parking", "other_tags": "\"capacity\"=>\"6\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7517428, 53.7933761 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1132773222", "amenity": "bicycle_parking", "other_tags": "\"capacity\"=>\"4\"" }, "geometry": { "type": "Point", "coordinates": [ -1.751727, 53.7948488 ] } },

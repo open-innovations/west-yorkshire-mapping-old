@@ -8,7 +8,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2358527861", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.781132, 53.8352 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2661213525", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8205888, 53.9262391 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2661213529", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8207739, 53.9264388 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5289799101", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8381933, 53.8483782 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5289799101", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:postcode\"=>\"BD16 2HT\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8381933, 53.8483782 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5688842050", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"152\",\"addr:postcode\"=>\"BD16 2HS\",\"addr:street\"=>\"Main Street\",\"old_name\"=>\"Barclays\",\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8387697, 53.8487378 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8633753036", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.906482, 53.8682794 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8633753037", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9063774, 53.8682596 ] } },

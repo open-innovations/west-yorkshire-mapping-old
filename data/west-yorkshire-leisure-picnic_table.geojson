@@ -94,6 +94,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8543806582", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3114169, 53.6891751 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8567936265", "other_tags": "\"leisure\"=>\"picnic_table\",\"lit\"=>\"no\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.845614, 53.8484624 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8570564050", "name": "The Riverside Bench", "other_tags": "\"bench\"=>\"yes\",\"leisure\"=>\"picnic_table\",\"lit\"=>\"no\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3659383, 53.7299484 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8632660386", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6873061, 53.8951378 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8632660386", "other_tags": "\"leisure\"=>\"picnic_table\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6873061, 53.8951378 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8647744561", "other_tags": "\"bench\"=>\"yes\",\"leisure\"=>\"picnic_table\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5270309, 53.7890252 ] } }
 ]
 }
