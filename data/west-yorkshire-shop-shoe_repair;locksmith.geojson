@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.569569, "longitude": -1.786657 }, "osm_way_id": "335107021", "name": "Cobbler", "building": "retail", "shop": "shoe_repair;locksmith", "other_tags": "\"building:levels\"=>\"1\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7866887, 53.5695689 ], [ -1.7866641, 53.5695871 ], [ -1.7866256, 53.5695688 ], [ -1.7866502, 53.5695506 ], [ -1.7866887, 53.5695689 ] ] ] ] } }
+]
+}

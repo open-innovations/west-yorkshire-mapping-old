@@ -342,7 +342,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8120322869", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.524461, 53.6790408 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8133193325", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4817972, 53.7006008 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8149182300", "name": "Asda", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"operator\"=>\"Asda\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4170733, 53.7002362 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8150781431", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.311214, 53.6922259 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8150781431", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.311214, 53.6922259 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8173070324", "name": "Notemachine", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"operator\"=>\"Notemachine\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5647835, 53.800708 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8189472813", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"The Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5660985, 53.7727338 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8319941412", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.61476, 53.813827 ] } },
