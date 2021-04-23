@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "529077300", "name": "Mecca Bingo", "other_tags": "\"leisure\"=>\"bingo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6262005, 53.689829 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "529090416", "name": "Gala Bingo", "other_tags": "\"leisure\"=>\"bingo\",\"building\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7109388, 53.7667162 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "529077300", "name": "Mecca Bingo", "other_tags": "\"leisure\"=>\"bingo\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6262005, 53.689829 ] } }
 ]
 }

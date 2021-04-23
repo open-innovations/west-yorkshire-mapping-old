@@ -93,7 +93,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2068675283", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6239714, 53.7576073 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2085088778", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4901022, 53.7407067 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2085088798", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.4901804, 53.7409231 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2121087119", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.5212522, 53.8289997 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2121087119", "name": "Gledhow Green", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"colour\"=>\"Brown\",\"material\"=>\"wood\",\"seats\"=>\"4\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5212522, 53.8289997 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2181404701", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.4072855, 53.787179 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2184259324", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6056679, 53.7555008 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2266645159", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.682548, 53.8937346 ] } },
