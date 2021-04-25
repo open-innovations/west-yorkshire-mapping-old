@@ -1976,6 +1976,13 @@
 	{ "type": "Feature", "properties": { "osm_id": "8643928404", "name": "The Solar Avenue Christmas Tree", "other_tags": "\"denotation\"=>\"urban\",\"height\"=>\"4\",\"leaf_cycle\"=>\"evergreen\",\"leaf_type\"=>\"needleleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5262915, 53.7899179 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8657210636", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5763884, 53.8145755 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8659436193", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5401264, 53.8485939 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8659436194", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399647, 53.8486179 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8659436194", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399647, 53.8486179 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8660514234", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4447819, 53.8076432 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8660514235", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4447819, 53.8077621 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8660514236", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.444668, 53.8077921 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8660514237", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4447778, 53.8078281 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8660514299", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4428141, 53.807501 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8662369054", "other_tags": "\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6986173, 53.879349 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8662369060", "other_tags": "\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6981452, 53.8795048 ] } }
 ]
 }
