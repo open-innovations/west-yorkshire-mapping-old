@@ -201,7 +201,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6769233568", "name": "AK Barber", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5300232, 53.8028574 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6769292591", "name": "Hair Xchange", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4407005, 53.7999812 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6769292593", "name": "Linda's", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4405672, 53.7999044 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6799053517", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.561856, 53.8145241 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6799053517", "name": "Go Cut", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.561856, 53.8145241 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6814620845", "name": "Sam's Barbers", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3852896, 53.9288081 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6814624925", "name": "Unique", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3862817, 53.9281216 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6814630561", "name": "Saks", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3858383, 53.9279552 ] } },
