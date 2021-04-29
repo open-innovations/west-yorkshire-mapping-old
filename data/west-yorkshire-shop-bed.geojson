@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "313246928", "name": "Yorkshire Linen Company", "other_tags": "\"shop\"=>\"bed\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5895081, 53.7981447 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1535970697", "name": "Total Comfort", "other_tags": "\"shop\"=>\"bed\",\"phone\"=>\"+44 1484 543800\",\"opening_hours\"=>\"Mo-Fr 09:30-17:00; Sa 10:00-14:00\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8023508, 53.6423879 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1535970704", "name": "Total Dreams", "other_tags": "\"shop\"=>\"bed\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8020451, 53.6423362 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1947258403", "other_tags": "\"shop\"=>\"bed\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7184207, 53.7303981 ] } },

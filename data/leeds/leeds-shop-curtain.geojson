@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "3218554784", "name": "Commercial Blinds UK", "other_tags": "\"shop\"=>\"curtain\"" }, "geometry": { "type": "Point", "coordinates": [ -1.542241, 53.8119941 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3716946389", "name": "Yeadon Curtain Gallery", "other_tags": "\"addr:city\"=>\"Yeadon\",\"addr:housenumber\"=>\"79B\",\"addr:postcode\"=>\"LS19 7SP\",\"addr:street\"=>\"High Street\",\"phone\"=>\"+44 113 250 9623\",\"shop\"=>\"curtain\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6815939, 53.8663183 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6052531521", "name": "Hillarys", "other_tags": "\"shop\"=>\"curtain\",\"level\"=>\"0\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5743145, 53.7591759 ] } }
 ]
