@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "306328551", "other_tags": "\"shop\"=>\"pet_care\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6000865, 53.8008179 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "349352558", "name": "Dashin' Dogz", "other_tags": "\"shop\"=>\"pet_care\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6366729, 53.8065326 ] } }
 ]
 }

@@ -144,7 +144,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1654218195", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Barclays Bank PLC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3700634, 53.7666575 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1677503278", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8364618, 53.8472911 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1700175508", "amenity": "atm", "other_tags": "\"operator\"=>\"The Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9271911, 53.6011384 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1704973341", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7028805, 53.6103183 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1704973341", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7029389, 53.6102904 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1710609534", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Santander\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7877411, 53.5702511 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1718406486", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.794555, 53.6315342 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1771321859", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Barclays Bank PLC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8882749, 53.7250925 ] } },

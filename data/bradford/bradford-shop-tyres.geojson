@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.859570, "longitude": -1.847297 }, "osm_way_id": "554506226", "name": "Castle Tyres", "building": "retail", "shop": "tyres" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8472969, 53.8596843 ], [ -1.8471135, 53.8596067 ], [ -1.847297, 53.8594559 ], [ -1.8474804, 53.8595335 ], [ -1.8472969, 53.8596843 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.859570, "longitude": -1.847297 }, "osm_way_id": "554506226", "name": "Castle Tyres", "building": "retail", "shop": "tyres" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8472969, 53.8596843 ], [ -1.8471135, 53.8596067 ], [ -1.847297, 53.8594559 ], [ -1.8474804, 53.8595335 ], [ -1.8472969, 53.8596843 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.804855, "longitude": -1.820810 }, "osm_way_id": "888812029", "building": "industrial", "shop": "tyres", "other_tags": "\"building:levels\"=>\"1\",\"building:use\"=>\"commercial\",\"roof:levels\"=>\"0\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8208436, 53.8049471 ], [ -1.8206603, 53.8048202 ], [ -1.8207759, 53.8047619 ], [ -1.8209592, 53.8048889 ], [ -1.820866, 53.8049358 ], [ -1.8208436, 53.8049471 ] ] ] } }
 ]
 }

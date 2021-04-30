@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "297624114", "name": "Cardigan Dry Cleaners & Laundrette", "other_tags": "\"shop\"=>\"dry_cleaning\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5755509, 53.8114914 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "306328553", "name": "Classic Cleaner", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"60\",\"addr:postcode\"=>\"LS12 3NP\",\"addr:street\"=>\"Armley Ridge Road\",\"shop\"=>\"dry_cleaning\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6002451, 53.8008491 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "535954709", "name": "Johnsons", "other_tags": "\"shop\"=>\"dry_cleaning\"" }, "geometry": { "type": "Point", "coordinates": [ -1.656938, 53.6797527 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1429962438", "other_tags": "\"shop\"=>\"dry_cleaning\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7808469, 53.6626752 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1586384942", "name": "Dry Clean Only", "other_tags": "\"shop\"=>\"dry_cleaning\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Park Road\",\"addr:postcode\"=>\"BD16 4JD\",\"addr:housenumber\"=>\"22\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8369563, 53.8494002 ] } },

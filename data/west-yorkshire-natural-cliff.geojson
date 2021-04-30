@@ -173,6 +173,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "920091774", "z_order": 0, "other_tags": "\"natural\"=>\"cliff\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6979798, 53.8938025 ], [ -1.6979409, 53.8935516 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "929379354", "z_order": 0, "other_tags": "\"natural\"=>\"cliff\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -2.0801489, 53.7787569 ], [ -2.0803848, 53.7787346 ], [ -2.0806066, 53.7790023 ] ] } },
 	{ "type": "Feature", "properties": { "osm_id": "929777452", "z_order": 0, "other_tags": "\"natural\"=>\"cliff\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8581207, 53.6905722 ], [ -1.8571661, 53.6906295 ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": "929777643", "z_order": 0, "other_tags": "\"natural\"=>\"cliff\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8581207, 53.6905722 ], [ -1.8581177, 53.6904924 ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "929777643", "z_order": 0, "other_tags": "\"natural\"=>\"cliff\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.8581207, 53.6905722 ], [ -1.8581177, 53.6904924 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.580523, "longitude": -1.778949 }, "osm_way_id": "936627301", "natural": "cliff" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7791931, 53.5803923 ], [ -1.779167, 53.5804993 ], [ -1.7790246, 53.5806286 ], [ -1.7788242, 53.5806545 ], [ -1.7787051, 53.580601 ], [ -1.7788039, 53.5805217 ], [ -1.7790769, 53.5803992 ], [ -1.7791931, 53.5803923 ] ] ] ] } }
 ]
 }
