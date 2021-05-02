@@ -3843,7 +3843,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7429091326", "amenity": "waste_basket", "other_tags": "\"collection_times\"=>\"Th\",\"ref:UK:leedscc:bin\"=>\"697\"" }, "geometry": { "type": "Point", "coordinates": [ -1.332429, 53.794797 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429091327", "amenity": "waste_basket", "other_tags": "\"ref:UK:leedscc:bin\"=>\"4478\"" }, "geometry": { "type": "Point", "coordinates": [ -1.425594, 53.858879 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429091328", "amenity": "waste_basket", "other_tags": "\"ref:UK:leedscc:bin\"=>\"643\"" }, "geometry": { "type": "Point", "coordinates": [ -1.513769, 53.902283 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7429091329", "amenity": "waste_basket", "other_tags": "\"collection_times\"=>\"Sa\",\"ref:UK:leedscc:bin\"=>\"2581\"" }, "geometry": { "type": "Point", "coordinates": [ -1.388846, 53.757179 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7429091329", "amenity": "waste_basket", "other_tags": "\"collection_times\"=>\"Sa\",\"ref:UK:leedscc:bin\"=>\"2581\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3888722, 53.757156 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429091330", "amenity": "waste_basket", "other_tags": "\"ref:UK:leedscc:bin\"=>\"4480\"" }, "geometry": { "type": "Point", "coordinates": [ -1.427409, 53.860286 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429091331", "amenity": "waste_basket", "other_tags": "\"ref:UK:leedscc:bin\"=>\"1628\"" }, "geometry": { "type": "Point", "coordinates": [ -1.422701, 53.858643 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7429091332", "amenity": "waste_basket", "other_tags": "\"collection_times\"=>\"Th\",\"ref:UK:leedscc:bin\"=>\"695\"" }, "geometry": { "type": "Point", "coordinates": [ -1.331682, 53.795042 ] } },
@@ -4343,6 +4343,10 @@
 	{ "type": "Feature", "properties": { "osm_id": "8652959323", "amenity": "waste_basket", "other_tags": "\"collection_times\"=>\"\\\"twice per week\\\"\",\"owner\"=>\"Leeds City Council\",\"waste_basket:model\"=>\"PLASTIC SQUARE OPEN TOP\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7138954, 53.8743264 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8656153399", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash;cigarettes;dog_excrement\",\"waste_basket:model\"=>\"METAL SQUARE\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7141299, 53.8760838 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8681254052", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.8996247, 53.8238542 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8685275676", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6898101, 53.8643394 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8685275676", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6898101, 53.8643394 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8686706578", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"#00000\",\"material\"=>\"plastic\",\"operator\"=>\"Co-Op\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3379647, 53.6416435 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8686706579", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"#00000\",\"material\"=>\"plastic\",\"operator\"=>\"Co-Op\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3378969, 53.641656 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8686706581", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"#00000\",\"material\"=>\"metal\",\"operator\"=>\"Wakefield Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3368076, 53.6414338 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8686706584", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"#00000\",\"material\"=>\"plastic\",\"operator\"=>\"Wakefield Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3379945, 53.6408434 ] } }
 ]
 }

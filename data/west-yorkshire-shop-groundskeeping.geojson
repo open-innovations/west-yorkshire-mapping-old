@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.644604, "longitude": -1.335393 }, "osm_way_id": "855748170", "name": "Lawnmower Planet", "building": "yes", "shop": "groundskeeping", "other_tags": "\"addr:postcode\"=>\"WF7 7HX\",\"addr:street\"=>\"Barnsley Road\",\"addr:suburb\"=>\"Ackworth\",\"addr:town\"=>\"Pontefract\",\"opening_hours\"=>\"Mo-Fr 09:00-17:00; Sa 09:00-14:00\",\"phone\"=>\"+44 1977 612319\",\"website\"=>\"https:\/\/www.jcpowerco.co.uk\/\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.3354773, 53.6446984 ], [ -1.3353403, 53.6446396 ], [ -1.3353256, 53.6446517 ], [ -1.3352208, 53.6446067 ], [ -1.3353387, 53.6445102 ], [ -1.3354434, 53.6445551 ], [ -1.3354281, 53.6445676 ], [ -1.3355652, 53.6446264 ], [ -1.3354773, 53.6446984 ] ] ] ] } }
+]
+}
