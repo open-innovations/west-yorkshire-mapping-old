@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "8688924811", "name": "Premier Martial Arts", "amenity": "dojo" }, "geometry": { "type": "Point", "coordinates": [ -1.4592827, 53.8265046 ] } }
+]
+}

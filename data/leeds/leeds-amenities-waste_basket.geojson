@@ -4006,6 +4006,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8632660384", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6984693, 53.8924947 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8652959323", "amenity": "waste_basket", "other_tags": "\"collection_times\"=>\"\\\"twice per week\\\"\",\"owner\"=>\"Leeds City Council\",\"waste_basket:model\"=>\"PLASTIC SQUARE OPEN TOP\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7138954, 53.8743264 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8656153399", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash;cigarettes;dog_excrement\",\"waste_basket:model\"=>\"METAL SQUARE\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7141299, 53.8760838 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8685275676", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6898101, 53.8643394 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8685275676", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.6898101, 53.8643394 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8688924927", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.4529745, 53.8361125 ] } }
 ]
 }
