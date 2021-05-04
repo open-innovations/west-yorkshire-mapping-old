@@ -177,6 +177,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8112004478", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6265386, 53.8112804 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8271773295", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4710787, 53.7727056 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8271773299", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4714977, 53.7725512 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8494401638", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5726705, 53.8174029 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8633753036", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.906482, 53.8682794 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8633753037", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9063774, 53.8682596 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8633753064", "other_tags": "\"shop\"=>\"vacant\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9042289, 53.867797 ] } },
