@@ -8,7 +8,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "734189306", "name": "Todmorden", "amenity": "fire_station", "other_tags": "\"operator\"=>\"WYFRS\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0952964, 53.7162483 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "815202473", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.7620242, 53.7621725 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "846021640", "name": "Ilkley Fire Station", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.8126636, 53.9257366 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1217287590", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.2570182, 53.7037358 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1628338784", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.877245, 53.6238226 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1634912125", "amenity": "fire_station" }, "geometry": { "type": "Point", "coordinates": [ -1.6605284, 53.7203533 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4513976712", "name": "(COMAH) Solenis Fire Station", "amenity": "fire_station", "other_tags": "\"old_name_1\"=>\"COMAH - BASF Fire Station\",\"old_name_2\"=>\"COMAH - CIBA Fire Station\",\"operator\"=>\"CIBA\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7560463, 53.7506711 ] } },
