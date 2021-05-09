@@ -252,10 +252,10 @@
 	{ "type": "Feature", "properties": { "osm_id": "6370054982", "other_tags": "\"natural\"=>\"tree\",\"leaf_type\"=>\"broadleaved\",\"leaf_cycle\"=>\"deciduous\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8372676, 53.8582029 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6370054983", "other_tags": "\"natural\"=>\"tree\",\"leaf_type\"=>\"broadleaved\",\"leaf_cycle\"=>\"deciduous\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8393597, 53.8586759 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6370054984", "other_tags": "\"natural\"=>\"tree\",\"leaf_type\"=>\"broadleaved\",\"leaf_cycle\"=>\"deciduous\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8388179, 53.8581855 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6370055285", "other_tags": "\"natural\"=>\"tree\",\"species\"=>\"Betula pendula\",\"leaf_type\"=>\"broadleaved\",\"leaf_cycle\"=>\"deciduous\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8383351, 53.8579419 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6370055286", "other_tags": "\"natural\"=>\"tree\",\"leaf_type\"=>\"broadleaved\",\"leaf_cycle\"=>\"deciduous\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8380025, 53.8574151 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6370055285", "other_tags": "\"common_name\"=>\"silver birch\",\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\",\"species\"=>\"Betula pendula\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8383351, 53.8579419 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6370055286", "other_tags": "\"common_name\"=>\"flowering cherry\",\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8380025, 53.8574151 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6372180868", "other_tags": "\"genus\"=>\"Quercus\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8400153, 53.8572601 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6382059321", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8370361, 53.8565987 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6382059321", "other_tags": "\"common_name\"=>\"flowering cherry\",\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8370361, 53.8565987 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6412641625", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8585674, 53.8712232 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6412641626", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8590296, 53.8714121 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6412641627", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8592145, 53.8723531 ] } },
@@ -901,6 +901,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "8617214892", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8820972, 53.9480046 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8617214893", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8821884, 53.9479159 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8617214894", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.881679, 53.9477448 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8617214895", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8822436, 53.9483382 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8617214895", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8822436, 53.9483382 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8712290194", "other_tags": "\"common_name\"=>\"flowering cherry\",\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8372153, 53.8583105 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8712290195", "other_tags": "\"common_name\"=>\"flowering cherry\",\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8370356, 53.8581112 ] } }
 ]
 }
