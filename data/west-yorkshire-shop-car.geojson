@@ -55,7 +55,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2406677436", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7946024, 53.6321768 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2415372387", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7975033, 53.6222888 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2725647574", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7536203, 53.8449755 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3191671093", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7242132, 53.876278 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3191671093", "name": "JCT600", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7242132, 53.876278 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3660972193", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9277634, 53.8354941 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4449839272", "name": "New Rodley Motors", "other_tags": "\"shop\"=>\"car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6506422, 53.818332 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4474318126", "name": "East Leeds Car Sales", "other_tags": "\"shop\"=>\"car\",\"second_hand\"=>\"only\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4532431, 53.8078626 ] } },
