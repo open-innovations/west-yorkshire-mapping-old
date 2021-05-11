@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.887156, "longitude": -1.734175 }, "osm_way_id": "941360415", "name": "Calisthenics exercise area", "leisure": "fitness_station", "sport": "fitness", "other_tags": "\"fitness_station\"=>\"calisthenics\",\"wheelchair\"=>\"limited\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7342593, 53.8871969 ], [ -1.7341036, 53.8872049 ], [ -1.7340903, 53.8871148 ], [ -1.734246, 53.8871069 ], [ -1.7342593, 53.8871969 ] ] ] } }
+]
+}
