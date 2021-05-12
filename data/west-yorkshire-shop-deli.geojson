@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "47131375", "name": "Pierozek", "other_tags": "\"shop\"=>\"deli\",\"addr:street\"=>\"Kirkgate\",\"addr:postcode\"=>\"WF1 1TQ\",\"addr:housenumber\"=>\"40-42\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4950636, 53.6826125 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747728289", "name": "Pickard's Deli", "other_tags": "\"facebook\"=>\"https:\/\/www.facebook.com\/pickardsdeli\/\",\"outdoor_seating\"=>\"yes\",\"shop\"=>\"deli\",\"twitter\"=>\"pickardspies\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7371348, 53.8887761 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1685191610", "name": "Wharfedale Deli", "other_tags": "\"shop\"=>\"deli\",\"fhrs:id\"=>\"327648\",\"addr:city\"=>\"Ilkley\",\"addr:street\"=>\"Main Street\",\"source:addr\"=>\"FHRS Open Data\",\"addr:district\"=>\"Burley In Wharfedale\",\"addr:postcode\"=>\"LS29 7JN\",\"addr:housenumber\"=>\"107a\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7504445, 53.9137818 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1689398072", "name": "Mrs Pawson's Shop", "other_tags": "\"shop\"=>\"deli\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4580036, 53.7849255 ] } },
