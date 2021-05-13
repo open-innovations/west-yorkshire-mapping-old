@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "317087645", "name": "Alea Casino", "amenity": "casino", "other_tags": "\"leisure\"=>\"casino\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5317398, 53.7902359 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3409737479", "name": "Casino Red", "amenity": "casino", "other_tags": "\"level\"=>\"1;2\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7822489, 53.6487902 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4353989307", "name": "Admiral", "amenity": "casino", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:housenumber\"=>\"21\",\"addr:postcode\"=>\"WF1 1JZ\",\"addr:street\"=>\"Westgate\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4987661, 53.6824356 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4653490144", "name": "Teddys Amusements", "amenity": "casino" }, "geometry": { "type": "Point", "coordinates": [ -1.4511448, 53.807276 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4688668396", "name": "Victoria Gate Casino", "amenity": "casino" }, "geometry": { "type": "Point", "coordinates": [ -1.5383208, 53.798576 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8112004466", "amenity": "casino" }, "geometry": { "type": "Point", "coordinates": [ -1.627631, 53.8121054 ] } },
