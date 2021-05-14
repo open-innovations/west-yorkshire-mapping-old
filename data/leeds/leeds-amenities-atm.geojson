@@ -185,7 +185,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6294180912", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4520342, 53.8073247 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6702943716", "amenity": "atm", "other_tags": "\"fee\"=>\"£0.95\",\"currency:GBP\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4413169, 53.8179001 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7316151370", "amenity": "atm", "other_tags": "\"brand\"=>\"Santander\",\"wheelchair\"=>\"yes\",\"opening_hours\"=>\"24\/7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6008979, 53.7451769 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7431404791", "amenity": "atm", "other_tags": "\"fee\"=>\"None\",\"operator\"=>\"Sainsbury's\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5780687, 53.8218711 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7431404791", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Sainsbury's\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5780687, 53.8218711 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7575101683", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5201852, 53.8560377 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7593715030", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4604704, 53.8222198 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7593715032", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4604603, 53.8222071 ] } },

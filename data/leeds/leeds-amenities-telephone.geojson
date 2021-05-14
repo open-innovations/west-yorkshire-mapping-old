@@ -302,6 +302,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8316250711", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.6854033, 53.8534138 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8365687072", "amenity": "telephone" }, "geometry": { "type": "Point", "coordinates": [ -1.640886, 53.8381546 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8577220373", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6427806, 53.8367596 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8727433544", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX100\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3949917, 53.7405801 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.806304, "longitude": -1.477629 }, "osm_way_id": "681264221", "name": "ASDA Click & Collect", "amenity": "telephone", "building": "roof", "shop": "kiosk", "other_tags": "\"layer\"=>\"1\",\"building:levels\"=>\"1\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4776298, 53.8063349 ], [ -1.4776141, 53.8063291 ], [ -1.477583, 53.8063179 ], [ -1.4776289, 53.8062739 ], [ -1.4776577, 53.8062843 ], [ -1.4776757, 53.8062909 ], [ -1.4776298, 53.8063349 ] ] ] } }
 ]
 }
