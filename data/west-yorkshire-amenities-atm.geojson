@@ -184,7 +184,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "2888241515", "name": "Cash Machine", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.434765, 53.794515 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3124685562", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6763581, 53.7064539 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3145367892", "name": "Sainsburys", "amenity": "atm", "other_tags": "\"atm\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5381877, 53.7937203 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3145367893", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5424919, 53.7918517 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3225905510", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5701262, 53.8122085 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3257033807", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4458031, 53.7534025 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3409740389", "amenity": "atm", "other_tags": "\"booth\"=>\"KXPlus\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7825311, 53.6470409 ] } },
