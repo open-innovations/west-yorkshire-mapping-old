@@ -13,7 +13,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "322683453", "amenity": "bicycle_parking", "other_tags": "\"covered\"=>\"no\",\"capacity\"=>\"12\",\"bicycle_parking\"=>\"stands\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8394028, 53.8498747 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "322683455", "name": "Bingley Market Square Cycle Parking", "amenity": "bicycle_parking", "other_tags": "\"covered\"=>\"no\",\"capacity\"=>\"8\",\"bicycle_parking\"=>\"stands\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8385535, 53.8482578 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "327407339", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.6716663, 53.8029753 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "333799038", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5432203, 53.7991677 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "333799038", "amenity": "bicycle_parking", "other_tags": "\"access\"=>\"yes\",\"bicycle_parking\"=>\"stands\",\"capacity\"=>\"4\",\"covered\"=>\"no\",\"operator\"=>\"LCC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5432203, 53.7991677 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "338661107", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.775953, 53.812944 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "342579655", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5363341, 53.7965396 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "342605807", "amenity": "bicycle_parking", "other_tags": "\"capacity\"=>\"16\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5332122, 53.797303 ] } },

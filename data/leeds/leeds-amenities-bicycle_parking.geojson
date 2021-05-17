@@ -6,7 +6,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "317094983", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5336428, 53.7912453 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "320998065", "name": "The Common Place", "amenity": "bicycle_parking", "other_tags": "\"capacity\"=>\"10\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5378593, 53.7956305 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "327407339", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.6716663, 53.8029753 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "333799038", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5432203, 53.7991677 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "333799038", "amenity": "bicycle_parking", "other_tags": "\"access\"=>\"yes\",\"bicycle_parking\"=>\"stands\",\"capacity\"=>\"4\",\"covered\"=>\"no\",\"operator\"=>\"LCC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5432203, 53.7991677 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "342579655", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5363341, 53.7965396 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "342605807", "amenity": "bicycle_parking", "other_tags": "\"capacity\"=>\"16\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5332122, 53.797303 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "352872464", "amenity": "bicycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.5672413, 53.8290492 ] } },
