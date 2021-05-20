@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "28168233", "other_tags": "\"leisure\"=>\"bandstand\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8254332, 53.9243445 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2952522258", "other_tags": "\"leisure\"=>\"bandstand\",\"building\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6657081, 53.7940934 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4466389184", "other_tags": "\"leisure\"=>\"bandstand\",\"building\"=>\"roof\"" }, "geometry": { "type": "Point", "coordinates": [ -1.791483, 53.8412839 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4810013349", "other_tags": "\"leisure\"=>\"bandstand\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6656669, 53.7938769 ] } },

@@ -5,7 +5,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "364837945", "name": "Bird Garden", "other_tags": "\"leisure\"=>\"garden\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3166897, 53.8196192 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2751164735", "name": "Himalayan Garden", "other_tags": "\"leisure\"=>\"garden\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5339031, 53.8958251 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2888241705", "name": "Clarkesfield Allotments", "other_tags": "\"leisure\"=>\"garden\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Dewsbury Road\"" }, "geometry": { "type": "Point", "coordinates": [ -1.550248, 53.768908 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3052535180", "other_tags": "\"leisure\"=>\"garden\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7837616, 53.578969 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4485625856", "other_tags": "\"leisure\"=>\"garden\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4438402, 53.8095405 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4485625857", "other_tags": "\"leisure\"=>\"garden\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4438479, 53.8094287 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4500900578", "other_tags": "\"leisure\"=>\"garden\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4601868, 53.7834743 ] } },
