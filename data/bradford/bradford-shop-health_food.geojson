@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.768772, "longitude": -1.763086 }, "osm_way_id": "946165825", "name": "Wolf Wear Sports and Fitness", "building": "yes", "shop": "health_food", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:housenumber\"=>\"1046\",\"addr:postcode\"=>\"BD5 8NN\",\"addr:street\"=>\"Manchester Road\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7631973, 53.7687878 ], [ -1.763152, 53.7687906 ], [ -1.763038, 53.7687976 ], [ -1.7629838, 53.768801 ], [ -1.7629745, 53.7687554 ], [ -1.7631883, 53.7687435 ], [ -1.7631973, 53.7687878 ] ] ] } }
+]
+}
