@@ -6,7 +6,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "42405868", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6212513, 53.8050358 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "48930597", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5479448, 53.7954438 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "50918565", "amenity": "atm", "other_tags": "\"network\"=>\"Halifax\",\"operator\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6275401, 53.8119124 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "51401467", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5892357, 53.7982807 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "51401467", "amenity": "atm", "other_tags": "\"check_date\"=>\"2021-05-25\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5892357, 53.7982807 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "59815224", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5767509, 53.8122988 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "244325312", "amenity": "atm", "other_tags": "\"operator\"=>\"HSBC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.547125, 53.7980265 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "244334286", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.544598, 53.7973224 ] } },
