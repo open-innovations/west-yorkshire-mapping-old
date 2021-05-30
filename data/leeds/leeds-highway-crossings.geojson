@@ -2981,6 +2981,7 @@
 { "type": "Feature", "properties": { "osm_id": "8764984635" }, "geometry": { "type": "Point", "coordinates": [ -1.55180, 53.79433 ] } },
 { "type": "Feature", "properties": { "osm_id": "8764984636" }, "geometry": { "type": "Point", "coordinates": [ -1.55171, 53.79429 ] } },
 { "type": "Feature", "properties": { "osm_id": "8769858803", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.37708, 53.93350 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8770190019" }, "geometry": { "type": "Point", "coordinates": [ -1.58555, 53.83098 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8770190019" }, "geometry": { "type": "Point", "coordinates": [ -1.58555, 53.83098 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8778388197", "Tactile paving":"yes" }, "geometry": { "type": "Point", "coordinates": [ -1.37611, 53.93381 ] } }
 ]
 }

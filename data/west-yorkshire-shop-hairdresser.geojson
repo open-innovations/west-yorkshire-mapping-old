@@ -435,6 +435,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8425747923", "name": "Whitechurch", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4507693, 53.7973595 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8494401620", "name": "Baza's Barber", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5616399, 53.8145708 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8494401626", "name": "E-Street Barber Co.", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.562757, 53.81511 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8494401628", "name": "Through the Looking Glass", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5628442, 53.815144 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8494401634", "name": "ONE SALON", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5713884, 53.8171907 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8494401635", "name": "shrine", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5714769, 53.8172018 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8494401647", "name": "Simply Hair", "other_tags": "\"shop\"=>\"hairdresser\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5816934, 53.8197099 ] } },
