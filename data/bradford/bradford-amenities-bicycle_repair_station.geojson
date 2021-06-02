@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "8787346074", "amenity": "bicycle_repair_station", "other_tags": "\"fee\"=>\"no\",\"image\"=>\"https:\/\/i.imgur.com\/2liqD7K.jpg\",\"manometer\"=>\"yes\",\"manual\"=>\"yes\",\"opening_hours\"=>\"24\/7\",\"opening_hours:covid19\"=>\"open\",\"service:bicycle:pump\"=>\"yes\",\"service:bicycle:stand\"=>\"yes\",\"service:bicycle:tools\"=>\"yes\",\"valves\"=>\"sclaverand;schrader\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8250468, 53.9249731 ] } }
+]
+}

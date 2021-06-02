@@ -146,6 +146,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8714242685", "name": "Amazon Locker", "amenity": "vending_machine", "other_tags": "\"brand\"=>\"Amazon Locker\",\"brand:wikidata\"=>\"Q16974764\",\"brand:wikipedia\"=>\"en:Amazon Locker\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3412727, 53.7090261 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8754817075", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4908072, 53.6798495 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8778822975", "name": "Starbucks On The Go", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5041287, 53.6956696 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8784853527", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.309055, 53.6915882 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8784853527", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.309055, 53.6915882 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8787346064", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7974402, 53.9257953 ] } }
 ]
 }
