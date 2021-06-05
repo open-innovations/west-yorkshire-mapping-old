@@ -112,7 +112,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "1025703047", "amenity": "atm", "other_tags": "\"operator\"=>\"Barclays Bank PLC\",\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5532458, 53.8066066 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1038799938", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7798622, 53.8320796 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1066119083", "amenity": "atm", "other_tags": "\"operator\"=>\"Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7864924, 53.5696873 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1069446639", "amenity": "atm", "other_tags": "\"operator\"=>\"Lloyds Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7867959, 53.5699623 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1137884469", "amenity": "atm", "other_tags": "\"operator\"=>\"Barclays Bank PLC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6275316, 53.6919617 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1182516742", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7327389, 53.771994 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1235839316", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Barclays Bank PLC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8808393, 53.7152787 ] } },
