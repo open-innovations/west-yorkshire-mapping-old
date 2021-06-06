@@ -9,6 +9,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8306357909", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7138172, 53.8814145 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8306357910", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7138437, 53.8814081 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8515196004", "amenity": "watering_place", "man_made": "animal_drinking_trough" }, "geometry": { "type": "Point", "coordinates": [ -1.5137513, 53.8836824 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8619128145", "amenity": "watering_place", "man_made": "animal_drinking_trough" }, "geometry": { "type": "Point", "coordinates": [ -1.9595637, 53.7371721 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8619128145", "amenity": "watering_place", "man_made": "animal_drinking_trough" }, "geometry": { "type": "Point", "coordinates": [ -1.9595637, 53.7371721 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8805455567", "amenity": "watering_place", "man_made": "animal_drinking_trough", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9721038, 53.7402058 ] } }
 ]
 }

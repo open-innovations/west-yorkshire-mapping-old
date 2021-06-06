@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.570093, "longitude": -1.786482 }, "osm_way_id": "335209283", "name": "Old Bridge Barbers", "building": "retail", "shop": "hairdressers", "other_tags": "\"building:levels\"=>\"1\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7865098, 53.5701304 ], [ -1.7865197, 53.5700804 ], [ -1.7864553, 53.5700556 ], [ -1.7864436, 53.5701182 ], [ -1.786476, 53.5701247 ], [ -1.7865098, 53.5701304 ] ] ] ] } }
+]
+}
