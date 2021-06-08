@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "952102075", "highway": "service", "z_order": 0, "other_tags": "\"amenity\"=>\"weighbridge\",\"area\"=>\"no\",\"maxspeed\"=>\"5 mph\",\"oneway\"=>\"yes\",\"surface\"=>\"paved\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3785983, 53.9059754 ], [ -1.3787991, 53.9061053 ] ] } }
+]
+}

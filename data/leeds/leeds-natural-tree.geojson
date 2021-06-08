@@ -2030,6 +2030,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8753044676", "other_tags": "\"denotation\"=>\"garden\",\"leaf_cycle\"=>\"deciduous\",\"leaf_type\"=>\"broadleaved\",\"natural\"=>\"tree\",\"species\"=>\"Acer pseudoplatanus\",\"species:en\"=>\"sycamore\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6019723, 53.8197255 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8753044677", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5998923, 53.8186495 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8753044678", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5994088, 53.8173796 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8753044679", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5994705, 53.8174216 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8753044679", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5994705, 53.8174216 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8811848255", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5582151, 53.7963328 ] } }
 ]
 }
