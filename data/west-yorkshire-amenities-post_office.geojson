@@ -82,7 +82,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "774100248", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.787723, 53.7151099 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "774100326", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.8566787, 53.625739 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "774101587", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.6107854, 53.5942349 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "774101964", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -1.772845, 53.5951383 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "775848770", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -2.0966427, 53.7140491 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "775849433", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -2.1000499, 53.694151 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "775849697", "amenity": "post_office" }, "geometry": { "type": "Point", "coordinates": [ -2.1174646, 53.7260105 ] } },

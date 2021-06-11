@@ -4,8 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "411713902", "name": "Thorner Moor", "is_in": "UK, Yorkshire, Wharfedale", "other_tags": "\"natural\"=>\"moor\",\"is_in:country_code\"=>\"GB\",\"is_in:historical_county\"=>\"Yorkshire\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4038053, 53.8573915 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "534431178", "name": "Bramhope Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6339888, 53.8780065 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "798198194", "name": "Clifford Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3738556, 53.899007 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "798198332", "name": "Collingham Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3793916, 53.9019275 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "798198686", "name": "Whinny Cow Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.391129, 53.9033687 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "798198774", "name": "Cow Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3964719, 53.9038364 ] } }
 ]

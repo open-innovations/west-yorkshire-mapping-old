@@ -9,7 +9,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "249561731", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.7466724, 53.7973304 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "249561732", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.7464496, 53.797598 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "268096670", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.7688475, 53.858508 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "268096674", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.770304, 53.8611185 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "268096674", "amenity": "parking", "other_tags": "\"parking\"=>\"surface\"" }, "geometry": { "type": "Point", "coordinates": [ -1.770304, 53.8611185 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "269058802", "amenity": "parking" }, "geometry": { "type": "Point", "coordinates": [ -1.7977512, 53.8054369 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "300897388", "name": "Leisure Exchange Bradford", "amenity": "parking", "other_tags": "\"capacity\"=>\"996\",\"parking\"=>\"multi-storey\",\"source:capacity\"=>\"https:\/\/datahub.bradford.gov.uk\/ebase\/datahubext.eb?search=Bradford+car+parks\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7462705, 53.791928 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "301733965", "name": "Great Victoria Hotel", "amenity": "parking", "other_tags": "\"access\"=>\"customers\",\"parking\"=>\"surface\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7495605, 53.7917286 ] } },

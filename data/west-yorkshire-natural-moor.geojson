@@ -23,8 +23,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "747743921", "name": "Low Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8444573, 53.8916568 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "763561897", "name": "Addingham Middle Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9132673, 53.9374123 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "763563048", "name": "Addingham Middle Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.89953, 53.9368922 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "798198194", "name": "Clifford Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3738556, 53.899007 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "798198332", "name": "Collingham Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3793916, 53.9019275 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "798198686", "name": "Whinny Cow Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.391129, 53.9033687 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "798198774", "name": "Cow Moor", "other_tags": "\"natural\"=>\"moor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3964719, 53.9038364 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1067416276", "name": "Saddleworth Moor", "other_tags": "\"natural\"=>\"moor\",\"wikidata\"=>\"Q1640131\",\"wikipedia\"=>\"en:Saddleworth Moor\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0251971, 53.6277264 ] } },
