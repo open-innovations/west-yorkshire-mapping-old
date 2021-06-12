@@ -10,7 +10,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "410437667", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6938076, 53.6779448 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "518142630", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6296843, 53.8180692 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "524472833", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9002954, 53.8723719 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "815640607", "name": "Jerr Wood", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8299071, 53.8509328 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "815640607", "name": "Jerr Wood", "other_tags": "\"access\"=>\"yes\",\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8299071, 53.8509328 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "859922288", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7929389, 53.7774884 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "874502753", "other_tags": "\"leisure\"=>\"playground\",\"operator\"=>\"Calderdale MBC\",\"opening_hours\"=>\"24\/7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.854794, 53.6889189 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "895345229", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7825252, 53.637396 ] } },

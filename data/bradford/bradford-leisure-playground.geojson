@@ -5,7 +5,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "300581099", "name": "Beech Grove Park Playarea", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.732168, 53.8012206 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "349290114", "name": "St Ives Estate playground", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8578353, 53.8469752 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "524472833", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9002954, 53.8723719 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "815640607", "name": "Jerr Wood", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8299071, 53.8509328 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "815640607", "name": "Jerr Wood", "other_tags": "\"access\"=>\"yes\",\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8299071, 53.8509328 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "859922288", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7929389, 53.7774884 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1433636447", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9440999, 53.8368177 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1658025680", "other_tags": "\"leisure\"=>\"playground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9550985, 53.8113808 ] } },
