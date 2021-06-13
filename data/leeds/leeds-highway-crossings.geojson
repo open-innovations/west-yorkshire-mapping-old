@@ -3004,6 +3004,5 @@
 { "type": "Feature", "properties": { "osm_id": "8818783455" }, "geometry": { "type": "Point", "coordinates": [ -1.37570, 53.90611 ] } },
 { "type": "Feature", "properties": { "osm_id": "8818783456" }, "geometry": { "type": "Point", "coordinates": [ -1.37568, 53.90629 ] } },
 { "type": "Feature", "properties": { "osm_id": "8822706166" }, "geometry": { "type": "Point", "coordinates": [ -1.55832, 53.81721 ] } }
-
 ]
 }
