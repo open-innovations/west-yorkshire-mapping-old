@@ -82,6 +82,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "8764984665", "amenity": "parking_entrance", "barrier": "lift_gate" }, "geometry": { "type": "Point", "coordinates": [ -1.5506247, 53.7935411 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8764984666", "amenity": "parking_entrance", "barrier": "lift_gate" }, "geometry": { "type": "Point", "coordinates": [ -1.5507581, 53.7935274 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8764984777", "amenity": "parking_entrance", "barrier": "lift_gate" }, "geometry": { "type": "Point", "coordinates": [ -1.550892, 53.7935142 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8764984877", "amenity": "parking_entrance", "barrier": "gate" }, "geometry": { "type": "Point", "coordinates": [ -1.5512119, 53.7933991 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8764984877", "amenity": "parking_entrance", "barrier": "gate" }, "geometry": { "type": "Point", "coordinates": [ -1.5512119, 53.7933991 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8829693168", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5462413, 53.8004637 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8829695317", "amenity": "parking_entrance" }, "geometry": { "type": "Point", "coordinates": [ -1.5454027, 53.8021012 ] } }
 ]
 }
