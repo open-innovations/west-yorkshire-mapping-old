@@ -65,7 +65,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "413272740", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6631127, 53.7564349 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "413408925", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6575723, 53.7546842 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "429827076", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.624342, 53.7761064 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "446295560", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6979581, 53.8028576 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "446295560", "amenity": "atm", "other_tags": "\"check_date\"=>\"2021-06-18\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6979581, 53.8028576 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "522949222", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5610471, 53.7814695 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "638692231", "amenity": "atm", "other_tags": "\"layer\"=>\"1\",\"operator\"=>\"NatWest\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5478235, 53.794946 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "638692232", "amenity": "atm", "other_tags": "\"layer\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5477535, 53.7949764 ] } },

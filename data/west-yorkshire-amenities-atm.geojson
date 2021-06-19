@@ -89,7 +89,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "427819403", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7340224, 53.8426999 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "429827076", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.624342, 53.7761064 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "446262602", "amenity": "atm", "other_tags": "\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9020707, 53.8695193 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "446295560", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6979581, 53.8028576 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "446295560", "amenity": "atm", "other_tags": "\"check_date\"=>\"2021-06-18\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6979581, 53.8028576 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "457161557", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6944173, 53.7531107 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "457646675", "amenity": "atm", "other_tags": "\"operator\"=>\"Post Office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7306779, 53.8349032 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "457646683", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7307022, 53.8355681 ] } },
