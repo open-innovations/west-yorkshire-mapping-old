@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "656736580", "name": "Betfred", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.720546, 53.7711335 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "656736580", "name": "Betfred", "other_tags": "\"brand\"=>\"Betfred\",\"brand:wikidata\"=>\"Q4897425\",\"brand:wikipedia\"=>\"en:Betfred\",\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.720546, 53.7711335 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "687081070", "name": "William Hill", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7131167, 53.7685249 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1585028262", "name": "William Hill", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9111811, 53.8591698 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5643784152", "name": "Ladbrokes", "other_tags": "\"shop\"=>\"bookmaker\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7772412, 53.8341151 ] } },
