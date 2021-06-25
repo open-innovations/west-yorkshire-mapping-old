@@ -148,6 +148,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8778822975", "name": "Starbucks On The Go", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5041287, 53.6956696 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8784853527", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.309055, 53.6915882 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8787346064", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7974402, 53.9257953 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8805455598", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9813982, 53.7290749 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8805455598", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9813982, 53.7290749 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8861448252", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parcel_pickup;parcel_mail_in\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5109758, 53.8123226 ] } }
 ]
 }

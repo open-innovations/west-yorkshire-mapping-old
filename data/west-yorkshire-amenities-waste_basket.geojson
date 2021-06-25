@@ -331,8 +331,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7120516352", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3937033, 53.794525 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7172529764", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.3243591, 53.7198409 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7172529765", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"Black\",\"material\"=>\"plastic\",\"mapillary\"=>\"3JZxM0EnPUsLtRqcsTaQtQ\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3273409, 53.7166852 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7179282649", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3206595, 53.6988655 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7179282650", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"#078741\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3226559, 53.6981867 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7179282650", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"#078741\",\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3226574, 53.6981836 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7180445667", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3020152, 53.695644 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7234413031", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7811442, 53.6480912 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7234413032", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"recycling\",\"colour\"=>\"green\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7814132, 53.6475423 ] } },
@@ -4348,6 +4347,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8686706581", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"#00000\",\"material\"=>\"metal\",\"operator\"=>\"Wakefield Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3368076, 53.6414338 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8686706584", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"#00000\",\"material\"=>\"plastic\",\"operator\"=>\"Wakefield Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3379945, 53.6408434 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8688924927", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.4529745, 53.8361125 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8697448075", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3207082, 53.6988315 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8712290193", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8369786, 53.8494326 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8717022474", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"dog_excrement\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3622699, 53.6939624 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8741170962", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.4778455, 53.7145077 ] } },
@@ -4367,6 +4367,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8851168193", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.8728522, 53.6235045 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8851277222", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"litter\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6563971, 53.5632922 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8851292349", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"blue\",\"material\"=>\"metal\",\"waste\"=>\"litter\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7713761, 53.5872722 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8861030986", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7765408, 53.7656217 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8861030986", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7765408, 53.7656217 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8861281607", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"blue\",\"material\"=>\"metal\",\"waste\"=>\"litter\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7760067, 53.5836141 ] } }
 ]
 }
