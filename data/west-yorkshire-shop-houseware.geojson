@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "301033879", "name": "The Range", "other_tags": "\"shop\"=>\"houseware\",\"brand\"=>\"The Range\",\"brand:wikidata\"=>\"Q7759409\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7876317, 53.7984884 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1127250312", "name": "Wilko", "other_tags": "\"shop\"=>\"houseware\",\"lottery\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6272336, 53.6925916 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1127250312", "name": "Wilko", "other_tags": "\"brand:wikidata\"=>\"Q8002536\",\"lottery\"=>\"yes\",\"shop\"=>\"houseware\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6272336, 53.6925916 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4413109081", "name": "Peter Jones", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:housenumber\"=>\"18-22\",\"addr:postcode\"=>\"WF1 1JY\",\"addr:street\"=>\"Westgate\",\"opening_hours\"=>\"Mo-Sa 09:00-16:00\",\"shop\"=>\"houseware\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4986742, 53.6826045 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4885695946", "name": "Yorkshire Linen Company", "other_tags": "\"shop\"=>\"houseware\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5442251, 53.8011399 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5469277356", "name": "Tiger's Eye", "other_tags": "\"shop\"=>\"houseware\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8576148, 53.7227833 ] } },
