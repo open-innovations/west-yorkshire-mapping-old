@@ -216,6 +216,7 @@
 { "type": "Feature", "properties": { "osm_id": "297118272", "Type":"pelican" }, "geometry": { "type": "Point", "coordinates": [ -1.64980, 53.80019 ] } },
 { "type": "Feature", "properties": { "osm_id": "297118479" }, "geometry": { "type": "Point", "coordinates": [ -1.66309, 53.79667 ] } },
 { "type": "Feature", "properties": { "osm_id": "297118480" }, "geometry": { "type": "Point", "coordinates": [ -1.66277, 53.79657 ] } },
+{ "type": "Feature", "properties": { "osm_id": "297582544" }, "geometry": { "type": "Point", "coordinates": [ -1.54406, 53.72159 ] } },
 { "type": "Feature", "properties": { "osm_id": "297622623" }, "geometry": { "type": "Point", "coordinates": [ -1.63849, 53.79845 ] } },
 { "type": "Feature", "properties": { "osm_id": "297624112" }, "geometry": { "type": "Point", "coordinates": [ -1.57571, 53.81139 ] } },
 { "type": "Feature", "properties": { "osm_id": "297836129" }, "geometry": { "type": "Point", "coordinates": [ -1.68395, 53.80625 ] } },
