@@ -83,7 +83,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7989634822", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7150029, 53.8760883 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7989634830", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7151662, 53.8759717 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7989634855", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7149612, 53.8757229 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7994193511", "amenity": "grit_bin", "other_tags": "\"access\"=>\"unknown\",\"material\"=>\"plastic\",\"operator\"=>\"Xscape\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3402528, 53.7100599 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7994193511", "amenity": "grit_bin", "other_tags": "\"access\"=>\"unknown\",\"material\"=>\"plastic\",\"operator\"=>\"Xscape\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3402538, 53.7100587 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7994193519", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.3405929, 53.7093905 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7997417853", "amenity": "grit_bin", "other_tags": "\"access\"=>\"private\",\"colour\"=>\"yellow\",\"direction\"=>\"forward\",\"material\"=>\"plastic\",\"operator\"=>\"St Giles CofE Academy\"" }, "geometry": { "type": "Point", "coordinates": [ -1.311001, 53.6958344 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8020961403", "amenity": "grit_bin", "other_tags": "\"access\"=>\"private\",\"material\"=>\"plastic\",\"operator\"=>\"WYFRS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2884484, 53.7013058 ] } },
