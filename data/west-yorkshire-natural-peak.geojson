@@ -108,7 +108,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "798175769", "name": "Scarcroft Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.435482, 53.867147 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "804724890", "name": "Round Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6993824, 53.8231247 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1011165656", "name": "Crow Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9674635, 53.7455139 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1481844272", "name": "West Nab", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8860116, 53.5757154 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1481844272", "name": "West Nab", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8860157, 53.5757251 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1506537204", "name": "Camp Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3441371, 53.8660761 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1590353927", "name": "Brandy Carr Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5379503, 53.7058342 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1617545709", "name": "Dalton Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3938051, 53.8865909 ] } },
