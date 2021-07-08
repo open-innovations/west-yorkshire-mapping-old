@@ -12,7 +12,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2423433657", "name": "Cardigan Trading Estate", "other_tags": "\"landuse\"=>\"industrial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5797839, 53.8034132 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2976080941", "name": "Sewage Works", "other_tags": "\"landuse\"=>\"industrial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5970627, 53.6027303 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2997308940", "name": "Sewage Works", "other_tags": "\"landuse\"=>\"industrial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5426966, 53.6363413 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3000937450", "name": "Sewage Works", "other_tags": "\"landuse\"=>\"industrial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.778126, 53.6003372 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3000937450", "name": "Sewage Works", "other_tags": "\"landuse\"=>\"industrial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7773623, 53.5996859 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3043942501", "name": "Sewage Works", "other_tags": "\"landuse\"=>\"industrial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8131679, 53.6755906 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3045429250", "name": "Sewage Works", "other_tags": "\"landuse\"=>\"industrial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2515637, 53.6078716 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3209774230", "name": "Trident Park", "other_tags": "\"landuse\"=>\"industrial\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3836239, 53.707145 ] } },
