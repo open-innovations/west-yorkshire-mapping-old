@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "2167071891", "name": "Cartridge Express", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Leathley House\",\"addr:housenumber\"=>\"6\",\"addr:postcode\"=>\"LS10 1AW\",\"addr:street\"=>\"Butterley Street\",\"designation\"=>\"Computer Consumables\",\"shop\"=>\"printer_ink\"" }, "geometry": { "type": "Point", "coordinates": [ -1.538837, 53.7867715 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3916676777", "name": "Choice Cartridges", "other_tags": "\"shop\"=>\"printer_ink\",\"phone\"=>\"+44 113 2686868\",\"website\"=>\"https:\/\/www.choicecartridges.com\/\",\"addr:city\"=>\"Horsforth\",\"addr:street\"=>\"New Road Side\",\"addr:postcode\"=>\"LS18 4QB\",\"addr:housenumber\"=>\"100\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6414596, 53.8322429 ] } }
 ]
 }
