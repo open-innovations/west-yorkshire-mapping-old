@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "27456694", "name": "Harewood Surgery", "amenity": "doctors", "other_tags": "\"addr:city\"=>\"Harewood\",\"addr:street\"=>\"The Square\",\"addr:postcode\"=>\"LS17 9LQ\",\"addr:housenumber\"=>\"69\",\"is_in:municipality\"=>\"Leeds\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5124273, 53.9005227 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "27456694", "name": "Harewood Surgery", "amenity": "doctors", "other_tags": "\"addr:city\"=>\"Harewood\",\"addr:housenumber\"=>\"69\",\"addr:postcode\"=>\"LS17 9LQ\",\"addr:street\"=>\"The Square\",\"healthcare\"=>\"doctor\",\"is_in:municipality\"=>\"Leeds\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5124273, 53.9005227 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "260275123", "name": "West Park Surgery", "amenity": "doctors", "is_in": "Dewsbury, West Yorkshire, England, UK" }, "geometry": { "type": "Point", "coordinates": [ -1.6402997, 53.6976533 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "288752000", "name": "Carlton Surgery", "amenity": "doctors", "other_tags": "\"healthcare\"=>\"doctor\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5410485, 53.8073918 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "290777889", "name": "Chickenley Medical Centre", "amenity": "doctors" }, "geometry": { "type": "Point", "coordinates": [ -1.6030251, 53.6865367 ] } },
