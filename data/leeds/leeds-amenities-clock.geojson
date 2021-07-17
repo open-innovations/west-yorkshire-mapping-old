@@ -12,6 +12,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4190694574", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.6903576, 53.8650569 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5897283849", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.4621044, 53.83047 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7782034315", "amenity": "clock", "other_tags": "\"date\"=>\"no\",\"display\"=>\"analog\",\"support\"=>\"pillar\",\"barometer\"=>\"no\",\"hygrometer\"=>\"no\",\"thermometer\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7180192, 53.8784728 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8664566886", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.6949448, 53.9040656 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8664566886", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.6949448, 53.9040656 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8923661450", "amenity": "clock", "other_tags": "\"display\"=>\"analog\",\"faces\"=>\"2\",\"support\"=>\"wall_mounted\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5422455, 53.7983084 ] } }
 ]
 }
