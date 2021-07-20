@@ -95,7 +95,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1877270886", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax Building Society\"" }, "geometry": { "type": "Point", "coordinates": [ -1.694482, 53.9056907 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1887599772", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"The Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5659262, 53.7727786 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1919062502", "amenity": "atm", "other_tags": "\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5869626, 53.8072814 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1938631973", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6331322, 53.846688 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1938631973", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Tesco Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6331322, 53.846688 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1965963839", "amenity": "atm", "other_tags": "\"operator\"=>\"HSBC\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5342945, 53.8126686 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2009074940", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5054587, 53.82698 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2054431718", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7263936, 53.8794542 ] } },
