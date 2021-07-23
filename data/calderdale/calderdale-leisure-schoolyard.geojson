@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.715517, "longitude": -1.797088 }, "osm_way_id": "966435600", "leisure": "schoolyard" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7973335, 53.7156783 ], [ -1.797021, 53.715739 ], [ -1.7968503, 53.7154646 ], [ -1.7968422, 53.7154297 ], [ -1.7968476, 53.7154059 ], [ -1.7968825, 53.7153837 ], [ -1.7969281, 53.715371 ], [ -1.7972575, 53.7152951 ], [ -1.7973335, 53.7156783 ] ] ] } }
+]
+}
