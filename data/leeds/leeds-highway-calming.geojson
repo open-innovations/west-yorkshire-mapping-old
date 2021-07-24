@@ -1433,6 +1433,5 @@
 { "type": "Feature", "properties": { "osm_id": "8870258550" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.37212, 53.78706 ] } },
 { "type": "Feature", "properties": { "osm_id": "8870628636" , "traffic_calming":"chicane" }, "geometry": { "type": "Point", "coordinates": [ -1.54034, 53.77918 ] } },
 { "type": "Feature", "properties": { "osm_id": "8941671851" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.53625, 53.83118 ] } }
-
 ]
 }
