@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "1655189882", "name": "Bensons for Beds", "other_tags": "\"addr:city\"=>\"Keighley\",\"addr:district\"=>\"Keighley Retail Park\",\"addr:postcode\"=>\"BD21 3NJ\",\"addr:street\"=>\"Hard Ings Road\",\"brand\"=>\"Bensons for Beds\",\"brand:wikidata\"=>\"Q4890299\",\"brand:wikipedia\"=>\"en:Bensons for Beds\",\"shop\"=>\"bed\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9050277, 53.8739805 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8047164093", "name": "Dreams", "other_tags": "\"brand\"=>\"Dreams\",\"brand:wikidata\"=>\"Q5306688\",\"brand:wikipedia\"=>\"en:Dreams (bed retailer)\",\"shop\"=>\"bed\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7549978, 53.801619 ] } }
 ]
 }

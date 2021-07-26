@@ -36,6 +36,7 @@
 { "type": "Feature", "properties": { "osm_id": "30803763" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.39041, 53.76100 ] } },
 { "type": "Feature", "properties": { "osm_id": "30803766" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.38914, 53.76129 ] } },
 { "type": "Feature", "properties": { "osm_id": "30803770" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.38551, 53.76165 ] } },
+{ "type": "Feature", "properties": { "osm_id": "30803807" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.37314, 53.77285 ] } },
 { "type": "Feature", "properties": { "osm_id": "30804002", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.38836, 53.79392 ] } },
 { "type": "Feature", "properties": { "osm_id": "30810962" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.38835, 53.79211 ] } },
 { "type": "Feature", "properties": { "osm_id": "30814884" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.46009, 53.83226 ] } },
@@ -421,6 +422,7 @@
 { "type": "Feature", "properties": { "osm_id": "3987138402" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.57340, 53.80936 ] } },
 { "type": "Feature", "properties": { "osm_id": "3987138403" , "traffic_calming":"choker" }, "geometry": { "type": "Point", "coordinates": [ -1.57322, 53.81006 ] } },
 { "type": "Feature", "properties": { "osm_id": "3987138404" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.57171, 53.81040 ] } },
+{ "type": "Feature", "properties": { "osm_id": "4027955243", "highway": "crossing" , "traffic_calming":"table" }, "geometry": { "type": "Point", "coordinates": [ -1.55672, 53.80354 ] } },
 { "type": "Feature", "properties": { "osm_id": "4037297669", "highway": "crossing" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.62084, 53.79798 ] } },
 { "type": "Feature", "properties": { "osm_id": "4202266410" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.39373, 53.73623 ] } },
 { "type": "Feature", "properties": { "osm_id": "4202266412" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.39355, 53.73505 ] } },
@@ -1432,6 +1434,10 @@
 { "type": "Feature", "properties": { "osm_id": "8870258543" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.37034, 53.78700 ] } },
 { "type": "Feature", "properties": { "osm_id": "8870258550" , "traffic_calming":"hump" }, "geometry": { "type": "Point", "coordinates": [ -1.37212, 53.78706 ] } },
 { "type": "Feature", "properties": { "osm_id": "8870628636" , "traffic_calming":"chicane" }, "geometry": { "type": "Point", "coordinates": [ -1.54034, 53.77918 ] } },
-{ "type": "Feature", "properties": { "osm_id": "8941671851" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.53625, 53.83118 ] } }
+{ "type": "Feature", "properties": { "osm_id": "8941671851" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.53625, 53.83118 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8948086358" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.37230, 53.77207 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8948086362" , "traffic_calming":"cushion" }, "geometry": { "type": "Point", "coordinates": [ -1.37436, 53.77361 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8949268975" , "traffic_calming":"choker" }, "geometry": { "type": "Point", "coordinates": [ -1.56976, 53.80586 ] } },
+{ "type": "Feature", "properties": { "osm_id": "8949268976" , "traffic_calming":"choker" }, "geometry": { "type": "Point", "coordinates": [ -1.57003, 53.80595 ] } }
 ]
 }
