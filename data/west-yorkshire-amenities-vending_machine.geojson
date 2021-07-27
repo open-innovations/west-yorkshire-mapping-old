@@ -151,6 +151,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8896796517", "amenity": "vending_machine", "other_tags": "\"blind\"=>\"limited\",\"covered\"=>\"no\",\"currency:GBP\"=>\"yes\",\"payment:cash\"=>\"yes\",\"payment:coins\"=>\"yes\",\"payment:credit_cards\"=>\"yes\",\"payment:debit_cards\"=>\"yes\",\"payment:mastercard\"=>\"yes\",\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3553971, 53.7241582 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8896796549", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3549765, 53.7243738 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8912966049", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3153051, 53.6903491 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8916253658", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.313345, 53.6928893 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8916253658", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.313345, 53.6928893 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8952213786", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4517457, 53.8046924 ] } }
 ]
 }
