@@ -1553,7 +1553,7 @@
 { "type": "Feature", "properties": { "osm_id": "5415949265", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.64086, 53.83865 ] } },
 { "type": "Feature", "properties": { "osm_id": "5415949266", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.64103, 53.83876 ] } },
 { "type": "Feature", "properties": { "osm_id": "5415949267", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.64118, 53.83886 ] } },
-{ "type": "Feature", "properties": { "osm_id": "5415949268", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.64133, 53.83896 ] } },
+{ "type": "Feature", "properties": { "osm_id": "5415949268", "Tactile paving":"yes", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.64133, 53.83896 ] } },
 { "type": "Feature", "properties": { "osm_id": "5416409522", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.64631, 53.86675 ] } },
 { "type": "Feature", "properties": { "osm_id": "5416409523", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.64654, 53.86673 ] } },
 { "type": "Feature", "properties": { "osm_id": "5416409524", "Type":"zebra" }, "geometry": { "type": "Point", "coordinates": [ -1.64682, 53.86669 ] } },
