@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1015090695", "name": "Timpson", "other_tags": "\"addr:housenumber\"=>\"2\",\"addr:postcode\"=>\"WF1 1PJ\",\"addr:street\"=>\"Westmorland Street\",\"opening_hours:covid19\"=>\"off\",\"shop\"=>\"shoe_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.497436, 53.6833879 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1305202626", "name": "M&A Shoe Repairs", "other_tags": "\"shop\"=>\"shoe_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7795812, 53.7025215 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3777343355", "name": "Timpson", "other_tags": "\"shop\"=>\"shoe_repair\",\"building\"=>\"kiosk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5105705, 53.8230805 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5218896682", "name": "ShoeCare", "other_tags": "\"shop\"=>\"shoe_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6026293, 53.7453474 ] } },
