@@ -1354,7 +1354,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "6876039509", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5401583, 53.7905207 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6879708881", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5771458, 53.7530601 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6879708882", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5767859, 53.7531052 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6935272493", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5470468, 53.7996727 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6935272493", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5470535, 53.7996885 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6964180073", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4850475, 53.8155095 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6964296953", "name": "Chris & Sharon Bell", "other_tags": "\"natural\"=>\"tree\",\"historic\"=>\"memorial\",\"memorial\"=>\"stone\",\"inscription\"=>\"THIS TREE IS DEDICATED TO THE MEMORY OF CHRIS AND SHARON BELL\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4711263, 53.8086018 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7026941526", "barrier": "yes", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5161547, 53.7715766 ] } },
@@ -2086,6 +2086,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "8978506809", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5603425, 53.806546 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8978506810", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5600743, 53.8064019 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8978506811", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.559908, 53.8064589 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8986579688", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5291345, 53.79944 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8986579688", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5291345, 53.79944 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8989568092", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5470584, 53.7999035 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8990253840", "other_tags": "\"natural\"=>\"tree\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5482835, 53.7924581 ] } }
 ]
 }
