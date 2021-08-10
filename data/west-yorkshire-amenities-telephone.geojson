@@ -289,7 +289,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "685938909", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX300\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.705379, 53.7789379 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "690924199", "amenity": "telephone", "other_tags": "\"booth\"=>\"oakham\",\"colour\"=>\"yellow\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9033397, 53.8614122 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "760697876", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX300\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5238594, 53.7977296 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "780156080", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX100\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8379147, 53.8475249 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "780156100", "amenity": "telephone", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8339981, 53.8134927 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "851657701", "amenity": "telephone", "other_tags": "\"operator\"=>\"British Telecom\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7706311, 53.7115434 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "855575848", "amenity": "telephone", "other_tags": "\"booth\"=>\"KX100\",\"covered\"=>\"booth\",\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5525149, 53.7877642 ] } },
@@ -644,6 +643,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8923661448", "amenity": "telephone", "other_tags": "\"booth\"=>\"InLink\",\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5434809, 53.7992324 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8923661451", "amenity": "telephone", "other_tags": "\"booth\"=>\"InLink\",\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5424248, 53.7964295 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8923661452", "amenity": "telephone", "other_tags": "\"booth\"=>\"InLink\",\"operator\"=>\"BT\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5426581, 53.7954346 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8991510189", "amenity": "telephone", "other_tags": "\"booth\"=>\"KXPlus\",\"covered\"=>\"booth\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4935185, 53.6817198 ] } },
 	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.806304, "longitude": -1.477629 }, "osm_way_id": "681264221", "name": "ASDA Click & Collect", "amenity": "telephone", "building": "roof", "shop": "kiosk", "other_tags": "\"layer\"=>\"1\",\"building:levels\"=>\"1\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4776298, 53.8063349 ], [ -1.4776141, 53.8063291 ], [ -1.477583, 53.8063179 ], [ -1.4776289, 53.8062739 ], [ -1.4776577, 53.8062843 ], [ -1.4776757, 53.8062909 ], [ -1.4776298, 53.8063349 ] ] ] ] } }
 ]
 }
