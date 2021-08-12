@@ -359,6 +359,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8746336079", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8288823, 53.9259168 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8746336088", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.823562, 53.9248194 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8994370339", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"currency:£\"=>\"yes\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4700623, 53.8402673 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8995308517", "name": "Barclays", "amenity": "atm", "other_tags": "\"brand\"=>\"Barclays\",\"brand:wikidata\"=>\"Q245343\",\"brand:wikipedia\"=>\"en:Barclays\",\"operator\"=>\"Barclays\",\"operator:wikidata\"=>\"Q245343\",\"operator:wikipedia\"=>\"en:Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2960073, 53.5939374 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8995308517", "name": "Barclays", "amenity": "atm", "other_tags": "\"brand\"=>\"Barclays\",\"brand:wikidata\"=>\"Q245343\",\"brand:wikipedia\"=>\"en:Barclays\",\"operator\"=>\"Barclays\",\"operator:wikidata\"=>\"Q245343\",\"operator:wikipedia\"=>\"en:Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2960073, 53.5939374 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8997526912", "name": "NoteMachine", "amenity": "atm", "other_tags": "\"brand\"=>\"NoteMachine\",\"brand:wikidata\"=>\"Q104368525\",\"operator\"=>\"NoteMachine\",\"operator:wikidata\"=>\"Q104368525\",\"short_name\"=>\"NMATM\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2881818, 53.594321 ] } }
 ]
 }
