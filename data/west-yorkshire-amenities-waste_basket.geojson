@@ -4368,6 +4368,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8977499556", "amenity": "waste_basket", "other_tags": "\"colour\"=>\"black\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7094184, 53.7199374 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8977616096", "amenity": "waste_basket", "other_tags": "\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7186475, 53.7309547 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8985220801", "amenity": "waste_basket", "other_tags": "\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7118549, 53.8734629 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8990692433", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"Leeds City Council\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5974503, 53.8191519 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8990692433", "amenity": "waste_basket", "other_tags": "\"operator\"=>\"Leeds City Council\",\"waste\"=>\"trash\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5974503, 53.8191519 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9001801758", "amenity": "waste_basket" }, "geometry": { "type": "Point", "coordinates": [ -1.7123582, 53.7250889 ] } }
 ]
 }
