@@ -180,7 +180,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2623539934", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Sainsury's Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9832884, 53.7309138 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2888241515", "name": "Cash Machine", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.434765, 53.794515 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3124685562", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6763581, 53.7064539 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "3145367892", "name": "Sainsburys", "amenity": "atm", "other_tags": "\"atm\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5381877, 53.7937203 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3145367892", "name": "Sainsburys", "amenity": "atm", "other_tags": "\"atm\"=>\"no\",\"check_date\"=>\"2021-08-11\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5381877, 53.7937203 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3225905510", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5701262, 53.8122085 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3257033807", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4458031, 53.7534025 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3409740389", "amenity": "atm", "other_tags": "\"booth\"=>\"KXPlus\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7825311, 53.6470409 ] } },
@@ -216,7 +216,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "3848979874", "amenity": "atm", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6292684, 53.8473624 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3904815772", "amenity": "atm", "other_tags": "\"operator\"=>\"Tesco Bank\",\"drive_through\"=>\"no\",\"opening_hours\"=>\"24\/7\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6403145, 53.8319064 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4051026380", "amenity": "atm", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5501916, 53.621795 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4113846170", "amenity": "atm", "other_tags": "\"operator\"=>\"Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6719416, 53.811598 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4113846170", "amenity": "atm", "other_tags": "\"check_date\"=>\"2021-08-13\",\"operator\"=>\"Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6719416, 53.811598 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4189556311", "amenity": "atm", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.38961, 53.9302462 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4192442239", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.4768953, 53.8061054 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4194370889", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5632551, 53.7242119 ] } },
@@ -249,7 +249,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5229255387", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7305963, 53.8084933 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5229466000", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.6012479, 53.7522417 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5231639152", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7356412, 53.7968725 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5244761684", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.3845568, 53.9310097 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5244761684", "amenity": "atm", "other_tags": "\"check_date\"=>\"2021-08-13\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3845568, 53.9310097 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5248165218", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7855153, 53.7996617 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5262528860", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4604494, 53.8221935 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5301181159", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7135714, 53.7232006 ] } },
@@ -360,6 +360,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8746336088", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.823562, 53.9248194 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8994370339", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"currency:£\"=>\"yes\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4700623, 53.8402673 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8995308517", "name": "Barclays", "amenity": "atm", "other_tags": "\"brand\"=>\"Barclays\",\"brand:wikidata\"=>\"Q245343\",\"brand:wikipedia\"=>\"en:Barclays\",\"operator\"=>\"Barclays\",\"operator:wikidata\"=>\"Q245343\",\"operator:wikipedia\"=>\"en:Barclays\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2960073, 53.5939374 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8997526912", "name": "NoteMachine", "amenity": "atm", "other_tags": "\"brand\"=>\"NoteMachine\",\"brand:wikidata\"=>\"Q104368525\",\"operator\"=>\"NoteMachine\",\"operator:wikidata\"=>\"Q104368525\",\"short_name\"=>\"NMATM\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2881818, 53.594321 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8997526912", "name": "NoteMachine", "amenity": "atm", "other_tags": "\"brand\"=>\"NoteMachine\",\"brand:wikidata\"=>\"Q104368525\",\"operator\"=>\"NoteMachine\",\"operator:wikidata\"=>\"Q104368525\",\"short_name\"=>\"NMATM\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2881818, 53.594321 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9003013111", "name": "Lloyds Bank", "amenity": "atm", "other_tags": "\"brand\"=>\"Lloyds Bank\",\"brand:wikidata\"=>\"Q1152847\",\"brand:wikipedia\"=>\"en:Lloyds Bank\",\"operator\"=>\"Lloyds Bank\",\"operator:wikidata\"=>\"Q1152847\",\"operator:wikipedia\"=>\"en:Lloyds Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2952662, 53.5943614 ] } }
 ]
 }
