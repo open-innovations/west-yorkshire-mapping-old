@@ -19,7 +19,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "4362557270", "amenity": "toilets", "other_tags": "\"level\"=>\"-1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5404146, 53.7960286 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4485179449", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.5045288, 53.8403722 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4569592178", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.5747929, 53.75718 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4814272007", "amenity": "toilets", "other_tags": "\"description\"=>\"Open during Café opening hours.\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6919377, 53.8961825 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4814272007", "amenity": "toilets", "other_tags": "\"description\"=>\"Open during Café opening hours.\",\"wheelchair\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6919377, 53.8961825 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5296593509", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.6366947, 53.8036257 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5387998547", "amenity": "toilets" }, "geometry": { "type": "Point", "coordinates": [ -1.5448474, 53.7542647 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5648164584", "amenity": "toilets", "other_tags": "\"level\"=>\"1\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5437575, 53.8004623 ] } },
