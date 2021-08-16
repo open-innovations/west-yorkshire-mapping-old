@@ -200,6 +200,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "8661979506", "name": "Co-op Bank", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\",\"operator\"=>\"Co-op Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5625901, 53.8006543 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8674606830", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5326037, 53.8026989 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8675273535", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"drive_through\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5763287, 53.7982432 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8994370339", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"currency:£\"=>\"yes\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4700623, 53.8402673 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8994370339", "amenity": "atm", "other_tags": "\"currency:GBP\"=>\"yes\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4700623, 53.8402673 ] } }
 ]
 }

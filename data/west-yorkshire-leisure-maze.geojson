@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "337691566", "other_tags": "\"leisure\"=>\"maze\",\"tourism\"=>\"attraction\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7721554, 53.8125391 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.920095, "longitude": -1.823374 }, "osm_way_id": "853032417", "name": "The Millenium Maze", "leisure": "maze" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8235762, 53.9200154 ], [ -1.8235789, 53.9200636 ], [ -1.823528, 53.9201441 ], [ -1.8234207, 53.9201923 ], [ -1.8233201, 53.9201797 ], [ -1.8232691, 53.920152 ], [ -1.8231967, 53.9201718 ], [ -1.8231699, 53.9201149 ], [ -1.8232504, 53.9200699 ], [ -1.8233442, 53.9200225 ], [ -1.8234046, 53.919998 ], [ -1.8234824, 53.9200106 ], [ -1.8235762, 53.9200154 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "337691566", "other_tags": "\"leisure\"=>\"maze\",\"tourism\"=>\"attraction\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7721554, 53.8125391 ] } }
 ]
 }
