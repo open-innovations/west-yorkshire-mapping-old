@@ -137,7 +137,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "1628054314", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.9276183, 53.6019979 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1628093529", "name": "Meltham Baptist Chapel", "amenity": "place_of_worship", "other_tags": "\"religion\"=>\"christian\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8505616, 53.5944365 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1628108112", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.6513368, 53.832729 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1628108125", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.6373271, 53.8396678 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1628108125", "name": "Horsforth Central Methodist Church", "amenity": "place_of_worship", "other_tags": "\"religion\"=>\"christian\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6373271, 53.8396678 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1628338766", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.8784251, 53.6207363 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1633040723", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.7325793, 53.8101737 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1633040725", "amenity": "place_of_worship" }, "geometry": { "type": "Point", "coordinates": [ -1.7296932, 53.8081845 ] } },

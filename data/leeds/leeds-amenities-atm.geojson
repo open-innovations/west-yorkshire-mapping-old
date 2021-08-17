@@ -166,7 +166,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "5570965013", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.493018, 53.8091566 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5642157014", "amenity": "atm", "other_tags": "\"operator\"=>\"Yorkshire Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6409055, 53.8375549 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5642157015", "amenity": "atm", "other_tags": "\"operator\"=>\"Halifax\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6407344, 53.8376399 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5642157016", "amenity": "atm", "other_tags": "\"operator\"=>\"Santander\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6404544, 53.8378008 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5819186757", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.5513639, 53.7918153 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5940726770", "amenity": "atm", "other_tags": "\"brand\"=>\"Natwest\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399071, 53.7980986 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5940726771", "amenity": "atm", "other_tags": "\"brand\"=>\"Natwest\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5399025, 53.7981081 ] } },
