@@ -21,7 +21,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "298050312", "name": "Beecroft Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6411224, 53.8113383 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "314690401", "name": "Cupwith Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9523406, 53.6233988 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "315910131", "name": "The Chevin", "other_tags": "\"natural\"=>\"peak\",\"wikidata\"=>\"Q7722371\",\"wikipedia\"=>\"en:The Chevin\",\"is_in:county\"=>\"West Yorkshire\",\"is_in:country_code\"=>\"GB\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6970705, 53.8932973 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "321821893", "name": "Wolfstones", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.813085, 53.5781984 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "321821893", "name": "Wolfstones", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8131257, 53.5781758 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "338717399", "name": "Reva Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.77051, 53.8862105 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "340145312", "name": "Britland Edge Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8410812, 53.5198619 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "341122750", "name": "Cheese Gate Nab", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7385209, 53.5559129 ] } },
