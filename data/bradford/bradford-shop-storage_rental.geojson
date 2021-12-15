@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.778911, "longitude": -1.643931 }, "osm_way_id": "373837225", "name": "Jacmil Caravan Storage", "landuse": "commercial", "shop": "storage_rental", "other_tags": "\"covered\"=>\"no\",\"addr:city\"=>\"Bradford\",\"addr:street\"=>\"Tong Lane\",\"addr:village\"=>\"Tong\",\"addr:postcode\"=>\"BD4 0RU\",\"storage_rental\"=>\"caravans\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6440351, 53.7783461 ], [ -1.6441095, 53.778557 ], [ -1.644559, 53.7788263 ], [ -1.6443533, 53.7793424 ], [ -1.6439449, 53.779475 ], [ -1.6433027, 53.7785752 ], [ -1.6440351, 53.7783461 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "373837225", "name": "Jacmil Caravan Storage", "landuse": "commercial", "shop": "storage_rental", "other_tags": "\"covered\"=>\"no\",\"addr:city\"=>\"Bradford\",\"addr:street\"=>\"Tong Lane\",\"addr:village\"=>\"Tong\",\"addr:postcode\"=>\"BD4 0RU\",\"storage_rental\"=>\"caravans\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6440351, 53.7783461 ], [ -1.6441095, 53.778557 ], [ -1.644559, 53.7788263 ], [ -1.6443533, 53.7793424 ], [ -1.6439449, 53.779475 ], [ -1.6433027, 53.7785752 ], [ -1.6440351, 53.7783461 ] ] ] } }
 ]
 }

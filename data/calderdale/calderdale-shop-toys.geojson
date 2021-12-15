@@ -4,6 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5468321869", "name": "Ninja", "other_tags": "\"shop\"=>\"toys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8613806, 53.7233848 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7241052128", "name": "Silly Billy's", "other_tags": "\"shop\"=>\"toys\"" }, "geometry": { "type": "Point", "coordinates": [ -2.014016, 53.7418621 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.686536, "longitude": -1.855374 }, "osm_way_id": "603526976", "name": "Model Shop & Trophy Centre", "building": "yes", "shop": "toys" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8553388, 53.6865945 ], [ -1.8553282, 53.6864799 ], [ -1.8554097, 53.6864773 ], [ -1.8554203, 53.6865918 ], [ -1.8553388, 53.6865945 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "603526976", "name": "Model Shop & Trophy Centre", "building": "yes", "shop": "toys" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8553388, 53.6865945 ], [ -1.8553282, 53.6864799 ], [ -1.8554097, 53.6864773 ], [ -1.8554203, 53.6865918 ], [ -1.8553388, 53.6865945 ] ] ] } }
 ]
 }

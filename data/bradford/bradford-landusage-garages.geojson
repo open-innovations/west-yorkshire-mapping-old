@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.771081, "longitude": -1.721933 }, "osm_way_id": "51931823", "amenity": "parking", "landuse": "garages" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7220906, 53.7711812 ], [ -1.7217143, 53.7710492 ], [ -1.7217776, 53.770981 ], [ -1.7221517, 53.7711172 ], [ -1.7220906, 53.7711812 ] ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.841283, "longitude": -1.788296 }, "osm_way_id": "155582951", "building": "yes", "landuse": "garages" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7883561, 53.8413325 ], [ -1.788194, 53.8412731 ], [ -1.7882355, 53.8412337 ], [ -1.7883975, 53.8412931 ], [ -1.7883561, 53.8413325 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "155582951", "building": "yes", "landuse": "garages" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7883561, 53.8413325 ], [ -1.788194, 53.8412731 ], [ -1.7882355, 53.8412337 ], [ -1.7883975, 53.8412931 ], [ -1.7883561, 53.8413325 ] ] ] } }
 ]
 }

@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.817732, "longitude": -1.443009 }, "osm_way_id": "690465441", "name": "Austhorpe Signs", "building": "yes", "shop": "sign", "other_tags": "\"addr:housenumber\"=>\"unit 4\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4428731, 53.8176977 ], [ -1.4428995, 53.8176566 ], [ -1.4429205, 53.8176614 ], [ -1.4430854, 53.8177001 ], [ -1.4430593, 53.8177389 ], [ -1.4431455, 53.8177591 ], [ -1.4430646, 53.8178081 ], [ -1.4428731, 53.8176977 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "690465441", "name": "Austhorpe Signs", "building": "yes", "shop": "sign", "other_tags": "\"addr:housenumber\"=>\"unit 4\",\"addr:street\"=>\"Stanks Lane South\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4428731, 53.8176977 ], [ -1.4428995, 53.8176566 ], [ -1.4429205, 53.8176614 ], [ -1.4430854, 53.8177001 ], [ -1.4430593, 53.8177389 ], [ -1.4431455, 53.8177591 ], [ -1.4430646, 53.8178081 ], [ -1.4428731, 53.8176977 ] ] ] ] } }
 ]
 }

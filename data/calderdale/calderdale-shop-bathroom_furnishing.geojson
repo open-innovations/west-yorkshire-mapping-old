@@ -4,6 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "3772674980", "name": "Halifax Plumbers Merchants", "other_tags": "\"shop\"=>\"bathroom_furnishing\",\"operator\"=>\"bathroomsforme.com\",\"addr:city\"=>\"Halifax\",\"addr:street\"=>\"Jubilee Road\",\"addr:postcode\"=>\"HX3 9LL\",\"addr:housenumber\"=>\"150\"" }, "geometry": { "type": "Point", "coordinates": [ -1.853247, 53.7019801 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8414813853", "name": "FAB Bathrooms", "other_tags": "\"shop\"=>\"bathroom_furnishing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8593627, 53.7196418 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.726129, "longitude": -1.872074 }, "osm_way_id": "322077412", "name": "James Hargreaves Bathrooms", "building": "retail", "shop": "bathroom_furnishing" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8721669, 53.7262425 ], [ -1.8719589, 53.7262348 ], [ -1.871982, 53.7260149 ], [ -1.87219, 53.7260226 ], [ -1.8721669, 53.7262425 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "322077412", "name": "James Hargreaves Bathrooms", "building": "retail", "shop": "bathroom_furnishing" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8721669, 53.7262425 ], [ -1.8719589, 53.7262348 ], [ -1.871982, 53.7260149 ], [ -1.87219, 53.7260226 ], [ -1.8721669, 53.7262425 ] ] ] } }
 ]
 }

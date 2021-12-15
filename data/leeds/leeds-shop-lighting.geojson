@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.780004, "longitude": -1.592227 }, "osm_way_id": "329771352", "name": "Litecraft", "building": "yes", "shop": "lighting", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Royd Lane\",\"addr:postcode\"=>\"LS12 6AE\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5923671, 53.7802002 ], [ -1.591912, 53.780113 ], [ -1.5920803, 53.779808 ], [ -1.5925417, 53.7799017 ], [ -1.5923671, 53.7802002 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "329771352", "name": "Litecraft", "building": "yes", "shop": "lighting", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Royd Lane\",\"addr:postcode\"=>\"LS12 6AE\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5923671, 53.7802002 ], [ -1.591912, 53.780113 ], [ -1.5920803, 53.779808 ], [ -1.5925417, 53.7799017 ], [ -1.5923671, 53.7802002 ] ] ] } }
 ]
 }

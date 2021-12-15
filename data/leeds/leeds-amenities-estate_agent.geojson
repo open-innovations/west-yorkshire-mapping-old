@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.822092, "longitude": -1.579015 }, "osm_way_id": "203243804", "name": "Linley & Simpson", "amenity": "estate_agent", "building": "commercial", "office": "estate_agent", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"75\",\"addr:street\"=>\"Otley Road\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5789983, 53.822137 ], [ -1.5789391, 53.8220834 ], [ -1.5790327, 53.8220474 ], [ -1.5790919, 53.822101 ], [ -1.5789983, 53.822137 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "203243804", "name": "Linley & Simpson", "amenity": "estate_agent", "building": "commercial", "office": "estate_agent", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"75\",\"addr:street\"=>\"Otley Road\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5789983, 53.822137 ], [ -1.5789391, 53.8220834 ], [ -1.5790327, 53.8220474 ], [ -1.5790919, 53.822101 ], [ -1.5789983, 53.822137 ] ] ] } }
 ]
 }

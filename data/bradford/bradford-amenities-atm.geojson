@@ -47,7 +47,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5792055772", "name": "Cash zone", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7965487, 53.8357238 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6225963573", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7884727, 53.841114 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6225969280", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7659216, 53.8412635 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6993858957", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8984692, 53.8268723 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6993858957", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8984737, 53.8268728 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7181035933", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Tesco Express\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7956128, 53.928733 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8746336079", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8288823, 53.9259168 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8746336088", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.823562, 53.9248194 ] } }

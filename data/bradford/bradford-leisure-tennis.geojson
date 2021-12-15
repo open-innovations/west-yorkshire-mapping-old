@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "988540251", "leisure": "tennis", "sport": "tennis" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.78913, 53.9202838 ], [ -1.7891219, 53.9201006 ], [ -1.7896543, 53.9200951 ], [ -1.7896651, 53.9202736 ], [ -1.78913, 53.9202838 ] ] ] } }
+]
+}

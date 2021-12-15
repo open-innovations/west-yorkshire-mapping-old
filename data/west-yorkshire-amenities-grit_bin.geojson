@@ -58,6 +58,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "2357538245", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.6342697, 53.7135874 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2376594194", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.6261954, 53.665421 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2406928418", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7000653, 53.9144513 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2808137942", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7698775, 53.6225555 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3025622678", "amenity": "grit_bin", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0084792, 53.7377103 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3025622680", "amenity": "grit_bin", "other_tags": "\"access\"=>\"private\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0094236, 53.7380717 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3025622681", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -2.0101165, 53.7391388 ] } },
@@ -78,7 +79,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "7733138919", "amenity": "grit_bin", "other_tags": "\"material\"=>\"plastic\",\"operator\"=>\"Wakefield Conucil\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5030039, 53.6841228 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7741052743", "amenity": "grit_bin", "other_tags": "\"access\"=>\"yes\",\"material\"=>\"plastic\",\"operator\"=>\"IKEA (UK)\",\"collection_times\"=>\"When needs filling\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6483923, 53.7450899 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7895251923", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.6272238, 53.8254851 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7899267780", "amenity": "grit_bin", "other_tags": "\"colour\"=>\"yellow\",\"material\"=>\"plastic\",\"operator\"=>\"Wakefield Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3396019, 53.7163483 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7899267780", "amenity": "grit_bin", "other_tags": "\"colour\"=>\"yellow\",\"material\"=>\"plastic\",\"operator\"=>\"Wakefield Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3396517, 53.7162853 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7923628241", "amenity": "grit_bin", "other_tags": "\"colour\"=>\"#ddf23a\",\"material\"=>\"plastic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3215166, 53.6983663 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7989634822", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7150029, 53.8760883 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7989634830", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7151662, 53.8759717 ] } },
@@ -124,6 +125,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "8659387014", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7077562, 53.8677932 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8719656140", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.8263027, 53.8477748 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8758876478", "amenity": "grit_bin", "other_tags": "\"colour\"=>\"yellow\",\"material\"=>\"plastic\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7773712, 53.5850132 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8807443563", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.9585134, 53.6551751 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8807443563", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.9585134, 53.6551751 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9046326573", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -2.0988441, 53.7098062 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9073050672", "amenity": "grit_bin", "other_tags": "\"access\"=>\"yes\",\"colour\"=>\"yellow\",\"material\"=>\"plastic\",\"survey:date\"=>\"2021-09-08\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6950808, 53.5975357 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9201419827", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7710269, 53.6228557 ] } }
 ]
 }

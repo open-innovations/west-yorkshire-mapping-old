@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.657013, "longitude": -1.467063 }, "osm_way_id": "543253401", "name": "Walton Herbs", "building": "yes", "shop": "herbs", "other_tags": "\"phone\"=>\"+44 1924 255666\",\"website\"=>\"http:\/\/waltonherbs.co.uk\/\",\"addr:city\"=>\"Wakefield\",\"addr:street\"=>\"Oakenshaw Lane\",\"addr:postcode\"=>\"WF2 6NJ\",\"addr:housenumber\"=>\"59\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4671495, 53.6569714 ], [ -1.4670979, 53.6570758 ], [ -1.4669756, 53.6570545 ], [ -1.4670272, 53.6569502 ], [ -1.4671495, 53.6569714 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "543253401", "name": "Walton Herbs", "building": "yes", "shop": "herbs", "other_tags": "\"phone\"=>\"+44 1924 255666\",\"website\"=>\"http:\/\/waltonherbs.co.uk\/\",\"addr:city\"=>\"Wakefield\",\"addr:street\"=>\"Oakenshaw Lane\",\"addr:postcode\"=>\"WF2 6NJ\",\"addr:housenumber\"=>\"59\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4671495, 53.6569714 ], [ -1.4670979, 53.6570758 ], [ -1.4669756, 53.6570545 ], [ -1.4670272, 53.6569502 ], [ -1.4671495, 53.6569714 ] ] ] ] } }
 ]
 }

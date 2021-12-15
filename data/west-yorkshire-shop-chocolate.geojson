@@ -3,6 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "3621975749", "name": "Charbonnel et Walker", "other_tags": "\"shop\"=>\"chocolate\",\"website\"=>\"https:\/\/www.charbonnel.co.uk\/\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"County Arcade\",\"addr:postcode\"=>\"LS1 6BW\",\"addr:housenumber\"=>\"19\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5412229, 53.7982962 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.570700, "longitude": -1.787034 }, "osm_way_id": "335204493", "name": "Bon Chocolat", "building": "retail", "shop": "chocolate", "other_tags": "\"building:levels\"=>\"2\",\"building:material\"=>\"stone\",\"roof:orientation\"=>\"across\",\"roof:shape\"=>\"gabled\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7871232, 53.5707024 ], [ -1.7871078, 53.5707299 ], [ -1.7869452, 53.5706979 ], [ -1.7869606, 53.5706704 ], [ -1.7871232, 53.5707024 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "335204493", "name": "Bon Chocolat", "building": "retail", "shop": "chocolate", "other_tags": "\"building:levels\"=>\"2\",\"building:material\"=>\"stone\",\"roof:orientation\"=>\"across\",\"roof:shape\"=>\"gabled\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7871232, 53.5707024 ], [ -1.7871078, 53.5707299 ], [ -1.7869452, 53.5706979 ], [ -1.7869606, 53.5706704 ], [ -1.7871232, 53.5707024 ] ] ] ] } }
 ]
 }

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "992238584", "name": "Sinamay", "building": "yes", "shop": "fashion_accessories", "other_tags": "\"addr:city\"=>\"Rastrick\",\"addr:housenumber\"=>\"28\",\"addr:street\"=>\"New Hey Road\",\"clothes\"=>\"hats\",\"phone\"=>\"01484 720720\",\"website\"=>\"https:\/\/www.sinamaymillinery.co.uk\/\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7981211, 53.6851616 ], [ -1.798038, 53.6851113 ], [ -1.7980232, 53.6851046 ], [ -1.7981457, 53.6850343 ], [ -1.7982192, 53.6850759 ], [ -1.7982002, 53.6850871 ], [ -1.7982227, 53.6851006 ], [ -1.7981211, 53.6851616 ] ] ] } }
+]
+}

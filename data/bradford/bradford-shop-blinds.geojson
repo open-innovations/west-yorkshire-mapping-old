@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.865253, "longitude": -1.906193 }, "osm_way_id": "177041896", "name": "Manor Blinds", "building": "yes", "shop": "blinds", "other_tags": "\"phone\"=>\"+44 1535 691919\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9063436, 53.8652172 ], [ -1.9063306, 53.8653037 ], [ -1.9060419, 53.8652887 ], [ -1.9060549, 53.8652022 ], [ -1.9063436, 53.8652172 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "177041896", "name": "Manor Blinds", "building": "yes", "shop": "blinds", "other_tags": "\"phone\"=>\"+44 1535 691919\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9063436, 53.8652172 ], [ -1.9063306, 53.8653037 ], [ -1.9060419, 53.8652887 ], [ -1.9060549, 53.8652022 ], [ -1.9063436, 53.8652172 ] ] ] } }
 ]
 }

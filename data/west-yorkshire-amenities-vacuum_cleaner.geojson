@@ -5,8 +5,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "3786773389", "amenity": "vacuum_cleaner", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.638165, 53.8040475 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7751969177", "amenity": "vacuum_cleaner", "other_tags": "\"fee\"=>\"yes\",\"lit\"=>\"yes\",\"charge\"=>\"£1\",\"covered\"=>\"no\",\"operator\"=>\"Shell\",\"payment:coins\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.2990819, 53.6970265 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7953558994", "amenity": "vacuum_cleaner" }, "geometry": { "type": "Point", "coordinates": [ -1.3072604, 53.6916669 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8062547801", "amenity": "vacuum_cleaner" }, "geometry": { "type": "Point", "coordinates": [ -1.5720598, 53.7545862 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8062623976", "amenity": "vacuum_cleaner" }, "geometry": { "type": "Point", "coordinates": [ -1.571637, 53.7552912 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8067804755", "amenity": "vacuum_cleaner" }, "geometry": { "type": "Point", "coordinates": [ -1.5307714, 53.7481233 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8068235620", "amenity": "vacuum_cleaner" }, "geometry": { "type": "Point", "coordinates": [ -1.6085999, 53.7360434 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8438666830", "amenity": "vacuum_cleaner" }, "geometry": { "type": "Point", "coordinates": [ -1.8351794, 53.6886235 ] } },

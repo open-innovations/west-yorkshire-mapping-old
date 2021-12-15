@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "115559368", "building": "retail", "shop": "vacant", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:housenumber\"=>\"24-26\",\"addr:postcode\"=>\"HD6 1AQ\",\"addr:street\"=>\"Commercial Street\",\"atm\"=>\"yes\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7798442, 53.7026013 ], [ -1.7796905, 53.7026222 ], [ -1.7796759, 53.7025883 ], [ -1.7796348, 53.7024816 ], [ -1.7798037, 53.7024583 ], [ -1.7798432, 53.7025566 ], [ -1.7798442, 53.7026013 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "148853887", "building": "yes", "shop": "vacant", "other_tags": "\"vacant\"=>\"yes\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.779075, 53.7022615 ], [ -1.7789118, 53.702261 ], [ -1.7788849, 53.7022608 ], [ -1.7788864, 53.7021275 ], [ -1.7788664, 53.7021275 ], [ -1.7788667, 53.7021074 ], [ -1.7790467, 53.7021081 ], [ -1.7790711, 53.7021082 ], [ -1.7790768, 53.7021082 ], [ -1.779075, 53.7022615 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "148866615", "building": "yes", "shop": "vacant" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7796146, 53.701639 ], [ -1.779514, 53.7016378 ], [ -1.7794218, 53.7015608 ], [ -1.7795629, 53.7014938 ], [ -1.7795816, 53.7015038 ], [ -1.7796146, 53.701639 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "995057351", "building": "yes", "shop": "vacant", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:housenumber\"=>\"4\",\"addr:postcode\"=>\"HD6 1AQ\",\"addr:street\"=>\"Commercial Street\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7796067, 53.7025982 ], [ -1.7795471, 53.7026064 ], [ -1.7795077, 53.7025066 ], [ -1.7795049, 53.7024994 ], [ -1.7795645, 53.7024912 ], [ -1.7796067, 53.7025982 ] ] ] } }
+]
+}

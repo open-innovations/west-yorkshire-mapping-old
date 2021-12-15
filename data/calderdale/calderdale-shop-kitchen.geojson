@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "8414469006", "name": "Halifax Kitchen& Bathroom Company", "other_tags": "\"shop\"=>\"kitchen\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8606956, 53.719682 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8414469009", "name": "Halifax Kitchen& Bathroom Company", "other_tags": "\"shop\"=>\"kitchen\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8603684, 53.7198312 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8414469009", "name": "Halifax Kitchen& Bathroom Company", "other_tags": "\"shop\"=>\"kitchen\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8603684, 53.7198312 ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "993777042", "name": "Masterclass Kitchens", "building": "yes", "shop": "kitchen", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:housenumber\"=>\"4\",\"addr:postcode\"=>\"HD6 1RW\",\"addr:street\"=>\"Bradford Road\",\"phone\"=>\"01422 887426\",\"website\"=>\"https:\/\/masterclasskitchensbrighouse.co.uk\/\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7790834, 53.7018175 ], [ -1.7790825, 53.7018614 ], [ -1.778881, 53.7018622 ], [ -1.778879, 53.7018182 ], [ -1.7790834, 53.7018175 ] ] ] } }
 ]
 }

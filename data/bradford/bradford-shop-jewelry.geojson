@@ -5,8 +5,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "382568571", "name": "Zeb Jewellery", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7760852, 53.8062174 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "506368974", "name": "J.W Whitley & Son", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9112768, 53.8634798 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2195805620", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7574368, 53.7965812 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2358605893", "name": "Perkins", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7770121, 53.8329082 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2358605893", "name": "Perkins", "other_tags": "\"addr:postcode\"=>\"BD18 3QQ\",\"addr:street\"=>\"Arndale Shopping Centre\",\"addr:suburb\"=>\"Shipley\",\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7770121, 53.8329082 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5711950288", "name": "Bingley Jewellers", "other_tags": "\"shop\"=>\"jewelry\",\"website\"=>\"http:\/\/www.bingleyjewellery.co.uk\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"addr:postcode\"=>\"BD16 2HZ\",\"addr:housenumber\"=>\"71\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8387034, 53.8493069 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7837875676", "name": "Lister Horsfall", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8236439, 53.9246419 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7837875676", "name": "Lister Horsfall", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8236439, 53.9246419 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9130019939", "name": "Christopher Brown", "other_tags": "\"shop\"=>\"jewelry\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7773389, 53.8328956 ] } }
 ]
 }

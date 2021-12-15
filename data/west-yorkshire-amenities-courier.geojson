@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.774702, "longitude": -1.512606 }, "osm_way_id": "151467627", "name": "Citylink", "amenity": "courier", "building": "yes" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5129926, 53.7747084 ], [ -1.5126104, 53.7749305 ], [ -1.5122187, 53.7746951 ], [ -1.512601, 53.774473 ], [ -1.5129926, 53.7747084 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "151467627", "name": "Citylink", "amenity": "courier", "building": "yes" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5129926, 53.7747084 ], [ -1.5126104, 53.7749305 ], [ -1.5122187, 53.7746951 ], [ -1.512601, 53.774473 ], [ -1.5129926, 53.7747084 ] ] ] ] } }
 ]
 }

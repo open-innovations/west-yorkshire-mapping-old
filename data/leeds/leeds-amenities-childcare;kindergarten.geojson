@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.800542, "longitude": -1.550562 }, "osm_way_id": "954639013", "name": "Twinkles Nursery", "amenity": "childcare;kindergarten", "building": "yes", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"5\",\"addr:postcode\"=>\"LS1 3AX\",\"addr:street\"=>\"Oxford Place\",\"fhrs:id\"=>\"1150682\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5506287, 53.8004864 ], [ -1.5506615, 53.8004912 ], [ -1.5506334, 53.8005827 ], [ -1.5506904, 53.800589 ], [ -1.5506856, 53.8006108 ], [ -1.5504343, 53.800582 ], [ -1.5504778, 53.8004726 ], [ -1.5506287, 53.8004864 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "954639013", "name": "Twinkles Nursery", "amenity": "childcare;kindergarten", "building": "yes", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"5\",\"addr:postcode\"=>\"LS1 3AX\",\"addr:street\"=>\"Oxford Place\",\"fhrs:id\"=>\"1150682\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5506287, 53.8004864 ], [ -1.5506615, 53.8004912 ], [ -1.5506334, 53.8005827 ], [ -1.5506904, 53.800589 ], [ -1.5506856, 53.8006108 ], [ -1.5504343, 53.800582 ], [ -1.5504778, 53.8004726 ], [ -1.5506287, 53.8004864 ] ] ] } }
 ]
 }

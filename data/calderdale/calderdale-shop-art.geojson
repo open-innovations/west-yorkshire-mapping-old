@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1026946822", "name": "Harrison Lord", "other_tags": "\"shop\"=>\"art\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7793523, 53.7017782 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1414464722", "name": "Todmorden Fine Art", "other_tags": "\"shop\"=>\"art\",\"website\"=>\"http:\/\/www.todmordenfineart.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0980461, 53.7128965 ] } }
 ]
 }

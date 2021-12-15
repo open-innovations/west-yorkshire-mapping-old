@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "1351523108", "name": "Vantage Toyota Leeds", "other_tags": "\"brand\"=>\"Toyota\",\"shop\"=>\"car;car_repair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.570048, 53.7870776 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9315688116", "name": "Vantage Toyota (Wakefield)", "other_tags": "\"brand\"=>\"Toyota\",\"shop\"=>\"car;car_repair\",\"website\"=>\"https:\/\/vantagewakefield.toyota.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5463622, 53.6811369 ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "91463167", "name": "RRG Huddersfield", "building": "yes", "shop": "car;car_repair", "other_tags": "\"brand\"=>\"Toyota\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7567502, 53.6633705 ], [ -1.7563816, 53.6635236 ], [ -1.7564713, 53.6635994 ], [ -1.7563729, 53.6636402 ], [ -1.7559515, 53.663281 ], [ -1.7564167, 53.6630885 ], [ -1.7567502, 53.6633705 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "202097169", "name": "Mount Automotive Solutions", "building": "yes", "shop": "car;car_repair", "other_tags": "\"brand\"=>\"Toyota;Volvo;Hyundai;Proton\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8684091, 53.7222483 ], [ -1.8679217, 53.7222353 ], [ -1.8679399, 53.7219987 ], [ -1.8684272, 53.7220118 ], [ -1.8684091, 53.7222483 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1008480070", "name": "RRG Bradford", "building": "yes", "shop": "car;car_repair", "other_tags": "\"brand\"=>\"Toyota\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.757575, 53.8086288 ], [ -1.7576917, 53.8084394 ], [ -1.7569082, 53.8082649 ], [ -1.7568091, 53.808413 ], [ -1.7569529, 53.8084532 ], [ -1.7569238, 53.8084945 ], [ -1.757575, 53.8086288 ] ] ] ] } }
+]
+}

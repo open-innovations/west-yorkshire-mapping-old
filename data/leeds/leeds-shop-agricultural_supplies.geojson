@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.905371, "longitude": -1.643583 }, "osm_way_id": "52105711", "name": "The Blue Barn", "building": "retail", "shop": "agricultural_supplies", "other_tags": "\"description\"=>\"Agricultral and pet feed depot\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6434184, 53.905302 ], [ -1.6437766, 53.905339 ], [ -1.6437444, 53.9054402 ], [ -1.6433885, 53.9054024 ], [ -1.6434184, 53.905302 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "52105711", "name": "The Blue Barn", "building": "retail", "shop": "agricultural_supplies", "other_tags": "\"description\"=>\"Agricultral and pet feed depot\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6434184, 53.905302 ], [ -1.6437766, 53.905339 ], [ -1.6437444, 53.9054402 ], [ -1.6433885, 53.9054024 ], [ -1.6434184, 53.905302 ] ] ] } }
 ]
 }

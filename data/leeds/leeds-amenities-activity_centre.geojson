@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.825616, "longitude": -1.630785 }, "osm_way_id": "851291894", "name": "Hunters Greave Activity Centre", "amenity": "activity_centre", "building": "yes", "other_tags": "\"club\"=>\"scout\",\"email\"=>\"huntersgreave@sky.com\",\"postal_code\"=>\"LS13 1EQ\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6309248, 53.825645 ], [ -1.6308744, 53.8256855 ], [ -1.6306448, 53.8255888 ], [ -1.6306966, 53.8255458 ], [ -1.6309248, 53.825645 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "851291894", "name": "Hunters Greave Activity Centre", "amenity": "activity_centre", "building": "yes", "other_tags": "\"club\"=>\"scout\",\"email\"=>\"huntersgreave@sky.com\",\"postal_code\"=>\"LS13 1EQ\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6309248, 53.825645 ], [ -1.6308744, 53.8256855 ], [ -1.6306448, 53.8255888 ], [ -1.6306966, 53.8255458 ], [ -1.6309248, 53.825645 ] ] ] } }
 ]
 }

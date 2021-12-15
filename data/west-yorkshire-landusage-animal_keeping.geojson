@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.659955, "longitude": -1.450707 }, "osm_way_id": "313428939", "landuse": "animal_keeping", "other_tags": "\"animal_keeping\"=>\"horse\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4497914, 53.6604287 ], [ -1.4516571, 53.6604324 ], [ -1.4497572, 53.6594781 ], [ -1.4497914, 53.6604287 ] ] ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.671129, "longitude": -1.450283 }, "osm_way_id": "912895060", "landuse": "animal_keeping" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4507934, 53.67139 ], [ -1.4501915, 53.6714932 ], [ -1.4497716, 53.6711682 ], [ -1.4504855, 53.6707642 ], [ -1.450665, 53.6710513 ], [ -1.4506248, 53.6710764 ], [ -1.4507226, 53.6712232 ], [ -1.4506465, 53.6712593 ], [ -1.4507934, 53.67139 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "313428939", "landuse": "animal_keeping", "other_tags": "\"animal_keeping\"=>\"horse\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4497914, 53.6604287 ], [ -1.4516571, 53.6604324 ], [ -1.4497572, 53.6594781 ], [ -1.4497914, 53.6604287 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "912895060", "landuse": "animal_keeping" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4507934, 53.67139 ], [ -1.4501915, 53.6714932 ], [ -1.4497716, 53.6711682 ], [ -1.4504855, 53.6707642 ], [ -1.450665, 53.6710513 ], [ -1.4506248, 53.6710764 ], [ -1.4507226, 53.6712232 ], [ -1.4506465, 53.6712593 ], [ -1.4507934, 53.67139 ] ] ] ] } }
 ]
 }

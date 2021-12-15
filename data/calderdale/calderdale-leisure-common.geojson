@@ -4,6 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "4684481618", "name": "The Rocks", "other_tags": "\"access\"=>\"yes\",\"leisure\"=>\"common\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8839751, 53.6767254 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4684481619", "name": "Robadodge", "other_tags": "\"leisure\"=>\"common\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8732141, 53.6649096 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.747004, "longitude": -2.012091 }, "osm_way_id": "113733088", "name": "The Delf", "leisure": "common", "other_tags": "\"access\"=>\"yes\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.0124293, 53.7473815 ], [ -2.0122353, 53.747303 ], [ -2.0116404, 53.7470623 ], [ -2.0116698, 53.7470343 ], [ -2.0120967, 53.7466265 ], [ -2.012542, 53.7471722 ], [ -2.0124293, 53.7473815 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "113733088", "name": "The Delf", "leisure": "common", "other_tags": "\"access\"=>\"yes\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.0124293, 53.7473815 ], [ -2.0122353, 53.747303 ], [ -2.0116404, 53.7470623 ], [ -2.0116698, 53.7470343 ], [ -2.0120967, 53.7466265 ], [ -2.012542, 53.7471722 ], [ -2.0124293, 53.7473815 ] ] ] } }
 ]
 }

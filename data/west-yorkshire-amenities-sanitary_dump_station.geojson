@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "2905578249", "name": "Slaithwaite Elsan Point", "amenity": "sanitary_dump_station", "other_tags": "\"access\"=>\"customers\",\"centralkey\"=>\"crt_watermate\",\"operator\"=>\"Canal and River Trust\",\"sanitary_dump_station\"=>\"yes\",\"sanitary_dump_station:accepted\"=>\"black_water\",\"sanitary_dump_station:basin\"=>\"yes\",\"sanitary_dump_station:pump-out\"=>\"yes\",\"waste\"=>\"toilet\",\"waterway\"=>\"sanitary_dump_station\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8788034, 53.6232743 ] } }
+]
+}

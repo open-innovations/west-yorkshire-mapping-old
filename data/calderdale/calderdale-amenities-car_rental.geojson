@@ -3,6 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "1235353099", "name": "Enterprise", "amenity": "car_rental", "other_tags": "\"brand\"=>\"Enterprise\",\"brand:wikidata\"=>\"Q17085454\",\"brand:wikipedia\"=>\"en:Enterprise Rent-A-Car\",\"official_name\"=>\"Enterprise Rent-A-Car\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8817384, 53.7127698 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.726441, "longitude": -1.859323 }, "osm_way_id": "117908137", "name": "Dews", "amenity": "car_rental", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8594344, 53.7263628 ], [ -1.8594891, 53.7264698 ], [ -1.8592107, 53.7265196 ], [ -1.8591561, 53.7264125 ], [ -1.8594344, 53.7263628 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "117908137", "name": "Dews", "amenity": "car_rental", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8594344, 53.7263628 ], [ -1.8594891, 53.7264698 ], [ -1.8592107, 53.7265196 ], [ -1.8591561, 53.7264125 ], [ -1.8594344, 53.7263628 ] ] ] } }
 ]
 }

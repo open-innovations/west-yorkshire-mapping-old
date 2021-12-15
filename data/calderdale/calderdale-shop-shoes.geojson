@@ -4,6 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5463222473", "name": "Clarkes", "other_tags": "\"shop\"=>\"shoes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8600369, 53.7230388 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5569969832", "name": "Shoe Zone", "other_tags": "\"brand\"=>\"Shoe Zone\",\"brand:wikidata\"=>\"Q7500016\",\"brand:wikipedia\"=>\"en:Shoe Zone\",\"shop\"=>\"shoes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8587065, 53.722769 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.721363, "longitude": -1.861457 }, "osm_way_id": "568507579", "name": "Ivor Burns' Shoes", "building": "yes", "shop": "shoes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8614168, 53.7213954 ], [ -1.8613994, 53.7213391 ], [ -1.8614977, 53.72133 ], [ -1.8615142, 53.7213849 ], [ -1.8614168, 53.7213954 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "568507579", "name": "Ivor Burns' Shoes", "building": "yes", "shop": "shoes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8614168, 53.7213954 ], [ -1.8613994, 53.7213391 ], [ -1.8614977, 53.72133 ], [ -1.8615142, 53.7213849 ], [ -1.8614168, 53.7213954 ] ] ] } }
 ]
 }

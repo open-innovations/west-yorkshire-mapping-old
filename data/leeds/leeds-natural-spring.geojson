@@ -4,7 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "338716325", "name": "Cocklake Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7925683, 53.8837752 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "534250158", "name": "Langley Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5504518, 53.883745 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "664035839", "name": "Dades Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.673525, 53.8945696 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "664038801", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6632146, 53.8996207 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "664143527", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6900624, 53.8967874 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "746777924", "name": "well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7137171, 53.8932519 ] } },

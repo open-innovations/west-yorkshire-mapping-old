@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.770287, "longitude": -1.753390 }, "osm_way_id": "27550371", "name": "St. Matthew's Community Room", "amenity": "community_hall" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7532828, 53.7703342 ], [ -1.7533812, 53.7702083 ], [ -1.7534973, 53.77024 ], [ -1.753399, 53.7703659 ], [ -1.7532828, 53.7703342 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "27550371", "name": "St. Matthew's Community Room", "amenity": "community_hall" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7532828, 53.7703342 ], [ -1.7533812, 53.7702083 ], [ -1.7534973, 53.77024 ], [ -1.753399, 53.7703659 ], [ -1.7532828, 53.7703342 ] ] ] } }
 ]
 }

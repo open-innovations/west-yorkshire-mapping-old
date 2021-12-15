@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "1005591275", "name": "Cellar 28 Fine Wine Specialists", "building": "yes", "shop": "wine", "other_tags": "\"addr:city\"=>\"Rastrick\",\"addr:postcode\"=>\"HD6 1HR\",\"addr:street\"=>\"William Street\",\"phone\"=>\"+44 1484 710101\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7825751, 53.6976508 ], [ -1.7823526, 53.6977617 ], [ -1.7822554, 53.6976933 ], [ -1.782515, 53.6975636 ], [ -1.7826398, 53.6975017 ], [ -1.782737, 53.6975701 ], [ -1.7826884, 53.6975944 ], [ -1.7825751, 53.6976508 ] ] ] } }
+]
+}

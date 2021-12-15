@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.779725, "longitude": -1.523233 }, "osm_way_id": "201078311", "name": "Quest", "amenity": "swingerclub", "building": "yes", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Low Road\",\"addr:suburb\"=>\"Hunslet\",\"addr:postcode\"=>\"LS10 1RH\",\"addr:housenumber\"=>\"73a\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5231974, 53.7796014 ], [ -1.5232483, 53.7795797 ], [ -1.523491, 53.7797779 ], [ -1.5232468, 53.7798823 ], [ -1.5232028, 53.7798464 ], [ -1.5231738, 53.7798587 ], [ -1.5229751, 53.7796964 ], [ -1.5230473, 53.7796656 ], [ -1.5230061, 53.7796319 ], [ -1.5231562, 53.7795677 ], [ -1.5231974, 53.7796014 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "201078311", "name": "Quest", "amenity": "swingerclub", "building": "yes", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Low Road\",\"addr:suburb\"=>\"Hunslet\",\"addr:postcode\"=>\"LS10 1RH\",\"addr:housenumber\"=>\"73a\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5231974, 53.7796014 ], [ -1.5232483, 53.7795797 ], [ -1.523491, 53.7797779 ], [ -1.5232468, 53.7798823 ], [ -1.5232028, 53.7798464 ], [ -1.5231738, 53.7798587 ], [ -1.5229751, 53.7796964 ], [ -1.5230473, 53.7796656 ], [ -1.5230061, 53.7796319 ], [ -1.5231562, 53.7795677 ], [ -1.5231974, 53.7796014 ] ] ] ] } }
 ]
 }

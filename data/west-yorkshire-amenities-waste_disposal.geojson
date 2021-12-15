@@ -4,9 +4,8 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2279140122", "amenity": "waste_disposal" }, "geometry": { "type": "Point", "coordinates": [ -2.0976416, 53.712412 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2905663142", "amenity": "waste_disposal" }, "geometry": { "type": "Point", "coordinates": [ -1.8754014, 53.6236627 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7726343736", "amenity": "waste_disposal", "other_tags": "\"waste\"=>\"trash;recycling;mixed\",\"access\"=>\"private\",\"operator\"=>\"Metro\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3090265, 53.6935183 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7865766770", "amenity": "waste_disposal" }, "geometry": { "type": "Point", "coordinates": [ -1.3068858, 53.6952196 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8428974009", "amenity": "waste_disposal" }, "geometry": { "type": "Point", "coordinates": [ -1.3125955, 53.6920843 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.695938, "longitude": -1.310635 }, "osm_way_id": "877880901", "amenity": "waste_disposal" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.310681, 53.6959482 ], [ -1.3106608, 53.6959145 ], [ -1.3106385, 53.6959192 ], [ -1.3105898, 53.6959294 ], [ -1.3106106, 53.6959624 ], [ -1.310681, 53.6959482 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "877880901", "amenity": "waste_disposal" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.310681, 53.6959482 ], [ -1.3106608, 53.6959145 ], [ -1.3106385, 53.6959192 ], [ -1.3105898, 53.6959294 ], [ -1.3106106, 53.6959624 ], [ -1.310681, 53.6959482 ] ] ] ] } }
 ]
 }

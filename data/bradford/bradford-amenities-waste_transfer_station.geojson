@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.866123, "longitude": -1.831907 }, "osm_way_id": "299346370", "name": "Hill Top Works", "amenity": "waste_transfer_station" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8326034, 53.8669027 ], [ -1.831391, 53.8666306 ], [ -1.830919, 53.8660043 ], [ -1.8328957, 53.8653429 ], [ -1.8326034, 53.8669027 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "299346370", "name": "Hill Top Works", "amenity": "waste_transfer_station" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8326034, 53.8669027 ], [ -1.831391, 53.8666306 ], [ -1.830919, 53.8660043 ], [ -1.8328957, 53.8653429 ], [ -1.8326034, 53.8669027 ] ] ] } }
 ]
 }

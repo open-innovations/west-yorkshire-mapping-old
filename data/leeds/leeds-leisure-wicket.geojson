@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.872172, "longitude": -1.722061 }, "osm_way_id": "895980797", "leisure": "wicket", "sport": "cricket", "other_tags": "\"surface\"=>\"artificial_turf\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.722278, 53.8721486 ], [ -1.7218534, 53.8722149 ], [ -1.7218443, 53.8721947 ], [ -1.7222689, 53.8721284 ], [ -1.722278, 53.8721486 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "895980797", "leisure": "wicket", "sport": "cricket", "other_tags": "\"surface\"=>\"artificial_turf\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.722278, 53.8721486 ], [ -1.7218534, 53.8722149 ], [ -1.7218443, 53.8721947 ], [ -1.7222689, 53.8721284 ], [ -1.722278, 53.8721486 ] ] ] } }
 ]
 }

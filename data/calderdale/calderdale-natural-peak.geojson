@@ -35,6 +35,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "6711760501", "name": "Crow Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9724301, 53.702422 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7500134170", "name": "Tom Tittiman", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9933853, 53.7594603 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7619312110", "name": "Naze End", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9985398, 53.7743282 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8950641591", "name": "Grey Stone Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1139173, 53.8010379 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8950641591", "name": "Grey Stone Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1139173, 53.8010379 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9144266852", "name": "Law Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0232707, 53.7143903 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9156284135", "name": "Round Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7938518, 53.6826837 ] } }
 ]
 }

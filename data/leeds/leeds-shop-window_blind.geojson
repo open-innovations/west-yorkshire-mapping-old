@@ -4,6 +4,6 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5398691503", "name": "The Carolina Blind Company", "other_tags": "\"shop\"=>\"window_blind\",\"email\"=>\"michael@blindsleeds.com\",\"phone\"=>\"+44 113 393 0800\",\"website\"=>\"https:\/\/blindsleeds.com\/\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Stainburn Road\",\"addr:postcode\"=>\"LS17 6NN\",\"addr:housenumber\"=>\"44\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5314823, 53.8363722 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7096633010", "name": "Jaynes Blinds", "other_tags": "\"shop\"=>\"window_blind\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4930148, 53.8018515 ] } },
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.806407, "longitude": -1.582345 }, "osm_way_id": "477888764", "name": "Window Blinds", "building": "yes", "shop": "window_blind" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5824078, 53.8063725 ], [ -1.5823424, 53.8064574 ], [ -1.582282, 53.8064412 ], [ -1.5823474, 53.8063563 ], [ -1.5824078, 53.8063725 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "477888764", "name": "Window Blinds", "building": "yes", "shop": "window_blind" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5824078, 53.8063725 ], [ -1.5823424, 53.8064574 ], [ -1.582282, 53.8064412 ], [ -1.5823474, 53.8063563 ], [ -1.5824078, 53.8063725 ] ] ] } }
 ]
 }

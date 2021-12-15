@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "8189761421", "amenity": "shower", "other_tags": "\"access\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5740747, 53.7598513 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8736056044", "amenity": "shower", "other_tags": "\"access\"=>\"customers\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4712148, 53.7723926 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8736056044", "amenity": "shower", "other_tags": "\"access\"=>\"customers\",\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4712148, 53.7723926 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9165677460", "amenity": "shower", "other_tags": "\"access\"=>\"customers\",\"centralkey\"=>\"crt_watermate\",\"operator\"=>\"Canal and River Trust\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8788478, 53.6232632 ] } }
 ]
 }

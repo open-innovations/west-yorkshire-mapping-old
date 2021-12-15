@@ -11,7 +11,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "429729619", "name": "Nor Hill Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9645286, 53.9549284 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "533903419", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6897769, 53.9201973 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "534250158", "name": "Langley Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5504518, 53.883745 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "664035839", "name": "Dades Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.673525, 53.8945696 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "664038801", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6632146, 53.8996207 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "664143527", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6900624, 53.8967874 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "664431461", "name": "Boots Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.71666, 53.9174695 ] } },
@@ -60,7 +59,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "5536471437", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9271122, 53.7998508 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5536471750", "other_tags": "\"water\"=>\"Stone Trough\",\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9275091, 53.8019077 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5557487457", "name": "stone trough", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.906598, 53.8064182 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5557487503", "name": "stone trough", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9035664, 53.8065369 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5557487503", "other_tags": "\"description\"=>\"stone trough\",\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9035664, 53.8065369 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5557540523", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9080291, 53.8056912 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5571342460", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9055526, 53.7875625 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5577039460", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9168729, 53.7897444 ] } },
@@ -113,6 +112,16 @@
 	{ "type": "Feature", "properties": { "osm_id": "8098265818", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8998194, 53.8366262 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8436217426", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6909868, 53.8908759 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8530198810", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7096132, 53.8599857 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8656635277", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9309813, 53.8208876 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8656635277", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9309813, 53.8208876 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9137192838", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7756438, 53.9192662 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9137192857", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7741354, 53.9204244 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9137563331", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.789351, 53.9119438 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9137563334", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7799761, 53.9120499 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9137563351", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7755301, 53.9126895 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9137563357", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7972689, 53.9146232 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9164229977", "name": "Bathing Well", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8414497, 53.93838 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9164229984", "name": "Laurel Spring", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8377155, 53.9377169 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9167400050", "other_tags": "\"intermittent\"=>\"no\",\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7867544, 53.6843089 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9173934593", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0362043, 53.8371382 ] } }
 ]
 }

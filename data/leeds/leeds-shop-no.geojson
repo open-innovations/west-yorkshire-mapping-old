@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": null, "centroid": { "latitude": 53.803420, "longitude": -1.422268 }, "osm_way_id": "754720289", "shop": "no", "other_tags": "\"demolished:building\"=>\"house\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4222964, 53.8034865 ], [ -1.4221873, 53.8034902 ], [ -1.422174, 53.8033553 ], [ -1.4223535, 53.8033492 ], [ -1.4223623, 53.8034393 ], [ -1.422292, 53.8034418 ], [ -1.4222964, 53.8034865 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "754720289", "shop": "no", "other_tags": "\"demolished:building\"=>\"house\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4222964, 53.8034865 ], [ -1.4221873, 53.8034902 ], [ -1.422174, 53.8033553 ], [ -1.4223535, 53.8033492 ], [ -1.4223623, 53.8034393 ], [ -1.422292, 53.8034418 ], [ -1.4222964, 53.8034865 ] ] ] } }
 ]
 }
