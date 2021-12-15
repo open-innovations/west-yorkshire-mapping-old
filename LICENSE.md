@@ -1,3 +1,5 @@
+# Licence
+
 This repository contains processed versions of OpenStreetMap® data (c) OpenStreetMap contributors. 
 
 OpenStreetMap® is open data, licensed under the [Open Data Commons Open Database License](http://opendatacommons.org/licenses/odbl/) (ODbL) by the [OpenStreetMap Foundation](http://osmfoundation.org/) (OSMF).
