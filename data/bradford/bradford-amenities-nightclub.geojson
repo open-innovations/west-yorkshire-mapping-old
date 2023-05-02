@@ -2,6 +2,9 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "495996719", "name": "Gasworks", "amenity": "nightclub" }, "geometry": { "type": "Point", "coordinates": [ -1.7580245, 53.7917885 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "249663020", "name": "Ivory", "amenity": "nightclub", "other_tags": "\"old_name\"=>\"The Devonshire\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7669481, 53.7963174 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "495996719", "name": "Gasworks", "amenity": "nightclub" }, "geometry": { "type": "Point", "coordinates": [ -1.7580245, 53.7917885 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10686529812", "name": "Mana", "amenity": "nightclub", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:housenumber\"=>\"38\",\"addr:postcode\"=>\"BD1 2QR\",\"addr:street\"=>\"Westgate\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7566188, 53.7947 ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1148006570", "name": "Candy", "amenity": "nightclub", "building": "yes", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:housenumber\"=>\"3B\",\"addr:postcode\"=>\"BD1 2AJ\",\"addr:street\"=>\"Sackville Street\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7568922, 53.7945707 ], [ -1.7568732, 53.7945689 ], [ -1.7568624, 53.7946088 ], [ -1.7566773, 53.7945913 ], [ -1.7567037, 53.7944939 ], [ -1.7568875, 53.7945112 ], [ -1.7568779, 53.7945469 ], [ -1.7568982, 53.7945488 ], [ -1.7568922, 53.7945707 ] ] ] } }
 ]
 }

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "1040823407", "name": "Blind Fashion", "building": "yes", "shop": "window_blind", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:postcode\"=>\"HD6 1QF\",\"addr:street\"=>\"Armytage Road\",\"phone\"=>\"+44 1924 844610\",\"website\"=>\"https:\/\/blindfashion.co.uk\/\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7593611, 53.695569 ], [ -1.7592, 53.6955155 ], [ -1.7591184, 53.6954884 ], [ -1.7589608, 53.6954361 ], [ -1.7591434, 53.6952428 ], [ -1.7591914, 53.6951925 ], [ -1.7594124, 53.6952659 ], [ -1.7594457, 53.6952308 ], [ -1.7596251, 53.6952904 ], [ -1.7595945, 53.6953227 ], [ -1.7593611, 53.695569 ] ] ] } }
+]
+}

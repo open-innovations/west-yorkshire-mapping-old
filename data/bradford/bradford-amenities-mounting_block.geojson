@@ -5,6 +5,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "8681254031", "amenity": "mounting_block", "man_made": "mounting_block" }, "geometry": { "type": "Point", "coordinates": [ -1.8862342, 53.8171277 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8681254032", "amenity": "mounting_block", "man_made": "mounting_block" }, "geometry": { "type": "Point", "coordinates": [ -1.8862627, 53.8171396 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8681254033", "amenity": "mounting_block", "man_made": "mounting_block" }, "geometry": { "type": "Point", "coordinates": [ -1.888601, 53.8194745 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8681254034", "amenity": "mounting_block", "man_made": "mounting_block" }, "geometry": { "type": "Point", "coordinates": [ -1.8887083, 53.819486 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8681254034", "amenity": "mounting_block", "man_made": "mounting_block" }, "geometry": { "type": "Point", "coordinates": [ -1.8887083, 53.819486 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10592529847", "amenity": "mounting_block", "other_tags": "\"material\"=>\"brick\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7551732, 53.9185906 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10592529849", "amenity": "mounting_block", "other_tags": "\"material\"=>\"brick\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7537195, 53.9185527 ] } }
 ]
 }

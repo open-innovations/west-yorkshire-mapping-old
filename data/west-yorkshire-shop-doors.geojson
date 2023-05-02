@@ -2,6 +2,9 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "8488767856", "name": "Emerald Doors", "other_tags": "\"shop\"=>\"doors\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8132857, 53.6987715 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8488767856", "name": "Emerald Doors", "other_tags": "\"shop\"=>\"doors\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8132857, 53.6987715 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10537791312", "name": "Leeds Window and Door Repairs", "other_tags": "\"addr:postcode\"=>\"LS11 9RT\",\"contact:email\"=>\"leeds@repairmywindowsanddoors.co.uk\",\"contact:phone\"=>\"+44 1132 089633\",\"contact:website\"=>\"https:\/\/www.repairmywindowsanddoors.co.uk\/leeds-windowrepair\/\",\"opening_hours\"=>\"Mo-Fr 08:00-18:00; Sa 09:00-15:00; Su off\",\"shop\"=>\"doors\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5652138, 53.7883239 ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1030293536", "name": "Arch", "building": "yes", "shop": "doors", "other_tags": "\"addr:city\"=>\"Castleford\",\"addr:postcode\"=>\"WF10 4RS\",\"addr:street\"=>\"Carr Wood Road\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.3331537, 53.7103005 ], [ -1.3331806, 53.7103975 ], [ -1.3334211, 53.7103742 ], [ -1.3333943, 53.7102772 ], [ -1.3331537, 53.7103005 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1036816769", "name": "Composite Door Factory (Yorkshire) Ltd", "building": "yes", "shop": "doors", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:housenumber\"=>\"Unit 3\",\"addr:postcode\"=>\"HD6 1PT\",\"addr:street\"=>\"Armytage Road\",\"phone\"=>\"+44 1484 715999\",\"website\"=>\"https:\/\/compositedoorfactory.co.uk\/\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7716119, 53.6996566 ], [ -1.7714406, 53.6996077 ], [ -1.7716134, 53.699399 ], [ -1.7717843, 53.6994497 ], [ -1.7716119, 53.6996566 ] ] ] ] } }
 ]
 }

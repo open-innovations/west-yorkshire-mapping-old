@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "10272389128", "name": "Simprint", "other_tags": "\"addr:city\"=>\"Sowerby Bridge\",\"addr:housenumber\"=>\"13\",\"addr:postcode\"=>\"HX6 2EA\",\"addr:street\"=>\"Town Hall Street\",\"operator\"=>\"Simprint\",\"phone\"=>\"01422 834151\",\"shop\"=>\"copyshop\",\"website\"=>\"https:\/\/www.simprint.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9115716, 53.7083668 ] } }
+]
+}

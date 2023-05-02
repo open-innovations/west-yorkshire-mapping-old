@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "1148062919", "name": "claire's", "shop": "fashion_accessories", "other_tags": "\"brand\"=>\"claire's\",\"brand:wikidata\"=>\"Q2974996\",\"building:part\"=>\"retail\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7506105, 53.7940814 ], [ -1.75049, 53.7940782 ], [ -1.7504998, 53.7939482 ], [ -1.7506175, 53.79399 ], [ -1.7506105, 53.7940814 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1148329802", "name": "Accessorize", "shop": "fashion_accessories", "other_tags": "\"brand\"=>\"Accessorize\",\"brand:wikidata\"=>\"Q65007482\",\"building:part\"=>\"retail\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7505947, 53.7945757 ], [ -1.7507071, 53.7945783 ], [ -1.7506914, 53.7948581 ], [ -1.7505771, 53.7948909 ], [ -1.7505947, 53.7945757 ] ] ] } }
+]
+}

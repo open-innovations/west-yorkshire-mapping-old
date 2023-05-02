@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "504204376", "name": "Paddling Pool", "leisure": "paddling_pool", "natural": "water" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7945736, 53.647992 ], [ -1.7948553, 53.6479666 ], [ -1.7949465, 53.6478664 ], [ -1.7948861, 53.6477946 ], [ -1.7946438, 53.6477382 ], [ -1.7942464, 53.6477996 ], [ -1.7940452, 53.6478505 ], [ -1.7939943, 53.6478998 ], [ -1.7940372, 53.6479471 ], [ -1.7945736, 53.647992 ] ] ] ] } }
+]
+}

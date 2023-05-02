@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "7603324937", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0609524, 53.7274891 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "9167400050", "other_tags": "\"intermittent\"=>\"no\",\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7867544, 53.6843089 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "9167400050", "other_tags": "\"intermittent\"=>\"no\",\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7867544, 53.6843089 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9589946050", "other_tags": "\"natural\"=>\"spring\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8527942, 53.7388879 ] } }
 ]
 }

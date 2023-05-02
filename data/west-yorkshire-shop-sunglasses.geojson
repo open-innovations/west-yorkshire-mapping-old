@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2143153183", "name": "Shade Station", "other_tags": "\"shop\"=>\"sunglasses\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"County Arcade\",\"addr:postcode\"=>\"LS1 6BH\",\"addr:housenumber\"=>\"42-44\"" }, "geometry": { "type": "Point", "coordinates": [ -1.540218, 53.7983524 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "2143153183", "name": "Shade Station", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"42-44\",\"addr:postcode\"=>\"LS1 6BH\",\"addr:street\"=>\"County Arcade\",\"shop\"=>\"sunglasses\"" }, "geometry": { "type": "Point", "coordinates": [ -1.540218, 53.7983524 ] } }
 ]
 }

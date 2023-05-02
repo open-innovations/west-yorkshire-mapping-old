@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "8379284513", "name": "Swan Lane Equestrian Centre", "other_tags": "\"leisure\"=>\"horse_riding\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8663312, 53.660366 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8379284513", "name": "Swan Lane Equestrian Centre", "other_tags": "\"leisure\"=>\"horse_riding\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8663312, 53.660366 ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1063988311", "leisure": "horse_riding" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8555647, 53.6744611 ], [ -1.8554082, 53.6743442 ], [ -1.8557738, 53.6742589 ], [ -1.8559537, 53.6744124 ], [ -1.8558355, 53.67443 ], [ -1.855776, 53.6744369 ], [ -1.8555647, 53.6744611 ] ] ] } }
 ]
 }

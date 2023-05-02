@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "1158233646", "barrier": "wall", "natural": "shrubbery" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7764509, 53.8084863 ], [ -1.77647, 53.80851 ], [ -1.7763412, 53.8085388 ], [ -1.7763179, 53.8085059 ], [ -1.7764509, 53.8084863 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "330055288", "name": "Matthew Sheard & Sons", "other_tags": "\"addr:housename\"=>\"Station Yard\",\"addr:street\"=>\"Station Road\",\"fuel:coal\"=>\"yes\",\"shop\"=>\"fuel\",\"website\"=>\"http:\/\/www.matthewsheardandsons.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0102777, 53.7385247 ] } }
+]
+}

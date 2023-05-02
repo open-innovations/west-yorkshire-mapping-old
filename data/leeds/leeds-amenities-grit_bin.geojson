@@ -25,6 +25,11 @@
 	{ "type": "Feature", "properties": { "osm_id": "8656153401", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7181598, 53.8788382 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8656153402", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7168782, 53.8793576 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8659293108", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7053743, 53.8713726 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8659387014", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7077562, 53.8677932 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8659387014", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7077562, 53.8677932 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9668218795", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.7159408, 53.885614 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9768245788", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.4493018, 53.7969885 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9777728614", "amenity": "grit_bin" }, "geometry": { "type": "Point", "coordinates": [ -1.6954401, 53.8968867 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9976922739", "amenity": "grit_bin", "other_tags": "\"access\"=>\"yes\",\"colour\"=>\"green\",\"material\"=>\"plastic\",\"operator\"=>\"Leeds City Council\"" }, "geometry": { "type": "Point", "coordinates": [ -1.520157, 53.7696787 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10746310513", "amenity": "grit_bin", "other_tags": "\"content\"=>\"salt\/grit\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6428194, 53.8367096 ] } }
 ]
 }

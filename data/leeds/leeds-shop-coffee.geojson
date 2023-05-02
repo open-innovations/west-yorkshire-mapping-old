@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "6001596334", "name": "Nespresso", "other_tags": "\"shop\"=>\"coffee\",\"brand\"=>\"Nespresso\",\"level\"=>\"0\",\"addr:city\"=>\"Leeds\",\"addr:unit\"=>\"10-11\",\"addr:street\"=>\"Harewood Street\",\"addr:postcode\"=>\"LS2 7AR\",\"addr:housename\"=>\"Victoria Gate\",\"brand:wikidata\"=>\"Q301301\",\"brand:wikipedia\"=>\"en:Nespresso\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5387511, 53.7983871 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "6708038050", "name": "Shiloh Coffee Roasters", "other_tags": "\"shop\"=>\"coffee\",\"fhrs:id\"=>\"1157880\",\"addr:city\"=>\"Leeds\",\"addr:unit\"=>\"6\",\"addr:street\"=>\"Mabgate\",\"addr:suburb\"=>\"Sheepscar\",\"addr:postcode\"=>\"LS9 7DZ\",\"addr:housename\"=>\"Mabgate Mills\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5295042, 53.8030388 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6001596334", "name": "Nespresso", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Victoria Gate\",\"addr:postcode\"=>\"LS2 7AR\",\"addr:street\"=>\"Harewood Street\",\"addr:unit\"=>\"10-11\",\"brand\"=>\"Nespresso\",\"brand:wikidata\"=>\"Q301301\",\"brand:wikipedia\"=>\"en:Nespresso\",\"level\"=>\"0\",\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5387511, 53.7983871 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6708038050", "name": "Shiloh Coffee Roasters", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Mabgate Mills\",\"addr:postcode\"=>\"LS9 7DZ\",\"addr:street\"=>\"Mabgate\",\"addr:suburb\"=>\"Sheepscar\",\"addr:unit\"=>\"6\",\"fhrs:id\"=>\"1157880\",\"shop\"=>\"coffee\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5295042, 53.8030388 ] } }
 ]
 }

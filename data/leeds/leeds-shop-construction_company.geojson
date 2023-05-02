@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "6702943715", "name": "MG Builders", "other_tags": "\"shop\"=>\"construction_company\",\"beauty\"=>\"tanning\",\"office\"=>\"construction_company\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Manston Approach\",\"addr:postcode\"=>\"LS15 8BQ\",\"addr:housenumber\"=>\"4\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4476517, 53.8106483 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "6702943715", "name": "MG Builders", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"4\",\"addr:postcode\"=>\"LS15 8BQ\",\"addr:street\"=>\"Manston Approach\",\"beauty\"=>\"tanning\",\"office\"=>\"construction_company\",\"shop\"=>\"construction_company\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4476517, 53.8106483 ] } }
 ]
 }

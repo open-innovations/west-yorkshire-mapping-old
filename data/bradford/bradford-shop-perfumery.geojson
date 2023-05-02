@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "1148329812", "name": "The Fragrance Shop", "shop": "perfumery", "other_tags": "\"brand\"=>\"The Fragrance Shop\",\"brand:wikidata\"=>\"Q105337125\",\"building:part\"=>\"retail\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7496663, 53.794792 ], [ -1.749624, 53.7947526 ], [ -1.7497845, 53.7946977 ], [ -1.7498241, 53.7947381 ], [ -1.7496663, 53.794792 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1148329827", "name": "The Perfume Shop", "shop": "perfumery", "other_tags": "\"brand\"=>\"The Perfume Shop\",\"brand:wikidata\"=>\"Q7756719\",\"building:part\"=>\"retail\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7493864, 53.7942923 ], [ -1.7493922, 53.7941717 ], [ -1.7494656, 53.7941738 ], [ -1.7494524, 53.7943551 ], [ -1.7493864, 53.7942923 ] ] ] } }
+]
+}

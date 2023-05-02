@@ -2,13 +2,13 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2143153148", "name": "Leeds Playhouse Box Office", "other_tags": "\"shop\"=>\"ticket\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Eastgate\",\"addr:postcode\"=>\"LS2 7LY\",\"addr:housenumber\"=>\"19\"" }, "geometry": { "type": "Point", "coordinates": [ -1.538056, 53.7989022 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "2143153148", "name": "Leeds Playhouse Box Office", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"19\",\"addr:postcode\"=>\"LS2 7LY\",\"addr:street\"=>\"Eastgate\",\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.538056, 53.7989022 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5101169279", "name": "Grand Theatre Box Office", "other_tags": "\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.541207, 53.799993 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5101169280", "name": "Opera North Box Office", "other_tags": "\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5413528, 53.7998201 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5286818613", "other_tags": "\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4592556, 53.7855535 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7929482023", "name": "Horsforth", "other_tags": "\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6299874, 53.8475786 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7941743554", "name": "Leeds Station ticket office", "other_tags": "\"opening_hours:covid19\"=>\"open\",\"operator\"=>\"Northern\",\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5475404, 53.7951594 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7941743556", "name": "Priomise to pay ticket exchange", "other_tags": "\"operator\"=>\"Northern\",\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5481928, 53.7949759 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7941743556", "name": "Promise to pay ticket exchange", "other_tags": "\"operator\"=>\"Northern\",\"shop\"=>\"ticket\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5481928, 53.7949759 ] } },
 	{ "type": "Feature", "properties": { "osm_way_id": "80509465", "name": "Crossgates Train Station", "building": "yes", "shop": "ticket" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4517066, 53.8046245 ], [ -1.451734, 53.8046934 ], [ -1.4515544, 53.8047182 ], [ -1.4515271, 53.8046493 ], [ -1.4517066, 53.8046245 ] ] ] } },
 	{ "type": "Feature", "properties": { "osm_way_id": "1003280132", "building": "yes", "shop": "ticket" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5385305, 53.7998853 ], [ -1.5385704, 53.7998865 ], [ -1.5385677, 53.7999166 ], [ -1.5385278, 53.7999154 ], [ -1.5385305, 53.7998853 ] ] ] } }
 ]

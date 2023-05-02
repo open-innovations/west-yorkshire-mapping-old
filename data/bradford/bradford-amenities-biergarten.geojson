@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "8569445135", "amenity": "biergarten", "other_tags": "\"outdoor_seating\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8411495, 53.8506163 ] } },
-	{ "type": "Feature", "properties": { "osm_way_id": "951811453", "amenity": "biergarten", "other_tags": "\"opening_hours:covid19\"=>\"open\",\"operator\"=>\"Turkey Inn\",\"outdoor_seating\"=>\"yes\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9576528, 53.8614928 ], [ -1.9576215, 53.8615466 ], [ -1.957163, 53.8615591 ], [ -1.9571244, 53.8615091 ], [ -1.9576528, 53.8614928 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "951811453", "amenity": "biergarten", "other_tags": "\"opening_hours:covid19\"=>\"open\",\"operator\"=>\"Turkey Inn\",\"outdoor_seating\"=>\"yes\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9576528, 53.8614928 ], [ -1.9576215, 53.8615466 ], [ -1.957163, 53.8615591 ], [ -1.9571244, 53.8615091 ], [ -1.9576528, 53.8614928 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1086079910", "amenity": "biergarten", "other_tags": "\"outdoor_seating\"=>\"yes\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9974178, 53.8302329 ], [ -1.997339, 53.8302925 ], [ -1.9972149, 53.8302372 ], [ -1.9972972, 53.8301774 ], [ -1.9974178, 53.8302329 ] ] ] } }
 ]
 }

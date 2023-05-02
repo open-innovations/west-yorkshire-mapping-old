@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "411733763", "name": "Ashlar Chair", "is_in": "Romalds Moor", "other_tags": "\"natural\"=>\"rock\",\"alt_name\"=>\"Druid's Chair\"" }, "geometry": { "type": "Point", "coordinates": [ -1.81708, 53.8991849 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "411733763", "name": "Ashlar Chair", "is_in": "Romalds Moor", "other_tags": "\"alt_name\"=>\"Druid's Chair\",\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.81708, 53.8991849 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1103305292", "name": "Pancake Stone", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.797421, 53.9120442 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "3940962606", "name": "Haystack Rock", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8031816, 53.9128122 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6126218950", "other_tags": "\"natural\"=>\"rock\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8954029, 53.8950493 ] } },

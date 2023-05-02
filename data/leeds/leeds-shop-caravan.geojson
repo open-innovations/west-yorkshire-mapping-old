@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "147534470", "name": "Leeds Caravan Centre", "landuse": "retail", "shop": "caravan" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4262297, 53.8391702 ], [ -1.4258224, 53.8387842 ], [ -1.4266284, 53.8384649 ], [ -1.4269783, 53.8387669 ], [ -1.4269257, 53.8388286 ], [ -1.4262297, 53.8391702 ] ] ] } }
+]
+}

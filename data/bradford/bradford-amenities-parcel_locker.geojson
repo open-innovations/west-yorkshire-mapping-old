@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "9327736312", "name": "InPost locker", "amenity": "parcel_locker", "other_tags": "\"brand\"=>\"Locker InPost\",\"brand:wikidata\"=>\"Q3182097\",\"opening_hours\"=>\"24\/7\",\"operator\"=>\"InPost\",\"parcel_mail_in\"=>\"yes\",\"vending\"=>\"parcel_pickup\"" }, "geometry": { "type": "Point", "coordinates": [ -1.711194, 53.7681828 ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1066204737", "name": "Amazon Hub Locker", "amenity": "parcel_locker", "other_tags": "\"brand\"=>\"Amazon Hub\",\"brand:wikidata\"=>\"Q16974764\",\"operator\"=>\"Amazon\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6840011, 53.7613681 ], [ -1.6840407, 53.7613726 ], [ -1.684043, 53.7613849 ], [ -1.6840026, 53.7613805 ], [ -1.6840011, 53.7613681 ] ] ] } }
+]
+}

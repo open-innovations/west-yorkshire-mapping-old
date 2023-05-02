@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_way_id": "708186623", "name": "Myers Building Supplies", "building": "yes", "shop": "building_materials" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4681246, 53.796547 ], [ -1.4678164, 53.7966478 ], [ -1.4677077, 53.7965319 ], [ -1.4678575, 53.7964828 ], [ -1.4678515, 53.7964764 ], [ -1.4680098, 53.7964246 ], [ -1.4681246, 53.796547 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "708186623", "name": "Myers Building Supplies", "building": "yes", "shop": "building_materials" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4681246, 53.796547 ], [ -1.4678164, 53.7966478 ], [ -1.4677077, 53.7965319 ], [ -1.4678575, 53.7964828 ], [ -1.4678515, 53.7964764 ], [ -1.4680098, 53.7964246 ], [ -1.4681246, 53.796547 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1147942280", "name": "John M. Sykes & Sons", "building": "commercial", "shop": "building_materials", "other_tags": "\"addr:city\"=>\"Horsforth\",\"addr:housenumber\"=>\"98,100\",\"addr:postcode\"=>\"LS18 5AT\",\"addr:street\"=>\"Long Row\",\"website\"=>\"http:\/\/www.sykesbuild.com\/\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.6336118, 53.8445747 ], [ -1.6335859, 53.8445953 ], [ -1.6335918, 53.8446253 ], [ -1.6334174, 53.8446517 ], [ -1.6333915, 53.8445817 ], [ -1.6334453, 53.844557 ], [ -1.6335988, 53.8445388 ], [ -1.6336118, 53.8445747 ] ] ] } }
 ]
 }

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "1123240615", "name": "Skyblazers Fireworks", "building": "yes", "shop": "pyrotechnics", "other_tags": "\"addr:city\"=>\"Sowerby Bridge\",\"addr:housenumber\"=>\"7\",\"addr:postcode\"=>\"HX6 2QG\",\"addr:street\"=>\"Hollins Mill Lane\",\"phone\"=>\"01422 833956\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9132742, 53.708953 ], [ -1.9132028, 53.7089155 ], [ -1.9133058, 53.7088437 ], [ -1.9133837, 53.7088832 ], [ -1.9132742, 53.708953 ] ] ] } }
+]
+}

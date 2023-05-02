@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "3904772959", "name": "Zero Muda", "other_tags": "\"addr:city\"=>\"Horsforth\",\"addr:housenumber\"=>\"85\",\"addr:postcode\"=>\"LS18 4QD\",\"addr:street\"=>\"New Road Side\",\"brand\"=>\"Zero Muda\",\"old_name\"=>\"Costa\",\"opening_hours\"=>\"Mo-Fr 09:30-17:30; Sa 09:00-17:00; Su 10:00-16:00\",\"operator\"=>\"Zero Muda\",\"shop\"=>\"spices\",\"website\"=>\"https:\/\/www.zeromuda.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6411686, 53.831955 ] } }
+]
+}

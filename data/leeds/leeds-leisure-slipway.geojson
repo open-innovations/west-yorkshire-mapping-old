@@ -4,7 +4,8 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "27556279", "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7169042, 53.9077883 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1067781302", "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7695191, 53.8804969 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10650067448", "other_tags": "\"leisure\"=>\"slipway\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3877858, 53.926675 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "688342389", "highway": "service", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\",\"service\"=>\"slipway\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6761704, 53.8670285 ], [ -1.6760714, 53.8669632 ], [ -1.6760439, 53.8669415 ] ] } },
-	{ "type": "Feature", "properties": { "osm_id": "974138018", "highway": "service", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\",\"service\"=>\"slipway\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3877746, 53.9267768 ], [ -1.3877904, 53.9267221 ], [ -1.3878052, 53.9266642 ] ] } }
+	{ "type": "Feature", "properties": { "osm_id": "1046184885", "z_order": 0, "other_tags": "\"leisure\"=>\"slipway\",\"surface\"=>\"paved\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5435867, 53.7926099 ], [ -1.5438377, 53.7925531 ] ] } }
 ]
 }

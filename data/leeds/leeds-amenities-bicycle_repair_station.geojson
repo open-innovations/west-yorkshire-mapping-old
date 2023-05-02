@@ -3,7 +3,9 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "4410553673", "name": "Life Cycles Bike Shop", "amenity": "bicycle_repair_station", "other_tags": "\"shop\"=>\"bicycle\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5964461, 53.7935115 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "9015407316", "amenity": "bicycle_repair_station", "other_tags": "\"fee\"=>\"no\",\"opening_hours\"=>\"24\/7\",\"operator\"=>\"Leeds Beckett University\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5911772, 53.8272287 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "9324942955", "amenity": "bicycle_repair_station", "other_tags": "\"fee\"=>\"no\",\"service:bicycle:pump\"=>\"yes\",\"service:bicycle:stand\"=>\"yes\",\"service:bicycle:tools\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5305931, 53.7914237 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "9015407316", "amenity": "bicycle_repair_station", "other_tags": "\"fee\"=>\"no\",\"opening_hours\"=>\"24\/7\",\"operator\"=>\"Leeds Beckett University\",\"service:bicycle:pump\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5911772, 53.8272287 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9324942955", "amenity": "bicycle_repair_station", "other_tags": "\"fee\"=>\"no\",\"service:bicycle:pump\"=>\"yes\",\"service:bicycle:stand\"=>\"yes\",\"service:bicycle:tools\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5305931, 53.7914237 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9420709681", "amenity": "bicycle_repair_station", "other_tags": "\"fee\"=>\"no\",\"opening_hours\"=>\"24\/7\",\"service:bicycle:pump\"=>\"broken\",\"service:bicycle:tools\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5544108, 53.8068643 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9420709682", "amenity": "bicycle_repair_station", "other_tags": "\"fee\"=>\"no\",\"opening_hours\"=>\"24\/7\",\"service:bicycle:pump\"=>\"yes\",\"service:bicycle:tools\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5548853, 53.8050572 ] } }
 ]
 }

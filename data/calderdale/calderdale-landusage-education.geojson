@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "186908355", "name": "St Michaels & All Angels Church of England (Foundation) Primary School", "amenity": "school", "landuse": "education", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:hamlet\"=>\"Shelf\",\"addr:postcode\"=>\"HX3 7QU\",\"addr:street\"=>\"Meadow Close\",\"ref:edubase\"=>\"107570\",\"website\"=>\"http:\/\/www.st-michaelangels.calderdale.sch.uk\/\",\"wikidata\"=>\"Q42220035\",\"wikipedia\"=>\"en:St Michael and All Angels Church, Shelf, West Yorkshire\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8088337, 53.7544299 ], [ -1.8088766, 53.7545091 ], [ -1.8080397, 53.754858 ], [ -1.8076696, 53.755134 ], [ -1.807539, 53.7550521 ], [ -1.8072833, 53.7550071 ], [ -1.8069132, 53.7549532 ], [ -1.8066986, 53.7549056 ], [ -1.8065538, 53.75482 ], [ -1.8063875, 53.7545884 ], [ -1.8084957, 53.753805 ], [ -1.8088337, 53.7544299 ] ] ] } }
+]
+}

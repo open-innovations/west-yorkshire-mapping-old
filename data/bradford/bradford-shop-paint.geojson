@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "9985649430", "name": "The Paint Place", "other_tags": "\"operator\"=>\"Manor Coating Systems\",\"shop\"=>\"paint\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7599824, 53.8435027 ] } }
+]
+}

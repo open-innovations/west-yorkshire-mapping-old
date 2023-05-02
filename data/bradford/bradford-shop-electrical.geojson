@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "2358538902", "name": "Andrews Electrical", "other_tags": "\"shop\"=>\"electrical\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7792276, 53.8346224 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "4202245415", "other_tags": "\"shop\"=>\"electrical\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8202342, 53.9241391 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4202245415", "name": "Peter Dyer", "other_tags": "\"shop\"=>\"electrical\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8202342, 53.9241391 ] } },
 	{ "type": "Feature", "properties": { "osm_way_id": "322574728", "name": "Harrison", "building": "yes", "shop": "electrical" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7608466, 53.8016464 ], [ -1.761046, 53.8018327 ], [ -1.7611119, 53.8018324 ], [ -1.7614134, 53.8017287 ], [ -1.7614829, 53.8017366 ], [ -1.761589, 53.80185 ], [ -1.7610891, 53.8020114 ], [ -1.7610225, 53.8019948 ], [ -1.7607542, 53.8017307 ], [ -1.7607674, 53.8016818 ], [ -1.7608466, 53.8016464 ] ] ] } }
 ]
 }

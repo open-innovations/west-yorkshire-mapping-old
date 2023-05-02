@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "9809311923", "name": "Makery", "amenity": "workshop", "other_tags": "\"addr:city\"=>\"Todmorden\",\"addr:street\"=>\"Burnley Road\",\"leisure\"=>\"hackerspace\",\"website\"=>\"https:\/\/todmordenmakery.org.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0982834, 53.7157466 ] } }
+]
+}

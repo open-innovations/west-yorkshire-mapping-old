@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "1082542068", "name": "Powertool Services", "building": "industrial", "shop": "tool repair service" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7877473, 53.5706636 ], [ -1.7875359, 53.5705909 ], [ -1.7875544, 53.5705718 ], [ -1.787683, 53.5706161 ], [ -1.7877444, 53.570553 ], [ -1.7876838, 53.5705321 ], [ -1.7877955, 53.5704176 ], [ -1.7879951, 53.5704862 ], [ -1.7879444, 53.5705383 ], [ -1.7878883, 53.570519 ], [ -1.7877473, 53.5706636 ] ] ] ] } }
+]
+}

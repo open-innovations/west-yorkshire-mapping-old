@@ -2,8 +2,8 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "333427405", "name": "P & K Rana's Off Licence", "other_tags": "\"shop\"=>\"beverages\",\"addr:city\"=>\"Shipley\",\"addr:village\"=>\"Saltaire\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7899503, 53.8375457 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "333427405", "name": "P & K Rana's Off Licence", "other_tags": "\"addr:city\"=>\"Shipley\",\"addr:village\"=>\"Saltaire\",\"shop\"=>\"beverages\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7899503, 53.8375457 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "362630271", "other_tags": "\"shop\"=>\"beverages\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7687272, 53.806647 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5684881346", "name": "99 & Main", "amenity": "bar", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"99\",\"addr:postcode\"=>\"BD16 2HT\",\"addr:street\"=>\"Main Street\",\"fhrs:id\"=>\"327661\",\"not:addr:postcode\"=>\"BD16 2HX\",\"old_name\"=>\"Opulence\",\"shop\"=>\"beverages\",\"url\"=>\"http:\/\/99main.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8382701, 53.8484922 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5684881346", "name": "99 & Main", "amenity": "bar", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"99\",\"addr:postcode\"=>\"BD16 2HT\",\"addr:street\"=>\"Main Street\",\"fhrs:id\"=>\"1381260\",\"not:addr:postcode\"=>\"BD16 2HX\",\"old_name\"=>\"Opulence\",\"shop\"=>\"beverages\",\"url\"=>\"http:\/\/99main.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8382701, 53.8484922 ] } }
 ]
 }

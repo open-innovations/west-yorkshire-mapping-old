@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "27563142", "name": "Otley Social Working Men's Club & Institute", "amenity": "working_mens_club", "other_tags": "\"club\"=>\"working_men\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7131082, 53.9141421 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "10048042644", "name": "Jackson Bridge W.M.C.", "amenity": "working_mens_club", "other_tags": "\"club\"=>\"working_men\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7525837, 53.5627827 ] } }
 ]
 }

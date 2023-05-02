@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "10537791312", "name": "Leeds Window and Door Repairs", "other_tags": "\"addr:postcode\"=>\"LS11 9RT\",\"contact:email\"=>\"leeds@repairmywindowsanddoors.co.uk\",\"contact:phone\"=>\"+44 1132 089633\",\"contact:website\"=>\"https:\/\/www.repairmywindowsanddoors.co.uk\/leeds-windowrepair\/\",\"opening_hours\"=>\"Mo-Fr 08:00-18:00; Sa 09:00-15:00; Su off\",\"shop\"=>\"doors\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5652138, 53.7883239 ] } }
+]
+}

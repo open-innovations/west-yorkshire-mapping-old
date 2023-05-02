@@ -8,7 +8,10 @@
 	{ "type": "Feature", "properties": { "osm_id": "1379363052", "name": "Car Spa", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.7830454, 53.926251 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1643687496", "amenity": "car_wash", "other_tags": "\"operator\"=>\"Morrisons\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9074217, 53.8630205 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2358527884", "name": "5 Star", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.7797641, 53.8351034 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9823326872", "amenity": "car_wash", "other_tags": "\"brand\"=>\"BP\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7759845, 53.8319141 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9823515828", "name": "Pit Stop", "amenity": "car_wash" }, "geometry": { "type": "Point", "coordinates": [ -1.7735517, 53.8269763 ] } },
 	{ "type": "Feature", "properties": { "osm_way_id": "227122992", "amenity": "car_wash", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7801071, 53.8351067 ], [ -1.7800401, 53.8353219 ], [ -1.7793885, 53.83517 ], [ -1.7793829, 53.835132 ], [ -1.7790423, 53.8350418 ], [ -1.7790798, 53.8350307 ], [ -1.7794205, 53.8350228 ], [ -1.7796994, 53.8350212 ], [ -1.7799033, 53.8350529 ], [ -1.7801071, 53.8351067 ] ] ] } },
-	{ "type": "Feature", "properties": { "osm_way_id": "456462806", "name": "Morrisons", "amenity": "car_wash", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7103401, 53.8019134 ], [ -1.7102718, 53.8019271 ], [ -1.7102208, 53.8018384 ], [ -1.7102891, 53.8018247 ], [ -1.7103401, 53.8019134 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "456462806", "name": "Morrisons", "amenity": "car_wash", "building": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7103401, 53.8019134 ], [ -1.7102718, 53.8019271 ], [ -1.7102208, 53.8018384 ], [ -1.7102891, 53.8018247 ], [ -1.7103401, 53.8019134 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1148350128", "amenity": "car_wash" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7433585, 53.853398 ], [ -1.7432947, 53.8533667 ], [ -1.743396, 53.8532949 ], [ -1.7434599, 53.8533263 ], [ -1.7433585, 53.853398 ] ] ] } }
 ]
 }

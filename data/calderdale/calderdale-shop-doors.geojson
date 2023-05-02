@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "8488767856", "name": "Emerald Doors", "other_tags": "\"shop\"=>\"doors\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8132857, 53.6987715 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8488767856", "name": "Emerald Doors", "other_tags": "\"shop\"=>\"doors\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8132857, 53.6987715 ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1036816769", "name": "Composite Door Factory (Yorkshire) Ltd", "building": "yes", "shop": "doors", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:housenumber\"=>\"Unit 3\",\"addr:postcode\"=>\"HD6 1PT\",\"addr:street\"=>\"Armytage Road\",\"phone\"=>\"+44 1484 715999\",\"website\"=>\"https:\/\/compositedoorfactory.co.uk\/\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7716119, 53.6996566 ], [ -1.7714406, 53.6996077 ], [ -1.7716134, 53.699399 ], [ -1.7717843, 53.6994497 ], [ -1.7716119, 53.6996566 ] ] ] } }
 ]
 }

@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_way_id": "532664732", "name": "West Leeds Sports & Social Club", "building": "yes", "leisure": "social_club", "other_tags": "\"club\"=>\"sport\",\"fhrs:id\"=>\"466909\",\"addr:city\"=>\"Leeds\",\"addr:street\"=>\"Blue Hill Lane\",\"addr:suburb\"=>\"Wortley\",\"addr:postcode\"=>\"LS12 4NZ\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.603888, 53.7877257 ], [ -1.6038595, 53.7876555 ], [ -1.6040156, 53.7876334 ], [ -1.6041076, 53.7878603 ], [ -1.6040125, 53.7878737 ], [ -1.6040244, 53.7878829 ], [ -1.6039502, 53.7879163 ], [ -1.603769, 53.7877757 ], [ -1.603794, 53.7877645 ], [ -1.6037842, 53.7877404 ], [ -1.603888, 53.7877257 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "532664732", "name": "West Leeds Sports & Social Club", "building": "yes", "leisure": "social_club", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:postcode\"=>\"LS12 4NZ\",\"addr:street\"=>\"Blue Hill Lane\",\"addr:suburb\"=>\"Wortley\",\"club\"=>\"sport\",\"fhrs:id\"=>\"466909\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.603888, 53.7877257 ], [ -1.6038595, 53.7876555 ], [ -1.6040156, 53.7876334 ], [ -1.6041076, 53.7878603 ], [ -1.6040125, 53.7878737 ], [ -1.6040244, 53.7878829 ], [ -1.6039502, 53.7879163 ], [ -1.603769, 53.7877757 ], [ -1.603794, 53.7877645 ], [ -1.6037842, 53.7877404 ], [ -1.603888, 53.7877257 ] ] ] } }
 ]
 }

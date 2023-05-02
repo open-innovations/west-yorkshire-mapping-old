@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "628801238", "building": "industrial", "shop": "stone", "other_tags": "\"addr:housename\"=>\"The Ronson Building\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.4625568, 53.8296358 ], [ -1.4628823, 53.8294918 ], [ -1.4628452, 53.8294626 ], [ -1.4630951, 53.8293521 ], [ -1.4631321, 53.8293813 ], [ -1.463403, 53.8292614 ], [ -1.4635963, 53.8294136 ], [ -1.4633588, 53.8295187 ], [ -1.4634036, 53.829554 ], [ -1.463279, 53.8296092 ], [ -1.4632341, 53.8295739 ], [ -1.4627501, 53.829788 ], [ -1.4625568, 53.8296358 ] ] ] ] } }
+]
+}

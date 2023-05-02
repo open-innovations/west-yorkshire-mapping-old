@@ -13,6 +13,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "8421213618", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7355753, 53.8924929 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8443249887", "amenity": "vending_machine", "other_tags": "\"operator\"=>\"Northern\",\"payment:cards\"=>\"yes\",\"payment:others\"=>\"no\",\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.944549, 53.9000442 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8787346064", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7974402, 53.9257953 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "9327764790", "name": "Amazon Hub locker", "amenity": "vending_machine", "other_tags": "\"addr:postcode\"=>\"BD4 0SB\",\"brand\"=>\"Amazon Hub\",\"brand:wikidata\"=>\"Q16974764\",\"brand:wikipedia\"=>\"en:Amazon Locker\",\"opening_hours\"=>\"24\/7\",\"operator\"=>\"Amazon\",\"vending\"=>\"parcel_pickup;parcel_mail_in\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6840272, 53.7613832 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "10677206721", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"public_transport_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8373939, 53.8486443 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10729015411", "amenity": "vending_machine", "other_tags": "\"vending\"=>\"parking_tickets\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9473003, 53.8315544 ] } }
 ]
 }

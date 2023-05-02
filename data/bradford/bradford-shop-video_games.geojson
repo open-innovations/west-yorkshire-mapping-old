@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_way_id": "627574169", "building": "yes", "shop": "video_games" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.737702, 53.8239527 ], [ -1.7375341, 53.8239094 ], [ -1.7375787, 53.8238645 ], [ -1.7377308, 53.8239063 ], [ -1.737702, 53.8239527 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "627574169", "building": "yes", "shop": "video_games" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.737702, 53.8239527 ], [ -1.7375341, 53.8239094 ], [ -1.7375787, 53.8238645 ], [ -1.7377308, 53.8239063 ], [ -1.737702, 53.8239527 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1115286748", "name": "Game", "shop": "video_games", "other_tags": "\"brand\"=>\"Game\",\"brand:wikidata\"=>\"Q5519813\",\"building:part\"=>\"retail\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7489945, 53.7944346 ], [ -1.7486219, 53.7945745 ], [ -1.7485529, 53.7945128 ], [ -1.7489309, 53.7943721 ], [ -1.7489945, 53.7944346 ] ] ] } }
 ]
 }

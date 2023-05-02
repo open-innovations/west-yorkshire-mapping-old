@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": 13878536, "centroid": { "latitude": 53.700791, "longitude": -1.771944 }, "name": "Dawsongroup Sweepers", "type": "multipolygon", "building": "yes", "shop": "rental", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:postcode\"=>\"HD6 1PT\",\"addr:street\"=>\"Armytage Road\",\"product\"=>\"sweepers\",\"website\"=>\"https:\/\/www.dawsongroupsweepers.co.uk\/\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7719908, 53.700913 ], [ -1.7717537, 53.7008454 ], [ -1.7718972, 53.7006689 ], [ -1.7721342, 53.7007364 ], [ -1.7719908, 53.700913 ] ] ], [ [ [ -1.7722093, 53.7006424 ], [ -1.77161, 53.7004763 ], [ -1.7717557, 53.7002921 ], [ -1.7723547, 53.7004579 ], [ -1.7722093, 53.7006424 ] ] ] ] } }
+]
+}

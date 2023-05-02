@@ -3,6 +3,8 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "687080975", "name": "Adult Superstore", "other_tags": "\"shop\"=>\"toys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7233065, 53.7728608 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5289799102", "name": "Rainbow Wood", "other_tags": "\"shop\"=>\"toys\",\"addr:city\"=>\"Bingley\",\"addr:street\"=>\"Main Street\",\"addr:postcode\"=>\"BD16 2HT\",\"addr:housenumber\"=>\"103\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8382322, 53.8484335 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5289799102", "name": "Rainbow Wood", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"103\",\"addr:postcode\"=>\"BD16 2HT\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"toys\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8382322, 53.8484335 ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1148062910", "name": "Menkind", "shop": "toys", "other_tags": "\"brand\"=>\"Menkind\",\"brand:wikidata\"=>\"Q66725844\",\"building:part\"=>\"retail\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7492219, 53.7936862 ], [ -1.7493588, 53.7936899 ], [ -1.7493309, 53.7940497 ], [ -1.7491939, 53.794046 ], [ -1.7492219, 53.7936862 ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1148062917", "name": "The Entertainer", "shop": "toys", "other_tags": "\"brand\"=>\"The Entertainer\",\"brand:wikidata\"=>\"Q7732289\",\"building:part\"=>\"retail\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7500218, 53.7940653 ], [ -1.7500466, 53.7937388 ], [ -1.7501266, 53.7938253 ], [ -1.750278, 53.7938281 ], [ -1.7502712, 53.79393 ], [ -1.7501556, 53.7939271 ], [ -1.7501453, 53.7940687 ], [ -1.7500218, 53.7940653 ] ] ] } }
 ]
 }

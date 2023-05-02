@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "4617406141", "amenity": "photo_booth" }, "geometry": { "type": "Point", "coordinates": [ -1.6107332, 53.7356667 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5981573953", "amenity": "photo_booth" }, "geometry": { "type": "Point", "coordinates": [ -1.5385018, 53.7975654 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7511364273", "amenity": "photo_booth" }, "geometry": { "type": "Point", "coordinates": [ -1.4588961, 53.8179366 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7511364273", "amenity": "photo_booth" }, "geometry": { "type": "Point", "coordinates": [ -1.4588961, 53.8179366 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10696922987", "name": "Photo Me", "amenity": "photo_booth", "other_tags": "\"operator\"=>\"ME Group UK\",\"website\"=>\"https:\/\/www.megroup.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6407714, 53.8380731 ] } }
 ]
 }

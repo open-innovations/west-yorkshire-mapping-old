@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "324717815", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7831438, 53.5691748 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2140182053", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7508475, 53.59961 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5849855326", "name": "Stone Trough 1852", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.9981371, 53.8600909 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7847534360", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7045368, 53.8913401 ] } },
@@ -11,6 +12,15 @@
 	{ "type": "Feature", "properties": { "osm_id": "8515196004", "amenity": "watering_place", "man_made": "animal_drinking_trough" }, "geometry": { "type": "Point", "coordinates": [ -1.5137513, 53.8836824 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8619128145", "amenity": "watering_place", "man_made": "animal_drinking_trough" }, "geometry": { "type": "Point", "coordinates": [ -1.9595637, 53.7371721 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8805455567", "amenity": "watering_place", "man_made": "animal_drinking_trough", "other_tags": "\"fee\"=>\"no\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9721038, 53.7402058 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "9214708048", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -2.0010419, 53.738013 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "9214708048", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -2.0010419, 53.738013 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9668214679", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7148893, 53.8858631 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10108828343", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.757326, 53.5740836 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10304959190", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7698982, 53.5757513 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10313075929", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7868406, 53.5609243 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10655378338", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7883137, 53.5509843 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10655378364", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7867139, 53.5539628 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10658009608", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7634128, 53.5631725 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10795391846", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7738458, 53.57242 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10831837708", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7917972, 53.6043691 ] } }
 ]
 }

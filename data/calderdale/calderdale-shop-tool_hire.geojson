@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "822580029", "name": "EPS Hire", "building": "commercial", "shop": "tool_hire", "other_tags": "\"addr:city\"=>\"Sowerby Bridge\",\"addr:housename\"=>\"The Nook\",\"addr:postcode\"=>\"HX6 3AJ\",\"addr:street\"=>\"West Street\",\"operator\"=>\"EPS Hire Centres\",\"phone\"=>\"01422 831429\",\"website\"=>\"https:\/\/epshirecentres.co.uk\/\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.9133208, 53.7075636 ], [ -1.9131543, 53.707525 ], [ -1.9132457, 53.7073743 ], [ -1.9134056, 53.7074014 ], [ -1.9133208, 53.7075636 ] ] ] } }
+]
+}

@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "5460562792", "other_tags": "\"leisure\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5766136, 53.8131294 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5422663138", "name": "Drift Stop", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"The Merrion Centre\",\"addr:postcode\"=>\"LS2 8NG\",\"addr:unit\"=>\"16-18\",\"leisure\"=>\"yes\",\"shop\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5440203, 53.8013724 ] } },
 	{ "type": "Feature", "properties": { "osm_way_id": "554960212", "amenity": "fountain", "leisure": "yes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5058868, 53.840256 ], [ -1.505884, 53.8402618 ], [ -1.5058782, 53.8402666 ], [ -1.50587, 53.8402701 ], [ -1.5058603, 53.8402718 ], [ -1.5058502, 53.8402715 ], [ -1.505841, 53.8402693 ], [ -1.5058336, 53.8402655 ], [ -1.5058285, 53.8402605 ], [ -1.5058265, 53.8402549 ], [ -1.5058276, 53.8402491 ], [ -1.5058319, 53.8402438 ], [ -1.5058387, 53.8402397 ], [ -1.5058475, 53.840237 ], [ -1.5058572, 53.8402362 ], [ -1.5058669, 53.8402372 ], [ -1.5058757, 53.8402401 ], [ -1.5058824, 53.8402446 ], [ -1.5058863, 53.8402501 ], [ -1.5058868, 53.840256 ] ] ] } },
 	{ "type": "Feature", "properties": { "osm_way_id": "706730527", "leisure": "yes", "other_tags": "\"surface\"=>\"asphalt\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.4838913, 53.7958132 ], [ -1.4836001, 53.7961008 ], [ -1.4830406, 53.7959312 ], [ -1.4831506, 53.7958146 ], [ -1.483311, 53.7956446 ], [ -1.4838913, 53.7958132 ] ] ] } }
 ]

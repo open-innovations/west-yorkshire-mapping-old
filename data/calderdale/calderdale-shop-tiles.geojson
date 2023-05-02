@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "1036338000", "name": "HOT Tile Importers", "building": "yes", "shop": "tiles", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:housename\"=>\"Stercap House\",\"addr:postcode\"=>\"HD6 1PU\",\"addr:street\"=>\"Wakefield Road\",\"phone\"=>\"+44 1484 723786\",\"website\"=>\"http:\/\/www.hottile.co.uk\/\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7719199, 53.7012357 ], [ -1.771773, 53.7011927 ], [ -1.7719054, 53.7010338 ], [ -1.7719949, 53.7009247 ], [ -1.772001, 53.7009167 ], [ -1.7721506, 53.7009596 ], [ -1.7719639, 53.7011831 ], [ -1.7719199, 53.7012357 ] ] ] } }
+]
+}

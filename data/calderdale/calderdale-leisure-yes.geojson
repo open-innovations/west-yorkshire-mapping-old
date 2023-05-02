@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "245477330", "name": "Halifax Ski and Snowboard Centre (Ploughcroft)", "other_tags": "\"sport\"=>\"skiing\",\"leisure\"=>\"yes\",\"loc_name\"=>\"Ploughcroft Dry Ski Slope\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8611623, 53.7409118 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "245477330", "name": "Halifax Ski and Snowboard Centre (Ploughcroft)", "other_tags": "\"leisure\"=>\"yes\",\"loc_name\"=>\"Ploughcroft Dry Ski Slope\",\"sport\"=>\"skiing\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8611623, 53.7409118 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4212117965", "name": "Another World Adventure Centre", "other_tags": "\"leisure\"=>\"yes\",\"website\"=>\"http:\/\/www.anotherworldadventurecentre.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8992035, 53.7789748 ] } }
 ]
 }

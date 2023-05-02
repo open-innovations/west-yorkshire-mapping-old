@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "540118621", "name": "The Colour Copy Shop", "other_tags": "\"shop\"=>\"copyshop\",\"phone\"=>\"+44 1535 665510\",\"addr:street\"=>\"High Street\",\"addr:housenumber\"=>\"24\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9107889, 53.8657921 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "540118621", "name": "The Colour Copy Shop", "other_tags": "\"addr:housenumber\"=>\"24\",\"addr:street\"=>\"High Street\",\"phone\"=>\"+44 1535 665510\",\"shop\"=>\"copyshop\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9107889, 53.8657921 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8380963493", "name": "Smallprint", "other_tags": "\"addr:city\"=>\"Menston\",\"addr:housenumber\"=>\"29\",\"addr:postcode\"=>\"LS29 6NB\",\"addr:street\"=>\"Main Street\",\"email\"=>\"tom@smallprintmenston.co.uk\",\"opening_hours\"=>\"Mo-Fr 09:00-12:30, 13:00-17:00\",\"phone\"=>\"+44 1943 884835\",\"shop\"=>\"copyshop\",\"website\"=>\"www.smallprintmenston.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.745556, 53.8913045 ] } },
 	{ "type": "Feature", "properties": { "osm_way_id": "564041064", "name": "fingerprints", "building": "yes", "shop": "copyshop", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"126-128\",\"addr:postcode\"=>\"BD16 2HL\",\"addr:street\"=>\"Main Street\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8395653, 53.8495342 ], [ -1.8394256, 53.8495871 ], [ -1.8393713, 53.8495371 ], [ -1.8395109, 53.8494842 ], [ -1.8395653, 53.8495342 ] ] ] } }
 ]

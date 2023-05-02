@@ -17,7 +17,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "718548606", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6405039, 53.8750801 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747710868", "name": "Round Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7636417, 53.8698453 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747710922", "name": "Honey Joan Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7648541, 53.8684725 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "747731716", "name": "Beacon Hill", "other_tags": "\"natural\"=>\"peak\",\"source:ele\"=>\"NLS OS 1:10,560\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6977559, 53.8936051 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "747731716", "name": "Beacon Hill", "other_tags": "\"ele:ft\"=>\"925\",\"natural\"=>\"peak\",\"source:ele\"=>\"NLS OS 1:10,560\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6977559, 53.8936051 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747742391", "name": "Cocklake Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7957698, 53.8836389 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "747742445", "name": "Knapley Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.788835, 53.8804734 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "759406820", "name": "Windmill Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7209948, 53.8898312 ] } },
@@ -33,10 +33,10 @@
 	{ "type": "Feature", "properties": { "osm_id": "1617545709", "name": "Dalton Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3938051, 53.8865909 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1980247768", "name": "Hill 60", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5010182, 53.8361519 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "2462938416", "name": "Dog Kennel Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4572764, 53.7819184 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2462938422", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4228255, 53.8002843 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7576920623", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7304039, 53.8979589 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7576920623", "man_made": "survey_point", "other_tags": "\"ele:ft\"=>\"400\",\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7304039, 53.8979589 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7605640840", "name": "Dunstan Hills", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4575336, 53.7788775 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7809631403", "name": "Cote Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5047415, 53.8809044 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "7837815082", "name": "Yeadon Banks", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6838939, 53.8712582 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "7837815082", "name": "Yeadon Banks", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6838939, 53.8712582 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9371357500", "name": "Roach Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3665099, 53.7770336 ] } }
 ]
 }

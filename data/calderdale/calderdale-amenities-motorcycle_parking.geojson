@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1038731043", "amenity": "motorcycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.7119849, 53.8300645 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "9957086364", "amenity": "motorcycle_parking" }, "geometry": { "type": "Point", "coordinates": [ -1.7460942, 53.7127082 ] } }
 ]
 }

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "6715488968", "name": "Boom Leeds", "amenity": "music_venue,events_venue,_bar", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housename\"=>\"Boom Leeds, Byron Street Mills\",\"addr:postcode\"=>\"LS2 7QG\",\"addr:street\"=>\"Millwright Street\",\"addr:unit\"=>\"8\",\"description\"=>\"Leeds live music venue dedicated to punk, hardcore and metal.\",\"live_music\"=>\"yes\",\"music\"=>\"alternative, punk, metal, rock\",\"website\"=>\"www.boomleeds.com\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5322034, 53.8021468 ] } }
+]
+}

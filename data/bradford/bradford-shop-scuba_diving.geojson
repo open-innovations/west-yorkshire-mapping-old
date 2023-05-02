@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1957539339", "name": "Duck and Dive", "other_tags": "\"shop\"=>\"scuba_diving\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7759394, 53.8351019 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "1957539339", "name": "Duck and Dive", "other_tags": "\"addr:housenumber\"=>\"27\",\"addr:postcode\"=>\"BD17 7DH\",\"addr:street\"=>\"Otley Road\",\"image\"=>\"https:\/\/www.geograph.org.uk\/photo\/1586674\",\"shop\"=>\"scuba_diving\",\"website\"=>\"https:\/\/duckanddive.com\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7759394, 53.8351019 ] } }
 ]
 }

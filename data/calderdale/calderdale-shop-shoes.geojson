@@ -2,8 +2,9 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "700188684", "name": "Walkley Clogs", "other_tags": "\"addr:city\"=>\"Hebden Bridge\",\"addr:country\"=>\"GB\",\"addr:hamlet\"=>\"Mytholmroyd\",\"addr:housename\"=>\"Mount Pleasant Mills\",\"addr:postcode\"=>\"HX7 5LR\",\"addr:street\"=>\"Midgeley Road\",\"addr:unit\"=>\"Unit 10\",\"shop\"=>\"shoes\",\"website\"=>\"www.clogs.co.uk\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9791281, 53.7321222 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5463222473", "name": "Clarkes", "other_tags": "\"shop\"=>\"shoes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8600369, 53.7230388 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5569969832", "name": "Shoe Zone", "other_tags": "\"brand\"=>\"Shoe Zone\",\"brand:wikidata\"=>\"Q7500016\",\"brand:wikipedia\"=>\"en:Shoe Zone\",\"shop\"=>\"shoes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8587065, 53.722769 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5569969832", "name": "Shoe Zone", "other_tags": "\"brand\"=>\"Shoe Zone\",\"brand:wikidata\"=>\"Q7500016\",\"brand:wikipedia\"=>\"en:Shoe Zone\",\"contact:website\"=>\"https:\/\/www.shoezone.com\/Stores\/Halifax-1776\",\"shop\"=>\"shoes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8587065, 53.722769 ] } },
 	{ "type": "Feature", "properties": { "osm_way_id": "568507579", "name": "Ivor Burns' Shoes", "building": "yes", "shop": "shoes" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8614168, 53.7213954 ], [ -1.8613994, 53.7213391 ], [ -1.8614977, 53.72133 ], [ -1.8615142, 53.7213849 ], [ -1.8614168, 53.7213954 ] ] ] } }
 ]
 }

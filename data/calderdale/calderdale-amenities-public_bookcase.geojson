@@ -2,7 +2,11 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "1023744943", "amenity": "public_bookcase", "man_made": "telephone_box", "other_tags": "\"booth\"=>\"K6\",\"defibrillator:location\"=>\"inside old red phone box (that is now used as book exchange), where Deep Lane meets Towngate in Brighouse\",\"disused:amenity\"=>\"telephone\",\"emergency\"=>\"defibrillator\",\"public_bookcase:type\"=>\"phone_box\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7526238, 53.6992758 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1075462011", "name": "Elland Book Swap", "amenity": "public_bookcase", "man_made": "telephone_box", "other_tags": "\"booth\"=>\"K6\",\"disused:amenity\"=>\"telephone\",\"listed_status\"=>\"Grade II\",\"public_bookcase:type\"=>\"phone_box\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8348397, 53.6841718 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5239889548", "amenity": "public_bookcase", "man_made": "telephone_box", "other_tags": "\"booth\"=>\"K6\",\"covered\"=>\"booth\",\"disused:amenity\"=>\"telephone\",\"public_bookcase:type\"=>\"phone_box\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9395913, 53.742371 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8759085946", "amenity": "public_bookcase", "other_tags": "\"colour\"=>\"green\",\"public_bookcase:type\"=>\"reading_box\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1388197, 53.7323309 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "8759085946", "amenity": "public_bookcase", "other_tags": "\"colour\"=>\"green\",\"public_bookcase:type\"=>\"reading_box\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1388197, 53.7323309 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9392750454", "amenity": "public_bookcase", "man_made": "telephone_box", "other_tags": "\"booth\"=>\"K6\",\"disused:amenity\"=>\"telephone\",\"listed_status\"=>\"Grade II\",\"public_bookcase:type\"=>\"phone_box\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0118911, 53.7419244 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "9504675215", "amenity": "public_bookcase" }, "geometry": { "type": "Point", "coordinates": [ -2.0228464, 53.7469076 ] } }
 ]
 }

@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "1231630213", "name": "The K9 Studio", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"2\",\"addr:postcode\"=>\"HX3 0AP\",\"addr:street\"=>\"Abbey Walk South\",\"opening_hours\"=>\"Mo-Sa 08:30-17:30\",\"phone\"=>\"+447479021290\",\"shop\"=>\"pet_grooming\"" }, "geometry": { "type": "Point", "coordinates": [ -1.857875, 53.7093294 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "1231630213", "name": "The K9 Studio", "other_tags": "\"addr:city\"=>\"Halifax\",\"addr:country\"=>\"GB\",\"addr:housenumber\"=>\"2\",\"addr:postcode\"=>\"HX3 0AP\",\"addr:street\"=>\"Abbey Walk South\",\"opening_hours\"=>\"Mo-Sa 08:30-17:30\",\"phone\"=>\"+447479021290\",\"shop\"=>\"pet_grooming\"" }, "geometry": { "type": "Point", "coordinates": [ -1.857875, 53.7093294 ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1032881622", "name": "The Hound Ville", "building": "yes", "shop": "pet_grooming", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:housenumber\"=>\"18\",\"addr:postcode\"=>\"HD6 1HA\",\"addr:street\"=>\"Huddersfield Road\",\"phone\"=>\"+44 1484 482509\",\"website\"=>\"https:\/\/www.thehoundville.co.uk\/pages\/brighouse-salon-shop\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7794408, 53.6992041 ], [ -1.7793175, 53.6991995 ], [ -1.7793214, 53.6991427 ], [ -1.7794459, 53.6991466 ], [ -1.7794408, 53.6992041 ] ] ] } }
 ]
 }

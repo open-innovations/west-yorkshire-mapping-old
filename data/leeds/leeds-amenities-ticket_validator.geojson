@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "736312798", "barrier": "gate", "z_order": 0, "other_tags": "\"amenity\"=>\"ticket_validator\",\"fee\"=>\"yes\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.5479449, 53.7948915 ], [ -1.5479001, 53.794771 ], [ -1.5478548, 53.7947369 ], [ -1.5477208, 53.7946361 ] ] } }
+]
+}

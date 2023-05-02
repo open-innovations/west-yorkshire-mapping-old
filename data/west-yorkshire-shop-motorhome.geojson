@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "4970388527", "name": "Equi-Sport Horseboxes Ltd", "other_tags": "\"addr:city\"=>\"Huddersfield\",\"addr:parentstreet\"=>\"Brook House Lane\",\"addr:postcode\"=>\"HD8 8LU\",\"addr:street\"=>\"Barncliffe Mills\",\"addr:suburb\"=>\"Shelley\",\"addr:unit\"=>\"Unit 1\",\"phone\"=>\"+44 1226 292879\",\"shop\"=>\"motorhome\",\"website\"=>\"https:\/\/equi-sport.co.uk\/\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6876802, 53.5913568 ] } }
+]
+}

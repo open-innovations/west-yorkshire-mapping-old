@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5469277354", "name": "cardmarket", "other_tags": "\"shop\"=>\"stationery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.859951, 53.7226468 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5569969823", "name": "Card Guys", "other_tags": "\"shop\"=>\"stationery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8586206, 53.7219184 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "5569969823", "name": "Card Guys", "other_tags": "\"shop\"=>\"stationery\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8586206, 53.7219184 ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1036044395", "name": "Toad Diaries", "building": "yes", "shop": "stationery", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:housenumber\"=>\"Unit 2\",\"addr:postcode\"=>\"HD6 1PN\",\"addr:street\"=>\"Karen's Way\",\"website\"=>\"https:\/\/www.toaddiaries.co.uk\/\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7756617, 53.7007546 ], [ -1.7755247, 53.7007268 ], [ -1.7755617, 53.7006645 ], [ -1.7756971, 53.7006922 ], [ -1.7756617, 53.7007546 ] ] ] } }
 ]
 }

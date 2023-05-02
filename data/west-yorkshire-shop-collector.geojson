@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "1126912179", "name": "Diversions", "building": "commercial", "shop": "collector", "other_tags": "\"addr:city\"=>\"Huddersfield\",\"addr:housenumber\"=>\"4\",\"addr:postcode\"=>\"HD1 2BR\",\"addr:street\"=>\"Imperial Arcade\",\"phone\"=>\"+44 7897 396101\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.7834533, 53.6452636 ], [ -1.7834741, 53.64521 ], [ -1.7835567, 53.6452246 ], [ -1.7835338, 53.645274 ], [ -1.7834533, 53.6452636 ] ] ] ] } }
+]
+}

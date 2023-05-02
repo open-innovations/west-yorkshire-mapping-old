@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "1160816093", "z_order": 0, "other_tags": "\"natural\"=>\"earth_bank\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.764569, 53.8596077 ], [ -1.7647085, 53.8595634 ], [ -1.7648318, 53.8595428 ], [ -1.7651001, 53.8596235 ], [ -1.7652905, 53.8597469 ], [ -1.7653576, 53.8597991 ] ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1160816094", "z_order": 0, "other_tags": "\"natural\"=>\"earth_bank\"" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.7639333, 53.8595998 ], [ -1.7641023, 53.8595397 ], [ -1.7642283, 53.8595412 ], [ -1.7643249, 53.8596314 ] ] } }
+]
+}
