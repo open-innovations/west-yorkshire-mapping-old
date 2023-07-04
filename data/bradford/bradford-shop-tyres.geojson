@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "462793833", "name": "Cottingley Tyres", "building": "retail", "shop": "tyres", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:postcode\"=>\"BD16 1TZ\",\"addr:suburb\"=>\"Cottingley\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8204952, 53.8288833 ], [ -1.8202711, 53.8289287 ], [ -1.8202409, 53.8288769 ], [ -1.8204651, 53.8288315 ], [ -1.8204952, 53.8288833 ] ] ] } },
 	{ "type": "Feature", "properties": { "osm_way_id": "554506226", "name": "Castle Tyres", "building": "retail", "shop": "tyres" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8472969, 53.8596843 ], [ -1.8471135, 53.8596067 ], [ -1.847297, 53.8594559 ], [ -1.8474804, 53.8595335 ], [ -1.8472969, 53.8596843 ] ] ] } },
 	{ "type": "Feature", "properties": { "osm_way_id": "888812029", "name": "Easy-Fit", "building": "industrial", "shop": "tyres", "other_tags": "\"building:levels\"=>\"1\",\"building:use\"=>\"commercial\",\"opening_hours\"=>\"Mo-Fr 09:00-17:30; Sa 09:00-17:00\",\"roof:levels\"=>\"0\",\"roof:shape\"=>\"flat\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8208436, 53.8049471 ], [ -1.8206603, 53.8048202 ], [ -1.8207759, 53.8047619 ], [ -1.8209592, 53.8048889 ], [ -1.820866, 53.8049358 ], [ -1.8208436, 53.8049471 ] ] ] } }
 ]

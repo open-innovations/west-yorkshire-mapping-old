@@ -4,6 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "1295263461", "name": "Revival", "other_tags": "\"phone\"=>\"+44 1535 606837\",\"shop\"=>\"antiques\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9112089, 53.8596081 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5434991088", "name": "Antiques Retro & Vintage", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"84\",\"addr:postcode\"=>\"BD16 2JH\",\"addr:street\"=>\"Main Street\",\"shop\"=>\"antiques\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8405847, 53.8505737 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10992373912", "name": "Grandpa's Basement", "other_tags": "\"shop\"=>\"antiques\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7751641, 53.8346272 ] } },
 	{ "type": "Feature", "properties": { "osm_way_id": "996852159", "name": "Curiorities", "building": "yes", "shop": "antiques", "other_tags": "\"addr:city\"=>\"Bingley\",\"addr:housenumber\"=>\"32\",\"addr:postcode\"=>\"BD16 2EZ\",\"addr:street\"=>\"Keighley Road\",\"addr:village\"=>\"Crossflatts\",\"old_amenity\"=>\"fast_food\",\"old_cuisine\"=>\"pizza;burger\",\"old_fhrs:id\"=>\"325165\",\"old_name\"=>\"Hot Shots\",\"website\"=>\"www.yourcuriosities.co.uk\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.8455015, 53.8614678 ], [ -1.8456465, 53.8614263 ], [ -1.8456794, 53.8614672 ], [ -1.8455345, 53.8615084 ], [ -1.8455015, 53.8614678 ] ] ] } }
 ]
 }

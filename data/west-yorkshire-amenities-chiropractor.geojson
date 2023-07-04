@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_way_id": "61722304", "name": "Atlas Chiropractic Clinic", "amenity": "chiropractor", "building": "yes", "other_tags": "\"addr:city\"=>\"Outwood\",\"addr:housenumber\"=>\"450\",\"addr:postcode\"=>\"WF1 2JB\",\"addr:street\"=>\"Leeds Road\",\"old_name\"=>\"Chantry Vets\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5048735, 53.7069708 ], [ -1.5048084, 53.7070508 ], [ -1.5047775, 53.7070411 ], [ -1.5046119, 53.7069892 ], [ -1.5046317, 53.7069694 ], [ -1.5048735, 53.7069708 ] ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "61722304", "name": "Atlas Chiropractic Clinic", "amenity": "chiropractor", "building": "yes", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:housenumber\"=>\"450\",\"addr:postcode\"=>\"WF1 2JB\",\"addr:street\"=>\"Leeds Road\",\"addr:suburb\"=>\"Outwood\",\"old_name\"=>\"Chantry Vets\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5048735, 53.7069708 ], [ -1.5048084, 53.7070508 ], [ -1.5047775, 53.7070411 ], [ -1.5046119, 53.7069892 ], [ -1.5046317, 53.7069694 ], [ -1.5048735, 53.7069708 ] ] ] ] } }
 ]
 }

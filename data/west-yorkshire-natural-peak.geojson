@@ -13,7 +13,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "29845872", "other_tags": "\"natural\"=>\"peak\",\"source:ele\"=>\"height in feet (1545) from npe, converted to metres\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1294207, 53.7632061 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "29846018", "other_tags": "\"natural\"=>\"peak\",\"noname\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.044116, 53.68738 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "30844489", "name": "Todmorden Moor", "other_tags": "\"natural\"=>\"peak\",\"source:ele\"=>\"height in feet (1382) from npe, converted to metres\"" }, "geometry": { "type": "Point", "coordinates": [ -2.1462688, 53.7195997 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "266946605", "name": "Black Hill", "other_tags": "\"alt_name\"=>\"Soldiers' Lump\",\"natural\"=>\"peak\",\"wikidata\"=>\"Q4920939\",\"wikipedia\"=>\"en:Black Hill (Peak District)\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8835298, 53.538756 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "266946605", "name": "Black Hill", "other_tags": "\"alt_name\"=>\"Soldiers' Lump\",\"natural\"=>\"peak\",\"wikidata\"=>\"Q4920939\",\"wikipedia\"=>\"en:Black Hill (Peak District)\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8835327, 53.5387667 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "270729647", "name": "March Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9880385, 53.6133228 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "270729648", "name": "Dean Head Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.903978, 53.551287 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "280719165", "name": "Spy Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8138573, 53.8784616 ] } },
@@ -22,7 +22,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "314690401", "name": "Cupwith Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9523406, 53.6233988 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "321821893", "name": "Wolfstones", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8131257, 53.5781758 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "338717399", "name": "Reva Hill", "man_made": "survey_point", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.77051, 53.8862105 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "340145312", "name": "Britland Edge Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8410812, 53.5198619 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "340145312", "name": "Britland Edge Hill", "other_tags": "\"natural\"=>\"peak\",\"wikidata\"=>\"Q23041992\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8410812, 53.5198619 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "341122750", "name": "Cheese Gate Nab", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7385209, 53.5559129 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "411747167", "name": "Windgate Nick", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8938689, 53.919963 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "426916023", "name": "Rawden Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5579009, 53.8978265 ] } },
@@ -163,6 +163,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "9416176484", "name": "Deffer Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6145132, 53.5787234 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "9439896820", "name": "Pool Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6268032, 53.5747887 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "10074936461", "name": "Horn Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7413408, 53.5738993 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "10579249271", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6524786, 53.5982343 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "10579249271", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6524786, 53.5982343 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10974259805", "name": "Pule Hill", "other_tags": "\"natural\"=>\"peak\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9523015, 53.5908189 ] } }
 ]
 }

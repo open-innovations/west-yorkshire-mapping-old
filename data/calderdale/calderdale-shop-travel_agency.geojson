@@ -4,7 +4,7 @@
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "5452280963", "name": "Hays Travel", "other_tags": "\"brand\"=>\"Hays Travel\",\"brand:wikidata\"=>\"Q70250954\",\"brand:wikipedia\"=>\"en:Hays Travel\",\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8578133, 53.7234023 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5463222482", "name": "Wallace Arnold", "other_tags": "\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8594065, 53.7231277 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "5463222484", "name": "Althams", "other_tags": "\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8596157, 53.7230531 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5463222484", "name": "Althams", "other_tags": "\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8595419, 53.7230721 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5463222486", "name": "Thomas Cook", "other_tags": "\"brand\"=>\"Thomas Cook\",\"brand:wikidata\"=>\"Q2141800\",\"brand:wikipedia\"=>\"en:Thomas Cook Group\",\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.86001, 53.7229785 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5463222489", "name": "Pure Travel", "other_tags": "\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8597525, 53.7228198 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "5469277363", "name": "TUI", "other_tags": "\"brand\"=>\"TUI\",\"brand:wikidata\"=>\"Q7795876\",\"shop\"=>\"travel_agency\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8600905, 53.7231991 ] } },

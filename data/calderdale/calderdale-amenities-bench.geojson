@@ -144,12 +144,12 @@
 	{ "type": "Feature", "properties": { "osm_id": "8407760455", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8747802, 53.7055716 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8409083003", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.9217677, 53.7435286 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8409083010", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.9214512, 53.7436048 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8411568006", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8609125, 53.7249372 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8411568007", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8609473, 53.7250158 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8411568008", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8609956, 53.7250824 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8411568009", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.861056, 53.7251919 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8411568010", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8610922, 53.7252784 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "8411568011", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8611485, 53.7253641 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8411568006", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8609125, 53.7249372 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8411568007", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8609473, 53.7250158 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8411568008", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8609956, 53.7250824 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8411568009", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.861056, 53.7251919 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8411568010", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8610922, 53.7252784 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8411568011", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8611485, 53.7253641 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8412224469", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8628962, 53.7222706 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8412224470", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.86286, 53.7223027 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8412224471", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8627863, 53.7222912 ] } },
@@ -278,6 +278,9 @@
 	{ "type": "Feature", "properties": { "osm_id": "9790735962", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.7935002, 53.7389127 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "9815163039", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"wood\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8468029, 53.7376104 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "10257982365", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -2.0065136, 53.7383501 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "10313153547", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8728907, 53.6883828 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "10313153547", "amenity": "bench" }, "geometry": { "type": "Point", "coordinates": [ -1.8728907, 53.6883828 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10913874163", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"inscription\"=>\"Forever in our Hearts Thomas Livesey 1983-2020 Enjoy the moment, share the view in this place that Tom loved\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -2.021097, 53.7438412 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10913952006", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\",\"material\"=>\"metal\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0225705, 53.7451645 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10914002868", "amenity": "bench", "other_tags": "\"backrest\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0346858, 53.7522535 ] } }
 ]
 }

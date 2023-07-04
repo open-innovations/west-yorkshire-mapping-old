@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_way_id": "574203476", "name": "Instituto Cervantes", "amenity": "language_school", "building": "yes", "other_tags": "\"addr:housenumber\"=>\"169\",\"addr:postcode\"=>\"LS2 3AR\",\"addr:street\"=>\"Woodhouse Lane\",\"alt_name\"=>\"Spanish Cultural Centre\",\"website\"=>\"https:\/\/gfal.leeds.ac.uk\/where-to-eat\/cafes\/1915\/\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5500186, 53.8060202 ], [ -1.549922, 53.8059769 ], [ -1.5500174, 53.8059027 ], [ -1.550114, 53.805946 ], [ -1.5500186, 53.8060202 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "574203476", "name": "Instituto Cervantes", "amenity": "language_school", "building": "yes", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"169\",\"addr:postcode\"=>\"LS2 3AR\",\"addr:street\"=>\"Woodhouse Lane\",\"alt_name\"=>\"Spanish Cultural Centre\",\"website\"=>\"https:\/\/gfal.leeds.ac.uk\/where-to-eat\/cafes\/1915\/\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.5500186, 53.8060202 ], [ -1.549922, 53.8059769 ], [ -1.5500174, 53.8059027 ], [ -1.550114, 53.805946 ], [ -1.5500186, 53.8060202 ] ] ] } }
 ]
 }

@@ -15,14 +15,14 @@
 	{ "type": "Feature", "properties": { "osm_id": "415511036", "amenity": "atm", "other_tags": "\"brand\"=>\"Halifax\",\"brand:wikidata\"=>\"Q3310164\",\"operator\"=>\"Halifax\",\"operator:wikidata\"=>\"Q3310164\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9079551, 53.865794 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "415511043", "amenity": "atm", "other_tags": "\"operator\"=>\"Cooperative\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9073929, 53.8658996 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "419742425", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7321808, 53.8245005 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "427819403", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7340224, 53.8426999 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "427819403", "amenity": "atm", "other_tags": "\"check_date\"=>\"2023-06-16\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7340224, 53.8426999 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "446262602", "amenity": "atm", "other_tags": "\"wheelchair\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9020707, 53.8695193 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "457646675", "amenity": "atm", "other_tags": "\"operator\"=>\"Post Office\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7306779, 53.8349032 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "493742619", "amenity": "atm", "other_tags": "\"operator\"=>\"RBS\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8170823, 53.9243295 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "497396129", "amenity": "atm", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7874222, 53.8360854 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "595481584", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7537208, 53.803861 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "854470025", "amenity": "atm", "other_tags": "\"check_date\"=>\"2022-10-16\",\"operator\"=>\"Note Machine\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7628687, 53.790687 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "1038799938", "amenity": "atm", "other_tags": "\"check_date\"=>\"2023-03-03\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7798622, 53.8320796 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "1038799938", "amenity": "atm", "other_tags": "\"brand\"=>\"Asda\",\"brand:wikidata\"=>\"Q297410\",\"brand:wikipedia\"=>\"en:Asda\",\"check_date\"=>\"2023-03-03\",\"drive_through\"=>\"no\",\"operator\"=>\"Asda Stores Ltd\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7799038, 53.8320998 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1182516742", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7327389, 53.771994 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1677503278", "amenity": "atm", "other_tags": "\"fee\"=>\"no\",\"operator\"=>\"Co-operative Bank\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8364618, 53.8472911 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "1874190022", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.8417536, 53.7680872 ] } },
@@ -50,6 +50,8 @@
 	{ "type": "Feature", "properties": { "osm_id": "9984145593", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7705806, 53.824842 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "10106053826", "amenity": "atm", "other_tags": "\"check_date\"=>\"2022-10-16\",\"operator\"=>\"CashZone\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7628963, 53.7907429 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "10271199093", "amenity": "atm" }, "geometry": { "type": "Point", "coordinates": [ -1.7676762, 53.7380493 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "10683790284", "amenity": "atm", "other_tags": "\"brand\"=>\"Santander\",\"brand:wikidata\"=>\"Q7420065\",\"operator\"=>\"Santander\",\"operator:wikidata\"=>\"Q7420065\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7534555, 53.7949268 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "10683790284", "amenity": "atm", "other_tags": "\"brand\"=>\"Santander\",\"brand:wikidata\"=>\"Q7420065\",\"operator\"=>\"Santander\",\"operator:wikidata\"=>\"Q7420065\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7534555, 53.7949268 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10874518990", "amenity": "atm", "other_tags": "\"brand\"=>\"Barclays\",\"brand:wikidata\"=>\"Q245343\",\"cash_in\"=>\"no\",\"drive_through\"=>\"no\",\"operator\"=>\"Barclays\",\"operator:wikidata\"=>\"Q245343\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7799011, 53.8320722 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10874579169", "amenity": "atm", "other_tags": "\"brand\"=>\"Sainsbury's Bank\",\"brand:wikidata\"=>\"Q7400525\",\"drive_through\"=>\"no\",\"operator\"=>\"Sainsbury's Bank\",\"operator:wikidata\"=>\"Q7400525\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7121987, 53.8296046 ] } }
 ]
 }

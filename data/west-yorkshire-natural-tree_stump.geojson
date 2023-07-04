@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "10940679884", "other_tags": "\"natural\"=>\"tree_stump\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6672966, 53.5518193 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10940679885", "other_tags": "\"natural\"=>\"tree_stump\"" }, "geometry": { "type": "Point", "coordinates": [ -1.667255, 53.5517946 ] } }
+]
+}

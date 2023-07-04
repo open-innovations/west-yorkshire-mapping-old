@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "10981503074", "name": "Idle Hot Tubs Ltd", "other_tags": "\"addr:city\"=>\"Bradford\",\"addr:housename\"=>\"Unit 4I\",\"addr:postcode\"=>\"BD2 1QN\",\"addr:street\"=>\"Hillam Road\",\"shop\"=>\"swimming_pool\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7615112, 53.8125044 ] } }
+]
+}

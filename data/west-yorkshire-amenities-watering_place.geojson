@@ -21,6 +21,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "10655378364", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7867139, 53.5539628 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "10658009608", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7634128, 53.5631725 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "10795391846", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7738458, 53.57242 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "10831837708", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7917972, 53.6043691 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "10831837708", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.7917972, 53.6043691 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10893686674", "amenity": "watering_place" }, "geometry": { "type": "Point", "coordinates": [ -1.819259, 53.5558336 ] } }
 ]
 }

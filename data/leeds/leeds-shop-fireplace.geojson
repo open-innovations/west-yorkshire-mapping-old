@@ -3,7 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 	{ "type": "Feature", "properties": { "osm_id": "301016226", "name": "The Yorkshire Fireplace Company", "other_tags": "\"shop\"=>\"fireplace\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5785593, 53.804924 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "2138710576", "name": "Leeds Gas Showroom", "other_tags": "\"shop\"=>\"fireplace\"" }, "geometry": { "type": "Point", "coordinates": [ -1.539275, 53.7990058 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "4998540246", "name": "Embers Fireplaces", "other_tags": "\"shop\"=>\"fireplace\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5703412, 53.8259243 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "7890195153", "name": "Interiors 4 Living", "other_tags": "\"shop\"=>\"fireplace\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4527355, 53.8070189 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8928430215", "name": "Chevin Stoves & Fireplaces", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"5A\",\"addr:postcode\"=>\"LS20 9AS\",\"addr:street\"=>\"Oxford Road\",\"addr:suburb\"=>\"Guiseley\",\"opening_hours\"=>\"Mo-We,Fr 09:00-14:00; Sa 09:00-12:00; Th,Su off\",\"shop\"=>\"fireplace\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7085317, 53.8757834 ] } },

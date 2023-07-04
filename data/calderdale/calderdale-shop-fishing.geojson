@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_way_id": "990176174", "name": "Rastrick Angling", "building": "yes", "shop": "fishing", "other_tags": "\"addr:city\"=>\"Rastrick\",\"addr:housenumber\"=>\"39a\",\"addr:postcode\"=>\"HD6 3DR\",\"addr:street\"=>\"Rastrick Common\",\"phone\"=>\"+44 7562 266833\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7850608, 53.6955375 ], [ -1.7848733, 53.695473 ], [ -1.7849114, 53.6954343 ], [ -1.7849697, 53.6954543 ], [ -1.7850988, 53.6954987 ], [ -1.7850608, 53.6955375 ] ] ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "990176174", "name": "Rastrick Angling", "building": "yes", "shop": "fishing", "other_tags": "\"addr:city\"=>\"Brighouse\",\"addr:housenumber\"=>\"39a\",\"addr:postcode\"=>\"HD6 3DR\",\"addr:street\"=>\"Rastrick Common\",\"addr:suburb\"=>\"Rastrick\",\"phone\"=>\"+44 7562 266833\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7850608, 53.6955375 ], [ -1.7848733, 53.695473 ], [ -1.7849114, 53.6954343 ], [ -1.7849697, 53.6954543 ], [ -1.7850988, 53.6954987 ], [ -1.7850608, 53.6955375 ] ] ] } }
 ]
 }

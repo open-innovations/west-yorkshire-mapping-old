@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "2195805631", "name": "Mothercare", "other_tags": "\"brand\"=>\"Mothercare\",\"brand:wikidata\"=>\"Q136738\",\"brand:wikipedia\"=>\"en:Mothercare\",\"shop\"=>\"baby_goods\"" }, "geometry": { "type": "Point", "coordinates": [ -1.753435, 53.7988156 ] } }
+	{ "type": "Feature", "properties": { "osm_way_id": "166735374", "name": "InstaScan 4D Baby Scans", "building": "retail", "shop": "baby_goods", "other_tags": "\"image\"=>\"https:\/\/www.geograph.org.uk\/photo\/1586284\"" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.7759452, 53.8334716 ], [ -1.77592, 53.8334121 ], [ -1.7760518, 53.8333926 ], [ -1.7761003, 53.8333855 ], [ -1.7761255, 53.833445 ], [ -1.7760836, 53.8334512 ], [ -1.7759452, 53.8334716 ] ] ] } }
 ]
 }

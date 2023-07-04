@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_id": "6022850215", "name": "Ernest Jones", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"34-35\",\"addr:postcode\"=>\"LS1 6EX\",\"addr:street\"=>\"Commercial Street\",\"shop\"=>\"watches\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5440002, 53.7973067 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6022850226", "name": "TAG Heuer", "other_tags": "\"addr:city\"=>\"Leeds\",\"addr:housenumber\"=>\"41-42\",\"addr:postcode\"=>\"LS1 6EX\",\"addr:street\"=>\"Commercial Street\",\"brand\"=>\"TAG Heuer\",\"brand:wikidata\"=>\"Q645984\",\"brand:wikipedia\"=>\"en:TAG Heuer\",\"shop\"=>\"watches\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5431593, 53.7972964 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "6551438792", "name": "Watchwise", "other_tags": "\"addr:city\"=>\"Wakefield\",\"addr:housename\"=>\"Bus Station\",\"addr:postcode\"=>\"WF1 3AQ\",\"addr:street\"=>\"Union Street\",\"shop\"=>\"watches\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4984009, 53.6858753 ] } }
 ]

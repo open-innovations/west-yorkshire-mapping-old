@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-	{ "type": "Feature", "properties": { "osm_id": "10261305869", "name": "The Only Way Is Melts", "other_tags": "\"addr:housenumber\"=>\"3\",\"addr:postcode\"=>\"HX7 8EX\",\"addr:street\"=>\"Bridge Gate\",\"shop\"=>\"perfumery\",\"website\"=>\"https:\/\/tracymelts.com\/\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0139652, 53.7413278 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "10261305869", "name": "The Only Way Is Melts", "other_tags": "\"addr:city\"=>\"Hebden Bridge\",\"addr:housenumber\"=>\"3\",\"addr:postcode\"=>\"HX7 8EX\",\"addr:street\"=>\"Bridge Gate\",\"shop\"=>\"perfumery\",\"website\"=>\"https:\/\/tracymelts.com\/\"" }, "geometry": { "type": "Point", "coordinates": [ -2.0139652, 53.7413278 ] } }
 ]
 }

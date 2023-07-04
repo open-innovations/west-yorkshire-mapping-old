@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "300176634", "name": "Jewson", "landuse": "retail", "shop": "builders_merchant", "other_tags": "\"brand\"=>\"Jewson\",\"brand:wikidata\"=>\"Q6190226\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.694807, 53.6719981 ], [ -1.6927581, 53.6720382 ], [ -1.6926885, 53.6715869 ], [ -1.6947762, 53.6719287 ], [ -1.694807, 53.6719981 ] ] ] ] } },
 	{ "type": "Feature", "properties": { "osm_way_id": "372446407", "name": "Naylor Myers Ltd", "shop": "builders_merchant", "other_tags": "\"addr:city\"=>\"Huddersfield\",\"addr:postcode\"=>\"HD8 8QE\",\"addr:street\"=>\"Wakefield Road\",\"addr:village\"=>\"Denby Dale\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.6626307, 53.5730949 ], [ -1.662252, 53.5730486 ], [ -1.6621246, 53.5729751 ], [ -1.6623263, 53.5729141 ], [ -1.6624395, 53.5728616 ], [ -1.6625174, 53.5727691 ], [ -1.6626377, 53.5724287 ], [ -1.6625811, 53.5721155 ], [ -1.6627227, 53.5720903 ], [ -1.6628678, 53.5724035 ], [ -1.6631085, 53.5730003 ], [ -1.6630695, 53.5730108 ], [ -1.6630657, 53.5730425 ], [ -1.6630448, 53.5732147 ], [ -1.6628359, 53.5732084 ], [ -1.6627475, 53.5731453 ], [ -1.6626307, 53.5730949 ] ] ] ] } }
 ]
 }

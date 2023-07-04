@@ -49,6 +49,7 @@
 	{ "type": "Feature", "properties": { "osm_id": "9356627346", "name": "M&S Centenary Clock", "amenity": "clock", "other_tags": "\"display\"=>\"analog\",\"faces\"=>\"4\",\"inscription\"=>\"Marks & Spencer: 1884 - 1984\",\"support\"=>\"pole\"" }, "geometry": { "type": "Point", "coordinates": [ -1.539775, 53.7972015 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "9983658745", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.6752172, 53.8659931 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "10276546574", "amenity": "clock", "other_tags": "\"display\"=>\"sundial\",\"support\"=>\"ground\"" }, "geometry": { "type": "Point", "coordinates": [ -1.3037865, 53.6959949 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "10727460157", "amenity": "clock", "other_tags": "\"display\"=>\"sundial\",\"faces\"=>\"1\",\"historic\"=>\"yes\",\"start_date\"=>\"1683\",\"support\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7057224, 53.8774987 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "10727460157", "amenity": "clock", "other_tags": "\"display\"=>\"sundial\",\"faces\"=>\"1\",\"historic\"=>\"yes\",\"start_date\"=>\"1683\",\"support\"=>\"wall\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7057224, 53.8774987 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "10944470414", "amenity": "clock" }, "geometry": { "type": "Point", "coordinates": [ -1.3097923, 53.6920806 ] } }
 ]
 }

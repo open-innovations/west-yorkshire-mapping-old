@@ -13,6 +13,6 @@
 	{ "type": "Feature", "properties": { "osm_id": "8374994281", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"1\",\"operator\"=>\"Calderdale Council\",\"parking:fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8598679, 53.7203878 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "8374994282", "amenity": "charging_station", "other_tags": "\"capacity\"=>\"1\",\"operator\"=>\"Calderdale Council\",\"parking:fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.9139626, 53.7067187 ] } },
 	{ "type": "Feature", "properties": { "osm_id": "9957086358", "amenity": "charging_station", "ref": "Applegreen Electric" }, "geometry": { "type": "Point", "coordinates": [ -1.747092, 53.7120484 ] } },
-	{ "type": "Feature", "properties": { "osm_id": "9957086360", "name": "Welcome Break Hartshead Moor East Services", "amenity": "charging_station", "other_tags": "\"operator\"=>\"Gridserve\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7463369, 53.7126351 ] } }
+	{ "type": "Feature", "properties": { "osm_id": "9957086360", "name": "Welcome Break Hartshead Moor East Services", "amenity": "charging_station", "other_tags": "\"contact:website\"=>\"https:\/\/electrichighway.gridserve.com\/hartshead-moor-east-services\",\"operator\"=>\"Gridserve\",\"operator:wikidata\"=>\"Q89575318\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7463369, 53.7126351 ] } }
 ]
 }
